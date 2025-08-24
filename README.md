@@ -5,6 +5,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A novel mixture-of-experts language model architecture with interpretable semantic routing for improved controllability in critical applications.
+> We welcome compute sponsorship to scale our experiments (A6000, H100, H200, etc.). If you can send GPUs or time credits, please reach out via LinkedIn or open a GitHub issue.
 
 **Author**: Ivan Ternovtsii  
 **Affiliation**: PhD Student at Uzhhorod National University (UzhNU), Founder and Technical Director at HengeBytes  
