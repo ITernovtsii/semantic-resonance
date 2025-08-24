@@ -15,7 +15,7 @@ A novel mixture-of-experts language model architecture with interpretable semant
 - **5% perplexity improvement** over dense baseline (13.4 vs 14.1 on WikiText-103)
 - **Interpretable expert routing** via semantic resonance mechanism  
 - **Efficient sparse computation** with top-2 expert selection from 128 experts
-- **Clear semantic specialization** of experts (see examples below)
+- **Clear semantic specialization** of experts
 
 ## Architecture Overview
 
@@ -231,14 +231,6 @@ Full expert analysis available in `results/experts.csv`
 | Dense Baseline | D=512, FFN=2048, L=4 | 14.13 | 14.10 | 8.9M |
 | **SRA (Ours)** | D=512, FFN=1024, E=128, K=2, L=4 | **13.41** | **13.40** | 8.9M |
 
-### Training Progression
-
-The model converges stably with consistent improvement:
-- Epoch 1: 15.37 PPL
-- Epoch 2: 14.21 PPL  
-- Epoch 3: 13.65 PPL
-- **Epoch 4: 13.41 PPL** (best)
-
 ## Configuration Details
 
 ### SRA Model Configuration
@@ -282,6 +274,15 @@ TZ=Europe/Kyiv               # Timezone setting
 ## Monitoring
 
 Training metrics are logged to wandb.ai
+
+## Visualizations
+
+- MoE default vs. SRA
+![DefaultMoE-vs-SRA.png](etc/results/default-routing-D512-1024-1_2%40128-4-a4-b6-z0-ppl-13.5x10/DefaultMoE-vs-SRA.png)
+- Expert Specialization
+![dispersion_heatmap_blocks_0_ff_or_moe.png](etc/results/sra-D512-1024-1_2%40128-4-a4-b6-z0-ppl-13.4/dispersion_heatmap_blocks_0_ff_or_moe.png) 
+- Semantic Space
+![semantic_space_visualization.png](etc/results/sra-D512-1024-1_2%40128-4-a4-b6-z0-ppl-13.4/semantic_space_visualization.png)
 
 ## Citation
 
