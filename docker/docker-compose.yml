@@ -1,0 +1,39 @@
+name: csr-research
+
+networks:
+    csr-net:
+
+services:
+    train:
+        build:
+            context: ../
+            dockerfile: docker/Dockerfile
+            args:
+                TZ: "${TZ:-Europe/Kyiv}"
+        networks: [ 'csr-net' ]
+        cap_add:
+            - NET_ADMIN
+            - NET_RAW
+        volumes:
+            - ../:/workspace
+        shm_size: '48gb'
+        ulimits:
+            memlock:
+                soft: 40485760
+                hard: 40485760
+        deploy:
+            resources:
+                reservations:
+                    devices:
+                        -   driver: nvidia
+                            count: all
+                            capabilities: [ gpu ]
+        environment:
+            WANDB_API_KEY: ${WANDB_API_KEY}
+            HUGGING_FACE_HUB_TOKEN: ${HUGGING_FACE_HUB_TOKEN}
+            HF_HOME: /workspace/data/hf_cache
+        command: "tail -f /dev/null"
+        logging:
+            driver: "json-file"
+            options:
+                max-size: 50M

@@ -1,0 +1,63 @@
+project:
+    name: "SR-Research-WT103"
+    experiment_name: "Exp21 - D512 (1024 x 1_2@128 x 4) α4 β6 z000"
+    output_dir: "./outputs_wt103/"
+    seed: 19
+
+hardware:
+    use_amp: True
+    amp_dtype: "bf16"
+
+data:
+    dataset_name: "wikitext-103"
+    data_dir: "./data/raw/wikitext-103/"
+    processed_dir: "./data/processed/wikitext-103/"
+    tokenizer_path: "./data/tokenizers/sra_bpe_32k_wt103.json"
+
+    vocab_size: 32000
+    max_seq_length: 256
+
+model:
+    d_model: 512
+    n_layers: 4
+    n_heads: 8
+    d_ff: 1024
+
+    dropout: 0.1
+    activation: "gelu"
+    max_seq_length: 256
+
+    csr:
+        enabled: True
+        num_experts: 128
+        top_k: 2
+        anchor_init: "orthogonal"
+        router_noise: 0.05
+        use_default_routing: False
+
+losses:
+    balance_weight: 0.4
+    dispersion_weight: 0.6
+    z_loss_weight: 0.000
+
+training:
+    batch_size_per_gpu: 128
+    gradient_accumulation_steps: 1
+
+    epochs: 10
+    learning_rate: 0.0003
+    max_grad_norm: 1.0
+
+    optimizer: "AdamW"
+    weight_decay: 0.01
+    adam_beta1: 0.9
+    adam_beta2: 0.95
+    adam_epsilon: !!float 1e-8
+
+    scheduler: "cosine"
+    warmup_steps: 4000
+
+logging:
+    use_wandb: True
+    log_interval: 100
+    eval_interval: 2000

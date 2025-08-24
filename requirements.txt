@@ -1,0 +1,34 @@
+# ACG Requirements
+# Python 3.8+ required
+
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+tokenizers!=0.21.0,>=0.13.3
+numpy>=1.24.0
+tqdm>=4.65.0
+PyYAML
+einops
+
+# Data processing
+pandas>=1.5.3
+pyarrow
+
+# Logging and tracking
+tensorboard>=2.13.0
+wandb>=0.15.3  # Optional but recommended
+
+# Testing
+pytest>=7.3.1
+
+# Optional performance enhancements
+accelerate>=0.20.3
+deepspeed>=0.9.5
+
+# Optional visualization
+umap-learn
+seaborn
+
+# wikitext 103 detokenizer
+sacremoses
