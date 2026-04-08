@@ -1,0 +1,50 @@
+[
+  {
+    "key": "s137_model_A_layer0",
+    "source_csv": "seed137/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "ai_scoring_s137/s137_model_A_layer0_input.txt",
+    "n_experts": 10
+  },
+  {
+    "key": "s137_model_A_layer1",
+    "source_csv": "seed137/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "ai_scoring_s137/s137_model_A_layer1_input.txt",
+    "n_experts": 10
+  },
+  {
+    "key": "s137_model_A_layer2",
+    "source_csv": "seed137/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "ai_scoring_s137/s137_model_A_layer2_input.txt",
+    "n_experts": 10
+  },
+  {
+    "key": "s137_model_A_layer3",
+    "source_csv": "seed137/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "ai_scoring_s137/s137_model_A_layer3_input.txt",
+    "n_experts": 10
+  },
+  {
+    "key": "s137_model_B_layer0",
+    "source_csv": "seed137/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "ai_scoring_s137/s137_model_B_layer0_input.txt",
+    "n_experts": 10
+  },
+  {
+    "key": "s137_model_B_layer1",
+    "source_csv": "seed137/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "ai_scoring_s137/s137_model_B_layer1_input.txt",
+    "n_experts": 10
+  },
+  {
+    "key": "s137_model_B_layer2",
+    "source_csv": "seed137/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "ai_scoring_s137/s137_model_B_layer2_input.txt",
+    "n_experts": 10
+  },
+  {
+    "key": "s137_model_B_layer3",
+    "source_csv": "seed137/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "ai_scoring_s137/s137_model_B_layer3_input.txt",
+    "n_experts": 10
+  }
+]

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	pronouns/misc	mixed
+E001	10	state of being	semantic
+E002	10	prepositions	syntactic
+E003	6	attributive list	mixed
+E004	4	subword fragments	syntactic
+E005	8	action verbs	semantic
+E006	9	conjunctions	syntactic
+E007	3	mixed nouns	semantic
+E008	10	prepositions	syntactic
+E009	5	Japanese fragments	semantic
+E010	10	geography	semantic
+E011	8	given names	semantic
+E012	7	participial verbs	semantic
+E013	10	prepositions	syntactic
+E014	9	reported speech	semantic
+E015	5	professional roles	semantic
+E016	9	logical connectors	syntactic
+E017	6	abstract nouns	semantic
+E018	10	entry/motion	semantic
+E019	2	random nouns	semantic
+E020	4	subword fragments	syntactic
+E021	3	mixed nouns	semantic
+E022	8	conjunctions	syntactic
+E023	4	mixed nouns	semantic
+E024	10	prepositions	syntactic
+E025	10	possessives	syntactic
+E026	5	name fragments	semantic
+E027	8	abstract nouns	semantic
+E028	7	institutional terms	semantic
+E029	10	names/media	semantic
+E030	6	proper nouns	semantic
+E031	10	spatial/temporal	semantic
+E032	5	geopolitical	semantic
+E033	10	punctuation	syntactic
+E034	7	entertainment	semantic
+E035	8	occurrence	semantic
+E036	7	abstract nouns	semantic
+E037	9	punctuation	syntactic
+E038	3	mixed verbs	semantic
+E039	7	process/movement	semantic
+E040	9	conjunctions	syntactic
+E041	10	conjunctions	syntactic
+E042	9	possessives	syntactic
+E043	2	random	mixed
+E044	10	adverbs/logic	semantic
+E045	9	referential terms	semantic
+E046	4	name fragments	semantic
+E047	10	symbols/numbers	syntactic
+E048	8	structures/parts	semantic
+E049	10	prepositions	syntactic
+E050	7	verbs of action	semantic
+E051	8	creative nouns	semantic
+E052	8	prepositional	syntactic
+E053	5	name fragments	semantic
+E054	10	interrogatives	syntactic
+E055	10	adverbs/rhetorical	semantic
+E056	8	punctuation	syntactic
+E057	8	praise/action verbs	semantic
+E058	3	mixed punctuation	mixed
+E059	6	Japanese syllables	semantic
+E060	6	capitalized nouns	semantic
+E061	1	random	mixed
+E062	10	conjunctions	syntactic
+E063	5	Germanic syllables	semantic
+E064	6	determiners	syntactic
+E065	5	proper nouns	semantic
+E066	10	prepositions	syntactic
+E067	8	punctuation	syntactic
+E068	9	prepositions	syntactic
+E069	10	temporal terms	semantic
+E070	8	CJK/symbols	semantic
+E071	6	names/media	semantic
+E072	8	locations/entities	semantic
+E073	10	punctuation	syntactic
+E074	8	surnames	semantic
+E075	6	adjectives	mixed
+E076	4	subword fragments	syntactic
+E077	3	mixed capitalized	mixed
+E078	4	nouns	semantic
+E079	10	quantifiers	syntactic
+E080	8	ethnic/cultural	semantic
+E081	10	possessives	syntactic
+E082	10	possessives	syntactic
+E083	4	mixed nouns	semantic
+E084	9	prepositions	syntactic
+E085	7	administrative	semantic
+E086	8	media/technical	semantic
+E087	10	spatial terms	semantic
+E088	4	subword fragments	syntactic
+E089	10	numbers	syntactic
+E090	8	determiners	syntactic
+E091	3	subword fragments	syntactic
+E092	8	pronouns/verbs	mixed
+E093	10	punctuation	syntactic
+E094	9	spatial terms	semantic
+E095	6	human groups	semantic
+E096	10	numbers	semantic
+E097	10	possessives	syntactic
+E098	10	geography	semantic
+E099	9	quantifiers	syntactic

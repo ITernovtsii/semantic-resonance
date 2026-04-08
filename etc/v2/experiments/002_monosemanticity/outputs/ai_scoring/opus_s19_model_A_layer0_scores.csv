@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	usage/ability	semantic
+E001	2	subword fragments	syntactic
+E002	5	military/quantities	mixed
+E003	5	people/persons	semantic
+E004	2	mixed/unclear	mixed
+E005	3	mixed/unclear	mixed
+E006	4	function words	syntactic
+E007	8	parenthetical punctuation	syntactic
+E008	5	prefixes/states	mixed
+E009	5	pronouns/indefinites	syntactic
+E010	1	single token	mixed
+E011	1	random	mixed
+E012	10	temporal prepositions	syntactic
+E013	4	quantity/series	mixed
+E014	3	mixed nouns	mixed
+E015	9	ordinals/quantifiers	syntactic
+E016	9	sentence-start words	syntactic
+E017	2	subword prefixes	syntactic
+E018	8	past tense verbs	syntactic
+E019	7	determiners/adjectives	syntactic
+E020	5	comparatives/conjunctions	syntactic
+E021	8	media/performance verbs	semantic
+E022	9	sentence-end punctuation	syntactic
+E023	7	prepositions	syntactic
+E024	8	dash/punctuation	syntactic
+E025	4	military/WWII	semantic
+E026	6	indefinite articles/being	syntactic
+E027	5	article/prefix	syntactic
+E028	8	media/entertainment	semantic
+E029	8	sports/competition	semantic
+E030	7	scale/degree adjectives	semantic
+E031	2	mixed/unclear	mixed
+E032	6	informal/personal	semantic
+E033	6	prepositions	syntactic
+E034	4	mixed	mixed
+E035	1	single token	mixed
+E036	6	abstract nouns	semantic
+E037	6	punctuation/prepositions	syntactic
+E038	4	by/during	syntactic
+E039	3	mixed verbs/nouns	mixed
+E040	1	single token	mixed
+E041	7	adjectives/adverbs	syntactic
+E042	4	capitalized words	syntactic
+E043	8	past tense auxiliaries	syntactic
+E044	7	directional adverbs	syntactic
+E045	5	pronouns/ones	syntactic
+E046	4	prepositions	syntactic
+E047	5	group/collective nouns	semantic
+E048	5	large numbers	mixed
+E049	7	physical description	semantic
+E050	3	function words	syntactic
+E051	8	male pronouns/movement	mixed
+E052	1	single token	mixed
+E053	7	conjunctions	syntactic
+E054	3	mixed	mixed
+E055	3	prepositions	syntactic
+E056	4	units/abbreviations	syntactic
+E057	4	function words	syntactic
+E058	4	punctuation	syntactic
+E059	3	mixed	mixed
+E060	5	directional prepositions	syntactic
+E061	7	capitalized prefixes	syntactic
+E062	5	route/direction	semantic
+E063	6	military/organizational	semantic
+E064	6	narrative sequence	syntactic
+E065	9	modal verbs	syntactic
+E066	8	biography/life events	semantic
+E067	3	mixed punctuation/words	mixed
+E068	6	quantity/fraction	syntactic
+E069	5	suffix -on	syntactic
+E070	6	plural/past verbs	syntactic
+E071	1	single token	mixed
+E072	9	indefinite articles	syntactic
+E073	4	mixed affixes/numbers	mixed
+E074	1	single suffix	syntactic
+E075	6	dashes/punctuation	syntactic
+E076	3	mixed/unclear	mixed
+E077	4	prepositions/proximity	syntactic
+E078	8	temporal/spatial spans	syntactic
+E079	5	color/prefixes	mixed
+E080	4	mixed nouns/affixes	mixed
+E081	7	past tense verbs	syntactic
+E082	6	comparison/similarity	syntactic
+E083	2	mixed/unclear	mixed
+E084	1	random subwords	mixed
+E085	8	single capital letters	syntactic
+E086	7	quantifier evidence	syntactic
+E087	6	adjectives/nationalities	mixed
+E088	8	war-related	semantic
+E089	5	construction/building	semantic
+E090	5	dates/places	mixed
+E091	2	mixed plurals	mixed
+E092	8	time periods	semantic
+E093	5	naming/forms	mixed
+E094	7	temporal adverbs	syntactic
+E095	6	prepositions/connectives	syntactic
+E096	3	mixed	mixed
+E097	1	single token	mixed
+E098	8	determiners/quantifiers	syntactic
+E099	9	numbers	syntactic

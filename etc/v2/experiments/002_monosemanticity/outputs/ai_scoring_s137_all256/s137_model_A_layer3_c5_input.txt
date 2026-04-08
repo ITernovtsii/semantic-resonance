@@ -1,0 +1,4 @@
+E250	tasked(5.88); travelled(5.88); heading(5.88); According(5.88); trying(5.88); prior(5.88); appealed(5.88); aimed(5.88); refers(5.88); relating(5.88)
+E251	/(11.15)
+E252	did(6.29); does(6.27); To(6.09); helped(6.00); will(5.87); cannot(5.78); to(5.76); should(5.74); help(5.63); might(5.52)
+E253	Petén(1.89); Settle(1.89); Cors(1.89); Investig(1.89); Period(1.89); [UNK](1.89); ်(1.89); stel(1.89); psilon(1.89); Calder(1.89)

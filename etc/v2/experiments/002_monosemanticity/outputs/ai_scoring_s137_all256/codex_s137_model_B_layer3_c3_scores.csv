@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	8	possessive pronouns	syntactic
+E151	7	film reviewers	semantic
+E152	2	subword fragments	mixed
+E153	5	conflict/legal terms	mixed
+E154	8	reporting verbs	semantic
+E155	7	verb forms	syntactic
+E156	6	gerund verbs	syntactic
+E157	10	quotation punctuation	syntactic
+E158	4	symbols and verbs	mixed
+E159	8	adjectives	syntactic
+E160	1	random fragments	mixed
+E161	6	auxiliary verbs	syntactic
+E162	6	environment terms	semantic
+E163	9	measurement units	semantic
+E164	10	time prepositions	syntactic
+E165	4	mixed descriptors	mixed
+E166	10	punctuation endings	syntactic
+E167	2	random mix	mixed
+E168	5	name fragments	mixed
+E169	6	years and dates	semantic
+E170	8	reporting verbs	semantic
+E171	8	prepositions	syntactic
+E172	8	entertainment media	semantic
+E173	5	connectives punctuation	mixed
+E174	9	have forms	syntactic
+E175	6	determiners adjectives	syntactic
+E176	6	proper nouns	mixed
+E177	7	prefix fragments	syntactic
+E178	4	apostrophe mix	mixed
+E179	8	cardinal directions	semantic
+E180	10	punctuation tokens	syntactic
+E181	8	transport geography	semantic
+E182	3	random terms	mixed
+E183	9	inclusion verbs	semantic
+E184	8	spatial prepositions	syntactic
+E185	8	composition verbs	semantic
+E186	8	spatial relations	semantic
+E187	8	descriptive adjectives	syntactic
+E188	6	state change terms	mixed
+E189	8	function words	syntactic
+E190	9	first names	semantic
+E191	7	approximate quantities	semantic
+E192	4	people references	mixed
+E193	7	adverbs with be	syntactic
+E194	8	pronoun determiners	syntactic
+E195	8	be verb forms	syntactic
+E196	9	sports terms	semantic
+E197	3	single direction	mixed
+E198	6	name prefixes	mixed
+E199	9	location prepositions	syntactic

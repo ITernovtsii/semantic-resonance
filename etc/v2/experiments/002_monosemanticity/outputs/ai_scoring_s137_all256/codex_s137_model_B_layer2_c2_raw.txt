@@ -1,0 +1,50 @@
+E100	3	name fragments	mixed
+E101	8	verb forms	syntactic
+E102	2	mixed/unclear	mixed
+E103	9	prepositions	syntactic
+E104	8	articles/pronouns	syntactic
+E105	8	suffix fragments	syntactic
+E106	6	function words	mixed
+E107	8	determiners	syntactic
+E108	9	pronouns	syntactic
+E109	7	adverbs	syntactic
+E110	10	ordinals	syntactic
+E111	7	media people	semantic
+E112	8	determiners	syntactic
+E113	9	months/dates	semantic
+E114	2	mixed/unclear	mixed
+E115	8	punctuation	syntactic
+E116	7	relational words	syntactic
+E117	5	determiners	mixed
+E118	8	temporal order	semantic
+E119	8	articles/quotes	syntactic
+E120	4	military terms	mixed
+E121	6	naval/military	semantic
+E122	4	groups/roles	mixed
+E123	4	civic terms	mixed
+E124	7	measurements	semantic
+E125	8	motion/direction	semantic
+E126	6	physical objects	semantic
+E127	8	prepositions	syntactic
+E128	3	multiscript units	mixed
+E129	9	prepositions	syntactic
+E130	10	brackets/quotes	syntactic
+E131	7	roles/titles	semantic
+E132	9	modal verbs	syntactic
+E133	9	be verbs	syntactic
+E134	3	mixed/unclear	mixed
+E135	7	action verbs	semantic
+E136	9	demonstratives	syntactic
+E137	4	title words	mixed
+E138	8	persistence/state	semantic
+E139	8	male names	semantic
+E140	8	participle verbs	syntactic
+E141	10	contrast conjunctions	syntactic
+E142	5	name fragments	mixed
+E143	4	descriptors	mixed
+E144	7	qualitative adjectives	semantic
+E145	5	group names	mixed
+E146	9	connectives	syntactic
+E147	4	adjectives	mixed
+E148	10	geography	semantic
+E149	7	action verbs	semantic

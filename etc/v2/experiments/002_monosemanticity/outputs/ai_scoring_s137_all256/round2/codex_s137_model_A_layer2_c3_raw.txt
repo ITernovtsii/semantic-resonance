@@ -1,0 +1,50 @@
+E150	8	quantifiers	syntactic
+E151	7	relative adjectives	syntactic
+E152	1	random fragments	mixed
+E153	4	military/title words	mixed
+E154	9	connectives	syntactic
+E155	9	prepositions	syntactic
+E156	3	mixed nouns	mixed
+E157	2	name fragments	mixed
+E158	7	groups/military	semantic
+E159	9	articles	syntactic
+E160	10	apostrophes	syntactic
+E161	8	measurement formatting	syntactic
+E162	6	abstract nouns	semantic
+E163	4	mixed descriptors	mixed
+E164	8	quoted speech markers	syntactic
+E165	8	function words	syntactic
+E166	5	definite article	syntactic
+E167	6	reporting language	mixed
+E168	3	mixed common words	mixed
+E169	1	random nouns	mixed
+E170	8	measurement units	semantic
+E171	9	prepositions	syntactic
+E172	10	numbers	syntactic
+E173	9	quantifiers	syntactic
+E174	9	possessives	syntactic
+E175	3	pronoun/military mix	mixed
+E176	3	mixed verbs	mixed
+E177	1	random entities	mixed
+E178	3	proper-name mix	mixed
+E179	3	mixed topics	mixed
+E180	8	plural nouns	syntactic
+E181	9	historical years	semantic
+E182	5	historical mix	mixed
+E183	9	spatial geography	semantic
+E184	9	temporal prepositions	syntactic
+E185	7	action verbs	syntactic
+E186	8	punctuation+conjunctions	syntactic
+E187	9	have-forms	syntactic
+E188	10	sentence punctuation	syntactic
+E189	9	conjunctions	syntactic
+E190	6	quantitative terms	semantic
+E191	9	determiners	syntactic
+E192	9	conjunctions	syntactic
+E193	2	name fragments	mixed
+E194	7	measurements/dates	semantic
+E195	8	prepositions	syntactic
+E196	9	military units	semantic
+E197	8	determiners/numerals	syntactic
+E198	10	punctuation	syntactic
+E199	4	admin/process words	mixed

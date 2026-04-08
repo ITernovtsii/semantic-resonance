@@ -1,0 +1,5 @@
+I will read the instructions and data from the specified file to generate the tab-separated scoring lines.
+E250	8	formal verbs	semantic
+E251	10	punctuation	syntactic
+E252	9	auxiliary verbs	syntactic
+E253	4	mixed/unclear	mixed

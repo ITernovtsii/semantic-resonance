@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the required scoring lines.
+E050	5	punctuation/mixed	mixed
+E051	2	random	mixed
+E052	2	random	mixed
+E053	8	media/gaming	semantic
+E054	8	names	semantic
+E055	4	mixed/unclear	mixed
+E056	9	creative works	semantic
+E057	10	possessive pronouns	syntactic
+E058	7	descriptive/nature	semantic
+E059	1	random	mixed
+E060	6	common words	syntactic
+E061	10	verbs	syntactic
+E062	3	mixed/random	mixed
+E063	10	adjectives	syntactic
+E064	7	Greek/Latin roots	semantic
+E065	5	geography/mixed	mixed
+E066	2	random	mixed
+E067	5	plural nouns	syntactic
+E068	6	capitalized words	syntactic
+E069	9	geographic names	semantic
+E070	8	linking verbs	syntactic
+E071	10	verbs	syntactic
+E072	9	punctuation	syntactic
+E073	8	political/social	semantic
+E074	3	mixed/unclear	mixed
+E075	7	auxiliary verbs	syntactic
+E076	9	descriptive verbs	syntactic
+E077	9	conjunctions	syntactic
+E078	10	sports	semantic
+E079	1	random	mixed
+E080	2	random/mixed	mixed
+E081	8	geography	semantic
+E082	10	transitions	syntactic
+E083	9	cognitive verbs	semantic
+E084	8	superlatives	semantic
+E085	10	conjunctions	syntactic
+E086	8	auxiliary verbs	syntactic
+E087	5	verbs/prepositions	mixed
+E088	10	relative pronouns	syntactic
+E089	8	archaeology/history	semantic
+E090	9	modal verbs	syntactic
+E091	9	place fragments	semantic
+E092	2	mixed/unclear	mixed
+E093	4	verbs/mixed	mixed
+E094	8	auxiliary verbs	syntactic
+E095	10	prepositions	syntactic
+E096	9	geography	semantic
+E097	8	names	semantic
+E098	1	random	mixed
+E099	1	random	mixed

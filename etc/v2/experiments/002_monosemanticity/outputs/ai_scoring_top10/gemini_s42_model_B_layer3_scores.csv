@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	mixed/unclear	semantic
+E001	8	punctuation/abbr	syntactic
+E002	4	mixed/unclear	mixed
+E003	6	history/titles	semantic
+E004	9	verbs	syntactic
+E005	10	punctuation	syntactic
+E006	7	plural nouns	semantic
+E007	10	titles	semantic
+E008	9	conjunctions	syntactic
+E009	8	determiners	syntactic
+E010	10	modal verbs	syntactic
+E011	9	verbs	syntactic
+E012	9	name fragments	syntactic
+E013	9	connectives	syntactic
+E014	7	adjectives	syntactic
+E015	10	verbs	syntactic
+E016	10	verbs	syntactic
+E017	10	adverbs	syntactic
+E018	4	mixed/unclear	mixed
+E019	8	categories	semantic
+E020	9	punctuation	syntactic
+E021	7	spatial/beating	semantic
+E022	10	music charts	semantic
+E023	8	common verbs	syntactic
+E024	7	plural nouns	semantic
+E025	8	prepositions	syntactic
+E026	6	quantity/units	mixed
+E027	5	common/proper	mixed
+E028	10	determiners	syntactic
+E029	8	verbs	syntactic
+E030	9	building fragments	syntactic
+E031	10	conjunctions	syntactic
+E032	9	adjectives	syntactic
+E033	10	temporal preps	syntactic
+E034	4	punctuation/mixed	mixed
+E035	10	adjectives	syntactic
+E036	9	BPE fragments	syntactic
+E037	9	adverbs	syntactic
+E038	10	numbers	syntactic
+E039	9	temporal adjectives	semantic
+E040	3	mixed/unclear	mixed
+E041	6	modifiers/proper	mixed
+E042	8	adjectives	syntactic
+E043	8	plural nouns	semantic
+E044	6	concrete nouns	semantic
+E045	7	proper nouns	semantic
+E046	9	sports	semantic
+E047	7	adverbs/verbs	syntactic
+E048	3	mixed/unclear	mixed
+E049	9	geography/places	semantic
+E050	9	sports	semantic
+E051	9	media/works	semantic
+E052	7	military/nationality	semantic
+E053	10	BPE fragments	syntactic
+E054	9	adverbs	syntactic
+E055	9	routes/codes	semantic
+E056	4	mixed/unclear	mixed
+E057	9	locations	semantic
+E058	8	names	semantic
+E059	10	BPE fragments	syntactic
+E060	6	plural nouns	semantic
+E061	8	quantifiers/common	syntactic
+E062	9	names	semantic
+E063	6	media titles	semantic
+E064	10	punctuation	syntactic
+E065	9	names	semantic
+E066	9	letters	syntactic
+E067	9	style adjectives	semantic
+E068	5	names/fragments	mixed
+E069	4	mixed/unclear	mixed
+E070	6	nouns	semantic
+E071	9	verbs	syntactic
+E072	9	name fragments	syntactic
+E073	3	mixed/unclear	mixed
+E074	10	punctuation	syntactic
+E075	10	numbers	syntactic
+E076	9	names	semantic
+E077	10	verbs	syntactic
+E078	9	connectives	syntactic
+E079	7	modal verbs	syntactic
+E080	10	group nouns	semantic
+E081	10	inclusion words	syntactic
+E082	9	BPE fragments	syntactic
+E083	10	punctuation	syntactic
+E084	2	mixed/unclear	mixed
+E085	7	abstract nouns	semantic
+E086	9	group nouns	semantic
+E087	9	history/geography	semantic
+E088	10	BPE fragments	syntactic
+E089	9	possessives	syntactic
+E090	10	conjunctions	syntactic
+E091	5	symbols/mixed	mixed
+E092	8	media/charts	semantic
+E093	10	punctuation	syntactic
+E094	7	common words	syntactic
+E095	8	names/places	semantic
+E096	9	preps/months	semantic
+E097	8	adjectives	syntactic
+E098	8	determiners	syntactic
+E099	9	nature/anatomy	semantic

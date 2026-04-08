@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	9	prefixes/compounds	syntactic
+E251	3	proper nouns/BPE	mixed
+E252	3	proper nouns/mixed	mixed
+E253	7	symbols/versus	syntactic
+E254	9	on-preposition	syntactic
+E255	5	prepositions/mixed	mixed

@@ -1,0 +1,5 @@
+expert_id	score	category	type
+E250	4	determiners/function	syntactic
+E251	5	BPE_agent_suffixes	syntactic
+E252	2	single_particle	syntactic
+E253	5	capital_letters	syntactic

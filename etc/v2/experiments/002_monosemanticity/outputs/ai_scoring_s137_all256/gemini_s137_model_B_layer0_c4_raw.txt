@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the required scoring lines.
+E200	10	general	semantic
+E201	5	pronouns/countries	mixed
+E202	9	politicians	semantic
+E203	10	locations	semantic
+E204	5	mixed/history	mixed
+E205	2	random	mixed
+E206	5	conjunctions/mixed	mixed
+E207	10	pronouns	syntactic
+E208	8	segments/parts	semantic
+E209	7	causality	semantic
+E210	5	verbs/mixed	mixed
+E211	8	articles	syntactic
+E212	9	conjunctions	syntactic
+E213	10	transitions	syntactic
+E214	10	architecture	semantic
+E215	1	random	mixed
+E216	8	pronouns/punctuation	syntactic
+E217	6	verbs/adjectives	syntactic
+E218	8	function words	syntactic
+E219	10	set	semantic
+E220	9	sides	semantic
+E221	9	adverbs	syntactic
+E222	10	challenge	semantic
+E223	4	mixed/names	mixed
+E224	8	negation	semantic
+E225	10	prepositions	syntactic
+E226	8	names/titles	semantic
+E227	10	numbers	syntactic
+E228	10	names	semantic
+E229	4	mixed/unclear	mixed
+E230	10	tips	semantic
+E231	10	units	semantic
+E232	8	abstract nouns	semantic
+E233	10	verbs	syntactic
+E234	8	geography/highways	semantic
+E235	3	mixed/unclear	mixed
+E236	9	names/people	semantic
+E237	9	auxiliary verbs	syntactic
+E238	10	time	semantic
+E239	10	numbers	syntactic
+E240	7	quantifiers/adverbs	syntactic
+E241	10	historical roots	semantic
+E242	5	academic/mixed	mixed
+E243	4	mixed/punctuation	mixed
+E244	7	verbs/function	syntactic
+E245	10	demonstratives	syntactic
+E246	2	random	mixed
+E247	2	random	mixed
+E248	8	sports/business	semantic
+E249	9	United States	semantic

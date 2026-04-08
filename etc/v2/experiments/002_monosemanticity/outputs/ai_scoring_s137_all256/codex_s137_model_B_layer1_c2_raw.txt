@@ -1,0 +1,50 @@
+E100	8	interrogatives	syntactic
+E101	6	proper names	mixed
+E102	9	conjunctions	syntactic
+E103	8	determiners/pronouns	syntactic
+E104	6	abstract nouns	semantic
+E105	9	spatial prepositions	syntactic
+E106	7	governance/policy	semantic
+E107	9	quantifiers	syntactic
+E108	8	punctuation	syntactic
+E109	9	adjectives	syntactic
+E110	7	verbs	syntactic
+E111	5	mixed/unclear	mixed
+E112	8	hyphen/punctuation	syntactic
+E113	10	punctuation	syntactic
+E114	10	punctuation	syntactic
+E115	5	mixed/unclear	mixed
+E116	9	media/entertainment	semantic
+E117	9	punctuation	syntactic
+E118	9	past verbs	syntactic
+E119	4	mixed/unclear	mixed
+E120	8	years/numbers	syntactic
+E121	9	temporal connectives	syntactic
+E122	10	pronouns	syntactic
+E123	10	symbols/punctuation	syntactic
+E124	8	past participles	syntactic
+E125	10	article	syntactic
+E126	8	action verbs	syntactic
+E127	7	function words	syntactic
+E128	10	military	semantic
+E129	8	movement/retreat	semantic
+E130	3	mixed/unclear	mixed
+E131	10	subword onsets	syntactic
+E132	8	prepositions	syntactic
+E133	4	mixed/unclear	mixed
+E134	8	have forms	syntactic
+E135	7	nominalizations	syntactic
+E136	9	adjectives	syntactic
+E137	6	subword fragments	syntactic
+E138	7	verbs	syntactic
+E139	8	uncertainty/assessment	semantic
+E140	3	mixed/unclear	mixed
+E141	2	random fragments	mixed
+E142	9	numbers	syntactic
+E143	4	name fragments	mixed
+E144	10	interrogatives	syntactic
+E145	10	conjunctions	syntactic
+E146	9	road infrastructure	semantic
+E147	8	ordinals/ranking	syntactic
+E148	6	quantifier terms	mixed
+E149	3	mixed/unclear	mixed

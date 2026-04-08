@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	sentence starters	syntactic
+E001	3	BPE single letters	syntactic
+E002	3	determiner prefix	syntactic
+E003	3	core prepositions	syntactic
+E004	7	copula verbs	syntactic
+E005	4	conjunction punct	syntactic
+E006	1	When single	syntactic
+E007	1	random tokens	mixed
+E008	6	quotation marks	syntactic
+E009	6	temporal sequence	syntactic
+E010	3	BPE prefixes	syntactic
+E011	3	prefix anti	syntactic
+E012	3	mixed suffixes	mixed
+E013	7	adjectives degree	syntactic
+E014	1	rare tokens	mixed
+E015	1	the single	syntactic
+E016	6	governance nouns	semantic
+E017	4	punctuation misc	syntactic
+E018	1	On single	syntactic
+E019	6	discourse adverbs	syntactic
+E020	6	adverbs gerunds	syntactic
+E021	7	determiners	syntactic
+E022	5	punctuation delim	syntactic
+E023	4	United States	mixed
+E024	2	had determiner	syntactic
+E025	2	er suffix	syntactic
+E026	3	BPE fragments	syntactic
+E027	8	counting numbers	syntactic
+E028	2	working the	mixed
+E029	7	materials objects	semantic
+E030	2	used single	syntactic
+E031	6	physical nouns	mixed
+E032	6	organizations	semantic
+E033	7	temporal adverbs	syntactic
+E034	1	the single	syntactic
+E035	7	measurement nouns	semantic
+E036	2	would modal	syntactic
+E037	5	compound nouns	mixed
+E038	1	rare tokens	mixed
+E039	1	the single	syntactic
+E040	3	BPE prefixes	syntactic
+E041	1	the single	syntactic
+E042	7	degree adjectives	syntactic
+E043	7	completion verbs	syntactic
+E044	3	gave single	syntactic
+E045	3	that which	syntactic
+E046	5	killed measures	mixed
+E047	7	past tense verbs	syntactic
+E048	4	article quote	syntactic
+E049	2	rare codes	mixed
+E050	2	one single	syntactic
+E051	6	group nouns	mixed
+E052	6	discourse markers	syntactic
+E053	8	music terms	semantic
+E054	3	came people	mixed
+E055	3	BPE fragments	syntactic
+E056	2	a the	syntactic
+E057	7	subordinators	syntactic
+E058	3	mixed tokens	mixed
+E059	2	hyphen dash	syntactic
+E060	1	the single	syntactic
+E061	2	at preposition	syntactic
+E062	3	BPE fragments	syntactic
+E063	5	pronouns mixed	syntactic
+E064	8	roads highways	semantic
+E065	3	past since	syntactic
+E066	8	directional adverbs	syntactic
+E067	3	her she	syntactic
+E068	5	mixed tokens	mixed
+E069	3	BPE suffixes	syntactic
+E070	5	possessive mixed	mixed
+E071	5	title words	mixed
+E072	1	rare tokens	mixed
+E073	4	articles	syntactic
+E074	2	turn single	syntactic
+E075	4	mixed adverbs	mixed
+E076	8	numbers	syntactic
+E077	3	sentence endings	syntactic
+E078	3	his pronouns	syntactic
+E079	2	that to	syntactic
+E080	3	possessive s	syntactic
+E081	8	sports terms	semantic
+E082	5	nationality adj	mixed
+E083	7	performance nouns	semantic
+E084	4	York Oxford	mixed
+E085	8	ship specs	semantic
+E086	6	action nouns	mixed
+E087	5	legal testimony	mixed
+E088	5	punctuation verbs	mixed
+E089	2	had to the	syntactic
+E090	3	Dun be from	mixed
+E091	3	quotation marks	syntactic
+E092	7	past tense verbs	syntactic
+E093	6	place names	semantic
+E094	6	action verbs	syntactic
+E095	7	kind number	syntactic
+E096	7	ordinal adjectives	syntactic
+E097	3	X high	mixed
+E098	4	off back out	syntactic
+E099	6	discourse punct	syntactic

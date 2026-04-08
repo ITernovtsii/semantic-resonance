@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	discourse connectives	syntactic
+E001	5	military destruction	mixed
+E002	6	domain adjectives	semantic
+E003	6	achievement verbs	syntactic
+E004	7	road highway	semantic
+E005	6	movement verbs	syntactic
+E006	4	demonstratives	syntactic
+E007	7	single letters	syntactic
+E008	5	punctuation brackets	syntactic
+E009	3	mixed abstract	mixed
+E010	6	past participles	syntactic
+E011	7	spatial body parts	semantic
+E012	5	opposition preps	syntactic
+E013	7	informal dialogue	semantic
+E014	5	recommendation	mixed
+E015	3	these period	syntactic
+E016	6	modal auxiliary	syntactic
+E017	5	geographic features	semantic
+E018	5	temporal adjectives	syntactic
+E019	8	first names	semantic
+E020	6	abstract nouns	semantic
+E021	3	mixed symbols	mixed
+E022	8	geographic prefixes	semantic
+E023	5	modifier adjectives	mixed
+E024	4	BPE name parts	syntactic
+E025	5	BPE name parts	syntactic
+E026	5	pre-nominal adj	syntactic
+E027	5	contain include	syntactic
+E028	6	vs alongside roles	mixed
+E029	2	mixed fragments	mixed
+E030	2	album ellipsis	mixed
+E031	5	compound word starts	syntactic
+E032	6	abstract concepts	semantic
+E033	4	mixed pronouns	mixed
+E034	5	subject pronouns	syntactic
+E035	6	physical adjectives	syntactic
+E036	6	plural nouns	syntactic
+E037	7	quantifiers	syntactic
+E038	6	conditional conj	syntactic
+E039	6	era construction	semantic
+E040	7	degree adverbs	syntactic
+E041	6	institutional names	semantic
+E042	5	media creation	mixed
+E043	5	conjunction symbols	syntactic
+E044	5	military unit names	semantic
+E045	5	political adjectives	mixed
+E046	3	period ending	syntactic
+E047	1	single word	semantic
+E048	6	action verbs	syntactic
+E049	5	numbers sports	mixed
+E050	3	mixed codes	mixed
+E051	5	temporal dates	mixed
+E052	6	modal subject	syntactic
+E053	6	genre adjectives	mixed
+E054	5	group plural nouns	mixed
+E055	6	sentence endings	syntactic
+E056	6	plural nouns	syntactic
+E057	5	discourse markers	mixed
+E058	6	institutional names	semantic
+E059	7	occupation titles	semantic
+E060	4	indefinite article	syntactic
+E061	5	species taxonomy	mixed
+E062	5	BPE name parts	syntactic
+E063	4	determiners	syntactic
+E064	3	preposition along	syntactic
+E065	3	mixed abstract	mixed
+E066	6	pre-nominal adjectives	syntactic
+E067	5	temporal adverbs	syntactic
+E068	5	evaluative adjectives	mixed
+E069	4	prepositions in	syntactic
+E070	6	quantity over for	syntactic
+E071	6	media creative	semantic
+E072	6	possession verbs	syntactic
+E073	6	abbreviation codes	syntactic
+E074	8	measurements units	semantic
+E075	5	action participles	syntactic
+E076	6	plural nouns	syntactic
+E077	4	copular become	syntactic
+E078	2	case that	syntactic
+E079	7	copular adverbs	syntactic
+E080	3	that the period	syntactic
+E081	6	domain compound	mixed
+E082	2	single period	syntactic
+E083	5	mixed verbs nouns	mixed
+E084	2	single suffix	syntactic
+E085	3	mixed fragments	mixed
+E086	5	BPE word stems	syntactic
+E087	6	group plural nouns	semantic
+E088	6	evaluative adjectives	syntactic
+E089	6	quantity adjectives	syntactic
+E090	8	first names	semantic
+E091	8	weather hurricane	semantic
+E092	6	media creative	semantic
+E093	6	location state verbs	mixed
+E094	4	mixed adjectives	mixed
+E095	6	passive participles	syntactic
+E096	4	informal colloquial	mixed
+E097	8	measurements units	semantic
+E098	5	punctuation conj	syntactic
+E099	7	difficulty experience	semantic

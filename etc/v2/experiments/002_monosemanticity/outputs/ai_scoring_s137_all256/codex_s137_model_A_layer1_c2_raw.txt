@@ -1,0 +1,50 @@
+E100	6	determiners/pronouns	syntactic
+E101	9	football actions	semantic
+E102	8	prepositions/connectors	syntactic
+E103	7	prepositions/locations	syntactic
+E104	8	make/create verbs	semantic
+E105	6	person roles	semantic
+E106	4	fragments/abstract	mixed
+E107	3	subword fragments	syntactic
+E108	8	transportation infrastructure	semantic
+E109	8	inclusion/connective words	syntactic
+E110	3	name fragments	syntactic
+E111	3	pronouns+fragments	mixed
+E112	8	quantifier adverbs	syntactic
+E113	9	naval military	semantic
+E114	7	verb forms	syntactic
+E115	7	function words	syntactic
+E116	9	perception/cognition verbs	semantic
+E117	2	subword fragments	syntactic
+E118	10	numbers	syntactic
+E119	5	general modifiers	mixed
+E120	9	pronouns/determiners	syntactic
+E121	9	prepositions	syntactic
+E122	7	articles/labels	syntactic
+E123	9	prepositions	syntactic
+E124	1	single token	mixed
+E125	8	personal pronouns	syntactic
+E126	10	first names	semantic
+E127	7	connectors+punctuation	mixed
+E128	9	symbols/punctuation	syntactic
+E129	8	ordinals/rankings	mixed
+E130	10	sentence punctuation	syntactic
+E131	8	conjunctions	syntactic
+E132	8	prepositions	syntactic
+E133	9	question words	syntactic
+E134	6	action verbs	mixed
+E135	9	pronouns/determiners	syntactic
+E136	9	quantifiers	syntactic
+E137	9	object pronouns	syntactic
+E138	7	process verbs	semantic
+E139	8	relative words	syntactic
+E140	8	person types	semantic
+E141	10	prepositions	syntactic
+E142	2	subword fragments	syntactic
+E143	8	military conflict	semantic
+E144	7	clausal connectives	syntactic
+E145	9	quantifiers/negation	syntactic
+E146	9	quote punctuation	syntactic
+E147	9	spatial relations	semantic
+E148	6	descriptive adjectives	mixed
+E149	8	punctuation tokens	syntactic

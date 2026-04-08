@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	7	re-/completive adverbs	syntactic
+E201	7	negation/denial	syntactic
+E202	5	mixed force/substance	mixed
+E203	4	mixed names/nouns	mixed
+E204	2	foreign BPE fragments	syntactic
+E205	5	event/process verbs	mixed
+E206	5	military/national titles	mixed
+E207	6	movement/reaction verbs	semantic
+E208	4	mixed agents/actions	mixed
+E209	2	random mixed tokens	mixed
+E210	8	hyphen/compound markers	syntactic
+E211	7	prepositions	syntactic
+E212	9	violence/killing	semantic
+E213	8	indefinite article	syntactic
+E214	8	three-digit numbers	syntactic
+E215	6	auxiliary/copula + brackets	syntactic
+E216	8	cognition/judgment verbs	semantic
+E217	2	BPE subword fragments	syntactic
+E218	8	past participle/state verbs	semantic
+E219	6	transportation/routes	semantic
+E220	8	sentence-start determiners	syntactic
+E221	2	BPE subword fragments	mixed
+E222	5	mixed proper nouns	mixed
+E223	8	comitative prepositions	syntactic
+E224	5	state/process verbs	mixed
+E225	3	mixed abbreviations	mixed
+E226	2	BPE subword fragments	syntactic
+E227	4	mixed agent nouns	mixed
+E228	10	possessive pronouns	syntactic
+E229	7	abstract opinion nouns	semantic
+E230	5	mixed weather/military	mixed
+E231	4	imperative/song titles	mixed
+E232	6	preposition "of"	syntactic
+E233	10	global/international	semantic
+E234	2	BPE subword fragments	syntactic
+E235	2	name-start abbreviations	mixed
+E236	8	manner adverbs	syntactic
+E237	7	sentence-start determiners	syntactic
+E238	8	geography/coastal	semantic
+E239	8	common state verbs	syntactic
+E240	8	subject pronouns	syntactic
+E241	7	preposition "for/during"	syntactic
+E242	3	name fragments/misc	mixed
+E243	6	symbols/operators	syntactic
+E244	4	mixed adjectives	mixed
+E245	3	random proper nouns	mixed
+E246	7	indefinite pronouns + quotes	mixed
+E247	7	single consonants	syntactic
+E248	7	top/ranking words	semantic
+E249	8	action/purpose verbs	semantic

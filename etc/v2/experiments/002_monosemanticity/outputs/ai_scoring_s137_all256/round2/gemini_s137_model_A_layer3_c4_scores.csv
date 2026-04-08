@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	10	possessive pronouns	syntactic
+E201	8	negation/modifiers	syntactic
+E202	4	titles/names	semantic
+E203	8	abbreviations/titles	syntactic
+E204	8	punctuation/symbols	syntactic
+E205	3	mixed	mixed
+E206	4	common words	syntactic
+E207	9	punctuation	syntactic
+E208	10	measurement units	semantic
+E209	8	quantities/numbers	semantic
+E210	10	military/weaponry	semantic
+E211	10	surnames	semantic
+E212	9	dates/time	semantic
+E213	5	plural nouns	syntactic
+E214	9	conjunctions/connectors	syntactic
+E215	6	history/dates	semantic
+E216	7	name components	semantic
+E217	9	media/technology	semantic
+E218	1	single word	semantic
+E219	3	mixed/unclear	semantic
+E220	10	copular verbs	syntactic
+E221	2	random/mixed	mixed
+E222	1	noise	syntactic
+E223	9	verbs	syntactic
+E224	5	subwords/prefixes	syntactic
+E225	1	single word	syntactic
+E226	4	mixed/titles	mixed
+E227	10	quantifiers	semantic
+E228	1	single word	semantic
+E229	2	mixed	semantic
+E230	1	mixed	mixed
+E231	7	punctuation/intensifiers	mixed
+E232	5	lifestyle/culture	semantic
+E233	9	articles	syntactic
+E234	8	dates/months	semantic
+E235	6	military narrative	semantic
+E236	8	adjectives	semantic
+E237	8	prepositions/verbs	mixed
+E238	10	numbers	semantic
+E239	2	mixed	semantic
+E240	8	auxiliary verbs	syntactic
+E241	9	facilities/locations	semantic
+E242	5	mixed/punctuation	mixed
+E243	7	politics/economics	semantic
+E244	4	mixed	semantic
+E245	8	competitions/dates	semantic
+E246	1	mixed	mixed
+E247	9	conversational	semantic
+E248	8	discourse markers	syntactic
+E249	5	relative clauses	syntactic

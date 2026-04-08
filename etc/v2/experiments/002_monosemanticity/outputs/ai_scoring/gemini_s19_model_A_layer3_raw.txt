@@ -1,0 +1,101 @@
+I will read the instructions and data from `_tmp_s19_model_A_layer3_gemini.txt` to generate the requested scoring lines.
+E000	4	mixed/demographics	mixed
+E001	3	mixed/sports/geography	mixed
+E002	10	mushroom anatomy	semantic
+E003	9	media formats	semantic
+E004	9	adverbs	syntactic
+E005	8	symbols/units	syntactic
+E006	8	punctuation/conjunctions	syntactic
+E007	7	auxiliary verbs	syntactic
+E008	10	punctuation	syntactic
+E009	6	quantifiers/adjectives	mixed
+E010	10	punctuation	syntactic
+E011	9	military/nationalities	semantic
+E012	8	groups/roles	semantic
+E013	9	prepositions	syntactic
+E014	5	mixed/verbs	mixed
+E015	10	numbers	syntactic
+E016	1	random/padding	syntactic
+E017	5	mixed/verbs	mixed
+E018	8	geography/political	semantic
+E019	10	time/dates	semantic
+E020	9	time/sequencing	semantic
+E021	3	names/fragments	mixed
+E022	9	numbers/quantities	syntactic
+E023	8	science/weather	semantic
+E024	2	mixed/unclear	mixed
+E025	10	punctuation	syntactic
+E026	8	articles	syntactic
+E027	2	mixed/unclear	mixed
+E028	5	mixed/adjectives	mixed
+E029	4	mixed/numeric	mixed
+E030	6	prepositions/verbs	mixed
+E031	7	abstract verbs	syntactic
+E032	6	common verbs	syntactic
+E033	9	prepositions	syntactic
+E034	10	numbers	syntactic
+E035	6	punctuation/conjunctions	syntactic
+E036	6	formal documents	mixed
+E037	6	abstract nouns	semantic
+E038	5	time/prepositions	mixed
+E039	2	manufacturing	semantic
+E040	10	articles	syntactic
+E041	10	punctuation	syntactic
+E042	9	film/entertainment	semantic
+E043	10	punctuation	syntactic
+E044	9	conjunctions	syntactic
+E045	7	descriptive adjectives	mixed
+E046	9	sports statistics	semantic
+E047	7	name fragments	syntactic
+E048	5	verbs/spatial	mixed
+E049	9	asian names	semantic
+E050	9	name fragments	syntactic
+E051	10	modal verbs	syntactic
+E052	7	dialogue markers	mixed
+E053	6	years/history	mixed
+E054	8	social policy	semantic
+E055	2	mixed/unclear	mixed
+E056	8	conjunctions/dialogue	syntactic
+E057	6	measurements/chinese	mixed
+E058	10	prepositions	syntactic
+E059	10	years	syntactic
+E060	7	suffixes/fragments	syntactic
+E061	7	formal nouns	semantic
+E062	8	verbs of being	syntactic
+E063	10	personal names	semantic
+E064	9	helping verbs	syntactic
+E065	6	mixed nouns	semantic
+E066	9	fictional names	semantic
+E067	9	objects/structures	semantic
+E068	7	verbs/adverbs	syntactic
+E069	9	military history	semantic
+E070	6	adverbs/groups	mixed
+E071	6	geography/movement	semantic
+E072	4	titles/mixed	mixed
+E073	2	mixed/unclear	mixed
+E074	9	past participles	syntactic
+E075	8	status verbs	syntactic
+E076	10	sports/competitions	semantic
+E077	7	units/punctuation	syntactic
+E078	7	abstract adjectives	mixed
+E079	10	modal verbs	syntactic
+E080	8	public services	semantic
+E081	10	punctuation	syntactic
+E082	8	common words	syntactic
+E083	8	superlatives	syntactic
+E084	10	punctuation	syntactic
+E085	5	mixed/abstract	mixed
+E086	5	fragments/names	mixed
+E087	9	geography/land	semantic
+E088	6	prepositions/abstract	mixed
+E089	3	mixed/unclear	mixed
+E090	8	suffixes	syntactic
+E091	8	academic adjectives	semantic
+E092	9	prefix fragments	syntactic
+E093	5	mixed adjectives	mixed
+E094	7	math/punctuation	syntactic
+E095	10	auxiliary verbs	syntactic
+E096	8	political verbs	semantic
+E097	9	discourse markers	syntactic
+E098	7	usage verbs	syntactic
+E099	3	mixed/unclear	mixed

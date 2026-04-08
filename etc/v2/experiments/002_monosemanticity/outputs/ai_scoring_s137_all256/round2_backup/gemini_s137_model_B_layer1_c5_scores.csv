@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	10	linking verbs	syntactic
+E251	3	determiners/pronouns	syntactic
+E252	1	subword fragments	syntactic
+E253	10	conjunctions	syntactic
+E254	10	pronouns	syntactic
+E255	4	abstract nouns	mixed

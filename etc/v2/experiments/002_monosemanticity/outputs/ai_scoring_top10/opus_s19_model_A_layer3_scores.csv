@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	hyphen/early/mixed	syntactic
+E001	4	disease/ideology nouns	mixed
+E002	4	geographic compound adj	mixed
+E003	5	comma/closing punct	syntactic
+E004	4	abstract nouns	mixed
+E005	5	person role nouns	mixed
+E006	7	possessive pronouns	syntactic
+E007	5	classification verbs	mixed
+E008	7	copula is/are/does	syntactic
+E009	5	BPE word fragments	syntactic
+E010	4	hyphen/determiners	syntactic
+E011	7	location from/at/near	syntactic
+E012	4	action/performing verbs	mixed
+E013	6	concessive conjunctions	syntactic
+E014	7	BPE syllable fragments	syntactic
+E015	5	discourse/concessive	syntactic
+E016	6	BPE consonant clusters	syntactic
+E017	5	verbs continued/forced	mixed
+E018	5	adj modest/preliminary	mixed
+E019	6	location prepositions	syntactic
+E020	6	possessive determiners	syntactic
+E021	4	titled mixed names	mixed
+E022	4	of/total/for	syntactic
+E023	7	preposition for/over	syntactic
+E024	6	comma/closing punct	syntactic
+E025	5	years 1900s-1950s	syntactic
+E026	8	measurement units	semantic
+E027	4	sentence-end/period	syntactic
+E028	7	sports statistics	semantic
+E029	5	diacritical/foreign BPE	syntactic
+E030	6	articles a/another	syntactic
+E031	4	The/the/early/late	syntactic
+E032	3	the/its only	syntactic
+E033	7	degree adverbs only/few	syntactic
+E034	3	the/The only	syntactic
+E035	5	person/group nouns	mixed
+E036	4	road/infrastructure	mixed
+E037	5	articles a/A/an	syntactic
+E038	5	years 1900s-1960s	syntactic
+E039	5	adj numerous/certain	syntactic
+E040	5	discourse/quotation punct	syntactic
+E041	5	abstract nouns	mixed
+E042	5	ordinal/number adj	syntactic
+E043	5	dashes/including/such	syntactic
+E044	4	articles a/an/this	syntactic
+E045	7	modal/auxiliary verbs	syntactic
+E046	5	naming/prompting verbs	mixed
+E047	4	determiners its/their	syntactic
+E048	6	off/across/onto preps	syntactic
+E049	4	BPE name syllables	mixed
+E050	3	PAD/sentence end	syntactic
+E051	4	BPE fragments/verbs	mixed
+E052	7	superlative adjectives	syntactic
+E053	5	place names	semantic
+E054	5	preposition involving/of	syntactic
+E055	5	directional to/from	syntactic
+E056	6	conjunctions nor/or/and	syntactic
+E057	4	apostrophe/symbols	syntactic
+E058	4	mixed proper nouns	mixed
+E059	4	action verbs mixed	mixed
+E060	4	movement/disappear verbs	mixed
+E061	6	speech/testimony verbs	semantic
+E062	5	past/started verbs	mixed
+E063	6	first names/proper	semantic
+E064	5	adverb/seemed/possibly	syntactic
+E065	5	punctuation/brackets	syntactic
+E066	5	comma/closing punct	syntactic
+E067	7	calendar day/months	semantic
+E068	5	sentence-initial/mixed	mixed
+E069	4	informal pronouns	mixed
+E070	3	the/The only	syntactic
+E071	7	closing dialogue punct	syntactic
+E072	5	comma/quotation punct	syntactic
+E073	4	plural nouns mixed	mixed
+E074	6	adverbs clearly/rarely	syntactic
+E075	6	possibility adverbs	syntactic
+E076	4	BPE word fragments	syntactic
+E077	4	mixed temporal/years	mixed
+E078	4	mixed nouns portrait	mixed
+E079	6	temporal during/at	syntactic
+E080	4	years/percent/mixed	mixed
+E081	4	adj preliminary/recent	mixed
+E082	5	action/distinguish verbs	mixed
+E083	5	first names	semantic
+E084	7	naval/military hardware	semantic
+E085	6	sentence-end punctuation	syntactic
+E086	5	who/whose/relative	syntactic
+E087	5	adj ensuing/sensitive	mixed
+E088	7	measurement units	semantic
+E089	4	adj nominal/temporary	mixed
+E090	4	than/like comparison	syntactic
+E091	5	capsule/military mixed	mixed
+E092	4	Although/discourse	syntactic
+E093	4	BPE foreign syllables	syntactic
+E094	5	BPE word fragments	syntactic
+E095	6	time period nouns	semantic
+E096	4	mixed/unclear	mixed
+E097	5	articles an/or/origin	syntactic
+E098	4	name/place patterns	mixed
+E099	5	punctuation/ellipsis	syntactic

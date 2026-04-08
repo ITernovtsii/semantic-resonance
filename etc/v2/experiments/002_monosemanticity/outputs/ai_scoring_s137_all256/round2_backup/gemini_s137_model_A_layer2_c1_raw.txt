@@ -1,0 +1,51 @@
+I will read the instructions in `_tmp_s137_model_A_layer2_c1_gemini.txt` to determine the required scoring.
+E050	10	linking verbs	syntactic
+E051	8	proper nouns	semantic
+E052	10	spatial relations	semantic
+E053	3	mixed fragments	mixed
+E054	10	spatial prepositions	syntactic
+E055	5	grammar/punctuation	syntactic
+E056	7	physical actions	semantic
+E057	10	roles/titles	semantic
+E058	10	relative pronouns	syntactic
+E059	10	determiners	syntactic
+E060	10	name fragments	syntactic
+E061	10	name fragments	syntactic
+E062	2	mixed/symbols	mixed
+E063	6	descriptors/intensity	semantic
+E064	7	state descriptors	semantic
+E065	5	places/materials	semantic
+E066	9	suffixes	syntactic
+E067	8	parentheses	syntactic
+E068	10	formal processes	semantic
+E069	10	contrast/punctuation	syntactic
+E070	4	symbols	syntactic
+E071	10	punctuation clusters	syntactic
+E072	3	sentence start	syntactic
+E073	8	locations	semantic
+E074	8	punctuation	syntactic
+E075	4	quotes/prepositions	syntactic
+E076	10	abstract nouns	semantic
+E077	5	prepositions	syntactic
+E078	9	punctuation/quotes	syntactic
+E079	10	method/direction	semantic
+E080	3	mixed/weather	mixed
+E081	10	domain categories	semantic
+E082	10	punctuation/period	syntactic
+E083	8	punctuation	syntactic
+E084	8	acronyms/names	semantic
+E085	10	names	semantic
+E086	10	geography	semantic
+E087	8	roads/geography	semantic
+E088	10	political/ethnic	semantic
+E089	6	deictics/negation	mixed
+E090	8	plural nouns	syntactic
+E091	9	abstract nouns	semantic
+E092	8	determiners	syntactic
+E093	10	word stems	syntactic
+E094	10	determiners	syntactic
+E095	9	cognitive/speech verbs	semantic
+E096	10	inclusion/composition	semantic
+E097	7	direction/intent	syntactic
+E098	9	action verbs	semantic
+E099	2	mixed/random	mixed

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	random nouns	mixed
+E001	5	sentence-end punct	mixed
+E002	6	capitalized words	mixed
+E003	5	personal names	mixed
+E004	6	action verbs	mixed
+E005	7	punctuation	syntactic
+E006	4	groups/plural	mixed
+E007	8	titles/honorific	semantic
+E008	7	conjunctions	syntactic
+E009	5	determiners	syntactic
+E010	6	modal/helping	syntactic
+E011	6	starring/earning	mixed
+E012	5	name fragments	mixed
+E013	6	sentence starters	syntactic
+E014	4	adj/proper	mixed
+E015	5	action verbs	mixed
+E016	5	action verbs	mixed
+E017	8	adverbs -ly	syntactic
+E018	5	needs/permission	mixed
+E019	6	org/proper nouns	mixed
+E020	6	quotation punct	syntactic
+E021	6	spatial preps	mixed
+E022	8	music charts	semantic
+E023	5	becoming/getting	mixed
+E024	4	plural nouns	mixed
+E025	5	prepositions	mixed
+E026	4	mixed	mixed
+E027	5	mixed/unclear	mixed
+E028	3	determiners	syntactic
+E029	5	action verbs	mixed
+E030	6	BPE fragments	syntactic
+E031	5	sentence starters	syntactic
+E032	5	adj protective	mixed
+E033	7	temporal preps	syntactic
+E034	5	hyphens/punct	syntactic
+E035	5	adj/proper	mixed
+E036	5	BPE fragments	mixed
+E037	6	adverbs -ly	syntactic
+E038	7	three-digit numbers	syntactic
+E039	5	temporal adj	mixed
+E040	3	SpongeBob/misc	mixed
+E041	4	proper nouns	mixed
+E042	5	adj/misc	mixed
+E043	5	plural nouns	mixed
+E044	5	substance/nature	mixed
+E045	3	place names	mixed
+E046	6	competition verbs	mixed
+E047	5	adverbs extent	mixed
+E048	4	BPE fragments	mixed
+E049	5	place names	mixed
+E050	5	mixed nouns	mixed
+E051	7	media/creative	semantic
+E052	4	mixed/retreating	mixed
+E053	7	BPE prefixes	syntactic
+E054	8	discourse adverbs	syntactic
+E055	5	route/codes	mixed
+E056	5	having/who	mixed
+E057	5	place/geography	mixed
+E058	7	first names	semantic
+E059	5	BPE fragments	mixed
+E060	5	plural nouns	mixed
+E061	5	entire/vast	mixed
+E062	5	proper names	mixed
+E063	5	have/titled	mixed
+E064	2	single comma	syntactic
+E065	7	first names	semantic
+E066	8	single letters	syntactic
+E067	7	creative adj	semantic
+E068	4	BPE/random	mixed
+E069	3	mixed/unclear	mixed
+E070	4	mixed nouns	mixed
+E071	5	participation	mixed
+E072	5	BPE fragments	mixed
+E073	3	mixed/unclear	mixed
+E074	7	punctuation	syntactic
+E075	7	three-digit numbers	syntactic
+E076	5	proper names	mixed
+E077	6	cognitive verbs	mixed
+E078	6	conjunctions	syntactic
+E079	7	modal/helping	syntactic
+E080	5	groups/critics	mixed
+E081	6	among/contains	syntactic
+E082	6	BPE prefixes	syntactic
+E083	8	sentence-end punct	syntactic
+E084	4	mixed/unclear	mixed
+E085	5	abstract nouns	mixed
+E086	4	groups/critics	mixed
+E087	4	proper adj	mixed
+E088	7	BPE fragments	syntactic
+E089	5	possessives	syntactic
+E090	5	conjunctions	syntactic
+E091	6	currency/punct	syntactic
+E092	5	movie/billing	mixed
+E093	8	sentence-end punct	syntactic
+E094	4	mixed/unclear	mixed
+E095	3	BPE fragments	mixed
+E096	6	on/upon preps	syntactic
+E097	4	adj/personal	mixed
+E098	5	determiners	syntactic
+E099	7	nature/biology	semantic

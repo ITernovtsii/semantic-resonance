@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	media roles	semantic
+E001	4	short syllables	syntactic
+E002	9	stative verbs	semantic
+E003	10	adverbs	syntactic
+E004	10	proper names	semantic
+E005	8	articles	syntactic
+E006	10	quantifiers	semantic
+E007	10	conjunctions	syntactic
+E008	8	punctuation	syntactic
+E009	10	geographic names	semantic
+E010	7	transitions	mixed
+E011	4	fragments	syntactic
+E012	3	mixed/noisy	mixed
+E013	10	brackets/symbols	syntactic
+E014	10	quotes/brackets	syntactic
+E015	10	adjectives	semantic
+E016	9	academic adjectives	semantic
+E017	6	articles/pronouns	syntactic
+E018	9	process verbs	semantic
+E019	8	labels/proper adjectives	semantic
+E020	5	naval/military	mixed
+E021	8	sequence adjectives	semantic
+E022	10	speech/legal verbs	semantic
+E023	10	societal topics	semantic
+E024	10	measurement units	semantic
+E025	10	superlatives	semantic
+E026	9	prepositions	syntactic
+E027	10	adverbs	syntactic
+E028	6	name fragments	semantic
+E029	7	historical fragments	semantic
+E030	10	spatial prepositions	syntactic
+E031	6	indefinite articles	syntactic
+E032	8	numbers/symbols	syntactic
+E033	7	appositive markers	mixed
+E034	10	spatial relations	semantic
+E035	9	scientific fragments	semantic
+E036	10	pronouns/contractions	syntactic
+E037	5	determiners	syntactic
+E038	9	geographic markers	semantic
+E039	10	official adjectives	semantic
+E040	10	trait adjectives	semantic
+E041	8	ordinals/descriptors	mixed
+E042	5	clause markers	syntactic
+E043	10	citation markers	mixed
+E044	10	media technology	semantic
+E045	9	titles/proper nouns	semantic
+E046	6	logical markers	mixed
+E047	10	plural nouns	semantic
+E048	10	singular nouns	semantic
+E049	10	sentence starters	syntactic
+E050	4	mixed articles	mixed
+E051	7	descriptive prefixes	semantic
+E052	10	inclusion verbs	semantic
+E053	4	miscellaneous nouns	semantic
+E054	9	mental state verbs	semantic
+E055	10	possessive markers	syntactic
+E056	9	proper names	semantic
+E057	10	adjectives	semantic
+E058	10	national adjectives	semantic
+E059	10	ending punctuation	syntactic
+E060	1	random fragments	syntactic
+E061	8	comparisons	syntactic
+E062	10	logical transitions	syntactic
+E063	2	word fragments	syntactic
+E064	10	quantifiers	semantic
+E065	9	intentional movement	mixed
+E066	10	determiners	syntactic
+E067	8	collective nouns	semantic
+E068	8	transfer verbs	semantic
+E069	9	adjectives	semantic
+E070	9	adjectives	semantic
+E071	5	abstract relations	mixed
+E072	8	measurement symbols	mixed
+E073	10	social conflict	semantic
+E074	10	surnames	semantic
+E075	9	punctuation	syntactic
+E076	10	prepositions	syntactic
+E077	10	demonstratives	syntactic
+E078	10	temporal/spatial prepositions	syntactic
+E079	10	punctuation	syntactic
+E080	10	first names	semantic
+E081	10	demonstratives	syntactic
+E082	4	consonant fragments	syntactic
+E083	7	sequence markers	mixed
+E084	9	punctuation	syntactic
+E085	9	organization names	semantic
+E086	10	technical stems	semantic
+E087	6	contrast/years	mixed
+E088	10	months	semantic
+E089	9	abstract nouns	semantic
+E090	6	article the	syntactic
+E091	10	influence verbs	semantic
+E092	10	approximations	semantic
+E093	6	name fragments	semantic
+E094	10	action verbs	semantic
+E095	10	relational markers	mixed
+E096	10	narrative concepts	semantic
+E097	9	punctuation	syntactic
+E098	10	modal verbs	syntactic
+E099	10	relative pronouns	syntactic

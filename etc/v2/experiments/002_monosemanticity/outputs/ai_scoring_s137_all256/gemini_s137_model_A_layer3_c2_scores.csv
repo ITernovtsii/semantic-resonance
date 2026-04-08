@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	8	logical transitions	semantic
+E101	3	mixed/unclear	mixed
+E102	6	verbs	semantic
+E103	10	modal verbs	syntactic
+E104	9	verbs	semantic
+E105	3	mixed/unclear	mixed
+E106	7	conflict/serious	semantic
+E107	4	mixed/unclear	mixed
+E108	2	mixed/unclear	mixed
+E109	8	historical/official	semantic
+E110	10	conjunctions	syntactic
+E111	10	function words	syntactic
+E112	3	abbreviations	mixed
+E113	5	positive/general	semantic
+E114	6	prepositions/verbs	mixed
+E115	5	letters/symbols	syntactic
+E116	10	punctuation	syntactic
+E117	9	media/publication	semantic
+E118	9	be verbs	syntactic
+E119	2	mixed/unclear	mixed
+E120	7	determiners/adjectives	mixed
+E121	10	temporal prepositions	syntactic
+E122	10	function words	syntactic
+E123	7	prepositions	mixed
+E124	10	verbs	syntactic
+E125	10	numbers	syntactic
+E126	10	suffering	semantic
+E127	9	anthropology/culture	semantic
+E128	8	numbers/symbols	mixed
+E129	4	fragments	syntactic
+E130	3	mixed/unclear	mixed
+E131	10	prepositions	syntactic
+E132	9	adjectives	semantic
+E133	8	science/descriptive	semantic
+E134	10	titles/professions	semantic
+E135	9	spatial/navigational	semantic
+E136	5	mixed/technical	mixed
+E137	5	mixed/adjectives	mixed
+E138	9	verbs of motion	semantic
+E139	10	temporal/ordinal	semantic
+E140	10	punctuation	syntactic
+E141	5	mixed/fragments	mixed
+E142	9	abstract nouns	syntactic
+E143	8	temporal adjectives	semantic
+E144	9	places/nationalities	semantic
+E145	10	foreign particles	syntactic
+E146	9	sports	semantic
+E147	10	initiation/cessation	semantic
+E148	4	mixed/nouns	mixed
+E149	7	names	semantic

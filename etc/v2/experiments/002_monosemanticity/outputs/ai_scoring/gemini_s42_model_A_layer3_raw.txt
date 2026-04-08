@@ -1,0 +1,101 @@
+I will read the instructions and input data from the specified temporary file and the scoring prompt to understand the scoring criteria.
+E000	6	transitions/years	mixed
+E001	9	military/combat	semantic
+E002	8	fields/topics	semantic
+E003	8	verbs/actions	syntactic
+E004	9	roads/infrastructure	semantic
+E005	7	verbs	syntactic
+E006	10	function words	syntactic
+E007	9	name fragments	syntactic
+E008	10	punctuation	syntactic
+E009	2	mixed/unclear	mixed
+E010	8	past verbs	syntactic
+E011	9	spatial/directional	semantic
+E012	6	prepositions/verbs	syntactic
+E013	8	conversational	mixed
+E014	7	formal transitions	syntactic
+E015	2	mixed/unclear	mixed
+E016	8	auxiliary verbs	syntactic
+E017	8	places	semantic
+E018	8	time adjectives	semantic
+E019	10	first names	semantic
+E020	7	abstract nouns	semantic
+E021	4	abbreviations	syntactic
+E022	9	place adjectives	semantic
+E023	7	adjectives/media	semantic
+E024	2	mixed/fragments	mixed
+E025	2	mixed/fragments	mixed
+E026	8	property/geography	semantic
+E027	7	logical/inclusion	syntactic
+E028	9	roles/competition	semantic
+E029	3	mixed/unclear	mixed
+E030	2	mixed/unclear	mixed
+E031	8	short names	semantic
+E032	9	mental states	semantic
+E033	7	politics/media	semantic
+E034	7	pronouns/connectives	syntactic
+E035	9	descriptive adjectives	semantic
+E036	8	plural nouns	syntactic
+E037	9	quantifiers	syntactic
+E038	8	conjunctions	syntactic
+E039	8	historical/technical	semantic
+E040	9	adverbs/degree	syntactic
+E041	8	organizations	semantic
+E042	8	media/reception	semantic
+E043	6	symbols/connectives	syntactic
+E044	9	military units	semantic
+E045	8	politics/government	semantic
+E046	2	mixed/unclear	mixed
+E047	1	random	mixed
+E048	9	infinitive verbs	syntactic
+E049	10	sports stats	semantic
+E050	4	mixed/years	mixed
+E051	9	dates/measurements	semantic
+E052	7	modals/wrestling	mixed
+E053	8	pop culture	semantic
+E054	9	organizations/roles	semantic
+E055	10	punctuation sequences	syntactic
+E056	8	plural nouns	syntactic
+E057	7	transitions/years	mixed
+E058	9	organizations	semantic
+E059	10	occupations	semantic
+E060	6	determiners/adjectives	syntactic
+E061	9	biology/nature	semantic
+E062	9	name fragments	syntactic
+E063	6	pronouns	syntactic
+E064	3	mixed/unclear	mixed
+E065	4	crime/history	semantic
+E066	8	descriptive adjectives	semantic
+E067	8	adverbs/transitions	syntactic
+E068	8	descriptive/human	semantic
+E069	8	prepositions	syntactic
+E070	9	quantity/duration	semantic
+E071	9	media/arts	semantic
+E072	7	verbs/mixed	syntactic
+E073	9	abbreviations	syntactic
+E074	10	measurements	semantic
+E075	8	military actions	semantic
+E076	8	plural nouns	syntactic
+E077	6	verbs/pronouns	syntactic
+E078	1	random	mixed
+E079	9	adverbs/status	syntactic
+E080	3	mixed/unclear	mixed
+E081	9	topics/fields	semantic
+E082	1	random	mixed
+E083	7	events/places	semantic
+E084	2	mixed/unclear	mixed
+E085	3	mixed/unclear	mixed
+E086	6	mixed fragments	mixed
+E087	9	plural roles	semantic
+E088	9	adjectives/concepts	semantic
+E089	8	quantifiers/adjectives	semantic
+E090	10	first names	semantic
+E091	10	meteorology	semantic
+E092	9	media/music	semantic
+E093	9	biographical verbs	semantic
+E094	6	mixed adjectives	semantic
+E095	8	passive verbs	syntactic
+E096	6	conversational	mixed
+E097	10	measurements	semantic
+E098	8	punctuation/connectives	syntactic
+E099	9	problem/difficulty	semantic

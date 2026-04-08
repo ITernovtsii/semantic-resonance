@@ -1,0 +1,50 @@
+E100	8	wh-words	syntactic
+E101	5	proper nouns	mixed
+E102	9	conjunctions	syntactic
+E103	8	determiners	syntactic
+E104	7	abstract nouns	semantic
+E105	10	prepositions	syntactic
+E106	6	governance	semantic
+E107	9	quantifiers	syntactic
+E108	7	punctuation	syntactic
+E109	8	adjectives	syntactic
+E110	4	common verbs	mixed
+E111	7	prefixes	syntactic
+E112	9	symbols	syntactic
+E113	10	punctuation	syntactic
+E114	10	punctuation	syntactic
+E115	7	quotes/pronouns	mixed
+E116	9	media terms	semantic
+E117	9	punctuation	syntactic
+E118	8	past-tense verbs	syntactic
+E119	4	descriptors	mixed
+E120	7	years/dates	semantic
+E121	9	temporal connectives	syntactic
+E122	10	pronouns	syntactic
+E123	10	symbols	syntactic
+E124	6	participles	mixed
+E125	10	article form	syntactic
+E126	6	action verbs	mixed
+E127	8	function words	syntactic
+E128	10	military	semantic
+E129	8	military movement	semantic
+E130	3	bpe fragments	mixed
+E131	10	consonant clusters	syntactic
+E132	9	prepositions	syntactic
+E133	6	conflict/change	semantic
+E134	9	auxiliary have	syntactic
+E135	6	nominalizations	mixed
+E136	8	evaluative adjectives	semantic
+E137	2	subword fragments	syntactic
+E138	6	action verbs	mixed
+E139	8	uncertainty terms	semantic
+E140	3	mixed tokens	mixed
+E141	1	random fragments	syntactic
+E142	9	number words	semantic
+E143	2	name fragments	mixed
+E144	9	wh-words	syntactic
+E145	10	conjunctions	syntactic
+E146	9	road infrastructure	semantic
+E147	8	ordinals/ranks	semantic
+E148	4	numbers/titles	mixed
+E149	3	diacritics/fragments	mixed

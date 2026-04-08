@@ -1,0 +1,50 @@
+E150	4	mixed/unclear	mixed
+E151	10	punctuation	syntactic
+E152	6	abstract nouns	syntactic
+E153	5	occupations/domains	semantic
+E154	3	mixed/unclear	mixed
+E155	9	prepositions	syntactic
+E156	4	mixed/unclear	mixed
+E157	2	random	mixed
+E158	9	proper names	semantic
+E159	7	articles/determiners	syntactic
+E160	8	relative pronouns	syntactic
+E161	10	punctuation	syntactic
+E162	7	prepositions/amounts	syntactic
+E163	7	verb forms	syntactic
+E164	10	punctuation	syntactic
+E165	3	mixed/unclear	mixed
+E166	9	punctuation	syntactic
+E167	8	subword fragments	syntactic
+E168	7	connectives	syntactic
+E169	10	possessive pronouns	syntactic
+E170	9	adjectives	syntactic
+E171	2	random	mixed
+E172	5	mixed/unclear	mixed
+E173	8	quantity/counting	semantic
+E174	8	punctuation	syntactic
+E175	8	possessives/genitive	syntactic
+E176	9	clause connectives	syntactic
+E177	9	subword fragments	syntactic
+E178	8	verb forms	syntactic
+E179	7	determiners	syntactic
+E180	7	verb/gerund forms	syntactic
+E181	9	quantifiers/pronouns	syntactic
+E182	8	conjunctions	syntactic
+E183	8	punctuation	syntactic
+E184	6	place names	semantic
+E185	10	adverbs	syntactic
+E186	9	subword fragments	syntactic
+E187	9	adjectives	syntactic
+E188	6	plural nouns	syntactic
+E189	9	subword fragments	syntactic
+E190	3	mixed/unclear	mixed
+E191	8	auxiliary verbs	syntactic
+E192	9	subword fragments	syntactic
+E193	9	temporal prepositions	syntactic
+E194	6	connectors/symbols	syntactic
+E195	10	quantifiers	syntactic
+E196	4	mixed/unclear	mixed
+E197	9	prepositions	syntactic
+E198	8	connectives	syntactic
+E199	2	random	mixed

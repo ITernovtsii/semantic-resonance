@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	quantities/reference	mixed
+E001	6	conversational cues	mixed
+E002	4	spatial adjectives	mixed
+E003	8	reporting verbs	semantic
+E004	9	modals	syntactic
+E005	8	connectives	syntactic
+E006	3	name fragments	syntactic
+E007	9	abbrev prefixes	syntactic
+E008	5	encyclopedic terms	mixed
+E009	4	names plus filler	mixed
+E010	2	random mix	mixed
+E011	3	abbrev fragments	syntactic
+E012	8	wh-pronouns	syntactic
+E013	4	sports/film mix	mixed
+E014	10	punctuation	syntactic
+E015	2	subword fragments	syntactic
+E016	7	sports competition	semantic
+E017	9	modals	syntactic
+E018	8	determiners	syntactic
+E019	4	military mix	mixed
+E020	7	military actions	semantic
+E021	5	generic modifiers	mixed
+E022	7	stance adverbs	syntactic
+E023	4	institution nouns	mixed
+E024	3	titlecase fragments	mixed
+E025	8	years/dates	syntactic
+E026	9	prepositions	syntactic
+E027	7	legal actions	semantic
+E028	3	mixed descriptors	mixed
+E029	8	verb gerunds	syntactic
+E030	6	military terms	semantic
+E031	4	mixed function	mixed
+E032	10	punctuation	syntactic
+E033	6	conflict actions	semantic
+E034	5	policy nouns	mixed
+E035	7	determiners/modifiers	syntactic
+E036	8	articles/possessives	syntactic
+E037	7	adjectives	syntactic
+E038	6	punctuation plus titles	mixed
+E039	3	name fragments	mixed
+E040	7	geopolitical war	semantic
+E041	8	hyphen punctuation	syntactic
+E042	4	weather/road mix	mixed
+E043	9	ethnic groups	semantic
+E044	2	random entities	mixed
+E045	6	surnames	semantic
+E046	2	subword fragments	syntactic
+E047	5	action verbs	mixed
+E048	6	event descriptors	semantic
+E049	2	subword fragments	syntactic
+E050	4	generic location	mixed
+E051	3	proper noun mix	mixed
+E052	9	containment verbs	semantic
+E053	9	adverbs	syntactic
+E054	7	conflict states	semantic
+E055	6	evaluation verbs	mixed
+E056	7	time periods	semantic
+E057	9	prepositions	syntactic
+E058	8	competition verbs	semantic
+E059	6	possessives/mix	mixed
+E060	4	abbrev symbols	mixed
+E061	8	topical adjectives	semantic
+E062	10	numbers	syntactic
+E063	10	numbers	syntactic
+E064	7	preventive/legal verbs	semantic
+E065	6	group nouns	semantic
+E066	4	titlecase categories	mixed
+E067	10	ordinals	syntactic
+E068	7	modals plus noise	syntactic
+E069	8	discourse markers	syntactic
+E070	7	action verbs	semantic
+E071	8	manga/anime media	semantic
+E072	5	sports/general mix	mixed
+E073	9	demonstratives	syntactic
+E074	2	subword fragments	syntactic
+E075	7	historical narrative	semantic
+E076	8	adverbs/copulas	syntactic
+E077	7	geopolitical entities	semantic
+E078	9	conjunctions	syntactic
+E079	5	plural nouns	syntactic
+E080	6	decision actions	semantic
+E081	3	random nouns	mixed
+E082	8	punctuation	syntactic
+E083	4	risk/legal mix	mixed
+E084	7	temporal modifiers	syntactic
+E085	6	action verbs	semantic
+E086	8	brackets symbols	syntactic
+E087	10	punctuation	syntactic
+E088	7	roadway terms	semantic
+E089	8	reporting verbs	semantic
+E090	4	institutional nouns	mixed
+E091	9	prepositions	syntactic
+E092	8	articles	syntactic
+E093	8	auxiliary/adverbs	syntactic
+E094	8	punctuation/titles	syntactic
+E095	4	encyclopedic mix	mixed
+E096	2	random fragments	mixed
+E097	3	mixed titles	mixed
+E098	9	naval weaponry	semantic
+E099	8	indefinite pronouns	semantic

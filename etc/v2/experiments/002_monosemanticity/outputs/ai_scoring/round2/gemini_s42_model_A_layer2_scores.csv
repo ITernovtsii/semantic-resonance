@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	9	modal verbs	syntactic
+E001	9	surnames	semantic
+E002	6	subword fragments	syntactic
+E003	8	adverbs	syntactic
+E004	10	have" verb forms	syntactic
+E005	9	conjunctions	syntactic
+E006	9	determiners	syntactic
+E007	10	punctuation	syntactic
+E008	8	abstract nouns	syntactic
+E009	8	organizations/titles	semantic
+E010	10	groups of people	semantic
+E011	10	punctuation	syntactic
+E012	7	subword fragments	syntactic
+E013	7	determiners/symbols	syntactic
+E014	10	prepositions	syntactic
+E015	9	as" comparisons	syntactic
+E016	10	indefinite articles	syntactic
+E017	9	past participles	syntactic
+E018	9	conflict/warfare	semantic
+E019	8	verbs	syntactic
+E020	9	types of people	semantic
+E021	10	punctuation	syntactic
+E022	7	verbs/actions	semantic
+E023	10	first names	semantic
+E024	9	determiners	syntactic
+E025	8	prefixes	syntactic
+E026	8	punctuation/formatting	syntactic
+E027	4	mixed	mixed
+E028	8	interactions/relationships	semantic
+E029	9	prefixes	syntactic
+E030	8	attribution	syntactic
+E031	10	determiners	syntactic
+E032	10	conjunctions	syntactic
+E033	9	symbols/punctuation	syntactic
+E034	4	mixed/fragments	mixed
+E035	10	period	syntactic
+E036	10	years/time	semantic
+E037	9	abstract nouns	semantic
+E038	9	prepositions	syntactic
+E039	4	fragments/abbreviations	mixed
+E040	9	adjectives	syntactic
+E041	10	possessive pronouns	syntactic
+E042	9	geography/infrastructure	semantic
+E043	9	prepositions	syntactic
+E044	4	mixed	mixed
+E045	6	subword fragments	syntactic
+E046	10	biology/nature	semantic
+E047	8	adjectives	syntactic
+E048	10	determiners	syntactic
+E049	5	mixed/determiners	mixed
+E050	9	directions/positions	semantic
+E051	10	adverbs	syntactic
+E052	9	determiners/adjectives	syntactic
+E053	9	spatial relations	semantic
+E054	8	abbreviations	semantic
+E055	9	honorifics/initials	syntactic
+E056	10	pronouns	syntactic
+E057	7	subword roots	syntactic
+E058	9	measurements	semantic
+E059	10	abstract nouns	semantic
+E060	9	socio-political adjectives	semantic
+E061	10	prepositions	syntactic
+E062	9	verbs	syntactic
+E063	10	verbs	syntactic
+E064	9	units/counts	semantic
+E065	10	numbers	semantic
+E066	9	prepositions/usage	syntactic
+E067	10	spatial prepositions	syntactic
+E068	7	military/technical	semantic
+E069	7	location/state	semantic
+E070	10	possessive pronouns	syntactic
+E071	9	conjunctions/prepositions	syntactic
+E072	7	subword roots	syntactic
+E073	10	dates/years	semantic
+E074	10	history/dates	semantic
+E075	9	quotation/punctuation	syntactic
+E076	10	quantifiers/ordinals	syntactic
+E077	9	media/activities	semantic
+E078	10	adverbs	syntactic
+E079	10	punctuation	syntactic
+E080	9	prepositions	syntactic
+E081	9	symbols	syntactic
+E082	10	numbers	semantic
+E083	10	groups of people	semantic
+E084	9	sentence starters	syntactic
+E085	9	punctuation	syntactic
+E086	10	verbs	syntactic
+E087	8	names/fragments	semantic
+E088	10	sports/awards	semantic
+E089	9	abstract nouns	semantic
+E090	8	places/diseases/nature	semantic
+E091	10	degree adverbs	syntactic
+E092	10	copula/existential verbs	syntactic
+E093	10	prepositions	syntactic
+E094	3	mixed	mixed
+E095	10	punctuation	syntactic
+E096	10	media/entertainment	semantic
+E097	10	adverbs/transitions	syntactic
+E098	10	sequencing adjectives	syntactic
+E099	6	inclusion/punctuation	mixed

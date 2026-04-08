@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	3	mixed/unclear	mixed
+E001	7	politics/governance	semantic
+E002	9	modal verbs	syntactic
+E003	4	abstract concepts	semantic
+E004	9	prepositions/spatial	syntactic
+E005	4	mixed/unclear	mixed
+E006	9	male first names	semantic
+E007	7	prepositions/connectives	syntactic
+E008	3	single-token	mixed
+E009	3	mixed/unclear	mixed
+E010	3	proper nouns/mixed	mixed
+E011	2	mixed/unclear	mixed
+E012	2	proper nouns/mixed	mixed
+E013	7	surnames/name-parts	semantic
+E014	8	critics/reviews	semantic
+E015	3	diacritics/fragments	syntactic
+E016	7	titles/roles	semantic
+E017	7	action verbs	syntactic
+E018	5	legal/abstract nouns	semantic
+E019	7	adverbs	syntactic
+E020	1	padding token	mixed
+E021	7	movement/spatial verbs	semantic
+E022	5	military/geopolitical	semantic
+E023	7	sports/competition	semantic
+E024	3	mixed/unclear	mixed
+E025	8	prepositions/spatial	syntactic
+E026	7	hyphens/prefixes	syntactic
+E027	3	mixed/unclear	mixed
+E028	5	capitalized nouns/titles	mixed
+E029	9	spatial prepositions	syntactic
+E030	8	punctuation/quotes	syntactic
+E031	4	TV character names	semantic
+E032	6	determiners/articles	syntactic
+E033	6	gerunds/using-verbs	syntactic
+E034	10	sentence-end punctuation	syntactic
+E035	8	past-tense action verbs	syntactic
+E036	7	biology/taxonomy	semantic
+E037	7	conflict/negative verbs	semantic
+E038	6	adversative verbs	mixed
+E039	5	articles/determiners	syntactic
+E040	4	mixed/unclear	mixed
+E041	9	comma-punctuation	syntactic
+E042	3	foreign/fragments	syntactic
+E043	3	name prefixes	syntactic
+E044	5	materials/determiners	mixed
+E045	8	modal/pronoun	syntactic
+E046	9	comma-punctuation	syntactic
+E047	7	dates/years	semantic
+E048	2	single-token	mixed
+E049	1	single-token	mixed

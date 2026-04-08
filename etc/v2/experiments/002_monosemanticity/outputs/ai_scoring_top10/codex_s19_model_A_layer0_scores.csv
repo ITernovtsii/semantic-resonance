@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	usage/ability	semantic
+E001	3	subword fragments	syntactic
+E002	4	military/naval	mixed
+E003	6	people references	mixed
+E004	4	legal terms	mixed
+E005	5	sports/news	mixed
+E006	8	wh-pronouns	syntactic
+E007	8	quote punctuation	syntactic
+E008	6	state/post	mixed
+E009	7	indefinite pronouns	mixed
+E010	10	definite article	syntactic
+E011	2	random/noisy	mixed
+E012	10	until/till	syntactic
+E013	4	mixed general	mixed
+E014	6	abstract concepts	semantic
+E015	8	numbers/ordinals	syntactic
+E016	7	discourse adverbs	syntactic
+E017	2	subword fragments	syntactic
+E018	9	function words	syntactic
+E019	7	descriptive adjectives	semantic
+E020	6	connectors/punct	syntactic
+E021	8	action verbs	semantic
+E022	10	sentence punctuation	syntactic
+E023	10	prepositions	syntactic
+E024	9	punctuation marks	syntactic
+E025	5	proper names	semantic
+E026	8	be-forms	syntactic
+E027	6	articles/mixed	syntactic
+E028	7	media/culture	semantic
+E029	4	proper nouns	mixed
+E030	8	degree adjectives	semantic
+E031	2	random/noisy	mixed
+E032	7	conversational words	semantic
+E033	9	prepositions	syntactic
+E034	5	side/context	mixed
+E035	10	definite article	syntactic
+E036	6	abstract nouns	mixed
+E037	8	prepositions/punct	syntactic
+E038	5	mixed grammar	mixed
+E039	5	formal terms	semantic
+E040	10	united-term	semantic
+E041	7	qualifier adjectives	semantic
+E042	4	sentence starts	mixed
+E043	9	auxiliary verbs	syntactic
+E044	8	direction words	syntactic
+E045	6	pronouns/mixed	mixed
+E046	7	partitive/prep	syntactic
+E047	8	group/collective	semantic
+E048	7	numbers	mixed
+E049	8	descriptive science	semantic
+E050	8	function words	syntactic
+E051	9	pronouns/particles	syntactic
+E052	10	side-term	semantic
+E053	9	conjunction symbols	syntactic
+E054	6	scoring terms	semantic
+E055	5	of/side	mixed
+E056	8	units/abbrev	syntactic
+E057	8	quantifier words	syntactic
+E058	10	and/comma	syntactic
+E059	6	title/location	mixed
+E060	8	relational words	syntactic
+E061	7	capital prefixes	syntactic
+E062	8	route/path	semantic
+E063	6	geopolitical	mixed
+E064	7	transition verbs	mixed
+E065	10	modal verbs	syntactic
+E066	6	human states	semantic
+E067	7	discourse markers	syntactic
+E068	7	fractions/amounts	semantic
+E069	8	on-suffix	syntactic
+E070	7	auxiliaries	mixed
+E071	10	end-term	semantic
+E072	10	indefinite articles	syntactic
+E073	5	numbers/mixed	mixed
+E074	10	subword suffix	syntactic
+E075	8	dash/connectors	syntactic
+E076	5	geography/military	mixed
+E077	7	spatial connectors	mixed
+E078	8	spatial preps	semantic
+E079	9	colors	semantic
+E080	8	street/location	semantic
+E081	8	process verbs	semantic
+E082	8	comparison modifiers	syntactic
+E083	6	institutional nouns	semantic
+E084	6	proper names	semantic
+E085	6	abbreviations	syntactic
+E086	8	evidence/quantity	semantic
+E087	6	political/military	semantic
+E088	9	war terms	semantic
+E089	9	construction verbs	semantic
+E090	5	dates/names	mixed
+E091	5	military/mixed	mixed
+E092	10	time units	semantic
+E093	7	form/include verbs	semantic
+E094	8	frequency adverbs	semantic
+E095	9	prepositions	syntactic
+E096	6	game context	mixed
+E097	10	definite article	syntactic
+E098	9	quantifiers	syntactic
+E099	10	numbers	syntactic

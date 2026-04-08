@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	8	music	semantic
+E201	3	subwords	syntactic
+E202	6	adverbs	syntactic
+E203	6	begin/end	mixed
+E204	3	fragments	mixed
+E205	5	actions	mixed
+E206	1	random	mixed
+E207	8	past participles	syntactic
+E208	9	function words	syntactic
+E209	4	conflict/crime	mixed
+E210	3	mixed/unclear	mixed
+E211	9	quantities	semantic
+E212	7	ordinals	syntactic
+E213	8	determiners	syntactic
+E214	9	pronouns/articles	syntactic
+E215	4	mixed/unclear	mixed
+E216	5	prep/punct	syntactic
+E217	10	padding	syntactic
+E218	9	connectives	syntactic
+E219	7	auxiliary verbs	syntactic
+E220	10	numbers	syntactic
+E221	7	name fragments	syntactic
+E222	8	char fragments	syntactic
+E223	9	prepositions	syntactic
+E224	8	pronouns/articles	syntactic
+E225	10	preposition	syntactic
+E226	5	pronouns	mixed
+E227	7	prep/punct	syntactic
+E228	5	geography	mixed
+E229	7	aux/modal verbs	syntactic
+E230	8	video games	semantic
+E231	8	auxiliary verbs	syntactic
+E232	8	action verbs	syntactic
+E233	8	past verbs	syntactic
+E234	8	letter fragments	syntactic
+E235	6	adverbs	mixed
+E236	9	war/campaign	semantic
+E237	7	cost/work	semantic
+E238	9	competition	semantic
+E239	10	character	syntactic
+E240	7	action verbs	syntactic
+E241	8	letters	syntactic
+E242	8	rivers	semantic
+E243	10	punctuation	syntactic
+E244	8	music/vocal	semantic
+E245	8	winning	semantic
+E246	8	military/naval	semantic
+E247	7	punctuation	syntactic
+E248	5	civic nouns	mixed
+E249	3	mixed/unclear	mixed

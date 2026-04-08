@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	prepositions	syntactic
+E001	8	demonstratives/pronouns	syntactic
+E002	8	adjectives/nationalities	mixed
+E003	8	degree adverbs	syntactic
+E004	5	pronouns/titles	mixed
+E005	8	quotation marks	syntactic
+E006	6	capitalized prefixes	syntactic
+E007	6	history/football	semantic
+E008	9	entertainment/media	semantic
+E009	6	sentence starters	syntactic
+E010	4	punctuation	syntactic
+E011	7	abstract concepts	semantic
+E012	9	numbers	syntactic
+E013	8	prepositions	syntactic
+E014	8	movement/departure verbs	semantic
+E015	7	approximation words	syntactic
+E016	5	punctuation/mixed	mixed
+E017	8	adjectives	syntactic
+E018	9	quantifiers/numbers	syntactic
+E019	9	sentence-end punctuation	syntactic
+E020	5	negative events	semantic
+E021	7	adjectives	syntactic
+E022	7	organizations/companies	semantic
+E023	6	plural nouns/actions	mixed
+E024	8	size/degree adjectives	syntactic
+E025	5	scale adjectives	semantic
+E026	7	pronouns/determiners	syntactic
+E027	6	action/movement verbs	semantic
+E028	3	mixed capitalized words	mixed
+E029	6	plural nouns/suffixes	syntactic
+E030	7	attribution/basis	syntactic
+E031	4	abbreviations/letters	mixed
+E032	1	random subwords	mixed
+E033	5	discourse connectives	syntactic
+E034	7	movement/action verbs	semantic
+E035	8	directional prepositions	syntactic
+E036	5	punctuation	syntactic
+E037	5	articles	syntactic
+E038	5	punctuation	syntactic
+E039	8	copula/linking verbs	syntactic
+E040	7	pronouns	syntactic
+E041	7	place names/geography	semantic
+E042	4	subword fragments	syntactic
+E043	7	prepositions/inclusion	syntactic
+E044	9	sentence-end punctuation	syntactic
+E045	6	conjunctions	syntactic
+E046	7	persistence/remains	semantic
+E047	7	family/authority	semantic
+E048	7	degree adverbs/suffixes	syntactic
+E049	4	adverbs/dates	mixed
+E050	7	adjective suffixes	syntactic
+E051	8	verb inflections	syntactic
+E052	7	copula/being	syntactic
+E053	6	military/action verbs	semantic
+E054	3	articles	syntactic
+E055	5	proper nouns/media	mixed
+E056	5	past events/verbs	mixed
+E057	7	prefixes	syntactic
+E058	8	past participles	syntactic
+E059	5	appointment/selection	mixed
+E060	7	body parts	semantic
+E061	4	punctuation	syntactic
+E062	3	subword fragments	syntactic
+E063	5	punctuation	syntactic
+E064	8	adverbs	syntactic
+E065	8	possessives	syntactic
+E066	6	obligation/ability	semantic
+E067	7	apostrophes	syntactic
+E068	2	rare characters/names	mixed
+E069	6	location/discourse	mixed
+E070	4	articles	syntactic
+E071	6	creative terms/labels	mixed
+E072	5	function words	syntactic
+E073	6	surnames	syntactic
+E074	8	subordinating conjunctions	syntactic
+E075	3	mixed	mixed
+E076	8	capital letters/abbrevs	syntactic
+E077	8	perfect tense/have	syntactic
+E078	8	games/competition	semantic
+E079	4	to/into	syntactic
+E080	7	quotation/brackets	syntactic
+E081	7	beginning/starting verbs	semantic
+E082	5	conjunctions	syntactic
+E083	8	prepositions	syntactic
+E084	7	sentence starters	syntactic
+E085	3	mixed objects	mixed
+E086	8	weather/tropical storms	semantic
+E087	6	locative prepositions	syntactic
+E088	6	education/activities	semantic
+E089	7	possessives	syntactic
+E090	4	mixed verbs/discourse	mixed
+E091	8	temporal prepositions	syntactic
+E092	3	subword fragments	mixed
+E093	7	modal verbs	syntactic
+E094	3	mixed nouns/objects	mixed
+E095	8	sports/scoring	semantic
+E096	6	locative prepositions	syntactic
+E097	2	subword fragments	mixed
+E098	5	punctuation/connectives	syntactic
+E099	4	proper nouns/titles	mixed

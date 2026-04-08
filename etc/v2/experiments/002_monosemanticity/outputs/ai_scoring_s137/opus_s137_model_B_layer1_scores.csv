@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	8	definite article	syntactic
+E010	7	sentence boundaries	syntactic
+E020	7	proper noun prefixes	syntactic
+E030	8	approximation/quantity	semantic
+E040	8	do-verb forms	syntactic
+E050	3	subword fragments	syntactic
+E060	9	movement/direction	semantic
+E070	6	action/process verbs	semantic
+E080	7	comparison words	syntactic
+E090	2	mixed/unclear	mixed

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	8	directional prepositions	syntactic
+E051	9	sentence starters	syntactic
+E052	2	mixed/unclear	mixed
+E053	1	random	mixed
+E054	8	determiners/quantifiers	syntactic
+E055	3	proper names/misc	semantic
+E056	9	military/conflict	semantic
+E057	8	dates/months	semantic
+E058	9	past tense verbs	syntactic
+E059	7	adverbs	syntactic
+E060	6	verbs	syntactic
+E061	2	mixed/unclear	mixed
+E062	6	history/geography	semantic
+E063	1	random	mixed
+E064	8	contractions/endings	syntactic
+E065	4	mixed/unclear	mixed
+E066	5	history/architecture	semantic
+E067	2	mixed/unclear	mixed
+E068	2	mixed/unclear	mixed
+E069	8	suffixes	syntactic
+E070	7	punctuation/brackets	syntactic
+E071	9	punctuation	syntactic
+E072	9	adjectives	syntactic
+E073	1	random	mixed
+E074	9	perfect aspect/time	syntactic
+E075	1	random	mixed
+E076	10	3rd person verbs	syntactic
+E077	10	punctuation	syntactic
+E078	7	adjectives	syntactic
+E079	7	prepositions	syntactic
+E080	7	place name parts	semantic
+E081	1	random	mixed
+E082	1	random	mixed
+E083	9	adverbs/transitions	syntactic
+E084	9	masculine pronouns	syntactic
+E085	1	random	mixed
+E086	3	titles/misc	semantic
+E087	9	narrative verbs	syntactic
+E088	1	random	mixed
+E089	2	mixed/unclear	semantic
+E090	8	determiners	syntactic
+E091	2	mixed/unclear	mixed
+E092	5	punctuation	syntactic
+E093	6	noun suffixes	syntactic
+E094	6	time/seasons	semantic
+E095	1	random	mixed
+E096	9	capitalized prefixes	syntactic
+E097	8	word prefixes	syntactic
+E098	1	random	mixed
+E099	6	production/film	semantic

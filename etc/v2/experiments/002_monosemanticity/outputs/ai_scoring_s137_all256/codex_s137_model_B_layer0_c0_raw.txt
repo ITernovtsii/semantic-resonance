@@ -1,0 +1,50 @@
+E000	6	sports/military	semantic
+E001	2	mixed/unclear	mixed
+E002	8	naming verbs	semantic
+E003	9	subword fragments	syntactic
+E004	4	proper names	mixed
+E005	8	punctuation/function	syntactic
+E006	4	mixed/unclear	mixed
+E007	6	motion terms	semantic
+E008	9	pronouns	syntactic
+E009	3	mixed fragments	mixed
+E010	4	mixed/unclear	mixed
+E011	7	pronouns/function	syntactic
+E012	9	character fragments	syntactic
+E013	7	connectives	syntactic
+E014	8	sports stats	semantic
+E015	5	suffix fragment	syntactic
+E016	4	quotes mixed	mixed
+E017	9	adverbs	syntactic
+E018	3	mixed/unclear	mixed
+E019	2	mixed/unclear	mixed
+E020	10	prepositions	syntactic
+E021	7	auxiliaries	syntactic
+E022	4	mixed/unclear	mixed
+E023	7	composition verbs	semantic
+E024	9	temporal sequence	semantic
+E025	8	past verbs	syntactic
+E026	5	state/set	mixed
+E027	4	proper names	mixed
+E028	7	natural terms	semantic
+E029	3	single token	mixed
+E030	10	prefixes	syntactic
+E031	8	war terms	semantic
+E032	3	names/numbers	mixed
+E033	8	past verbs	syntactic
+E034	4	mixed/unclear	mixed
+E035	3	mixed tokens	mixed
+E036	6	rowing	semantic
+E037	8	modal verbs	syntactic
+E038	9	finish variants	syntactic
+E039	8	punctuation quotes	syntactic
+E040	9	pronouns/relatives	syntactic
+E041	7	percentages	semantic
+E042	9	quote punctuation	syntactic
+E043	8	auxiliary tense	syntactic
+E044	2	mixed/unclear	mixed
+E045	6	adverbs/preps	syntactic
+E046	5	currency/security	semantic
+E047	7	place names	semantic
+E048	7	function words	syntactic
+E049	6	discourse markers	syntactic

@@ -1,0 +1,51 @@
+I will read the instructions and data from `_tmp_s137_model_B_layer3_c4_gemini.txt` to generate the requested tab-separated scoring lines.
+E200	4	mixed/unclear	mixed
+E201	8	superlatives/ordinals	semantic
+E202	3	word fragments	syntactic
+E203	9	modal verbs	syntactic
+E204	6	articles/punctuation	syntactic
+E205	7	buildings/locations	semantic
+E206	4	plural nouns	syntactic
+E207	1	random	mixed
+E208	6	verbs	syntactic
+E209	5	common verbs	syntactic
+E210	5	prefixes/numbers	mixed
+E211	8	conjunctions/transitions	syntactic
+E212	10	titles/professions	semantic
+E213	4	adverbs/pronouns	syntactic
+E214	8	movement/actions	semantic
+E215	10	spatial relations	semantic
+E216	2	noisy/mixed	mixed
+E217	4	nouns/mixed	semantic
+E218	4	entities/mixed	semantic
+E219	5	common words	syntactic
+E220	6	abstract nouns/verbs	semantic
+E221	9	prepositions	syntactic
+E222	8	abstract nouns	semantic
+E223	4	pronouns/adverbs	syntactic
+E224	5	mixed/awards	mixed
+E225	8	history/geography	semantic
+E226	8	transition words	syntactic
+E227	7	letters/symbols	syntactic
+E228	10	time units	semantic
+E229	8	groups/military	semantic
+E230	8	word roots	syntactic
+E231	7	names/fragments	mixed
+E232	9	quantifiers	syntactic
+E233	5	administrative nouns	semantic
+E234	7	official actions	semantic
+E235	10	possessive pronouns	syntactic
+E236	6	determiners	syntactic
+E237	8	descriptive terms	semantic
+E238	8	articles	syntactic
+E239	9	modal verbs	syntactic
+E240	3	units/symbols	mixed
+E241	10	past participles	syntactic
+E242	6	punctuation/prepositions	syntactic
+E243	3	mixed	mixed
+E244	7	gerunds/verbs	syntactic
+E245	9	forms of have	syntactic
+E246	7	verbs	syntactic
+E247	9	modal verbs	syntactic
+E248	7	articles/punctuation	syntactic
+E249	9	social/science	semantic

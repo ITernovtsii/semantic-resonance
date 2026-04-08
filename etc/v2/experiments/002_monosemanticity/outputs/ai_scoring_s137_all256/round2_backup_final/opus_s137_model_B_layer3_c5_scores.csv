@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	4	first_names	semantic
+E251	7	movement_verbs	semantic
+E252	8	punctuation	syntactic
+E253	5	possessive/mixed	mixed
+E254	8	degree_adverbs	syntactic
+E255	3	mixed/unclear	mixed

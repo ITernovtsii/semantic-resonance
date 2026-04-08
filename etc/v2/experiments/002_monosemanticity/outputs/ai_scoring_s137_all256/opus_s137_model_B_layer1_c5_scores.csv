@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	9	be-verbs/copula	syntactic
+E251	7	definite article	syntactic
+E252	9	subword fragments	syntactic
+E253	8	conjunctions	syntactic
+E254	10	reflexive/object pronouns	syntactic
+E255	4	abstract nouns	mixed

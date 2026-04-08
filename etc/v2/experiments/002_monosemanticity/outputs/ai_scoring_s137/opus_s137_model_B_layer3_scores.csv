@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	4	capitalized modifiers	mixed
+E010	8	articles/determiners	syntactic
+E020	7	physical/spatial descriptors	semantic
+E030	5	possessives/adjectives	mixed
+E040	4	route codes/pronouns	mixed
+E050	7	determiners/temporal	syntactic
+E060	4	conversational words	semantic
+E070	8	titles/ranks	semantic
+E080	2	name fragments	mixed
+E090	2	random	mixed

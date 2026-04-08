@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	auxiliaries/modals	syntactic
+E001	8	proper names	syntactic
+E002	9	subword fragments	syntactic
+E003	7	adverbs/modals	syntactic
+E004	9	have-auxiliaries	syntactic
+E005	9	conjunctions	syntactic
+E006	9	articles	syntactic
+E007	10	quote punctuation	syntactic
+E008	7	nominalizations	syntactic
+E009	4	institutions/mixed	mixed
+E010	8	people groups	semantic
+E011	10	sentence punctuation	syntactic
+E012	6	name fragments	syntactic
+E013	8	determiners	syntactic
+E014	10	prepositions	syntactic
+E015	9	comparatives/as	syntactic
+E016	10	articles	syntactic
+E017	8	participles	syntactic
+E018	8	conflict/legal events	semantic
+E019	8	verbs	syntactic
+E020	5	person descriptors	mixed
+E021	10	comma punctuation	syntactic
+E022	7	verb stems	syntactic
+E023	8	first names	syntactic
+E024	9	determiners/possessives	syntactic
+E025	10	prefix fragments	syntactic
+E026	9	quote/bracket punctuation	syntactic
+E027	5	dates/punctuation	mixed
+E028	7	relationships/conflict	semantic
+E029	10	prefixes	syntactic
+E030	8	prepositions	syntactic
+E031	9	articles	syntactic
+E032	9	subordinators	syntactic
+E033	10	symbol punctuation	syntactic
+E034	2	random fragments	mixed
+E035	10	period punctuation	syntactic
+E036	9	dates/time	semantic
+E037	7	abstract nouns	semantic
+E038	9	prepositions	syntactic
+E039	2	random fragments	mixed
+E040	7	adjectives	syntactic
+E041	10	possessive pronouns	syntactic
+E042	8	geography/transport	semantic
+E043	8	prepositions	syntactic
+E044	2	random fragments	mixed
+E045	2	random fragments	mixed
+E046	8	nature terms	semantic
+E047	9	superlatives	syntactic
+E048	9	demonstratives	syntactic
+E049	7	determiner adjectives	syntactic
+E050	8	spatial descriptors	semantic
+E051	8	modals/adverbs	syntactic
+E052	8	determiners/adjectives	syntactic
+E053	9	spatial prepositions	syntactic
+E054	9	acronyms	syntactic
+E055	10	letters/initials	syntactic
+E056	9	pronouns	syntactic
+E057	10	subword fragments	syntactic
+E058	8	units/numbers	syntactic
+E059	7	abstract nouns	semantic
+E060	7	sociopolitical adjectives	semantic
+E061	9	temporal prepositions	syntactic
+E062	8	verbs	syntactic
+E063	8	verbs	syntactic
+E064	6	measurements/stats	mixed
+E065	10	numbers	syntactic
+E066	9	prepositions	syntactic
+E067	9	location prepositions	syntactic
+E068	6	military terms	semantic
+E069	5	adverbs/locations	mixed
+E070	10	possessive pronouns	syntactic
+E071	7	connectors	syntactic
+E072	1	random fragments	mixed
+E073	9	years/dates	semantic
+E074	9	historical periods	semantic
+E075	9	quote punctuation	syntactic
+E076	9	quantifiers/ordinals	syntactic
+E077	5	plural nouns	mixed
+E078	10	-ly adverbs	syntactic
+E079	10	punctuation	syntactic
+E080	8	prepositions	syntactic
+E081	10	hyphen symbols	syntactic
+E082	10	numbers	syntactic
+E083	8	people groups	semantic
+E084	8	quantifiers	syntactic
+E085	9	punctuation	syntactic
+E086	8	verbs	syntactic
+E087	8	proper names	syntactic
+E088	9	sports terms	semantic
+E089	5	abstract plurals	mixed
+E090	5	geopolitics/disease	mixed
+E091	9	degree adverbs	syntactic
+E092	9	be-forms	syntactic
+E093	8	prepositions	syntactic
+E094	2	random fragments	mixed
+E095	10	period punctuation	syntactic
+E096	9	music/film	semantic
+E097	9	temporal adverbs	syntactic
+E098	8	adjectives	syntactic
+E099	6	inclusion markers	mixed

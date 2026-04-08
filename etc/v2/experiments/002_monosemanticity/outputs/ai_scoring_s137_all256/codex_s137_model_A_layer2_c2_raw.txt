@@ -1,0 +1,50 @@
+E100	7	auxiliary verbs	syntactic
+E101	2	subword fragments	syntactic
+E102	4	tropical/mixed	mixed
+E103	10	first names	semantic
+E104	9	possessive pronouns	syntactic
+E105	7	quotes punctuation	syntactic
+E106	5	plural nouns	syntactic
+E107	9	modal verbs	syntactic
+E108	1	random	mixed
+E109	9	subword fragments	syntactic
+E110	7	function words	syntactic
+E111	7	personal pronouns	syntactic
+E112	8	people roles	semantic
+E113	3	mixed nouns	mixed
+E114	9	demonstratives	syntactic
+E115	10	subword letters	syntactic
+E116	2	random objects	mixed
+E117	8	quantifier words	syntactic
+E118	10	measurement units	semantic
+E119	7	action verbs	syntactic
+E120	6	verb forms	syntactic
+E121	6	titlecase words	syntactic
+E122	8	social roles	semantic
+E123	8	comparison grammar	syntactic
+E124	9	discourse adverbs	syntactic
+E125	10	possessive pronouns	syntactic
+E126	2	mixed fragments	mixed
+E127	8	adjectives	syntactic
+E128	10	numbers	syntactic
+E129	7	at/near terms	syntactic
+E130	2	random	mixed
+E131	4	capitalized mix	mixed
+E132	2	random nouns	mixed
+E133	5	history/civics	mixed
+E134	8	past participles	syntactic
+E135	7	verb forms	syntactic
+E136	10	contrast conjunctions	syntactic
+E137	9	coordinating conjunctions	syntactic
+E138	7	purpose markers	syntactic
+E139	6	articles	pronouns	syntactic
+E140	8	comparatives	syntactic
+E141	9	reflexive pronouns	syntactic
+E142	9	prepositions	syntactic
+E143	10	spatial prepositions	syntactic
+E144	3	mixed nouns	mixed
+E145	9	article punctuation	syntactic
+E146	8	initial clusters	syntactic
+E147	7	ly adverbs	syntactic
+E148	9	prepositions	syntactic
+E149	8	titles naming	semantic

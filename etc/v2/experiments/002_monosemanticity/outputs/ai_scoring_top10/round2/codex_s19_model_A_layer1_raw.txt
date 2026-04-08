@@ -1,0 +1,100 @@
+E000	10	prepositions	syntactic
+E001	9	demonstratives	syntactic
+E002	6	adjectives	syntactic
+E003	10	degree adverbs	syntactic
+E004	2	mixed/unclear	mixed
+E005	10	quotation marks	syntactic
+E006	1	random	mixed
+E007	4	history/sports	mixed
+E008	7	music media	semantic
+E009	8	number markers	syntactic
+E010	7	punctuation	syntactic
+E011	6	mental states	semantic
+E012	8	numeric codes	syntactic
+E013	10	prepositions	syntactic
+E014	8	departure motion	semantic
+E015	10	approximation terms	semantic
+E016	10	punctuation pairs	syntactic
+E017	5	mixed adjectives	mixed
+E018	9	number words	syntactic
+E019	9	sentence punctuation	syntactic
+E020	3	mixed/unclear	mixed
+E021	6	descriptors	mixed
+E022	8	companies/workforce	semantic
+E023	4	generic nouns	mixed
+E024	7	qualitative adjectives	mixed
+E025	4	mixed/unclear	mixed
+E026	9	pronouns/articles	syntactic
+E027	7	action verbs	semantic
+E028	2	random names	mixed
+E029	8	suffix fragments	syntactic
+E030	7	relational terms	syntactic
+E031	5	abbreviations	mixed
+E032	1	random	mixed
+E033	7	discourse markers	syntactic
+E034	7	motion verbs	semantic
+E035	9	on-prepositions	syntactic
+E036	8	punctuation	syntactic
+E037	8	articles	syntactic
+E038	9	punctuation	syntactic
+E039	9	be-forms	syntactic
+E040	9	pronouns	syntactic
+E041	6	place names	semantic
+E042	2	mixed fragments	mixed
+E043	8	inclusion verbs	semantic
+E044	10	punctuation endings	syntactic
+E045	10	coordinators	syntactic
+E046	9	remaining/survival	semantic
+E047	3	mixed/unclear	mixed
+E048	8	modifier adverbs	syntactic
+E049	4	adverbs+years	mixed
+E050	8	affixes/adjectives	syntactic
+E051	10	verb suffixes	syntactic
+E052	10	be-forms	syntactic
+E053	7	impact verbs	semantic
+E054	10	definite article	syntactic
+E055	4	proper names	mixed
+E056	6	history conflict	semantic
+E057	8	prefix fragments	syntactic
+E058	8	participle states	syntactic
+E059	7	appointments	natural language??semantic
+E060	6	body/leadership	semantic
+E061	10	comma/paren	syntactic
+E062	2	subword fragments	mixed
+E063	9	punctuation	syntactic
+E064	6	adverbials	mixed
+E065	10	possessives	syntactic
+E066	3	mixed/unclear	mixed
+E067	10	apostrophes	syntactic
+E068	9	diacritics	syntactic
+E069	8	deictic words	syntactic
+E070	8	articles/possessives	syntactic
+E071	7	song terms	semantic
+E072	4	mixed function	mixed
+E073	8	surnames	semantic
+E074	7	connectives	syntactic
+E075	3	mixed symbols	mixed
+E076	8	capital abbreviations	syntactic
+E077	9	have-forms	syntactic
+E078	7	combat sports	semantic
+E079	6	to/into	syntactic
+E080	10	quotes/brackets	syntactic
+E081	8	start-stop verbs	semantic
+E082	9	conjunctions	syntactic
+E083	9	directional prepositions	syntactic
+E084	8	temporal markers	syntactic
+E085	2	random	mixed
+E086	9	hurricane weather	semantic
+E087	8	at-prepositions	syntactic
+E088	3	mixed/unclear	mixed
+E089	10	possessive pronouns	syntactic
+E090	5	like/have mix	mixed
+E091	9	spatiotemporal preps	syntactic
+E092	8	mycology	semantic
+E093	9	modal verbs	syntactic
+E094	5	nature mix	mixed
+E095	9	sports stats	semantic
+E096	9	in-prepositions	syntactic
+E097	1	random fragments	mixed
+E098	6	punctuation mix	mixed
+E099	2	random names	mixed

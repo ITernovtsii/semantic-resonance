@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	3	mixed/unclear	mixed
+E151	10	punctuation	syntactic
+E152	7	plural nouns	syntactic
+E153	4	mixed/unclear	mixed
+E154	2	mixed/unclear	mixed
+E155	9	prepositions	syntactic
+E156	3	mixed/unclear	mixed
+E157	2	mixed/unclear	mixed
+E158	8	proper names	semantic
+E159	8	articles	syntactic
+E160	7	relative pronouns	syntactic
+E161	10	punctuation	syntactic
+E162	7	prepositions	syntactic
+E163	8	verb forms	syntactic
+E164	10	punctuation	syntactic
+E165	2	mixed/unclear	mixed
+E166	9	punctuation	syntactic
+E167	9	subword fragments	syntactic
+E168	8	connectives	syntactic
+E169	10	possessive pronouns	syntactic
+E170	8	adjectives	syntactic
+E171	4	subword mix	mixed
+E172	4	abstract nouns	mixed
+E173	6	quantity/counting	semantic
+E174	7	punctuation	syntactic
+E175	9	possessives	syntactic
+E176	9	conjunctions	syntactic
+E177	9	subword fragments	syntactic
+E178	8	verb forms	syntactic
+E179	9	determiners	syntactic
+E180	7	verb fragments	syntactic
+E181	8	quantifiers	syntactic
+E182	8	conjunctions	syntactic
+E183	8	punctuation	syntactic
+E184	5	proper nouns	mixed
+E185	10	adverbs	syntactic
+E186	9	subword fragments	syntactic
+E187	10	adjectives	syntactic
+E188	7	plural nouns	syntactic
+E189	9	subword fragments	syntactic
+E190	3	mixed/unclear	mixed
+E191	8	have-forms	syntactic
+E192	9	subword fragments	syntactic
+E193	10	prepositions	syntactic
+E194	5	function tokens	mixed
+E195	10	quantifiers	syntactic
+E196	6	history/geography	semantic
+E197	10	prepositions	syntactic
+E198	7	relational terms	syntactic
+E199	3	mixed stems	mixed

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	8	prepositions	syntactic
+E151	6	infrastructure	semantic
+E152	7	names/history	semantic
+E153	9	determiners	syntactic
+E154	1	random	mixed
+E155	9	business/legal	semantic
+E156	8	world war	semantic
+E157	8	arts/media	semantic
+E158	6	numbers/mixed	mixed
+E159	7	narrative/conflict	semantic
+E160	7	diplomacy/events	semantic
+E161	10	verbs	syntactic
+E162	4	prefix a	syntactic
+E163	1	random	mixed
+E164	8	ing-verbs	syntactic
+E165	9	function words	syntactic
+E166	9	sports	semantic
+E167	10	punctuation	syntactic
+E168	6	punctuation	syntactic
+E169	9	description verbs	semantic
+E170	1	random	mixed
+E171	9	punctuation	syntactic
+E172	7	auxiliary verbs	syntactic
+E173	8	subwords	syntactic
+E174	10	numbers	syntactic
+E175	8	sports/action	semantic
+E176	6	legal/history	semantic
+E177	1	random	mixed
+E178	4	mixed/subwords	mixed
+E179	8	people/roles	semantic
+E180	4	meet/met	semantic
+E181	2	random	mixed
+E182	6	people/mixed	mixed
+E183	1	random	mixed
+E184	10	gender	semantic
+E185	10	punctuation	syntactic
+E186	9	indefinite pronouns	syntactic
+E187	8	prepositions/adverbs	syntactic
+E188	1	random	mixed
+E189	1	random	mixed
+E190	8	open/closed	semantic
+E191	5	verbs	semantic
+E192	6	adverbs	syntactic
+E193	10	number words	semantic
+E194	6	names	semantic
+E195	4	mixed/connectors	mixed
+E196	8	music/quotes	mixed
+E197	9	determiners	syntactic
+E198	8	punctuation	syntactic
+E199	1	random	mixed

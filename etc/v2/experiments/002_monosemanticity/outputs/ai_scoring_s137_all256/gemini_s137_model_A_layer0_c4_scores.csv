@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	9	music/audio	semantic
+E201	4	naming/fragments	mixed
+E202	5	adverbs/mixed	mixed
+E203	7	start/end	semantic
+E204	2	fragments	syntactic
+E205	6	analytical verbs	semantic
+E206	4	history/mixed	semantic
+E207	8	past participles	syntactic
+E208	9	prepositions/pronouns	syntactic
+E209	5	crime/conflict	semantic
+E210	3	mixed	mixed
+E211	10	quantities	semantic
+E212	7	ordinal/comparison	semantic
+E213	9	determiners	syntactic
+E214	9	articles/pronouns	syntactic
+E215	5	geography/time	semantic
+E216	2	random	mixed
+E217	10	padding	syntactic
+E218	9	conjunctions	syntactic
+E219	7	auxiliary verbs	syntactic
+E220	10	numbers	syntactic
+E221	2	fragments	syntactic
+E222	2	characters	syntactic
+E223	7	prepositions	syntactic
+E224	5	common words	syntactic
+E225	2	random	syntactic
+E226	3	mixed	mixed
+E227	3	mixed	mixed
+E228	4	common/geographic	mixed
+E229	6	ability/auxiliary	semantic
+E230	8	video games	semantic
+E231	8	past auxiliary	syntactic
+E232	9	active verbs	syntactic
+E233	8	past verbs	syntactic
+E234	7	syllables	syntactic
+E235	4	common/time	mixed
+E236	9	war/campaigns	semantic
+E237	8	finance/value	semantic
+E238	10	sports/games	semantic
+E239	1	random	syntactic
+E240	6	action verbs	semantic
+E241	2	characters	syntactic
+E242	7	geography	semantic
+E243	10	punctuation	syntactic
+E244	9	music/vocals	semantic
+E245	8	competition	semantic
+E246	9	naval/military	semantic
+E247	3	mixed	mixed
+E248	7	infrastructure	semantic
+E249	2	random	mixed

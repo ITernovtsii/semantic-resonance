@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the required scoring lines.
+E000	8	verbs/actions	syntactic
+E001	9	transitions/adverbs	syntactic
+E002	8	punctuation	syntactic
+E003	10	foreign characters	syntactic
+E004	7	materials/nature	semantic
+E005	9	quotes/brackets	syntactic
+E006	8	punctuation	syntactic
+E007	4	mixed/unclear	mixed
+E008	4	mixed/unclear	mixed
+E009	9	pronouns/names	syntactic
+E010	1	common words	mixed
+E011	10	prepositions	syntactic
+E012	6	proper nouns	semantic
+E013	8	prepositions/time	syntactic
+E014	8	articles/determiners	syntactic
+E015	10	pronouns	syntactic
+E016	9	organizations	semantic
+E017	4	mixed/punctuation	mixed
+E018	3	mixed/unclear	mixed
+E019	10	verb "have"	syntactic
+E020	10	first names	semantic
+E021	10	possessives	syntactic
+E022	9	capitalized pronouns	syntactic
+E023	10	prepositions	syntactic
+E024	10	prepositions	syntactic
+E025	10	prepositions	syntactic
+E026	10	numbers	syntactic
+E027	7	word fragments	syntactic
+E028	2	mixed/unclear	mixed
+E029	6	logical connectors	syntactic
+E030	7	subword fragments	syntactic
+E031	8	narrative adverbs/verbs	syntactic
+E032	9	prepositions	syntactic
+E033	8	names	semantic
+E034	7	transitions/punctuation	syntactic
+E035	3	mixed/unclear	mixed
+E036	2	common words	mixed
+E037	10	time prepositions	syntactic
+E038	9	connectors	syntactic
+E039	7	formal vocabulary	semantic
+E040	8	physical objects/measures	semantic
+E041	10	indefinite articles	syntactic
+E042	2	mixed/unclear	mixed
+E043	2	mixed/unclear	mixed
+E044	3	mixed/unclear	mixed
+E045	7	abstract nouns	semantic
+E046	8	verbs	semantic
+E047	7	prepositions	syntactic
+E048	7	science/nature	semantic
+E049	10	numbers	syntactic
+E050	10	roles/titles	semantic
+E051	8	punctuation/quotes	syntactic
+E052	7	events/topics	semantic
+E053	2	mixed/unclear	mixed
+E054	8	formal adjectives	semantic
+E055	9	connectors	syntactic
+E056	10	media/entertainment	semantic
+E057	9	determiners/adjectives	syntactic
+E058	5	mixed/verbs	mixed
+E059	10	nationalities	semantic
+E060	10	geography/locations	semantic
+E061	10	transitions	syntactic
+E062	10	numbers/quantifiers	syntactic
+E063	2	mixed/unclear	mixed
+E064	6	mixed/adverbs	mixed
+E065	8	verbs/adjectives	semantic
+E066	4	mixed/unclear	mixed
+E067	6	sports/activities	semantic
+E068	8	military/geography	semantic
+E069	8	logistics/transport	semantic
+E070	3	mixed/unclear	mixed
+E071	10	prepositions	syntactic
+E072	9	relations/prepositions	syntactic
+E073	9	inclusion/possession	syntactic
+E074	10	punctuation	syntactic
+E075	8	science/nature	semantic
+E076	3	mixed/unclear	mixed
+E077	10	proper names	semantic
+E078	8	meteorology	semantic
+E079	9	relative pronouns	syntactic
+E080	7	formal nouns	semantic
+E081	8	function words	syntactic
+E082	10	punctuation	syntactic
+E083	8	punctuation/special	syntactic
+E084	10	numbers	syntactic
+E085	7	punctuation/mixed	mixed
+E086	9	names/pop culture	semantic
+E087	10	logical connectors	syntactic
+E088	8	transport/vehicles	semantic
+E089	9	history/military	semantic
+E090	8	characters/suffixes	syntactic
+E091	8	punctuation/hyphens	syntactic
+E092	10	verb suffixes	syntactic
+E093	9	articles	syntactic
+E094	10	prepositions	syntactic
+E095	9	punctuation	syntactic
+E096	2	mixed/unclear	mixed
+E097	10	sports	semantic
+E098	9	movement verbs	semantic
+E099	4	mixed/unclear	mixed

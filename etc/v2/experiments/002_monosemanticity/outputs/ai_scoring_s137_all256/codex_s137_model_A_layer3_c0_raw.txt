@@ -1,0 +1,50 @@
+E000	5	mixed/unclear	mixed
+E001	7	politics/government	semantic
+E002	9	modal verbs	syntactic
+E003	6	abstract discourse	semantic
+E004	10	prepositions	syntactic
+E005	7	participation/actions	semantic
+E006	9	male names	semantic
+E007	7	connectors/preps	syntactic
+E008	10	country	semantic
+E009	3	mixed/unclear	mixed
+E010	4	proper nouns	mixed
+E011	2	mixed/unclear	mixed
+E012	3	proper nouns	mixed
+E013	7	name fragments	mixed
+E014	9	reviewers/critics	semantic
+E015	4	char fragments	syntactic
+E016	8	occupations	semantic
+E017	8	action verbs	syntactic
+E018	7	abstract nouns	semantic
+E019	8	adverbs	syntactic
+E020	10	special token	syntactic
+E021	7	route movement	semantic
+E022	7	military terms	semantic
+E023	8	sports competition	semantic
+E024	3	mixed/unclear	mixed
+E025	9	spatial preps	syntactic
+E026	9	prefix/hyphen	syntactic
+E027	3	mixed/unclear	mixed
+E028	7	military terms	semantic
+E029	10	spatial preps	syntactic
+E030	9	punctuation	syntactic
+E031	6	pop culture	semantic
+E032	8	determiners/modifiers	syntactic
+E033	7	verb forms	syntactic
+E034	10	punctuation	syntactic
+E035	8	past verbs	syntactic
+E036	8	biology taxonomy	semantic
+E037	7	conflict actions	semantic
+E038	6	mixed verbs	mixed
+E039	9	articles/determiners	syntactic
+E040	7	prepositions	syntactic
+E041	10	punctuation	syntactic
+E042	2	mixed fragments	mixed
+E043	6	name fragments	mixed
+E044	6	materials	semantic
+E045	8	modals/pronouns	syntactic
+E046	10	punctuation	syntactic
+E047	9	dates/time	semantic
+E048	4	mixed/unclear	mixed
+E049	10	determiner	syntactic

@@ -1,0 +1,50 @@
+E050	4	subword fragments	syntactic
+E051	2	mixed/unclear	mixed
+E052	7	construction/concepts	semantic
+E053	6	word formation	syntactic
+E054	10	prepositions	syntactic
+E055	8	geography	semantic
+E056	8	pronouns	syntactic
+E057	8	political history	semantic
+E058	8	auxiliary verbs	syntactic
+E059	7	measurement units	semantic
+E060	6	punctuation/function	syntactic
+E061	4	mixed/unclear	mixed
+E062	4	mixed/unclear	mixed
+E063	9	conjunction/relative words	syntactic
+E064	3	mixed/unclear	mixed
+E065	8	development/release	semantic
+E066	6	character fragments	syntactic
+E067	3	mixed/unclear	mixed
+E068	8	auxiliary verbs	syntactic
+E069	7	pronouns/determiners	syntactic
+E070	8	punctuation	syntactic
+E071	7	damage/actions	semantic
+E072	8	imperial history	semantic
+E073	8	past-tense verbs	syntactic
+E074	4	mixed/unclear	mixed
+E075	8	geography	semantic
+E076	8	modal verbs	syntactic
+E077	9	connectors/punctuation	syntactic
+E078	2	mixed/unclear	mixed
+E079	9	prepositions/connectors	syntactic
+E080	1	random	mixed
+E081	6	civic infrastructure	semantic
+E082	7	determiners	syntactic
+E083	8	play/games	semantic
+E084	4	subword fragments	syntactic
+E085	8	temporal adverbs	syntactic
+E086	4	mixed/unclear	mixed
+E087	8	crossing terms	semantic
+E088	5	personal-life terms	mixed
+E089	9	begin/end verbs	semantic
+E090	9	be/have verbs	syntactic
+E091	8	articles/function words	syntactic
+E092	6	war/infrastructure	mixed
+E093	8	modal/aux verbs	syntactic
+E094	5	similarity terms	semantic
+E095	10	prepositions	syntactic
+E096	5	tech/personnel	mixed
+E097	3	mixed/unclear	mixed
+E098	7	organizational concepts	semantic
+E099	4	mixed/unclear	mixed

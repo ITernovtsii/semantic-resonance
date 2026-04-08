@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	discourse adverbs	syntactic
+E001	4	military/action nouns	mixed
+E002	4	domain adjectives	mixed
+E003	6	accomplishment verbs	mixed
+E004	7	road/expressway terms	semantic
+E005	4	action verbs	mixed
+E006	5	demonstrative determiners	syntactic
+E007	4	title abbreviations	mixed
+E008	7	closing punctuation	syntactic
+E009	4	abstract nouns	mixed
+E010	5	past participles	mixed
+E011	6	spatial/physical nouns	semantic
+E012	5	opposition/support	mixed
+E013	5	informal/dialogue	mixed
+E014	4	mixed verbs/adverbs	mixed
+E015	3	two tokens only	mixed
+E016	6	helping/modal verbs	syntactic
+E017	5	geographic names	semantic
+E018	5	temporal adjectives	syntactic
+E019	7	first names	semantic
+E020	4	abstract nouns	mixed
+E021	3	abbreviations/symbols	mixed
+E022	7	geographic size adj	semantic
+E023	4	artistic adjectives	mixed
+E024	3	non-latin/rare chars	mixed
+E025	3	non-latin/rare chars	mixed
+E026	5	descriptive adjectives	mixed
+E027	6	inclusion/contain verbs	syntactic
+E028	5	role/title words	semantic
+E029	4	weather/single word	mixed
+E030	3	album/ellipsis	mixed
+E031	4	name-initial syllables	syntactic
+E032	5	cognition/emotion	semantic
+E033	4	adverb/people mixed	mixed
+E034	5	pronoun/question words	syntactic
+E035	4	mixed adjectives	mixed
+E036	3	plural nouns mixed	mixed
+E037	7	quantity determiners	syntactic
+E038	6	concessive conjunctions	syntactic
+E039	4	years/identification	mixed
+E040	8	degree adverbs	syntactic
+E041	3	proper nouns mixed	mixed
+E042	5	praise/criticism verbs	mixed
+E043	6	punctuation/operators	syntactic
+E044	3	military/mixed names	mixed
+E045	5	government/political	semantic
+E046	3	period/sentence end	syntactic
+E047	3	single word	mixed
+E048	4	action/demanding verbs	mixed
+E049	5	sports/numbers mix	mixed
+E050	3	mixed years/titles	mixed
+E051	5	calendar months	semantic
+E052	4	modal verbs/mixed	mixed
+E053	3	mixed genre/words	mixed
+E054	3	group nouns/political	mixed
+E055	9	sentence-end punctuation	syntactic
+E056	3	nature/plural nouns	mixed
+E057	7	discourse connectors	syntactic
+E058	3	organization names	mixed
+E059	7	role/title nouns	semantic
+E060	5	articles/adjectives	syntactic
+E061	5	species/nature words	mixed
+E062	5	European name BPE	semantic
+E063	4	determiners	syntactic
+E064	4	mixed prepositions	syntactic
+E065	4	crime/history abstract	mixed
+E066	5	adjectives military	mixed
+E067	4	adverb/verb mixed	mixed
+E068	5	evaluative adjectives	semantic
+E069	6	location prepositions	syntactic
+E070	6	quantity/approximation	syntactic
+E071	3	mixed nouns	mixed
+E072	7	have/receive verbs	syntactic
+E073	3	abbreviation codes	mixed
+E074	8	military measurements	semantic
+E075	4	action verbs/preps	mixed
+E076	3	mixed nouns/objects	mixed
+E077	4	become/state verbs	syntactic
+E078	3	single case/that	mixed
+E079	6	frequency adverbs	syntactic
+E080	3	determiners few	syntactic
+E081	4	mixed domain nouns	mixed
+E082	3	single period	syntactic
+E083	3	mixed verbs/places	mixed
+E084	3	vation/there/period	mixed
+E085	3	access/series/punct	mixed
+E086	3	BPE/random mixed	mixed
+E087	4	group nouns/officials	mixed
+E088	5	social domain adj	semantic
+E089	6	negation/quantity	syntactic
+E090	8	first names	semantic
+E091	8	tropical weather	semantic
+E092	3	mixed media nouns	mixed
+E093	4	location/dating verbs	mixed
+E094	3	mixed words	mixed
+E095	7	passive participles	syntactic
+E096	3	mixed informal BPE	mixed
+E097	8	measurement units	semantic
+E098	5	punctuation/discourse	syntactic
+E099	7	difficulty/problem	semantic

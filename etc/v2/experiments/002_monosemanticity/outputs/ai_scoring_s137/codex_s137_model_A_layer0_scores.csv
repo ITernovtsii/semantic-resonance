@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	10	punctuation	syntactic
+E010	8	function words	syntactic
+E020	4	mixed/unclear	mixed
+E030	9	prepositions	syntactic
+E040	5	function+number	mixed
+E050	7	conflict narrative	semantic
+E060	7	verb forms	syntactic
+E070	3	mixed fragments	mixed
+E080	2	random function	mixed
+E090	10	punctuation	syntactic

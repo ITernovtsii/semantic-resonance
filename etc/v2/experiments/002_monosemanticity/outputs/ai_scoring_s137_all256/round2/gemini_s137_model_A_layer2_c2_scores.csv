@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	6	auxiliary/adverbs	mixed
+E101	8	name fragments	syntactic
+E102	5	tropical/nearby	semantic
+E103	10	personal names	semantic
+E104	10	possessive pronouns	syntactic
+E105	8	punctuation/quotes	syntactic
+E106	10	plural nouns	syntactic
+E107	9	modal verbs	syntactic
+E108	4	miscellaneous nouns	semantic
+E109	10	subword fragments	syntactic
+E110	8	determiners	syntactic
+E111	8	pronouns	syntactic
+E112	9	groups/professions	semantic
+E113	6	abstract nouns	semantic
+E114	10	demonstratives	syntactic
+E115	9	short fragments	syntactic
+E116	5	concrete nouns	semantic
+E117	9	prepositions	syntactic
+E118	10	measurement units	semantic
+E119	9	verbs	syntactic
+E120	6	verbs/connectives	mixed
+E121	3	capitalized words	mixed
+E122	9	roles/occupations	semantic
+E123	8	comparisons	syntactic
+E124	10	adverbs	syntactic
+E125	10	possessive pronouns	syntactic
+E126	2	mixed/unclear	mixed
+E127	8	adjectives	syntactic
+E128	10	3-digit numbers	syntactic
+E129	7	location/arrival	semantic
+E130	4	miscellaneous nouns	semantic
+E131	6	geographical/proper	semantic
+E132	4	concrete nouns	semantic
+E133	7	social/historical	semantic
+E134	10	past participles	syntactic
+E135	8	verbs	syntactic
+E136	10	contrastive conjunctions	syntactic
+E137	7	conjunctions/punctuation	syntactic
+E138	6	action/purpose	mixed
+E139	4	stop words	syntactic
+E140	9	comparisons/degree	syntactic
+E141	10	pronouns	syntactic
+E142	10	prepositions	syntactic
+E143	10	spatial prepositions	semantic
+E144	3	miscellaneous nouns	semantic
+E145	5	articles/punctuation	syntactic
+E146	9	abbreviations/prefixes	syntactic
+E147	8	adverbs	syntactic
+E148	10	prepositions	syntactic
+E149	8	titles/naming	semantic

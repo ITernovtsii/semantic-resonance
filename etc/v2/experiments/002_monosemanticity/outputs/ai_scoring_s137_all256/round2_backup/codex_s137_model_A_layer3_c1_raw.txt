@@ -1,0 +1,50 @@
+E050	7	punctuation	mixed
+E051	3	mixed/unclear	mixed
+E052	4	discourse words	mixed
+E053	6	entertainment terms	semantic
+E054	6	proper names	semantic
+E055	4	mixed/unclear	mixed
+E056	8	media/literature	semantic
+E057	10	pronouns	syntactic
+E058	4	mixed/unclear	mixed
+E059	1	random	mixed
+E060	8	function words	syntactic
+E061	8	verb forms	syntactic
+E062	2	mixed/unclear	mixed
+E063	9	adjectives	syntactic
+E064	9	subword stems	syntactic
+E065	4	mixed/unclear	mixed
+E066	3	mixed/unclear	mixed
+E067	5	abstract nouns	mixed
+E068	7	pop culture	semantic
+E069	8	geographic places	semantic
+E070	9	copula verbs	syntactic
+E071	9	past verbs	syntactic
+E072	10	punctuation	syntactic
+E073	7	ideology adjectives	semantic
+E074	3	mixed/unclear	mixed
+E075	8	auxiliary verbs	syntactic
+E076	6	naming/status	mixed
+E077	9	conjunctions	syntactic
+E078	10	sports	semantic
+E079	2	pregnancy	semantic
+E080	2	mixed/unclear	mixed
+E081	7	geopolitical adjectives	semantic
+E082	10	discourse markers	syntactic
+E083	8	reporting verbs	syntactic
+E084	8	superlatives	syntactic
+E085	10	conjunctions	syntactic
+E086	9	be verbs	syntactic
+E087	6	verb/prep mix	mixed
+E088	10	wh-words	syntactic
+E089	7	structural descriptors	semantic
+E090	9	modals	syntactic
+E091	7	place-name parts	syntactic
+E092	3	mixed/unclear	mixed
+E093	8	participle verbs	syntactic
+E094	8	have forms	syntactic
+E095	9	prepositions	syntactic
+E096	7	regional terms	semantic
+E097	6	proper names	semantic
+E098	2	numbers	syntactic
+E099	2	punctuation	syntactic

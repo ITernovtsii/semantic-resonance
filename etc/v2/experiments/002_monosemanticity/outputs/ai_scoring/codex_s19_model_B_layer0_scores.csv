@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	9	pronouns/determiners	syntactic
+E001	8	subword prefixes	syntactic
+E002	7	determiners/pronouns	syntactic
+E003	10	prepositions	syntactic
+E004	9	auxiliary verbs	syntactic
+E005	7	conjunctions/punctuation	syntactic
+E006	10	subordinator	syntactic
+E007	1	random fragments	mixed
+E008	10	quotation marks	syntactic
+E009	7	temporal discourse	syntactic
+E010	2	random fragments	mixed
+E011	8	prefixes	syntactic
+E012	7	plurals/suffixes	syntactic
+E013	8	adjectives/adverbs	syntactic
+E014	1	random tokens	mixed
+E015	10	article	mixed
+E016	7	social governance	semantic
+E017	8	punctuation endings	syntactic
+E018	10	preposition	syntactic
+E019	8	logical connectives	syntactic
+E020	9	adverbials	syntactic
+E021	9	determiners	syntactic
+E022	9	punctuation	syntactic
+E023	6	US terms	semantic
+E024	10	past auxiliary	syntactic
+E025	8	suffix er	syntactic
+E026	9	subword suffixes	syntactic
+E027	9	numbers/currency	syntactic
+E028	3	mixed stopwords	mixed
+E029	5	physical descriptors	semantic
+E030	8	past verbs	syntactic
+E031	4	vehicle/war mix	mixed
+E032	2	random nouns	mixed
+E033	9	connective adverbs	syntactic
+E034	10	article	mixed
+E035	7	measurements/properties	semantic
+E036	9	modal auxiliaries	syntactic
+E037	3	mixed entities	mixed
+E038	1	random entities	mixed
+E039	10	article	mixed
+E040	2	capitalized fragments	mixed
+E041	10	article	mixed
+E042	8	gradable adjectives	syntactic
+E043	7	sequence/completion	semantic
+E044	7	past verbs	syntactic
+E045	5	relative/month	mixed
+E046	6	death/units	mixed
+E047	8	action verbs	syntactic
+E048	8	articles/quotes	syntactic
+E049	2	random acronyms	mixed
+E050	9	articles/one	syntactic
+E051	6	plural collectives	semantic
+E052	8	connectives/punctuation	syntactic
+E053	9	music terms	semantic
+E054	4	mixed verbs	mixed
+E055	9	subword chunks	syntactic
+E056	10	articles	syntactic
+E057	10	prepositions/conjunctions	syntactic
+E058	3	random capitalized	mixed
+E059	10	dashes/apostrophe	syntactic
+E060	10	article	mixed
+E061	9	prepositions	syntactic
+E062	9	subword syllables	syntactic
+E063	5	pronouns mixed	mixed
+E064	9	roads/highways	semantic
+E065	8	temporal markers	syntactic
+E066	9	directional particles	syntactic
+E067	9	pronouns possessive	syntactic
+E068	4	weak legal	mixed
+E069	9	subword suffixes	syntactic
+E070	4	mixed function	mixed
+E071	3	titlecase fragments	mixed
+E072	1	random proper	mixed
+E073	9	articles/stopwords	syntactic
+E074	8	verb turn	syntactic
+E075	4	mixed adverbials	mixed
+E076	10	numbers	syntactic
+E077	8	punctuation	syntactic
+E078	10	male pronouns	syntactic
+E079	9	function words	syntactic
+E080	10	apostrophe-s	syntactic
+E081	9	sports	semantic
+E082	6	nationality terms	semantic
+E083	8	works/performance	semantic
+E084	4	places/units	mixed
+E085	9	naval engineering	semantic
+E086	8	verb lemmas	syntactic
+E087	8	legal testimony	semantic
+E088	8	punctuation+aux	syntactic
+E089	8	auxiliary phrase	syntactic
+E090	3	mixed fragment	mixed
+E091	7	quotes/articles	syntactic
+E092	8	biography verbs	syntactic
+E093	7	civic places	semantic
+E094	7	participles/actions	syntactic
+E095	5	general qualifiers	mixed
+E096	9	ordinals/adjectives	syntactic
+E097	2	sparse tokens	mixed
+E098	9	phrasal particles	syntactic
+E099	9	punctuation/connectors	syntactic

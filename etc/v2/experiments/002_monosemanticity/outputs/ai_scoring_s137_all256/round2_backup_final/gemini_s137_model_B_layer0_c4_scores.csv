@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	10	general	semantic
+E201	5	countries/pronouns	mixed
+E202	10	political figures	semantic
+E203	10	geography/locations	semantic
+E204	5	history/culture	mixed
+E205	3	mixed/unclear	mixed
+E206	4	mixed/unclear	mixed
+E207	10	pronouns	syntactic
+E208	8	structural/divisions	semantic
+E209	6	causality	mixed
+E210	5	verbs/mixed	mixed
+E211	6	determiners	syntactic
+E212	10	conjunctions	syntactic
+E213	10	sentence starters	syntactic
+E214	10	architecture/buildings	semantic
+E215	1	random	mixed
+E216	8	pronouns/punctuation	syntactic
+E217	2	mixed/random	mixed
+E218	6	function words	syntactic
+E219	10	set	semantic
+E220	7	geometry/count	semantic
+E221	9	adverbs	syntactic
+E222	10	challenge	semantic
+E223	3	mixed	mixed
+E224	7	negation	syntactic
+E225	10	prepositions	syntactic
+E226	10	name/title	semantic
+E227	10	numbers	syntactic
+E228	10	surnames	semantic
+E229	3	mixed/unclear	mixed
+E230	10	tips	semantic
+E231	10	speed unit	semantic
+E232	8	abstract nouns	semantic
+E233	10	verbs	syntactic
+E234	7	geography/logistics	semantic
+E235	4	mixed	mixed
+E236	9	names	semantic
+E237	9	auxiliary verbs	syntactic
+E238	10	time/dates	semantic
+E239	10	numbers	syntactic
+E240	8	adverbs/pronouns	syntactic
+E241	9	historical roots	semantic
+E242	4	mixed	mixed
+E243	8	punctuation/complex	syntactic
+E244	8	verbs/function words	syntactic
+E245	10	demonstratives	syntactic
+E246	2	mixed	mixed
+E247	2	mixed	mixed
+E248	6	way/line/mixed	mixed
+E249	8	US/organizations	semantic

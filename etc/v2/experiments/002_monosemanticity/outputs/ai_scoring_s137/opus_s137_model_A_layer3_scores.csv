@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	7	conjunctions/connectives	syntactic
+E010	6	geographic adjectives	semantic
+E020	5	temporal modifiers	mixed
+E030	4	title words	mixed
+E040	8	verbs	syntactic
+E050	7	verbs/gerunds	syntactic
+E060	7	determiners/adjectives	syntactic
+E070	9	modal verbs	syntactic
+E080	7	action verbs	syntactic
+E090	9	proper names	semantic

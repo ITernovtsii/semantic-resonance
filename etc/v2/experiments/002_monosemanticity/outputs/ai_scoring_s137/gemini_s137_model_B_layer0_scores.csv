@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	5	countries/pronouns	mixed
+E010	6	auxiliary/function	syntactic
+E020	2	mixed/unclear	mixed
+E030	2	mixed/unclear	mixed
+E040	7	determiners/pronouns	syntactic
+E050	1	single token	mixed
+E060	8	abstract nouns	semantic
+E070	1	random	mixed
+E080	3	mixed/unclear	mixed
+E090	4	connectives/punctuation	syntactic

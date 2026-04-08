@@ -1,0 +1,51 @@
+I will read the content of the file `_tmp_s137_model_B_layer1_c0_gemini.txt` to understand the instructions and the data to be scored.
+E000	2	mixed adjectives	mixed
+E001	10	possessive pronouns	syntactic
+E002	9	giving/making	semantic
+E003	5	contrast/punctuation	mixed
+E004	10	prepositions/spatial	syntactic
+E005	3	mixed nouns	mixed
+E006	8	quantifiers	syntactic
+E007	9	possessives	syntactic
+E008	1	random nouns	mixed
+E009	9	determiners	syntactic
+E010	7	comparison/preps	syntactic
+E011	8	name fragments	syntactic
+E012	4	abbreviations/names	mixed
+E013	9	quotation/brackets	syntactic
+E014	8	occupations/roles	semantic
+E015	9	descriptive adjectives	semantic
+E016	10	months	semantic
+E017	10	definite article	syntactic
+E018	6	verbs	syntactic
+E019	10	conjunctions	syntactic
+E020	5	intense verbs	mixed
+E021	10	time units	semantic
+E022	6	media titles	semantic
+E023	9	action verbs	syntactic
+E024	4	suffixes/nations	mixed
+E025	7	adjectives/adverbs	semantic
+E026	10	verb suffixes	syntactic
+E027	8	pronouns/connectors	syntactic
+E028	10	punctuation	syntactic
+E029	9	temporal markers	semantic
+E030	8	military/warfare	semantic
+E031	1	random	mixed
+E032	8	dates/ordinals	semantic
+E033	10	subword fragments	syntactic
+E034	6	units/abbrevs	syntactic
+E035	10	punctuation	syntactic
+E036	10	inclusion verbs	semantic
+E037	6	verbs	syntactic
+E038	3	mixed nouns	mixed
+E039	4	capitalized nouns	syntactic
+E040	5	adverbs/quantifiers	mixed
+E041	9	combination verbs	semantic
+E042	9	adverbs	syntactic
+E043	8	structures/locations	semantic
+E044	1	random	mixed
+E045	8	media/entertainment	semantic
+E046	7	transitions	syntactic
+E047	10	single letters	syntactic
+E048	7	abstract nouns	semantic
+E049	6	connectors/punctuation	mixed

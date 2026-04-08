@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	8	testimony/doubt verbs	semantic
+E151	8	buildings/facilities	semantic
+E152	10	first names	syntactic
+E153	9	directional prepositions	syntactic
+E154	6	places/structures	mixed
+E155	2	random	mixed
+E156	9	subordinate conjunctions	syntactic
+E157	8	inclusion/existence	syntactic
+E158	6	punctuation/inclusion	mixed
+E159	10	sentence-end punctuation	syntactic
+E160	7	game/media mechanics	semantic
+E161	9	directional prepositions	syntactic
+E162	8	definite article	syntactic
+E163	6	possessives/ordinals	mixed
+E164	9	sports terms	semantic
+E165	7	single letters	syntactic
+E166	7	demonstratives	syntactic
+E167	7	period	syntactic
+E168	9	indefinite pronouns	syntactic
+E169	9	ordinals/superlatives	syntactic
+E170	2	random	mixed
+E171	7	name prefixes	syntactic
+E172	9	prepositions by/from	syntactic
+E173	5	proper nouns/places	mixed
+E174	7	sentence-start prepositions	syntactic
+E175	8	definite article	syntactic
+E176	9	sentence-end punctuation	syntactic
+E177	7	preposition of	syntactic
+E178	8	subword fragments	syntactic
+E179	8	institutions/venues	semantic
+E180	3	mixed subwords	mixed
+E181	3	foreign subwords	mixed
+E182	5	plural nouns	mixed
+E183	5	people/relations	mixed
+E184	7	ordinals/superlatives	syntactic
+E185	7	prepositions	syntactic
+E186	8	prepositions/spatial	syntactic
+E187	3	mixed nouns	mixed
+E188	8	city names	semantic
+E189	6	activity verbs	semantic
+E190	6	determiners	syntactic
+E191	7	definite article	syntactic
+E192	7	operational verbs	semantic
+E193	6	causative verbs	semantic
+E194	8	subword suffixes	syntactic
+E195	8	first names	syntactic
+E196	8	prepositions in/for	syntactic
+E197	6	event/completion nouns	semantic
+E198	7	subword fragments	syntactic
+E199	1	random	mixed

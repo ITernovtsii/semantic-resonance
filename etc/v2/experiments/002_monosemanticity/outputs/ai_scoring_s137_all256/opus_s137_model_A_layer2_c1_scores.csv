@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	7	copula/becoming	syntactic
+E051	2	proper names/places	mixed
+E052	9	spatial prepositions	syntactic
+E053	2	mixed fragments	mixed
+E054	9	spatial prepositions	syntactic
+E055	5	punctuation/conjunctions	syntactic
+E056	5	motion/action verbs	semantic
+E057	8	roles/titles	semantic
+E058	10	relative/interrogative pronouns	syntactic
+E059	9	articles/determiners	syntactic
+E060	9	name-initial letters	syntactic
+E061	8	name prefixes/BPE	syntactic
+E062	3	units/non-English	mixed
+E063	5	adjectives/degree	mixed
+E064	4	past-participle verbs	mixed
+E065	4	mixed nouns	mixed
+E066	8	name suffixes/BPE	syntactic
+E067	8	opening brackets/parens	syntactic
+E068	8	formal proceedings	semantic
+E069	7	contrastive punctuation	syntactic
+E070	6	punctuation/symbols	syntactic
+E071	9	closing punctuation	syntactic
+E072	7	sentence boundaries	syntactic
+E073	7	place names	semantic
+E074	8	comma punctuation	syntactic
+E075	7	possessive markers	syntactic
+E076	7	abstract nouns	semantic
+E077	8	preposition-in	syntactic
+E078	8	quotation/ellipsis	syntactic
+E079	9	directional prepositions	syntactic
+E080	4	mixed proper/prepositions	mixed
+E081	3	domains/industries	mixed
+E082	10	sentence-final punctuation	syntactic
+E083	9	mid-sentence punctuation	syntactic
+E084	3	abbreviations/proper nouns	mixed
+E085	9	personal names	semantic
+E086	9	geographic places	semantic
+E087	7	roads/infrastructure	semantic
+E088	8	political/cultural movements	semantic
+E089	6	informal/spoken markers	mixed
+E090	4	plural suffixes	syntactic
+E091	3	abstract nouns	mixed
+E092	8	articles/determiners	syntactic
+E093	2	BPE fragments	mixed
+E094	9	indefinite articles	syntactic
+E095	5	speech-act verbs	mixed
+E096	8	compositional verbs	syntactic
+E097	9	to-preposition	syntactic
+E098	6	purposive verbs	semantic
+E099	2	mixed numbers/symbols	mixed

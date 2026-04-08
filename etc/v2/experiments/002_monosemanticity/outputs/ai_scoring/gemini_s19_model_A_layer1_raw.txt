@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to begin the scoring process.
+E000	10	prepositions	syntactic
+E001	10	demonstratives	syntactic
+E002	9	political/historical adjectives	semantic
+E003	10	adverbs	syntactic
+E004	5	pronouns/numerals	mixed
+E005	10	punctuation	syntactic
+E006	4	name fragments	mixed
+E007	8	history/sports	semantic
+E008	10	entertainment/media	semantic
+E009	8	numbers/punctuation	syntactic
+E010	6	punctuation	syntactic
+E011	9	abstract concepts	semantic
+E012	9	highway numbers	semantic
+E013	10	prepositions	syntactic
+E014	9	movement/staying verbs	semantic
+E015	10	approximate relations	semantic
+E016	7	naval vessels/punctuation	mixed
+E017	8	descriptive adjectives	semantic
+E018	10	quantities	semantic
+E019	10	punctuation	syntactic
+E020	8	crisis/events	semantic
+E021	10	descriptive adjectives	semantic
+E022	9	organizations/groups	semantic
+E023	6	observation/action	semantic
+E024	9	scale/speed adjectives	semantic
+E025	5	adjectives/fragments	mixed
+E026	10	pronouns/determiners	syntactic
+E027	8	action verbs	semantic
+E028	3	mixed/unclear	mixed
+E029	9	plural suffixes	syntactic
+E030	10	relational participles	semantic
+E031	3	mixed/unclear	mixed
+E032	2	fragments/mixed	mixed
+E033	7	logical relations	semantic
+E034	9	movement verbs	semantic
+E035	10	prepositions	syntactic
+E036	7	punctuation/media	mixed
+E037	8	articles/fragments	syntactic
+E038	10	punctuation	syntactic
+E039	10	state verbs	syntactic
+E040	10	pronouns	syntactic
+E041	10	geography/locations	semantic
+E042	5	suffixes/place parts	mixed
+E043	10	inclusion/relation	semantic
+E044	10	punctuation	syntactic
+E045	10	conjunctions	syntactic
+E046	10	existence/remnants	semantic
+E047	10	roles/titles	semantic
+E048	9	degree adverbs	syntactic
+E049	8	time/logic adverbs	semantic
+E050	9	descriptive adjectives	semantic
+E051	10	verb suffixes	syntactic
+E052	10	copular verbs	syntactic
+E053	9	military actions	semantic
+E054	10	articles	syntactic
+E055	9	media/culture	semantic
+E056	7	historical events	semantic
+E057	10	prefixes	syntactic
+E058	10	past participles	syntactic
+E059	8	status/event attributes	semantic
+E060	9	body parts/leading	semantic
+E061	10	punctuation	syntactic
+E062	4	word fragments	mixed
+E063	10	punctuation	syntactic
+E064	10	adverbs	syntactic
+E065	10	possessives	syntactic
+E066	9	states/actions	semantic
+E067	10	apostrophes	syntactic
+E068	5	foreign/fragments	mixed
+E069	9	deictic terms	syntactic
+E070	10	articles/pronouns	syntactic
+E071	10	abstract/media nouns	semantic
+E072	10	quantifiers/articles	syntactic
+E073	10	surnames	semantic
+E074	10	conjunctions	syntactic
+E075	3	mixed/unclear	mixed
+E076	9	abbreviations	syntactic
+E077	10	auxiliary verbs/adverbs	syntactic
+E078	10	games/sports	semantic
+E079	10	prepositions	syntactic
+E080	10	punctuation/quotes	syntactic
+E081	10	event transitions	semantic
+E082	10	conjunctions	syntactic
+E083	10	prepositions	syntactic
+E084	10	capitalized prepositions	syntactic
+E085	6	physical objects/sensory	semantic
+E086	10	weather/storms	semantic
+E087	8	prepositions/verbs	syntactic
+E088	9	education/activities	semantic
+E089	10	possessives	syntactic
+E090	7	comparative/modal	semantic
+E091	10	temporal prepositions	syntactic
+E092	9	scientific/colors	semantic
+E093	10	modal verbs	syntactic
+E094	8	physical objects	semantic
+E095	10	sports/scoring	semantic
+E096	10	prepositions	syntactic
+E097	4	fragments	mixed
+E098	7	punctuation/connectives	mixed
+E099	10	fictional characters/media	semantic

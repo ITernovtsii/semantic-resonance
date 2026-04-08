@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	10	verbs	syntactic
+E001	10	adverbs/quantifiers	syntactic
+E002	10	punctuation	syntactic
+E003	1	random/fragments	mixed
+E004	8	materials/nature	semantic
+E005	10	quotation marks	syntactic
+E006	5	punctuation/mixed	mixed
+E007	4	mixed/connectives	mixed
+E008	9	feelings/personality	semantic
+E009	5	pronouns/transport	semantic
+E010	10	definite article	syntactic
+E011	10	prepositions	syntactic
+E012	9	prefixes/titles	syntactic
+E013	10	prepositions	syntactic
+E014	10	articles/determiners	syntactic
+E015	10	pronouns	syntactic
+E016	9	organizations/roles	semantic
+E017	3	mixed	mixed
+E018	7	military/security	semantic
+E019	10	auxiliary verbs	syntactic
+E020	10	names	semantic
+E021	10	possessives	syntactic
+E022	10	determiners/pronouns	syntactic
+E023	10	prepositions	syntactic
+E024	10	prepositions	syntactic
+E025	10	prepositions	syntactic
+E026	10	numbers/quantities	syntactic
+E027	10	word fragments	syntactic
+E028	4	mixed	mixed
+E029	10	conjunctions/auxiliaries	syntactic
+E030	10	suffixes/fragments	syntactic
+E031	10	temporal adverbs	syntactic
+E032	10	prepositions	syntactic
+E033	6	titles/places	semantic
+E034	6	punctuation/connectives	syntactic
+E035	7	abstract verbs	semantic
+E036	10	definite article	syntactic
+E037	10	temporal connectives	syntactic
+E038	10	conjunctions	syntactic
+E039	9	quantities/parts	semantic
+E040	9	measurement/space	semantic
+E041	10	articles/determiners	syntactic
+E042	5	names/fragments	mixed
+E043	5	mixed fragments	mixed
+E044	10	determiners/pronouns	syntactic
+E045	9	abstract nouns	semantic
+E046	10	abstract verbs	semantic
+E047	10	prepositions	syntactic
+E048	10	plural nouns	syntactic
+E049	10	numbers	syntactic
+E050	10	titles/roles	semantic
+E051	6	punctuation/mixed	mixed
+E052	9	events/performances	semantic
+E053	5	mixed entities	mixed
+E054	10	adjectives/roles	semantic
+E055	10	conjunctions/connectives	syntactic
+E056	10	media/entertainment	semantic
+E057	10	spatial/temporal adjectives	mixed
+E058	10	movement verbs	semantic
+E059	10	nationalities/adjectives	semantic
+E060	10	geography/places	semantic
+E061	7	connectives/mixed	mixed
+E062	10	quantifiers/numbers	syntactic
+E063	9	determiners/pronouns	syntactic
+E064	7	mixed temporal	mixed
+E065	10	mental verbs	semantic
+E066	10	determiners/adjectives	syntactic
+E067	7	sports/activities	semantic
+E068	7	military/groups	semantic
+E069	10	operations/events	semantic
+E070	8	determiners/pronouns	syntactic
+E071	10	prepositions	syntactic
+E072	10	prepositions/connectives	syntactic
+E073	10	determiners/pronouns	syntactic
+E074	6	punctuation/mixed	mixed
+E075	10	nature/science	semantic
+E076	8	mixed nouns/adjectives	semantic
+E077	10	names	semantic
+E078	8	geography/weather	semantic
+E079	10	relative pronouns	syntactic
+E080	10	roles/abstract nouns	semantic
+E081	9	pronouns/connectives	syntactic
+E082	10	punctuation	syntactic
+E083	8	punctuation	syntactic
+E084	10	numbers	syntactic
+E085	6	punctuation/mixed	mixed
+E086	7	measurements/names	mixed
+E087	10	quantifiers/connectives	syntactic
+E088	7	mixed nouns	semantic
+E089	10	historical titles	semantic
+E090	10	suffixes/articles	syntactic
+E091	4	punctuation/fragments	mixed
+E092	10	past participles	syntactic
+E093	10	articles	syntactic
+E094	10	prepositions	syntactic
+E095	10	punctuation	syntactic
+E096	9	determiners/pronouns	syntactic
+E097	10	sports	semantic
+E098	10	movement verbs	semantic
+E099	10	adjectives	syntactic

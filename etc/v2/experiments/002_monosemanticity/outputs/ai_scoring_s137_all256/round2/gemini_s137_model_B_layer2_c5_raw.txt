@@ -1,0 +1,7 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E250	4	mixed/plural nouns	mixed
+E251	10	abbreviations	syntactic
+E252	9	punctuation	syntactic
+E253	10	prepositions	syntactic
+E254	9	superlatives	syntactic
+E255	9	subword fragments	syntactic

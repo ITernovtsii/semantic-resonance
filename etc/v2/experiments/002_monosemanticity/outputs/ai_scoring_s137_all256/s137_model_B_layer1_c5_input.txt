@@ -1,0 +1,6 @@
+E250	were(6.03); was(6.03); became(5.91); are(5.82); been(5.80); becomes(5.57); is(5.33); seemed(5.03); proved(4.71); be(4.48)
+E251	the(4.58); those(2.65); him(0.36); The(-1.32)
+E252	dd(6.71); cum(6.71); ön(6.71); hl(6.71); rik(6.71); utt(6.71); aff(6.71); ank(6.71); ger(6.71); iner(6.71)
+E253	nor(6.32); or(6.30); and(5.12); after(4.24); as(4.20); despite(4.00); then(3.59); but(3.03); although(2.89); around(2.71)
+E254	themselves(7.68); itself(7.68); herself(7.68); myself(7.68); him(7.68); them(7.68); you(7.68); himself(7.68); it(7.55); me(7.33)
+E255	success(5.95); prowess(5.95); threat(5.95); appearance(5.95); concern(5.95); bail(5.95); engagements(5.95); underway(5.95); minds(5.95); redevelopment(5.95)

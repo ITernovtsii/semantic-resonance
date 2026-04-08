@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	7	approximation terms	syntactic
+E201	2	subword fragments	syntactic
+E202	1	random fragments	syntactic
+E203	8	prepositions	syntactic
+E204	8	temporal order	semantic
+E205	2	suffix fragments	syntactic
+E206	10	punctuation	syntactic
+E207	8	people roles	semantic
+E208	9	conjunctions	syntactic
+E209	9	connectives	syntactic
+E210	7	action verbs	syntactic
+E211	1	random fragments	syntactic
+E212	8	articles pronouns	syntactic
+E213	9	reporting verbs	semantic
+E214	9	prepositions	syntactic
+E215	5	modal mix	mixed
+E216	10	prepositions	syntactic
+E217	4	mixed attributes	mixed
+E218	6	abstract properties	semantic
+E219	9	adverbs	syntactic
+E220	7	verb endings	syntactic
+E221	8	intensifiers	syntactic
+E222	9	prepositions	syntactic
+E223	2	stem fragments	mixed
+E224	8	determiners	syntactic
+E225	4	mixed nouns	mixed
+E226	8	spatial terms	semantic
+E227	5	biology fragments	mixed
+E228	2	random names	mixed
+E229	3	mixed fragments	mixed
+E230	6	political adjectives	semantic
+E231	8	function words	syntactic
+E232	8	subordinators	syntactic
+E233	9	numbers units	syntactic
+E234	8	do forms	syntactic
+E235	8	participles	syntactic
+E236	8	auxiliaries	syntactic
+E237	7	temporal markers	mixed
+E238	5	conflict terms	mixed
+E239	10	be forms	syntactic
+E240	3	mixed fragments	mixed
+E241	9	determiners	syntactic
+E242	8	people groups	semantic
+E243	9	demonstratives	syntactic
+E244	7	event verbs	syntactic
+E245	4	abbreviations	mixed
+E246	7	abstract nouns	semantic
+E247	7	prepositions mix	mixed
+E248	6	token artifacts	syntactic
+E249	9	hedge adverbs	syntactic

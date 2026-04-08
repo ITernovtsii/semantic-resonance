@@ -1,0 +1,4 @@
+expert_id	score	category	type
+E250	2	random	mixed
+E251	1	single_token	mixed
+E252	5	foreign_characters	syntactic

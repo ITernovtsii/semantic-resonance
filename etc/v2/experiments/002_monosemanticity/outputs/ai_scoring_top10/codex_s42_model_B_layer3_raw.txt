@@ -1,0 +1,100 @@
+E000	4	mixed/unclear	mixed
+E001	9	punctuation	syntactic
+E002	3	mixed/unclear	mixed
+E003	6	proper names	semantic
+E004	9	verb participles	syntactic
+E005	10	punctuation	syntactic
+E006	5	group nouns	mixed
+E007	8	titles/ranks	semantic
+E008	8	conjunctions	syntactic
+E009	8	determiners	syntactic
+E010	10	modal verbs	syntactic
+E011	8	verb forms	syntactic
+E012	7	name fragments	syntactic
+E013	8	discourse markers	syntactic
+E014	4	adjectives	mixed
+E015	7	action verbs	semantic
+E016	8	verb processes	syntactic
+E017	10	degree adverbs	syntactic
+E018	3	mixed/unclear	mixed
+E019	5	category labels	mixed
+E020	9	quotation marks	syntactic
+E021	7	spatial relations	semantic
+E022	9	music charts	semantic
+E023	7	state verbs	semantic
+E024	4	mixed nouns	mixed
+E025	7	prepositions	syntactic
+E026	8	measurements	semantic
+E027	4	mixed/unclear	mixed
+E028	9	determiners	syntactic
+E029	7	action events	semantic
+E030	7	root fragments	mixed
+E031	9	conjunctions	syntactic
+E032	7	adjectives	syntactic
+E033	10	temporal preps	syntactic
+E034	7	punctuation/misc	syntactic
+E035	7	adjectives	syntactic
+E036	8	name fragments	syntactic
+E037	8	adverbs	syntactic
+E038	10	numbers	syntactic
+E039	7	temporal terms	semantic
+E040	2	mixed/unclear	mixed
+E041	4	mixed/unclear	mixed
+E042	6	descriptors	mixed
+E043	6	plural nouns	syntactic
+E044	6	substances/colors	semantic
+E045	4	mixed/unclear	mixed
+E046	7	sports terms	semantic
+E047	8	stance adverbs	syntactic
+E048	3	mixed/unclear	mixed
+E049	8	place names	semantic
+E050	5	mixed actions	mixed
+E051	8	media terms	semantic
+E052	7	military-national	semantic
+E053	9	subword clusters	syntactic
+E054	9	discourse connectives	syntactic
+E055	7	abbreviations	syntactic
+E056	6	function words	mixed
+E057	7	places/locations	semantic
+E058	6	proper names	semantic
+E059	8	subword fragments	syntactic
+E060	6	concrete nouns	semantic
+E061	7	scale adjectives	semantic
+E062	7	surnames	semantic
+E063	5	mixed/unclear	mixed
+E064	10	punctuation	syntactic
+E065	8	personal names	semantic
+E066	9	letters/symbols	syntactic
+E067	8	art descriptors	semantic
+E068	5	mixed names	mixed
+E069	5	mixed/unclear	mixed
+E070	4	mixed/unclear	mixed
+E071	7	process terms	semantic
+E072	7	name fragments	syntactic
+E073	2	mixed/unclear	mixed
+E074	10	punctuation	syntactic
+E075	10	numbers	syntactic
+E076	7	surnames	semantic
+E077	9	cognition verbs	semantic
+E078	8	conjunctions	syntactic
+E079	7	modal verbs	syntactic
+E080	8	institutional groups	semantic
+E081	9	set terms	syntactic
+E082	9	subword fragments	syntactic
+E083	10	punctuation	syntactic
+E084	3	mixed/unclear	mixed
+E085	6	abstract terms	semantic
+E086	8	institutional actors	semantic
+E087	6	geopolitical terms	semantic
+E088	9	subword fragments	syntactic
+E089	8	possessives	syntactic
+E090	10	conjunctions	syntactic
+E091	8	currency/symbols	syntactic
+E092	8	boxoffice/charts	semantic
+E093	10	punctuation	syntactic
+E094	7	pronouns/determiners	syntactic
+E095	4	mixed fragments	mixed
+E096	10	prepositions	syntactic
+E097	7	descriptors	mixed
+E098	8	determiners	syntactic
+E099	8	anatomy/nature	semantic

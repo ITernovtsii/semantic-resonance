@@ -1,0 +1,5 @@
+I will read the instructions and data from the specified file to generate the requested scores.
+E250	6	common words	syntactic
+E251	6	suffixes	syntactic
+E252	10	prepositions	syntactic
+E253	8	capital letters	syntactic

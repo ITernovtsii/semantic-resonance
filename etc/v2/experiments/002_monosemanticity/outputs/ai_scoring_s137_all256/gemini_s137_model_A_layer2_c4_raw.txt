@@ -1,0 +1,51 @@
+I will read the instructions and data in `_tmp_s137_model_A_layer2_c4_gemini.txt` to generate the requested scores.
+E200	8	articles/pronouns	syntactic
+E201	7	punctuation/introductory	mixed
+E202	8	conjunctions	syntactic
+E203	6	common words	syntactic
+E204	9	verbs	syntactic
+E205	8	quotation marks	syntactic
+E206	10	ordinals/superlatives	semantic
+E207	10	punctuation	syntactic
+E208	10	numbers	syntactic
+E209	1	random fragments	syntactic
+E210	10	copula verbs	syntactic
+E211	10	punctuation clusters	syntactic
+E212	7	locations/structures	semantic
+E213	10	pronouns/auxiliaries	syntactic
+E214	8	name fragments	semantic
+E215	5	mixed/names	mixed
+E216	9	conjunctions/comparatives	syntactic
+E217	10	possessive pronouns	syntactic
+E218	10	punctuation	syntactic
+E219	8	achievements/suffixes	mixed
+E220	9	articles	syntactic
+E221	8	materials/nature	semantic
+E222	10	temporal prepositions	syntactic
+E223	9	indefinite articles	syntactic
+E224	8	state verbs	semantic
+E225	10	prepositions	syntactic
+E226	9	adjectives	syntactic
+E227	9	action verbs	semantic
+E228	10	artillery specs	semantic
+E229	7	combat/equipment	semantic
+E230	8	word stems	syntactic
+E231	9	abstract nouns	semantic
+E232	8	directions/centuries	semantic
+E233	7	negation/infinitives	syntactic
+E234	10	surnames	semantic
+E235	9	historical narrative	semantic
+E236	8	adverbs/modifiers	syntactic
+E237	3	random fragments	mixed
+E238	5	mixed/determiners	mixed
+E239	9	suffix fragments	syntactic
+E240	9	punctuation	syntactic
+E241	10	punctuation clusters	syntactic
+E242	8	surnames	semantic
+E243	10	adjectives	syntactic
+E244	10	proper names	semantic
+E245	10	conjunctions/questions	syntactic
+E246	9	action verbs	semantic
+E247	10	time/events	semantic
+E248	10	punctuation	syntactic
+E249	10	verbs	syntactic

@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	3	mixed/unclear	mixed
+E251	9	abbreviations	syntactic
+E252	8	punctuation	syntactic
+E253	10	prepositions	syntactic
+E254	7	modifiers	syntactic
+E255	6	subword fragments	syntactic

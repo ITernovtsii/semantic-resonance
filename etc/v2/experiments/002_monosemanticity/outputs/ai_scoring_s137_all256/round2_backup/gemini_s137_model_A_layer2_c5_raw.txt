@@ -1,0 +1,7 @@
+I will read the instructions and data from `_tmp_s137_model_A_layer2_c5_gemini.txt`.
+E250	6	prefixes	syntactic
+E251	1	random	mixed
+E252	1	random	mixed
+E253	4	comparisons/symbols	mixed
+E254	9	prepositions	syntactic
+E255	7	prepositions/punctuation	syntactic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	9	music terms	semantic
+E201	3	subword mix	mixed
+E202	6	adverbs	syntactic
+E203	7	begin/end terms	semantic
+E204	2	subword fragments	mixed
+E205	4	mixed actions	mixed
+E206	1	random	mixed
+E207	8	past participles	syntactic
+E208	8	function words	syntactic
+E209	3	mixed conflict	mixed
+E210	4	mixed/unclear	mixed
+E211	9	quantities	semantic
+E212	6	ordinals/modifiers	syntactic
+E213	7	determiners/numbers	syntactic
+E214	8	pronouns/determiners	syntactic
+E215	4	mixed names	mixed
+E216	2	mixed/unclear	mixed
+E217	10	special token	syntactic
+E218	9	connectives	syntactic
+E219	7	auxiliary verbs	syntactic
+E220	10	numbers	syntactic
+E221	7	subword syllables	syntactic
+E222	9	letter fragments	syntactic
+E223	8	prepositions	syntactic
+E224	7	function words	syntactic
+E225	10	preposition	syntactic
+E226	6	pronouns/question words	syntactic
+E227	7	prepositions/symbols	syntactic
+E228	5	mixed/unclear	mixed
+E229	6	auxiliary/modals	syntactic
+E230	8	video games	semantic
+E231	8	auxiliary verbs	syntactic
+E232	8	present verbs	syntactic
+E233	7	verb forms	syntactic
+E234	9	character fragments	syntactic
+E235	6	adverbs/common words	syntactic
+E236	9	war campaigns	semantic
+E237	8	cost/value	semantic
+E238	9	competition terms	semantic
+E239	10	single character	syntactic
+E240	8	action participles	syntactic
+E241	9	letters/symbols	syntactic
+E242	8	rivers/geography	semantic
+E243	10	punctuation	syntactic
+E244	8	music vocals	semantic
+E245	8	winning terms	semantic
+E246	8	naval military	semantic
+E247	7	punctuation/connectors	syntactic
+E248	4	mixed places	mixed
+E249	3	mixed/unclear	mixed

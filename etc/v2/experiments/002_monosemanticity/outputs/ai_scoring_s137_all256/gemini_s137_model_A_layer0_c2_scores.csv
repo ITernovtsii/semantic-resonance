@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	10	prepositions	syntactic
+E101	10	pronouns/determiners	syntactic
+E102	6	locative prepositions	syntactic
+E103	9	legal/procedural	semantic
+E104	5	relative/connective	syntactic
+E105	7	aviation/technical	semantic
+E106	10	directional (back)	semantic
+E107	6	connective/prepositions	syntactic
+E108	9	pronouns/determiners	syntactic
+E109	7	phrasal verb (set)	semantic
+E110	4	preposition/fragment	mixed
+E111	5	mixed/unclear	mixed
+E112	3	mixed/capitalized	mixed
+E113	9	punctuation	syntactic
+E114	3	subword fragments	syntactic
+E115	10	single letter	syntactic
+E116	10	spatial prepositions	semantic
+E117	8	punctuation/possessive	syntactic
+E118	9	capitalized starters	syntactic
+E119	3	mixed fragments	mixed
+E120	8	narrative/feminine	semantic
+E121	4	mixed/unclear	mixed
+E122	9	prepositions/relatives	syntactic
+E123	5	sports/fragments	semantic
+E124	10	complex prepositions	semantic
+E125	10	participation	semantic
+E126	10	subword prefixes	syntactic
+E127	8	pronouns/articles	syntactic
+E128	6	suffixes (able/un)	syntactic
+E129	10	quantifier (all)	semantic
+E130	8	plural pronouns	syntactic
+E131	8	months/quantifiers	semantic
+E132	9	terminal punctuation	syntactic
+E133	8	list connectives	syntactic
+E134	6	names/music	semantic
+E135	6	focus/prepositional	semantic
+E136	10	formal verbs	semantic
+E137	10	conjunctions	syntactic
+E138	10	music/media	semantic
+E139	6	partitive/quantity	semantic
+E140	10	complex punctuation	syntactic
+E141	10	plural nouns	syntactic
+E142	6	family/mixed	semantic
+E143	10	directional prepositions	semantic
+E144	10	geography/theatre	semantic
+E145	10	quotation marks	syntactic
+E146	9	cognitive/mental	semantic
+E147	7	adjectives/descriptors	semantic
+E148	9	capitalized letters	syntactic
+E149	8	prefix/hyphen	syntactic

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	pronouns/determiners	syntactic
+E001	5	single letters/prefixes	syntactic
+E002	5	sentence starters	syntactic
+E003	6	prepositions	syntactic
+E004	7	copula/present tense	syntactic
+E005	4	punctuation/conjunctions	syntactic
+E006	1	single token	syntactic
+E007	2	mixed/unclear	mixed
+E008	5	quotation marks	syntactic
+E009	6	narrative sequence	syntactic
+E010	3	capitalized prefixes	syntactic
+E011	3	prefix anti/a	syntactic
+E012	4	plural nouns/suffixes	syntactic
+E013	7	degree adjectives/adverbs	syntactic
+E014	1	random	mixed
+E015	1	single token	syntactic
+E016	6	governance/institutions	semantic
+E017	5	punctuation/mixed	syntactic
+E018	1	single token	syntactic
+E019	5	discourse/conditional	syntactic
+E020	6	adverbs/participles	syntactic
+E021	6	articles/determiners	syntactic
+E022	5	punctuation	syntactic
+E023	4	United/US	semantic
+E024	5	past tense had	syntactic
+E025	4	suffix -er	syntactic
+E026	3	subword suffixes	syntactic
+E027	7	numbers/quantifiers	syntactic
+E028	3	working/articles	mixed
+E029	7	materials/physical	semantic
+E030	4	used/had	syntactic
+E031	5	physical objects/parts	mixed
+E032	5	organizations/nouns	mixed
+E033	7	temporal adverbs	syntactic
+E034	1	single token	syntactic
+E035	6	physical properties	semantic
+E036	6	modal would/could	syntactic
+E037	4	mixed education/places	mixed
+E038	1	random proper nouns	mixed
+E039	1	single token	syntactic
+E040	4	capitalized prefixes	syntactic
+E041	1	single token	syntactic
+E042	7	degree adjectives	syntactic
+E043	6	sequence/completion	syntactic
+E044	4	gave/had	syntactic
+E045	4	relative pronoun that	syntactic
+E046	5	death/measurement	mixed
+E047	7	past tense verbs	syntactic
+E048	4	articles	syntactic
+E049	2	mixed abbreviations	mixed
+E050	4	article one	syntactic
+E051	5	group nouns/people	mixed
+E052	6	discourse connectives	syntactic
+E053	8	music/entertainment	semantic
+E054	4	past tense verbs	syntactic
+E055	3	subword suffixes	syntactic
+E056	3	articles	syntactic
+E057	7	subordinating conj	syntactic
+E058	3	mixed/unclear	mixed
+E059	5	hyphens/dashes	syntactic
+E060	1	single token	syntactic
+E061	5	preposition at	syntactic
+E062	3	subword fragments	syntactic
+E063	4	pronouns/determiners	syntactic
+E064	8	roads/transportation	semantic
+E065	5	temporal since/past	syntactic
+E066	7	directional particles	syntactic
+E067	5	possessive her/she	syntactic
+E068	3	mixed/unclear	mixed
+E069	3	subword suffixes	syntactic
+E070	4	possessives/prefixes	mixed
+E071	5	title words	mixed
+E072	1	random rare tokens	mixed
+E073	4	articles	syntactic
+E074	3	turn/articles	mixed
+E075	3	mixed adverbs/nouns	mixed
+E076	8	numbers	syntactic
+E077	3	period/punctuation	syntactic
+E078	7	male pronouns	syntactic
+E079	4	that/to	syntactic
+E080	4	apostrophe/possessive	syntactic
+E081	8	sports/competition	semantic
+E082	4	nationalities/proper	mixed
+E083	7	creative works	semantic
+E084	3	mixed proper nouns	mixed
+E085	6	engineering/measurement	mixed
+E086	6	base form verbs	syntactic
+E087	5	legal/testimony	semantic
+E088	5	punctuation/mixed	mixed
+E089	3	had/to/the	syntactic
+E090	2	mixed/unclear	mixed
+E091	4	quotation marks	syntactic
+E092	7	past tense actions	syntactic
+E093	6	proper institutions	semantic
+E094	5	various verbs	mixed
+E095	5	mixed nouns	mixed
+E096	7	ordinals/positional	syntactic
+E097	3	mixed	mixed
+E098	5	directional particles	syntactic
+E099	6	punctuation/discourse	syntactic

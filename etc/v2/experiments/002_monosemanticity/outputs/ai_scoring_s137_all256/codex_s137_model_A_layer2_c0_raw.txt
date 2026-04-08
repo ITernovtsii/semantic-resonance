@@ -1,0 +1,50 @@
+E000	7	regional directions	semantic
+E001	8	temporal connectives	syntactic
+E002	7	adverbs/connectives	syntactic
+E003	6	plural nouns	syntactic
+E004	6	verb forms	syntactic
+E005	9	determiners	syntactic
+E006	10	be verbs	syntactic
+E007	10	prepositions	syntactic
+E008	8	prepositions	syntactic
+E009	7	verb forms	syntactic
+E010	8	do forms	syntactic
+E011	2	random proper nouns	mixed
+E012	3	subword fragments	syntactic
+E013	10	pronouns	syntactic
+E014	2	random titlecase	mixed
+E015	9	determiners	syntactic
+E016	9	connectives	syntactic
+E017	8	punctuation/prepositions	mixed
+E018	7	verb forms	syntactic
+E019	2	random titlecase	mixed
+E020	2	random nouns	mixed
+E021	10	weather/meteorology	semantic
+E022	7	quantifiers	syntactic
+E023	7	action verbs	semantic
+E024	7	containment verbs	semantic
+E025	5	mixed modifiers	mixed
+E026	2	random proper nouns	mixed
+E027	10	prefixes	syntactic
+E028	8	ordinals	syntactic
+E029	7	proper names	syntactic
+E030	9	prefixes	syntactic
+E031	6	people/groups	semantic
+E032	8	demonstratives	syntactic
+E033	8	determiners	syntactic
+E034	10	determiners	syntactic
+E035	5	mixed punctuation	mixed
+E036	3	subword fragments	syntactic
+E037	9	copula/change verbs	syntactic
+E038	2	random proper nouns	mixed
+E039	10	punctuation	syntactic
+E040	4	subword fragments	syntactic
+E041	9	punctuation	syntactic
+E042	7	action verbs	semantic
+E043	9	symbols/units	syntactic
+E044	8	quantifiers	syntactic
+E045	6	-ing words	syntactic
+E046	8	adverbs	syntactic
+E047	9	music charts	semantic
+E048	7	modifiers	syntactic
+E049	8	degree modifiers	syntactic

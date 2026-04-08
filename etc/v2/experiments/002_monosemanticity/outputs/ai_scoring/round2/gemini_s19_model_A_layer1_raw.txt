@@ -1,0 +1,101 @@
+I will read the instructions and data in `_tmp_s19_model_A_layer1_gemini.txt` to generate the requested scoring lines.
+E000	10	prepositions	syntactic
+E001	10	demonstratives/pronouns	syntactic
+E002	9	historical/political adjectives	semantic
+E003	9	adverbs/intensifiers	syntactic
+E004	6	first/second person pronouns	syntactic
+E005	10	quotation marks/brackets	syntactic
+E006	1	random fragments	mixed
+E007	5	history/sports	semantic
+E008	10	entertainment/media	semantic
+E009	7	numbers/punctuation	mixed
+E010	3	punctuation/noise	mixed
+E011	10	abstract nouns	semantic
+E012	8	numbers/roads	semantic
+E013	10	prepositions	syntactic
+E014	10	movement/staying verbs	semantic
+E015	10	approximations/descriptions	semantic
+E016	5	ship types/punctuation	mixed
+E017	10	descriptive adjectives	semantic
+E018	10	numbers/quantifiers	semantic
+E019	10	ending punctuation	syntactic
+E020	8	events/abstract nouns	semantic
+E021	10	descriptive adjectives	semantic
+E022	10	organizations/groups	semantic
+E023	8	plural nouns/verbs	semantic
+E024	10	adjectives	semantic
+E025	4	adjectives/mixed	mixed
+E026	10	pronouns/determiners	syntactic
+E027	8	action verbs	semantic
+E028	2	capitalized fragments	mixed
+E029	8	plural suffixes/nouns	syntactic
+E030	10	connecting verbs/adverbs	semantic
+E031	3	abbreviations/mixed	mixed
+E032	6	geography/names	semantic
+E033	8	logical connectors	semantic
+E034	10	narrative verbs	semantic
+E035	10	prepositions	syntactic
+E036	4	punctuation/mixed	mixed
+E037	6	articles/pronouns	syntactic
+E038	6	punctuation	syntactic
+E039	10	copular/linking verbs	syntactic
+E040	10	third-person pronouns	syntactic
+E041	10	place names/geography	semantic
+E042	4	suffixes/roots	mixed
+E043	10	relational verbs/prepositions	semantic
+E044	10	ending punctuation	syntactic
+E045	10	conjunctions	syntactic
+E046	10	existence/persistence	semantic
+E047	10	roles/social concepts	semantic
+E048	10	comparative adverbs/adjectives	semantic
+E049	7	adverbs/years	mixed
+E050	9	political/descriptive adjectives	semantic
+E051	10	verbal suffixes	syntactic
+E052	10	forms of "to be"	syntactic
+E053	10	military/action verbs	semantic
+E054	10	definite article	syntactic
+E055	9	pop culture/media	semantic
+E056	6	historical narrative verbs	semantic
+E057	9	prefixes	syntactic
+E058	10	past participles	syntactic
+E059	8	achievement/appointment words	semantic
+E060	9	body parts/heads	semantic
+E061	10	punctuation	syntactic
+E062	2	fragments/roots	mixed
+E063	10	punctuation	syntactic
+E064	10	adverbs/connectives	semantic
+E065	10	possessive pronouns	syntactic
+E066	9	mental/relational states	semantic
+E067	10	apostrophes	syntactic
+E068	5	foreign letters/names	mixed
+E069	9	locative/relative words	semantic
+E070	8	common determiners	syntactic
+E071	10	creative/referential nouns	semantic
+E072	2	common words	mixed
+E073	10	surnames	semantic
+E074	10	subordinating conjunctions	syntactic
+E075	2	random	mixed
+E076	10	initials/abbreviations	syntactic
+E077	10	auxiliary verbs/aspect	syntactic
+E078	10	gaming/sports	semantic
+E079	10	prepositions	syntactic
+E080	8	punctuation/brackets	syntactic
+E081	10	start/stop/arrival verbs	semantic
+E082	10	conjunctions	syntactic
+E083	10	prepositions	syntactic
+E084	9	sentence-starting words	syntactic
+E085	5	objects/nouns	semantic
+E086	10	meteorology/hurricanes	semantic
+E087	5	locative/temporal words	syntactic
+E088	10	education/sports	semantic
+E089	10	possessive pronouns	syntactic
+E090	7	comparative/hedging words	semantic
+E091	10	temporal/spatial prepositions	syntactic
+E092	9	biological/chemical terms	semantic
+E093	10	modal verbs/to	syntactic
+E094	7	varied concrete nouns	semantic
+E095	10	sports/competition	semantic
+E096	10	locative/temporal prepositions	syntactic
+E097	2	fragments/suffixes	mixed
+E098	5	punctuation/connectors	mixed
+E099	8	names/media titles	semantic

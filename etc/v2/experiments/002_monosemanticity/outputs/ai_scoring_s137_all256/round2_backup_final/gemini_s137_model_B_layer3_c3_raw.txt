@@ -1,0 +1,51 @@
+I will read the instructions and content from `_tmp_s137_model_B_layer3_c3_gemini.txt` to perform the scoring as requested.
+E150	9	possessive pronouns	syntactic
+E151	9	critics/surnames	semantic
+E152	2	mixed fragments	mixed
+E153	8	abstract nouns	semantic
+E154	9	reporting verbs	semantic
+E155	8	transitive verbs	semantic
+E156	7	action verbs	semantic
+E157	10	quotation marks	syntactic
+E158	4	symbols/verbs	mixed
+E159	9	adjectives	syntactic
+E160	7	word fragments	syntactic
+E161	7	auxiliary/adverbs	syntactic
+E162	6	environment/nature	semantic
+E163	9	measurement units	semantic
+E164	10	temporal terms	semantic
+E165	4	mixed/abstract	semantic
+E166	10	punctuation/period	syntactic
+E167	2	common words	syntactic
+E168	3	name fragments	semantic
+E169	8	years	semantic
+E170	9	reporting verbs	semantic
+E171	9	prepositions	syntactic
+E172	8	media/creative works	semantic
+E173	4	connectors/verbs	mixed
+E174	8	have/adverbs	syntactic
+E175	6	determiners/adjectives	syntactic
+E176	7	names/locations	semantic
+E177	10	capitalized fragments	syntactic
+E178	3	mixed/common	mixed
+E179	7	directions/spatial	semantic
+E180	10	punctuation clusters	syntactic
+E181	9	transport/geography	semantic
+E182	4	diverse nouns	semantic
+E183	10	inclusion verbs	semantic
+E184	8	proximity/attainment	semantic
+E185	8	inclusion/action verbs	semantic
+E186	9	spatial terms	semantic
+E187	9	descriptive adjectives	semantic
+E188	6	state/adverbs	mixed
+E189	8	determiners	syntactic
+E190	10	first names	semantic
+E191	7	quantity/approximation	semantic
+E192	8	people/names	semantic
+E193	8	adverbs/auxiliaries	syntactic
+E194	8	determiners/adjectives	syntactic
+E195	9	auxiliary/adverbs	syntactic
+E196	10	sports	semantic
+E197	1	single word	mixed
+E198	7	name fragments	syntactic
+E199	8	prepositions/months	mixed

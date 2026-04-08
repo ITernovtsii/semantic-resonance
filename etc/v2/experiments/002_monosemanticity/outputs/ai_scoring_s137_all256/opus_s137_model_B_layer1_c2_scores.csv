@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	9	interrogative/relative	syntactic
+E101	8	place names	semantic
+E102	8	conjunctions	syntactic
+E103	7	determiners	syntactic
+E104	5	communication nouns	mixed
+E105	9	spatial prepositions	syntactic
+E106	4	abstract nouns	mixed
+E107	9	quantity pronouns	syntactic
+E108	7	punctuation	syntactic
+E109	7	descriptive adjectives	semantic
+E110	5	mixed verbs	mixed
+E111	9	prefixes/short adjectives	syntactic
+E112	8	hyphens/dashes	syntactic
+E113	10	punctuation	syntactic
+E114	10	sentence-end punctuation	syntactic
+E115	6	quotation/possessives	syntactic
+E116	9	media formats	semantic
+E117	9	punctuation	syntactic
+E118	5	mixed verbs	mixed
+E119	5	materials/natural	mixed
+E120	9	years/dates	syntactic
+E121	10	temporal prepositions	syntactic
+E122	10	subject pronouns	syntactic
+E123	8	special characters	syntactic
+E124	6	past participles	syntactic
+E125	8	definite article	syntactic
+E126	7	action verbs/removal	semantic
+E127	8	comparison word as	syntactic
+E128	9	military units	semantic
+E129	8	movement/retreat	semantic
+E130	3	mixed subwords	mixed
+E131	10	consonant clusters	syntactic
+E132	7	prepositions/comparison	syntactic
+E133	3	mixed verbs	mixed
+E134	9	have-verbs	syntactic
+E135	4	abstract nouns	mixed
+E136	8	evaluative adjectives	semantic
+E137	3	subword prefixes	syntactic
+E138	6	past participles	syntactic
+E139	8	epistemic adjectives	semantic
+E140	5	function/punctuation	mixed
+E141	8	subword suffixes	syntactic
+E142	10	numbers/quantifiers	syntactic
+E143	8	foreign suffixes	syntactic
+E144	9	subordinate conjunctions	syntactic
+E145	8	conjunctions	syntactic
+E146	8	road/highway terms	semantic
+E147	9	ordinal/superlative	syntactic
+E148	6	numbers/quantifiers	mixed
+E149	5	diacritics/subwords	mixed

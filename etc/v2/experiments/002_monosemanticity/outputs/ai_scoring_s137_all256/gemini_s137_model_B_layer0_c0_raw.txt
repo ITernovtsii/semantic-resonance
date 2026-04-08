@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to determine the scoring requirements.
+E000	8	sports/military	semantic
+E001	3	mixed/unclear	mixed
+E002	8	naming verbs	semantic
+E003	9	subword fragments	syntactic
+E004	7	names	semantic
+E005	8	punctuation/common	syntactic
+E006	4	mixed/unclear	mixed
+E007	7	movement/preposition	semantic
+E008	10	pronouns	syntactic
+E009	5	fragments/mixed	mixed
+E010	7	academic/health	semantic
+E011	6	common/functional	syntactic
+E012	9	characters/fragments	syntactic
+E013	8	connecting words	syntactic
+E014	10	sports statistics	semantic
+E015	10	suffix	syntactic
+E016	6	quotes/common	syntactic
+E017	10	adverbs	syntactic
+E018	7	adjectives/stems	semantic
+E019	2	random	mixed
+E020	10	prepositions	syntactic
+E021	7	modal/auxiliary	syntactic
+E022	2	mixed/unclear	mixed
+E023	8	composition/structure	semantic
+E024	9	temporal adverbs	semantic
+E025	10	past verbs	syntactic
+E026	5	set/state	semantic
+E027	7	names	semantic
+E028	9	biology/nature	semantic
+E029	10	name	semantic
+E030	10	prefixes	syntactic
+E031	9	war	semantic
+E032	3	mixed/unclear	mixed
+E033	9	past verbs	syntactic
+E034	4	mixed/unclear	mixed
+E035	3	mixed/unclear	mixed
+E036	2	mixed/unclear	mixed
+E037	10	auxiliary/modals	syntactic
+E038	10	completion	semantic
+E039	7	punctuation	syntactic
+E040	9	pronouns	syntactic
+E041	8	statistics/modals	mixed
+E042	10	punctuation	syntactic
+E043	8	perfect tense	syntactic
+E044	3	mixed/unclear	mixed
+E045	7	modifiers	syntactic
+E046	3	mixed/unclear	mixed
+E047	7	US geography	semantic
+E048	9	functional words	syntactic
+E049	7	connectives	syntactic

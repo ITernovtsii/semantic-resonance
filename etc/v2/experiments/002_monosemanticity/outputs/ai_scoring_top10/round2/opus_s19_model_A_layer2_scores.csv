@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	aging/commit	mixed
+E001	3	mixed/unclear	mixed
+E002	8	mushroom/biology	semantic
+E003	7	media/formats	semantic
+E004	7	adverbs -ly	syntactic
+E005	5	parenthetical	syntactic
+E006	5	punct/conj	mixed
+E007	5	have/auxiliary	syntactic
+E008	2	single period	syntactic
+E009	6	quantity/fellow	syntactic
+E010	2	single period	syntactic
+E011	5	military adj	mixed
+E012	4	groups/critics	mixed
+E013	6	spatial preps	syntactic
+E014	5	result/adverbs	mixed
+E015	4	number words	mixed
+E016	2	PAD/the	mixed
+E017	6	contain/praise	mixed
+E018	5	representatives	mixed
+E019	6	temporal preps	syntactic
+E020	6	temporal preps	syntactic
+E021	5	acronyms	mixed
+E022	7	three-digit numbers	syntactic
+E023	7	weather/science	semantic
+E024	4	mixed/unclear	mixed
+E025	7	punctuation	syntactic
+E026	5	an/another	syntactic
+E027	3	period/and	syntactic
+E028	7	sports/football	semantic
+E029	4	action verbs	mixed
+E030	5	spatial preps	syntactic
+E031	6	action verbs	mixed
+E032	5	getting/staying	mixed
+E033	5	involving/among	mixed
+E034	6	number words	syntactic
+E035	5	mixed starters	mixed
+E036	5	currency/punct	syntactic
+E037	5	abstract nouns	mixed
+E038	4	early/since	mixed
+E039	3	manufacturing	mixed
+E040	3	determiners	syntactic
+E041	7	punctuation	syntactic
+E042	5	commercial/media	mixed
+E043	2	single period	syntactic
+E044	6	conjunctions	syntactic
+E045	5	adj/various	mixed
+E046	6	charts/rankings	mixed
+E047	5	BPE fragments	mixed
+E048	5	discover/create	mixed
+E049	5	BPE/name frags	mixed
+E050	5	BPE name frags	mixed
+E051	7	modal/helping	syntactic
+E052	5	informal/want	mixed
+E053	5	years/mixed	mixed
+E054	6	abstract nouns	mixed
+E055	4	disabled/contact	mixed
+E056	5	conj/starters	mixed
+E057	7	measurement units	semantic
+E058	5	prepositions	syntactic
+E059	8	years late 1800s	semantic
+E060	4	BPE fragments	mixed
+E061	5	abstract nouns	mixed
+E062	6	becoming/seem	syntactic
+E063	7	first names	semantic
+E064	6	helping verbs	syntactic
+E065	4	abstract nouns	mixed
+E066	7	first names	semantic
+E067	4	structural nouns	mixed
+E068	5	being/becoming	syntactic
+E069	4	mixed/retreating	mixed
+E070	5	having/developers	mixed
+E071	5	entry/spatial	mixed
+E072	4	media/proper	mixed
+E073	3	affiliation	mixed
+E074	5	past participles	mixed
+E075	7	becoming/as	syntactic
+E076	5	proper nouns	mixed
+E077	4	BPE/units	mixed
+E078	5	adj/various	mixed
+E079	7	modal verbs	syntactic
+E080	5	adj/social	mixed
+E081	2	single period	syntactic
+E082	5	article a/no	syntactic
+E083	6	superlative adj	syntactic
+E084	3	quotation/period	syntactic
+E085	4	catchy/beautiful	mixed
+E086	5	BPE/name frags	mixed
+E087	5	natural/rural	mixed
+E088	5	achieve/upon	mixed
+E089	4	aside/economy	mixed
+E090	5	BPE fragments	mixed
+E091	3	adj/various	mixed
+E092	5	BPE name frags	mixed
+E093	5	punct/ending	syntactic
+E094	4	BPE fragments	mixed
+E095	7	have/auxiliary	syntactic
+E096	5	action verbs	mixed
+E097	7	discourse adverbs	syntactic
+E098	5	using/comprising	syntactic
+E099	6	first names	semantic

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	mixed quantities	mixed
+E001	6	informal speech	semantic
+E002	4	distant hard	mixed
+E003	6	communication verbs	syntactic
+E004	7	modal verbs	syntactic
+E005	6	comparison words	syntactic
+E006	3	BPE prefixes	syntactic
+E007	4	BPE initials	syntactic
+E008	6	named entities	semantic
+E009	5	proper names	mixed
+E010	5	mixed nouns	mixed
+E011	3	BPE consonant cl	syntactic
+E012	7	relative pronouns	syntactic
+E013	6	event verbs	syntactic
+E014	5	sentence endings	syntactic
+E015	3	BPE fragments	syntactic
+E016	7	competition verbs	syntactic
+E017	7	modal verbs	syntactic
+E018	7	determiners	syntactic
+E019	4	BPE noun suffixes	mixed
+E020	6	military command	semantic
+E021	6	possessive adj	syntactic
+E022	6	copula degree	syntactic
+E023	6	collective nouns	mixed
+E024	6	title words	mixed
+E025	4	date possessive	mixed
+E026	5	mixed prepositions	syntactic
+E027	7	propositional verbs	syntactic
+E028	5	mixed referents	mixed
+E029	7	participation verbs	syntactic
+E030	6	organization names	semantic
+E031	6	proximity preps	syntactic
+E032	6	geographic prefix	mixed
+E033	5	punctuation	syntactic
+E034	7	process nouns	semantic
+E035	5	location verbs	syntactic
+E036	7	abstract nouns	semantic
+E037	6	adjectives quality	syntactic
+E038	4	sentence endings	syntactic
+E039	5	place name parts	mixed
+E040	5	national adjectives	mixed
+E041	4	hyphen dash	syntactic
+E042	5	mixed nouns	mixed
+E043	7	ethnic adjectives	semantic
+E044	3	BPE name parts	mixed
+E045	4	BPE name parts	mixed
+E046	3	BPE prefixes	syntactic
+E047	5	temporal verbs	syntactic
+E048	5	event adjectives	mixed
+E049	3	BPE roots	syntactic
+E050	4	adjective the	syntactic
+E051	5	place names	mixed
+E052	7	using verbs	syntactic
+E053	7	adverbs manner	syntactic
+E054	5	adjective state	mixed
+E055	6	disliked praised	mixed
+E056	4	date period	syntactic
+E057	5	in from period	syntactic
+E058	6	competition verbs	mixed
+E059	7	personal adj	syntactic
+E060	4	abbreviations	syntactic
+E061	8	domain adjectives	semantic
+E062	8	counting numbers	syntactic
+E063	8	numbers	syntactic
+E064	6	prepositions	syntactic
+E065	6	plural groups	mixed
+E066	7	proper titles	semantic
+E067	7	ordinal numbers	syntactic
+E068	7	modal verbs	syntactic
+E069	7	discourse markers	syntactic
+E070	7	purpose verbs	syntactic
+E071	6	adj descriptive	mixed
+E072	6	sports results	mixed
+E073	7	demonstratives	syntactic
+E074	3	BPE verb stems	syntactic
+E075	5	mixed narrative	mixed
+E076	6	copula degree	syntactic
+E077	6	geographic places	semantic
+E078	5	conjunction plus	syntactic
+E079	7	plural nouns	mixed
+E080	6	decision verbs	syntactic
+E081	6	measurement units	mixed
+E082	4	punctuation clause	syntactic
+E083	5	mixed quantities	mixed
+E084	6	date month	syntactic
+E085	7	action verbs	syntactic
+E086	5	parenthetical	syntactic
+E087	4	sentence endings	syntactic
+E088	5	mixed narrative	mixed
+E089	7	reporting verbs	syntactic
+E090	5	mixed plural	mixed
+E091	5	prepositions	syntactic
+E092	4	article national	syntactic
+E093	7	adverb copula	syntactic
+E094	6	semicolon title	syntactic
+E095	4	the English	mixed
+E096	3	BPE compound	mixed
+E097	4	mixed tokens	mixed
+E098	8	naval weaponry	semantic
+E099	6	informal pronouns	semantic

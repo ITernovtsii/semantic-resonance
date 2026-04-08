@@ -1,0 +1,50 @@
+E200	8	general/title	semantic
+E201	4	pronouns+countries	mixed
+E202	8	political figures	semantic
+E203	9	geographic names	semantic
+E204	3	mixed historical	mixed
+E205	2	random	mixed
+E206	4	connectives+names	mixed
+E207	9	pronouns	syntactic
+E208	7	components	semantic
+E209	6	causal connectives	mixed
+E210	3	mixed verbs	mixed
+E211	7	articles/case	syntactic
+E212	9	conjunctions	syntactic
+E213	8	discourse markers	syntactic
+E214	8	building parts	semantic
+E215	2	random	mixed
+E216	8	possessives/punctuation	syntactic
+E217	4	mixed descriptors	mixed
+E218	10	function words	syntactic
+E219	5	single token	mixed
+E220	7	side terms	semantic
+E221	6	adverbs	mixed
+E222	5	single token	mixed
+E223	2	unk+fragments	mixed
+E224	8	negation	syntactic
+E225	9	prepositions	syntactic
+E226	7	names/titles	semantic
+E227	10	numbers	syntactic
+E228	8	surnames	semantic
+E229	5	question words	mixed
+E230	5	single token	mixed
+E231	8	speed unit	semantic
+E232	7	abstract nouns	semantic
+E233	9	action verbs	syntactic
+E234	4	mixed entities	mixed
+E235	3	mixed entities	mixed
+E236	6	personal names	semantic
+E237	9	auxiliaries	syntactic
+E238	9	time terms	semantic
+E239	10	numbers	syntactic
+E240	7	indefinites	mixed
+E241	10	subword fragments	syntactic
+E242	4	mixed entities	mixed
+E243	6	punctuation+verbs	mixed
+E244	8	be-forms	syntactic
+E245	9	demonstratives	syntactic
+E246	2	random	mixed
+E247	1	random	mixed
+E248	7	line/way terms	semantic
+E249	6	us/abbrev	semantic

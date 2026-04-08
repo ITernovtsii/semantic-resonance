@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	quantifiers/plural nouns	mixed
+E001	6	informal/colloquial verbs	semantic
+E002	4	adjectives/determiners	mixed
+E003	6	attribution/alongside	syntactic
+E004	7	modal/auxiliary verbs	syntactic
+E005	5	degree adverbs/comparison	syntactic
+E006	2	capitalized prefixes	mixed
+E007	8	capital letters/initials	syntactic
+E008	6	titled/named entities	mixed
+E009	3	mixed proper nouns	mixed
+E010	4	mixed adjectives/nouns	mixed
+E011	2	word-initial bigrams	syntactic
+E012	7	relative pronouns	syntactic
+E013	5	mixed events/results	mixed
+E014	7	sentence-end punctuation	syntactic
+E015	2	subword fragments	syntactic
+E016	5	competition/defeating	mixed
+E017	8	modal verbs	syntactic
+E018	6	determiners/articles	syntactic
+E019	3	mixed suffixes/nouns	mixed
+E020	5	military/commanding	mixed
+E021	5	adjectives/determiners	mixed
+E022	7	copula/state verbs	syntactic
+E023	6	collective/military nouns	mixed
+E024	5	titles/entertainment	mixed
+E025	3	years/determiners	mixed
+E026	3	mixed prepositions	syntactic
+E027	8	cognitive/speech verbs	semantic
+E028	4	mixed adjectives/nouns	mixed
+E029	7	participial verbs	syntactic
+E030	5	capitalized compound nouns	mixed
+E031	4	mixed punctuation/words	mixed
+E032	7	quotation/punctuation	syntactic
+E033	6	purpose/action verbs	syntactic
+E034	8	process/activity nouns	semantic
+E035	4	articles/determiners	syntactic
+E036	4	articles/determiners	syntactic
+E037	8	attributive adjectives	syntactic
+E038	3	mixed punctuation/titles	mixed
+E039	6	place name suffixes	syntactic
+E040	5	nationality adjectives	mixed
+E041	4	hyphens/punctuation	syntactic
+E042	4	mixed nouns/structures	mixed
+E043	9	nationality/ethnic adj	semantic
+E044	3	mixed names/subwords	mixed
+E045	6	surnames	syntactic
+E046	2	capitalized prefixes	mixed
+E047	5	location/movement adverbs	mixed
+E048	4	adjectives/years	mixed
+E049	2	subword fragments	mixed
+E050	4	articles/determiners	syntactic
+E051	6	place names/geography	semantic
+E052	7	containing/featuring verbs	semantic
+E053	8	manner adverbs	syntactic
+E054	5	adjectives/participles	mixed
+E055	5	featuring/comparison	mixed
+E056	4	temporal/period adj	mixed
+E057	7	temporal prepositions In/By	syntactic
+E058	6	competition/action verbs	semantic
+E059	7	possessive/personal adj	syntactic
+E060	3	abbreviations/letters	mixed
+E061	9	domain adjectives	semantic
+E062	9	numbers/numerals	syntactic
+E063	9	numbers/measurements	syntactic
+E064	6	purpose/causal preps	syntactic
+E065	7	plural agent nouns	syntactic
+E066	5	capitalized compound adj	mixed
+E067	9	ordinal numbers	syntactic
+E068	7	modal verbs	syntactic
+E069	6	discourse connectives	syntactic
+E070	7	infinitive/action verbs	semantic
+E071	7	descriptive adjectives	syntactic
+E072	5	mixed results/nouns	mixed
+E073	8	demonstrative/ordinal	syntactic
+E074	3	mixed subwords/nouns	mixed
+E075	5	mixed discourse/nouns	mixed
+E076	7	copula/adverbs	syntactic
+E077	6	geographic/institutional	semantic
+E078	5	conjunctions/comparison	syntactic
+E079	7	plural abstract nouns	semantic
+E080	6	intention/movement verbs	semantic
+E081	4	mixed units/nouns	mixed
+E082	4	punctuation	syntactic
+E083	6	abstract quantity nouns	semantic
+E084	6	temporal/period titles	mixed
+E085	6	action/state verbs	semantic
+E086	4	parenthetical markers	syntactic
+E087	6	sentence-end punctuation	syntactic
+E088	5	discourse/reference	mixed
+E089	8	speech/claim verbs	semantic
+E090	5	plural event nouns	mixed
+E091	3	prepositions mixed	syntactic
+E092	6	indefinite article an	syntactic
+E093	7	passive/adverb markers	syntactic
+E094	6	punctuation/listing	syntactic
+E095	3	articles/determiners	mixed
+E096	3	mixed subwords/nouns	mixed
+E097	4	mixed titles/names	mixed
+E098	8	naval/military weapons	semantic
+E099	7	narrative pronouns/nouns	semantic

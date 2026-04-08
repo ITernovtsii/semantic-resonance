@@ -1,0 +1,50 @@
+E150	5	numbers/mixed	mixed
+E151	10	prepositions	syntactic
+E152	8	articles	syntactic
+E153	9	subword suffixes	syntactic
+E154	2	single token	mixed
+E155	2	mixed fragments	mixed
+E156	2	mixed/unclear	mixed
+E157	2	subword fragments	mixed
+E158	9	determiners	syntactic
+E159	10	punctuation	syntactic
+E160	3	proper name	semantic
+E161	3	mixed/unclear	mixed
+E162	8	naval engineering	semantic
+E163	3	mixed adjectives	mixed
+E164	2	mixed/unclear	mixed
+E165	7	function words	syntactic
+E166	8	particles	syntactic
+E167	8	adjectives	syntactic
+E168	3	mixed entities	mixed
+E169	2	mixed/unclear	mixed
+E170	2	mixed/unclear	mixed
+E171	9	pronouns	syntactic
+E172	6	people/life	semantic
+E173	7	directional terms	semantic
+E174	2	mixed/unclear	mixed
+E175	8	connectives	syntactic
+E176	5	titles/places	semantic
+E177	7	verbs	syntactic
+E178	9	legal/politics	semantic
+E179	8	action verbs	syntactic
+E180	3	professor/years	mixed
+E181	8	function tokens	syntactic
+E182	7	stage performance	semantic
+E183	9	US states	semantic
+E184	7	function words	syntactic
+E185	3	suffix/measure	mixed
+E186	8	punctuation/function	syntactic
+E187	3	mixed/unclear	mixed
+E188	8	prepositions	syntactic
+E189	4	mixed/unclear	mixed
+E190	4	mixed/unclear	mixed
+E191	10	hurricane weather	semantic
+E192	3	mixed/unclear	mixed
+E193	7	reporting verbs	syntactic
+E194	7	abstract concepts	semantic
+E195	6	number words	syntactic
+E196	3	mixed/unclear	mixed
+E197	6	negation	semantic
+E198	2	mixed/unclear	mixed
+E199	4	mixed/unclear	mixed

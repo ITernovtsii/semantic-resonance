@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	7	re-/dis- prefix adverbs	syntactic
+E201	7	negation/prevention	semantic
+E202	5	mixed/power+violence	mixed
+E203	4	mixed/names+nouns	mixed
+E204	3	non-English syllables	syntactic
+E205	5	mixed verbs/events	mixed
+E206	5	organizational adjectives	mixed
+E207	5	mixed action verbs	mixed
+E208	4	mixed/evaluators+roles	mixed
+E209	2	mixed/random fragments	mixed
+E210	8	hyphen/compound prefixes	syntactic
+E211	7	prepositions	syntactic
+E212	9	violence/killing	semantic
+E213	7	indefinite articles	syntactic
+E214	9	three-digit numbers	syntactic
+E215	7	auxiliary verbs/brackets	syntactic
+E216	7	evaluation/judgment verbs	semantic
+E217	2	subword fragments	syntactic
+E218	8	loss/abandonment verbs	semantic
+E219	7	transportation/routes	semantic
+E220	8	sentence-initial determiners	syntactic
+E221	2	subword fragments	syntactic
+E222	5	mixed/places+conjunctions	mixed
+E223	7	comitative prepositions	syntactic
+E224	5	mixed stative verbs	mixed
+E225	3	abbreviations/acronyms	mixed
+E226	3	subword fragments	syntactic
+E227	3	mixed/random nouns	mixed
+E228	9	possessive determiners	syntactic
+E229	7	opinion/result nouns	semantic
+E230	5	mixed/weather+military	mixed
+E231	4	imperative/question words	mixed
+E232	5	function words	syntactic
+E233	10	global/international	semantic
+E234	2	subword fragments	syntactic
+E235	3	abbreviations/initials	syntactic
+E236	8	manner adverbs	syntactic
+E237	7	sentence-initial determiners	syntactic
+E238	8	geography/coastal	semantic
+E239	7	common verbs/copula	syntactic
+E240	8	subject pronouns	syntactic
+E241	7	purpose prepositions	syntactic
+E242	3	mixed/names+fragments	mixed
+E243	6	connective symbols	syntactic
+E244	4	mixed adjectives	mixed
+E245	3	mixed proper nouns	mixed
+E246	6	indefinite pronouns/quotes	mixed
+E247	5	single consonants/fragments	syntactic
+E248	7	top/position words	semantic
+E249	8	action verbs/infinitives	semantic

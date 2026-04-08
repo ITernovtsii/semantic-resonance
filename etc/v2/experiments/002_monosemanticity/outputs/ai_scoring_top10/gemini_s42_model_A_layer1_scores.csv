@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	10	prepositions	syntactic
+E001	10	pronouns	syntactic
+E002	8	determiners	syntactic
+E003	10	past verbs	syntactic
+E004	6	sports/superlatives	mixed
+E005	7	adjectives	syntactic
+E006	9	plural nouns	syntactic
+E007	10	verbs	syntactic
+E008	9	interrogatives	syntactic
+E009	9	verbs	syntactic
+E010	5	symbols/fractions	mixed
+E011	10	time/duration	semantic
+E012	7	ordinals/labels	mixed
+E013	4	mixed/unclear	mixed
+E014	10	adverbs	syntactic
+E015	7	media/discourse	semantic
+E016	2	random	mixed
+E017	8	proper nouns	semantic
+E018	1	random	mixed
+E019	6	titles/places	semantic
+E020	10	adjectives	syntactic
+E021	10	start/exit/enter	semantic
+E022	10	prepositions	syntactic
+E023	9	determiners	syntactic
+E024	10	copula verbs	syntactic
+E025	9	prepositions	syntactic
+E026	10	history/events	semantic
+E027	8	articles	syntactic
+E028	10	locations	semantic
+E029	3	mixed	mixed
+E030	4	mixed	mixed
+E031	10	fragments	syntactic
+E032	10	prepositions	syntactic
+E033	10	conjunctions	syntactic
+E034	10	punctuation	syntactic
+E035	9	conjunctions	syntactic
+E036	8	attribution	semantic
+E037	10	years	semantic
+E038	10	punctuation	syntactic
+E039	9	causality	semantic
+E040	6	fragments/Arabic	mixed
+E041	7	symbols	syntactic
+E042	5	mixed	mixed
+E043	10	commas	syntactic
+E044	10	years/century	semantic
+E045	9	connectors	syntactic
+E046	3	mixed	mixed
+E047	8	starters	syntactic
+E048	10	ballistics/units	semantic
+E049	9	military/naval	semantic
+E050	10	prepositions	syntactic
+E051	10	prepositions	syntactic
+E052	9	conjunctions	syntactic
+E053	9	plural nouns	syntactic
+E054	7	titles/music	semantic
+E055	10	quantifiers	syntactic
+E056	3	mixed	mixed
+E057	7	organizations	semantic
+E058	7	verbs	syntactic
+E059	9	conjunctions	syntactic
+E060	10	prefixes	syntactic
+E061	10	modals	syntactic
+E062	8	military/infra	semantic
+E063	4	mixed nouns	mixed
+E064	10	media/awards	semantic
+E065	10	demonstratives	syntactic
+E066	7	symbols	syntactic
+E067	10	quantifiers	syntactic
+E068	10	inclusion	semantic
+E069	8	numbers/determiners	mixed
+E070	10	languages	semantic
+E071	10	superlatives	syntactic
+E072	10	verb suffixes	syntactic
+E073	8	descriptors	syntactic
+E074	9	prepositions	syntactic
+E075	10	determiners	syntactic
+E076	9	prepositions	syntactic
+E077	10	weather	semantic
+E078	10	superlatives	syntactic
+E079	10	punctuation	syntactic
+E080	10	communication	semantic
+E081	10	prepositions	syntactic
+E082	8	media/credits	semantic
+E083	10	numbers	syntactic
+E084	6	titles	semantic
+E085	10	proper names	semantic
+E086	4	fragments/time	mixed
+E087	10	punctuation	syntactic
+E088	8	conjunctions	syntactic
+E089	9	prepositions	syntactic
+E090	9	groups/orgs	semantic
+E091	9	punctuation	syntactic
+E092	10	name fragments	syntactic
+E093	6	measurements	semantic
+E094	4	mixed	mixed
+E095	10	past verbs	syntactic
+E096	10	insertion/entry	semantic
+E097	10	abstract nouns	semantic
+E098	10	quantifiers	syntactic
+E099	5	mixed	mixed

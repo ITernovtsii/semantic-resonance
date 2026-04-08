@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	1	random	mixed
+E001	10	possessive pronouns	syntactic
+E002	9	giving/making verbs	semantic
+E003	7	contrast/punctuation	syntactic
+E004	9	spatial prepositions	syntactic
+E005	1	random	mixed
+E006	8	paired quantifiers	syntactic
+E007	8	possessive pronouns	syntactic
+E008	1	random/plural nouns	mixed
+E009	7	determiners/articles	syntactic
+E010	8	comparison words	syntactic
+E011	8	name prefixes	syntactic
+E012	2	random abbreviations	mixed
+E013	9	quotation/brackets	syntactic
+E014	2	person roles	mixed
+E015	7	adjectives/degree	semantic
+E016	10	months/dates	semantic
+E017	8	definite article	syntactic
+E018	2	mixed verbs	mixed
+E019	9	conjunctions	syntactic
+E020	5	adverbs/mixed	mixed
+E021	9	time periods	semantic
+E022	2	random capitalized	mixed
+E023	9	do/done verbs	syntactic
+E024	2	foreign subwords	mixed
+E025	6	degree adverbs	syntactic
+E026	9	suffixes/-ing	syntactic
+E027	8	sentence starters	syntactic
+E028	9	sentence-end punctuation	syntactic
+E029	9	temporal/after	semantic
+E030	9	military weapons	semantic
+E031	1	random	mixed
+E032	6	ordinals/dates	mixed
+E033	9	subword fragments	syntactic
+E034	8	units/abbreviations	syntactic
+E035	9	punctuation	syntactic
+E036	10	inclusion verbs	semantic
+E037	3	mixed verbs	mixed
+E038	1	random nouns	mixed
+E039	7	capitalized nouns	syntactic
+E040	2	mixed/adverbs	mixed
+E041	8	combining/merging	semantic
+E042	8	conjunctive adverbs	syntactic
+E043	7	structures/buildings	semantic
+E044	1	random	mixed
+E045	7	media/entertainment	semantic
+E046	5	sentence starters	syntactic
+E047	10	single letters	syntactic
+E048	5	abstract nouns	mixed
+E049	5	punctuation/reference	mixed

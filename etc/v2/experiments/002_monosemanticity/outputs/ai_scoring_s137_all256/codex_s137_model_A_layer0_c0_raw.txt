@@ -1,0 +1,50 @@
+E000	3	mixed nouns	mixed
+E001	2	name fragment	mixed
+E002	7	modal reasoning	semantic
+E003	6	adverbs/quantifiers	syntactic
+E004	10	punctuation	syntactic
+E005	2	mixed fragments	mixed
+E006	9	prepositions	syntactic
+E007	6	suffix morphology	syntactic
+E008	6	male pronouns	syntactic
+E009	8	articles/function words	syntactic
+E010	1	random fragments	mixed
+E011	8	definite/possessive determiners	syntactic
+E012	2	mixed topics	mixed
+E013	5	prefix fragments	syntactic
+E014	3	mixed terms	mixed
+E015	1	random entities	mixed
+E016	7	articles/auxiliaries	syntactic
+E017	3	mixed symbols	mixed
+E018	4	prepositions mixed	mixed
+E019	10	spatial prepositions	syntactic
+E020	8	meetings/relations	semantic
+E021	9	indefinite pronouns	syntactic
+E022	4	functional mixed	mixed
+E023	8	numbers/apostrophes	syntactic
+E024	5	discourse starters	syntactic
+E025	2	mixed fragments	mixed
+E026	7	evaluative verbs	semantic
+E027	2	random fragments	mixed
+E028	6	contrast markers	syntactic
+E029	9	conjunctions	syntactic
+E030	4	prepositions mixed	mixed
+E031	10	brackets/punctuation	syntactic
+E032	8	articles/quantifiers	syntactic
+E033	6	determiners/adjectives	syntactic
+E034	1	random words	mixed
+E035	10	relative pronouns	syntactic
+E036	10	sentence punctuation	syntactic
+E037	5	function words	mixed
+E038	3	it token	mixed
+E039	8	participle connectors	syntactic
+E040	2	mixed fragments	mixed
+E041	3	mixed function	mixed
+E042	4	numbers and percent	mixed
+E043	10	parentheses punctuation	syntactic
+E044	3	mixed symbols	mixed
+E045	8	prepositions	syntactic
+E046	1	random capitals	mixed
+E047	9	coordinating conjunctions	syntactic
+E048	4	natural terms	mixed
+E049	10	numbers	syntactic

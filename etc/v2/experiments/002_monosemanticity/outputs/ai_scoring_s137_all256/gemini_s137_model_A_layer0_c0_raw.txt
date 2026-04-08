@@ -1,0 +1,51 @@
+I will start by reading the content of the specified file to understand the scoring instructions and the data to be processed.
+E000	5	news/media	semantic
+E001	2	place name	semantic
+E002	9	logical connectors	syntactic
+E003	4	time/quantity	mixed
+E004	8	grammar/punctuation	syntactic
+E005	4	suffixes/mixed	mixed
+E006	10	prepositions	syntactic
+E007	5	abstract nouns	semantic
+E008	6	male pronouns	syntactic
+E009	7	function words	syntactic
+E010	2	fragments	syntactic
+E011	6	function words	syntactic
+E012	4	disaster/weather	semantic
+E013	7	prefixes/fragments	syntactic
+E014	5	technical/mechanical	semantic
+E015	3	mixed/unclear	mixed
+E016	6	function words	syntactic
+E017	3	mixed/unclear	mixed
+E018	4	mixed/prepositions	mixed
+E019	10	spatial prepositions	syntactic
+E020	9	interaction/events	semantic
+E021	10	quantifiers/pronouns	syntactic
+E022	4	function words	syntactic
+E023	8	numbers/symbols	syntactic
+E024	6	starting/temporal	semantic
+E025	2	fragments	syntactic
+E026	6	verbs/cognition	semantic
+E027	4	word fragments	syntactic
+E028	5	contrast/conjunctions	syntactic
+E029	9	conjunctions	syntactic
+E030	3	mixed/unclear	mixed
+E031	10	punctuation	syntactic
+E032	8	determiners/quantity	syntactic
+E033	7	adjectives/quantifiers	semantic
+E034	4	concrete nouns	semantic
+E035	10	pronouns	syntactic
+E036	10	punctuation/ending	syntactic
+E037	4	mixed/unclear	mixed
+E038	3	pronoun "it"	syntactic
+E039	10	participles	syntactic
+E040	5	word fragments	syntactic
+E041	2	mixed/unclear	mixed
+E042	7	statistics/politics	semantic
+E043	10	punctuation	syntactic
+E044	4	mixed/symbols	mixed
+E045	9	prepositions	syntactic
+E046	4	capitalized words	mixed
+E047	9	conjunctions	syntactic
+E048	9	biology/nature	semantic
+E049	10	numbers	syntactic

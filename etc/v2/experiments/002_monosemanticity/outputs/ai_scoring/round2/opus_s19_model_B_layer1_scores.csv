@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	speech act verbs	syntactic
+E001	6	discourse markers	syntactic
+E002	5	punctuation clause	syntactic
+E003	2	rare BPE tokens	mixed
+E004	5	BPE monosyllables	syntactic
+E005	5	quotation marks	syntactic
+E006	5	clause punctuation	syntactic
+E007	5	punctuation verbs	mixed
+E008	7	informal speech	semantic
+E009	5	mixed nouns	mixed
+E010	1	the single	syntactic
+E011	7	prepositions	syntactic
+E012	5	title prefixes	syntactic
+E013	7	spatial prepositions	syntactic
+E014	7	indefinite article	syntactic
+E015	7	pronoun subjects	syntactic
+E016	6	institution nouns	semantic
+E017	4	period route	syntactic
+E018	2	rare BPE tokens	mixed
+E019	8	perfective have	syntactic
+E020	8	first names	semantic
+E021	7	possessives	syntactic
+E022	7	sentence starters	syntactic
+E023	7	prepositions	syntactic
+E024	6	prepositions loc	syntactic
+E025	7	directional preps	syntactic
+E026	8	large numbers	syntactic
+E027	3	BPE prefixes	syntactic
+E028	5	mixed referents	mixed
+E029	7	copula auxiliary	syntactic
+E030	3	BPE fragments	syntactic
+E031	7	adverb copula	syntactic
+E032	7	with preposition	syntactic
+E033	2	proper names	mixed
+E034	6	discourse markers	syntactic
+E035	3	BPE verb stems	syntactic
+E036	1	the single	syntactic
+E037	7	temporal preps	syntactic
+E038	6	conjunction coord	syntactic
+E039	6	proportion nouns	mixed
+E040	6	compound nouns	mixed
+E041	6	article a an	syntactic
+E042	2	BPE fragments	mixed
+E043	4	BPE suffixes	syntactic
+E044	4	determiner poss	syntactic
+E045	6	abstract nouns	semantic
+E046	7	creation verbs	syntactic
+E047	6	to direction	syntactic
+E048	7	plural nouns	semantic
+E049	8	numbers codes	syntactic
+E050	8	title roles	semantic
+E051	5	quotation intro	syntactic
+E052	7	arts events	semantic
+E053	2	rare tokens	mixed
+E054	7	political adj	semantic
+E055	6	conjunction coord	syntactic
+E056	8	media types	semantic
+E057	7	demonstratives	syntactic
+E058	7	movement verbs	syntactic
+E059	7	national adj	syntactic
+E060	7	geographic nouns	semantic
+E061	5	discourse contr	syntactic
+E062	7	counting numbers	syntactic
+E063	1	the single	syntactic
+E064	5	temporal there	mixed
+E065	7	intention verbs	syntactic
+E066	5	determiners	syntactic
+E067	5	compound nouns	mixed
+E068	5	mixed nouns	mixed
+E069	7	temporal events	semantic
+E070	1	the single	syntactic
+E071	7	prepositions	syntactic
+E072	7	prepositions with	syntactic
+E073	6	inclusion preps	syntactic
+E074	5	punctuation marks	syntactic
+E075	7	nature biology	semantic
+E076	5	adjectives misc	mixed
+E077	8	proper names	semantic
+E078	6	geographic storms	mixed
+E079	7	relative pronouns	syntactic
+E080	7	person concepts	semantic
+E081	6	relative clauses	syntactic
+E082	5	sentence endings	syntactic
+E083	2	sentence endings	syntactic
+E084	2	numbers codes	syntactic
+E085	4	punctuation clause	syntactic
+E086	1	rare tokens	mixed
+E087	8	quantifiers both	syntactic
+E088	2	rare BPE tokens	mixed
+E089	6	proper name titles	mixed
+E090	4	article suffix	syntactic
+E091	3	hyphen dash	syntactic
+E092	4	BPE past tense	syntactic
+E093	4	article a	syntactic
+E094	7	temporal preps	syntactic
+E095	5	punctuation	syntactic
+E096	1	the single	syntactic
+E097	8	sports statistics	semantic
+E098	8	movement verbs	syntactic
+E099	6	adjectives misc	mixed

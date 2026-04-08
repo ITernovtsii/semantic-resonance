@@ -1,0 +1,5 @@
+I will read the instructions and data from `_tmp_s137_model_A_layer3_c5_gemini.txt` to generate the requested tab-separated scoring lines.
+E250	8	formal verbs	syntactic
+E251	10	slash punctuation	syntactic
+E252	9	auxiliary verbs	syntactic
+E253	2	mixed fragments	mixed

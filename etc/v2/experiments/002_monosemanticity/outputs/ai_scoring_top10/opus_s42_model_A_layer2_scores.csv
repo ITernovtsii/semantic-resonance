@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	modal/auxiliary verbs	syntactic
+E001	5	surnames/proper nouns	semantic
+E002	4	BPE fragments	syntactic
+E003	6	manner adverbs	syntactic
+E004	7	have/auxiliary verbs	syntactic
+E005	7	coordinating conjunctions	syntactic
+E006	4	determiners	syntactic
+E007	6	comma/punctuation	syntactic
+E008	3	mixed nouns	mixed
+E009	3	random titled nouns	mixed
+E010	4	group nouns	mixed
+E011	8	sentence-end punctuation	syntactic
+E012	5	foreign syllable BPE	syntactic
+E013	4	determiners	syntactic
+E014	6	directional prepositions	syntactic
+E015	6	comparative as/like	syntactic
+E016	5	articles a/an	syntactic
+E017	5	past participles	mixed
+E018	3	mixed nouns	mixed
+E019	4	progressive verbs	mixed
+E020	4	social/political nouns	mixed
+E021	6	closing punctuation	syntactic
+E022	4	action verbs	mixed
+E023	7	first names	semantic
+E024	4	determiners	syntactic
+E025	6	BPE word-start fragments	syntactic
+E026	5	special punct/quotes	syntactic
+E027	5	comma/time words	mixed
+E028	5	conflict/competition	semantic
+E029	4	BPE prefixes	syntactic
+E030	6	agent by/starring	syntactic
+E031	4	determiners	syntactic
+E032	7	concessive conjunctions	syntactic
+E033	7	punctuation/operators	syntactic
+E034	4	BPE rare fragments	mixed
+E035	3	period only	syntactic
+E036	5	years/seasons	mixed
+E037	6	abstract nouns	semantic
+E038	6	locative on/onto	syntactic
+E039	3	random BPE/names	mixed
+E040	5	evaluative adjectives	mixed
+E041	6	possessive pronouns	syntactic
+E042	4	infrastructure nouns	mixed
+E043	6	purpose prepositions	syntactic
+E044	3	mixed words/titles	mixed
+E045	5	BPE syllables	syntactic
+E046	8	nature/biology	semantic
+E047	6	superlative adjectives	syntactic
+E048	7	demonstratives/each	syntactic
+E049	5	quantity/former	syntactic
+E050	5	directional adjectives	semantic
+E051	5	adverbs/helping	mixed
+E052	7	demonstrative determiners	syntactic
+E053	6	movement prepositions	syntactic
+E054	3	abbreviations/codes	mixed
+E055	7	single cap letters	syntactic
+E056	7	personal pronouns	syntactic
+E057	5	BPE word fragments	syntactic
+E058	5	measurements/units	semantic
+E059	5	abstract nouns	semantic
+E060	7	social/political adj	semantic
+E061	7	temporal sentence-start	syntactic
+E062	4	action verbs	mixed
+E063	4	action verbs	mixed
+E064	5	measurement counts	syntactic
+E065	8	large numbers	syntactic
+E066	6	accompaniment prepositions	syntactic
+E067	7	location prepositions	syntactic
+E068	4	military/mixed nouns	mixed
+E069	3	mixed nouns/places	mixed
+E070	6	possessive pronouns	syntactic
+E071	6	coordinating conjunctions	syntactic
+E072	5	BPE word-start fragments	syntactic
+E073	7	years 1890s-1950s	syntactic
+E074	7	years 1800s	syntactic
+E075	5	quotation marks	syntactic
+E076	7	determiners each/every	syntactic
+E077	3	media/random plural	mixed
+E078	8	adverbs -ly	syntactic
+E079	6	comma/punctuation	syntactic
+E080	6	among/involving preps	syntactic
+E081	7	hyphens/dashes	syntactic
+E082	8	large numbers	syntactic
+E083	5	group/plural nouns	mixed
+E084	6	sentence-initial caps	syntactic
+E085	5	punctuation/separators	syntactic
+E086	5	action/allowing verbs	mixed
+E087	4	name syllable BPE	mixed
+E088	8	sports statistics	semantic
+E089	4	abstract -tion nouns	mixed
+E090	3	mixed geography/species	mixed
+E091	7	degree adverbs	syntactic
+E092	6	copula/state verbs	syntactic
+E093	7	location prepositions	syntactic
+E094	3	mixed nouns/places	mixed
+E095	8	sentence-end punctuation	syntactic
+E096	6	media/entertainment	semantic
+E097	7	temporal/manner adverbs	syntactic
+E098	5	ordinal/descriptive adj	syntactic
+E099	5	parenthetical punctuation	syntactic

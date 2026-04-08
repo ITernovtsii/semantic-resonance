@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	mixed/unclear	mixed
+E001	3	mixed events/places	mixed
+E002	8	biology/appearance	semantic
+E003	5	media/numbers	mixed
+E004	7	degree adverbs	syntactic
+E005	4	punctuation/units	syntactic
+E006	5	conjunctions/dates	mixed
+E007	7	tense/aspect adverbs	syntactic
+E008	1	single token	syntactic
+E009	6	quantifiers/notable	mixed
+E010	1	single token	syntactic
+E011	8	military adjectives	semantic
+E012	5	mixed organizations	mixed
+E013	7	spatial prepositions	syntactic
+E014	5	ranking/results	mixed
+E015	6	number words	syntactic
+E016	2	padding/articles	mixed
+E017	5	description/media verbs	mixed
+E018	4	mixed places/punct	mixed
+E019	8	temporal prepositions	syntactic
+E020	8	temporal prepositions	syntactic
+E021	5	abbreviations/letters	syntactic
+E022	8	numbers/quantities	syntactic
+E023	7	weather/natural	semantic
+E024	3	mixed/unclear	mixed
+E025	5	punctuation	syntactic
+E026	5	indefinite articles	syntactic
+E027	3	mixed	mixed
+E028	5	events/participation	mixed
+E029	4	numbers/approximation	mixed
+E030	6	prepositions/at-on	syntactic
+E031	7	providing/causative verbs	semantic
+E032	6	becoming/state change	syntactic
+E033	6	prepositions/regarding	syntactic
+E034	9	number words	syntactic
+E035	4	mixed prepositions	syntactic
+E036	5	numbers/routes	mixed
+E037	5	institutions/events	semantic
+E038	5	temporal prepositions	syntactic
+E039	3	manufacturing/scale	semantic
+E040	3	articles	syntactic
+E041	5	punctuation	syntactic
+E042	6	ordinal/media adjectives	mixed
+E043	1	single token	syntactic
+E044	7	conjunctions	syntactic
+E045	6	adjectives/various	mixed
+E046	7	statistics/scoring	semantic
+E047	3	subword fragments	mixed
+E048	5	action/usage verbs	mixed
+E049	3	Asian name fragments	mixed
+E050	3	capitalized prefixes	syntactic
+E051	7	modal verbs	syntactic
+E052	6	informal/colloquial	semantic
+E053	5	dates/time periods	mixed
+E054	7	social issues/abstract	semantic
+E055	3	mixed/unclear	mixed
+E056	7	discourse/conjunctions	syntactic
+E057	7	units/measurement	syntactic
+E058	5	preposition in	syntactic
+E059	9	years/dates	syntactic
+E060	3	subword fragments	syntactic
+E061	6	abstract nouns/terms	semantic
+E062	7	copula/becoming	syntactic
+E063	7	first names	syntactic
+E064	7	modal/helping verbs	syntactic
+E065	6	abstract nouns	semantic
+E066	6	character names	semantic
+E067	6	physical structures	semantic
+E068	6	state/adverbs	syntactic
+E069	5	military/geographic	mixed
+E070	5	adverbs/reported	mixed
+E071	6	geographic/regional	semantic
+E072	6	proper titles	semantic
+E073	3	mixed/unclear	mixed
+E074	8	past participles	syntactic
+E075	7	becoming/designation	syntactic
+E076	7	sports/competition	semantic
+E077	4	mixed numbers/punct	mixed
+E078	6	adjectives	syntactic
+E079	8	modal verbs	syntactic
+E080	6	domain adjectives	semantic
+E081	1	single token	syntactic
+E082	5	articles/determiners	syntactic
+E083	7	superlative adjectives	syntactic
+E084	2	punctuation	syntactic
+E085	6	informal/emotion	semantic
+E086	2	subword fragments	mixed
+E087	5	geographic/rural	semantic
+E088	5	prepositions	syntactic
+E089	3	mixed/unclear	mixed
+E090	2	subword fragments	syntactic
+E091	5	adjectives	syntactic
+E092	8	capital letters/digraphs	syntactic
+E093	5	adjectives/superlatives	mixed
+E094	5	numbers/quantities	mixed
+E095	8	perfect tense/have	syntactic
+E096	6	action/opposition verbs	semantic
+E097	7	discourse connectives	syntactic
+E098	6	action/including verbs	syntactic
+E099	4	mixed names/numbers	mixed

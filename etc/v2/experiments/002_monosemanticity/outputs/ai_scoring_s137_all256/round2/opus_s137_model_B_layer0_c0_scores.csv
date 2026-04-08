@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	4	military/sports	mixed
+E001	1	random	mixed
+E002	7	labeling verbs	syntactic
+E003	6	subword fragments	syntactic
+E004	5	proper names	semantic
+E005	4	punctuation	syntactic
+E006	3	present tense	mixed
+E007	5	spatial/directional	mixed
+E008	8	possessive pronouns	syntactic
+E009	2	subword fragments	syntactic
+E010	2	mixed/unclear	mixed
+E011	3	function words	syntactic
+E012	5	foreign characters	syntactic
+E013	7	clause connectors	syntactic
+E014	7	sports statistics	semantic
+E015	1	random	mixed
+E016	4	quoted speech	mixed
+E017	9	formal adverbs	syntactic
+E018	3	mixed/unclear	mixed
+E019	1	random	mixed
+E020	10	prepositions	syntactic
+E021	5	modals/auxiliaries	syntactic
+E022	2	random	mixed
+E023	5	composition verbs	mixed
+E024	8	temporal adverbs	syntactic
+E025	7	past participles	syntactic
+E026	4	set/state	mixed
+E027	4	proper nouns	semantic
+E028	7	natural history	semantic
+E029	1	random	mixed
+E030	9	prefixes	syntactic
+E031	4	war	semantic
+E032	1	random	mixed
+E033	7	action verbs	syntactic
+E034	2	mixed/unclear	mixed
+E035	2	mixed/unclear	mixed
+E036	1	random	mixed
+E037	8	modal/base verbs	syntactic
+E038	9	completion verbs	semantic
+E039	3	quotation marks	syntactic
+E040	6	relative pronouns	syntactic
+E041	6	percentage/stats	semantic
+E042	8	quote punctuation	syntactic
+E043	6	perfect tense	syntactic
+E044	1	random	mixed
+E045	3	mixed adverbs	mixed
+E046	2	random	mixed
+E047	5	place references	semantic
+E048	3	function words	syntactic
+E049	4	qualification adverbs	mixed

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	3	name fragments	syntactic
+E051	4	punctuation/starters	mixed
+E052	9	names/titles	semantic
+E053	10	buildings/structures	semantic
+E054	9	punctuation	syntactic
+E055	4	technical/descriptive	semantic
+E056	6	place names	semantic
+E057	8	grammatical particles	syntactic
+E058	10	prepositions	syntactic
+E059	10	present participles	syntactic
+E060	7	descriptive adjectives	semantic
+E061	10	time/dates	semantic
+E062	10	articles	syntactic
+E063	8	conjunctions	syntactic
+E064	8	determiners	syntactic
+E065	9	punctuation	syntactic
+E066	10	military/naval	semantic
+E067	10	companies/names	semantic
+E068	10	brackets/quotes	syntactic
+E069	8	logical/adverbial	syntactic
+E070	10	abstract nouns	semantic
+E071	9	interrogatives/conjunctions	syntactic
+E072	10	punctuation	syntactic
+E073	3	subword fragments	syntactic
+E074	10	years	semantic
+E075	10	punctuation	syntactic
+E076	8	spatial/physical	semantic
+E077	10	possessive pronouns	syntactic
+E078	10	inclusion markers	syntactic
+E079	5	name fragments	syntactic
+E080	8	measurements	semantic
+E081	10	punctuation	syntactic
+E082	4	word prefixes	syntactic
+E083	3	fragments	mixed
+E084	7	conflict/prepositions	semantic
+E085	8	determiners	syntactic
+E086	10	sports	semantic
+E087	8	months/titles	semantic
+E088	9	possessives/suffixes	syntactic
+E089	10	indefinite determiners	syntactic
+E090	10	conjunctions	syntactic
+E091	10	family/relations	semantic
+E092	10	numbers	semantic
+E093	6	modifiers	mixed
+E094	4	short syllables	syntactic
+E095	4	mixed fragments	mixed
+E096	8	prepositions	syntactic
+E097	10	prepositions	syntactic
+E098	10	definite article	syntactic
+E099	10	directional adverbs	semantic

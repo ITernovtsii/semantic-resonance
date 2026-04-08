@@ -1,0 +1,7 @@
+I will read the instructions and data from `_tmp_s137_model_A_layer2_c5_gemini.txt` to provide the requested scoring lines.
+E250	5	prefixes/subwords	syntactic
+E251	2	capitalized fragments	mixed
+E252	1	random	mixed
+E253	4	rankings/symbols	mixed
+E254	9	spatial prepositions	syntactic
+E255	8	prepositions/punctuation	syntactic

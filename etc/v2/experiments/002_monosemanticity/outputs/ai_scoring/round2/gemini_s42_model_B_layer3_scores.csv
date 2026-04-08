@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	social issues/conflict	semantic
+E001	9	punctuation/abbreviations	syntactic
+E002	7	song titles/pop	semantic
+E003	6	historical/biographical	semantic
+E004	9	movement verbs	semantic
+E005	10	punctuation (comma)	syntactic
+E006	8	plural groups	semantic
+E007	10	titles/roles	semantic
+E008	9	conjunctions/transitions	syntactic
+E009	9	determiners	syntactic
+E010	10	modal verbs	syntactic
+E011	8	achievement/review verbs	semantic
+E012	8	name fragments	syntactic
+E013	8	quantifiers/connectors	syntactic
+E014	7	descriptive adjectives	semantic
+E015	8	action verbs	semantic
+E016	9	action verbs	semantic
+E017	10	adverbs (degree)	syntactic
+E018	4	mixed/administrative	mixed
+E019	8	entities/categories	semantic
+E020	9	punctuation/starters	syntactic
+E021	9	prepositions/relational	syntactic
+E022	10	entertainment rankings	semantic
+E023	8	transition verbs	semantic
+E024	7	general plurals	semantic
+E025	9	function words	syntactic
+E026	7	quantities/units	semantic
+E027	4	mixed/proper nouns	mixed
+E028	10	determiners	syntactic
+E029	10	past verbs	syntactic
+E030	9	architectural fragments	semantic
+E031	10	logical connectors	syntactic
+E032	10	adjectives	semantic
+E033	10	temporal words	syntactic
+E034	3	dashes/mixed	mixed
+E035	9	abstract adjectives	semantic
+E036	8	name prefixes	syntactic
+E037	9	adverbs	syntactic
+E038	10	numbers/measurements	semantic
+E039	9	temporal order	semantic
+E040	2	random/sparse	mixed
+E041	7	place modifiers	semantic
+E042	8	technical adjectives	semantic
+E043	7	plural nouns	semantic
+E044	7	materials/substances	semantic
+E045	8	proper names (places)	semantic
+E046	9	sports/competition	semantic
+E047	8	adverbs/copular	syntactic
+E048	2	mixed/fragments	mixed
+E049	10	locations/geography	semantic
+E050	6	sports/conflict nouns	semantic
+E051	10	media/arts	semantic
+E052	8	nationality/status	semantic
+E053	8	consonant fragments	syntactic
+E054	8	connectives/dates	syntactic
+E055	8	codes/abbreviations	syntactic
+E056	7	starters/pronouns	syntactic
+E057	9	places/facilities	semantic
+E058	8	proper names	semantic
+E059	8	word prefixes	syntactic
+E060	6	plural nouns	semantic
+E061	8	quantifying adjectives	semantic
+E062	9	celebrity names	semantic
+E063	4	mixed/titles	mixed
+E064	10	comma	syntactic
+E065	9	male names	semantic
+E066	9	letters/symbols	syntactic
+E067	10	arts/music adjectives	semantic
+E068	7	name/place fragments	syntactic
+E069	2	mixed/sparse	mixed
+E070	7	formal nouns	semantic
+E071	7	event verbs	semantic
+E072	8	name fragments	syntactic
+E073	4	mixed capitalized	mixed
+E074	10	punctuation (comma)	syntactic
+E075	10	numbers/ordinals	semantic
+E076	9	proper names	semantic
+E077	10	cognitive verbs	semantic
+E078	9	connectives/comparatives	syntactic
+E079	6	modals/plurals	mixed
+E080	10	organized groups	semantic
+E081	10	quantifiers/containment	semantic
+E082	8	prefix fragments	syntactic
+E083	10	punctuation	syntactic
+E084	3	mixed/unclear	mixed
+E085	9	abstract nouns	semantic
+E086	9	entity groups	semantic
+E087	10	proper adjectives	semantic
+E088	8	subword fragments	syntactic
+E089	9	possessives	syntactic
+E090	10	conjunctions	syntactic
+E091	8	currency/symbols	syntactic
+E092	9	entertainment metrics	semantic
+E093	10	punctuation (period)	syntactic
+E094	8	concepts/demonstratives	mixed
+E095	8	ethnic/geographic fragments	semantic
+E096	9	prepositions/months	syntactic
+E097	7	adjectives/possessives	mixed
+E098	10	order/quantifiers	semantic
+E099	9	biological/physical	semantic

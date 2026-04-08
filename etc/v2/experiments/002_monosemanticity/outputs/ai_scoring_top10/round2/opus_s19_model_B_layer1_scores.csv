@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	action verbs	mixed
+E001	7	discourse adverbs	syntactic
+E002	7	punctuation	syntactic
+E003	5	random/unicode	mixed
+E004	6	BPE/natural	mixed
+E005	5	opening quote	syntactic
+E006	5	punctuation	syntactic
+E007	5	name/proper	mixed
+E008	6	reclassified/HMS	mixed
+E009	5	proper/champion	mixed
+E010	3	random mixed	mixed
+E011	5	BPE/name frags	mixed
+E012	5	past participles	mixed
+E013	5	to/preposition	syntactic
+E014	4	that/stating	syntactic
+E015	6	capitalized words	mixed
+E016	4	abstract nouns	mixed
+E017	4	abstract nouns	mixed
+E018	4	entry/movement	mixed
+E019	4	misc nouns	mixed
+E020	5	BPE/name frags	mixed
+E021	4	abstract nouns	mixed
+E022	5	punct/conj	mixed
+E023	4	abstract nouns	mixed
+E024	5	at/on preps	syntactic
+E025	5	possessives	syntactic
+E026	5	proper names	mixed
+E027	5	abstract nouns	mixed
+E028	5	proper adj	mixed
+E029	6	people names	mixed
+E030	6	proper nouns	mixed
+E031	5	spatial preps	syntactic
+E032	5	compound/proper	mixed
+E033	6	punctuation	syntactic
+E034	4	media/nouns	mixed
+E035	5	place/occurring	mixed
+E036	4	abstract nouns	mixed
+E037	7	punctuation	syntactic
+E038	5	action verbs	mixed
+E039	4	proper nouns	mixed
+E040	6	conjunctions	syntactic
+E041	5	conjunctions	syntactic
+E042	5	possessives	syntactic
+E043	4	mixed proper	mixed
+E044	5	adverbs	mixed
+E045	7	demonstratives	syntactic
+E046	5	BPE fragments	mixed
+E047	5	to/towards	syntactic
+E048	7	BPE/biology	mixed
+E049	6	three-digit numbers	syntactic
+E050	6	title/proper	mixed
+E051	5	quotation punct	syntactic
+E052	5	confrontation	mixed
+E053	5	BPE fragments	mixed
+E054	5	adj/proper	mixed
+E055	6	conjunctions	syntactic
+E056	7	media/creative	semantic
+E057	6	previous/same	syntactic
+E058	5	mixed verbs	mixed
+E059	6	scientific/adj	mixed
+E060	6	place/geography	mixed
+E061	5	adverbs	mixed
+E062	5	number words	mixed
+E063	4	determiners	syntactic
+E064	5	sentence starters	mixed
+E065	5	action/verb	mixed
+E066	5	punctuation	syntactic
+E067	8	ordinal numbers	syntactic
+E068	6	modal/helping	syntactic
+E069	7	discourse adverbs	syntactic
+E070	5	action verbs	mixed
+E071	7	creative adj	semantic
+E072	4	mixed sports	mixed
+E073	7	demonstratives	syntactic
+E074	6	BPE fragments	syntactic
+E075	5	instead/memoir	mixed
+E076	5	adverbs/being	mixed
+E077	4	place/mixed	mixed
+E078	5	plus/and/or	syntactic
+E079	4	plural nouns	mixed
+E080	5	determine/leave	mixed
+E081	4	mixed nouns	mixed
+E082	5	punctuation	syntactic
+E083	4	abstract nouns	mixed
+E084	5	proper/late	mixed
+E085	5	action verbs	mixed
+E086	6	parenthetical	syntactic
+E087	7	sentence-end punct	syntactic
+E088	5	road/section	mixed
+E089	6	cognitive verbs	mixed
+E090	4	plural nouns	mixed
+E091	5	prepositions	syntactic
+E092	4	article an	syntactic
+E093	5	being/were	syntactic
+E094	5	punct/entitled	mixed
+E095	4	determiners	syntactic
+E096	4	BPE fragments	mixed
+E097	5	proper names	mixed
+E098	7	naval/weapon	semantic
+E099	4	informal/mixed	mixed

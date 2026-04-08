@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	8	acting/performance	semantic
+E101	2	mixed/unclear	mixed
+E102	1	random	mixed
+E103	3	ellipsis/padding	syntactic
+E104	7	movement prepositions	syntactic
+E105	3	punctuation	syntactic
+E106	3	conjunctions	syntactic
+E107	1	random	mixed
+E108	7	sentence starters	syntactic
+E109	1	random	mixed
+E110	1	random	mixed
+E111	8	temporal prepositions	syntactic
+E112	7	numbers/quantifiers	syntactic
+E113	1	random	mixed
+E114	7	organizations	semantic
+E115	1	random	mixed
+E116	6	military titles	semantic
+E117	6	word-start fragments	syntactic
+E118	6	name prefixes	syntactic
+E119	8	music/entertainment	semantic
+E120	1	random	mixed
+E121	1	random	mixed
+E122	1	random	mixed
+E123	1	random	mixed
+E124	1	random	mixed
+E125	4	punctuation	syntactic
+E126	7	dashes	syntactic
+E127	4	entertainment	semantic
+E128	2	mixed/unclear	mixed
+E129	7	compound word parts	syntactic
+E130	4	numbers/geography	mixed
+E131	4	abstract nouns	semantic
+E132	6	competition/politics	semantic
+E133	4	directional	syntactic
+E134	7	honorific titles	syntactic
+E135	6	word-start fragments	syntactic
+E136	2	mixed/unclear	mixed
+E137	6	prepositions/connectors	syntactic
+E138	1	random	mixed
+E139	3	rare BPE fragments	syntactic
+E140	1	random	mixed
+E141	1	random	mixed
+E142	6	mycology/biology	semantic
+E143	1	random	mixed
+E144	1	random	mixed
+E145	5	base-form verbs	syntactic
+E146	4	apostrophes	syntactic
+E147	5	determiners	syntactic
+E148	6	description adverbs	semantic
+E149	2	mixed/unclear	mixed

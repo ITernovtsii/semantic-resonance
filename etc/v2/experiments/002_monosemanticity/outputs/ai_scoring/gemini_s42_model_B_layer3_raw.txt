@@ -1,0 +1,101 @@
+I will read the instructions in `_tmp_s42_model_B_layer3_gemini.txt` to determine how to proceed.
+E000	4	social/legal/mixed	semantic
+E001	8	punctuation/acronyms	syntactic
+E002	6	song titles/music	semantic
+E003	7	military/history	semantic
+E004	9	past tense verbs	syntactic
+E005	10	punctuation	syntactic
+E006	8	plural nouns	syntactic
+E007	9	titles/occupations	semantic
+E008	9	conjunctions	syntactic
+E009	8	articles/pronouns	syntactic
+E010	9	modal verbs	syntactic
+E011	8	verbs/attributes	semantic
+E012	8	name fragments	syntactic
+E013	8	sentence starters	syntactic
+E014	7	adjectives	semantic
+E015	8	military/actions	semantic
+E016	7	verbs	syntactic
+E017	10	adverbs/degree	syntactic
+E018	3	mixed/unclear	mixed
+E019	7	entities/sports	semantic
+E020	9	punctuation/quotes	syntactic
+E021	7	spatial/relational	semantic
+E022	10	music charts	semantic
+E023	7	linking verbs	syntactic
+E024	6	plurals/indefinites	syntactic
+E025	6	prepositions/functional	syntactic
+E026	8	numbers/units	syntactic
+E027	4	mixed/reporting	mixed
+E028	9	determiners	syntactic
+E029	9	past tense verbs	syntactic
+E030	8	archaeology fragments	semantic
+E031	9	logical connectors	syntactic
+E032	9	adjectives	semantic
+E033	10	temporal prepositions	syntactic
+E034	4	dashes/mixed	mixed
+E035	8	adjectives	semantic
+E036	7	capitalized fragments	syntactic
+E037	9	adverbs	syntactic
+E038	10	numbers/measures	syntactic
+E039	9	temporal adjectives	semantic
+E040	2	random/specific	mixed
+E041	6	geographic/articles	mixed
+E042	7	adjectives/physical	semantic
+E043	9	plural nouns	syntactic
+E044	8	substances/colors	semantic
+E045	9	geographic/parks	semantic
+E046	8	competition/interaction	semantic
+E047	8	adverbs/linking	syntactic
+E048	9	BPE fragments	syntactic
+E049	9	geography/places	semantic
+E050	5	mixed nouns	semantic
+E051	10	media/publication	semantic
+E052	7	military/national	semantic
+E053	10	BPE onsets	syntactic
+E054	8	transitions	syntactic
+E055	8	codes/transport	syntactic
+E056	7	functional words	syntactic
+E057	9	places/facilities	semantic
+E058	6	names/entities	semantic
+E059	8	BPE fragments	syntactic
+E060	7	plural nouns	syntactic
+E061	8	adjectives/determiners	semantic
+E062	9	surnames	semantic
+E063	3	mixed/unclear	mixed
+E064	1	random	mixed
+E065	9	male names	semantic
+E066	10	letters/music	syntactic
+E067	10	music/media adjectives	semantic
+E068	6	name fragments	semantic
+E069	2	random/mixed	mixed
+E070	5	mixed nouns	semantic
+E071	8	event verbs	semantic
+E072	9	BPE capitalized	syntactic
+E073	3	mixed/unclear	mixed
+E074	10	punctuation	syntactic
+E075	10	numbers/ordinals	syntactic
+E076	9	surnames	semantic
+E077	9	cognition/reporting	semantic
+E078	8	conjunctions	syntactic
+E079	5	modals/nouns	mixed
+E080	9	plural nouns	syntactic
+E081	10	inclusion/grouping	semantic
+E082	8	BPE fragments	syntactic
+E083	10	punctuation	syntactic
+E084	2	random/mixed	mixed
+E085	7	abstract nouns	semantic
+E086	8	plural nouns	syntactic
+E087	10	proper adjectives	semantic
+E088	10	BPE fragments	syntactic
+E089	9	possessives	syntactic
+E090	10	conjunctions	syntactic
+E091	8	symbols/punctuation	syntactic
+E092	9	media metrics	semantic
+E093	10	punctuation	syntactic
+E094	6	demonstratives/mixed	syntactic
+E095	7	name/place fragments	semantic
+E096	10	prepositions	syntactic
+E097	7	adjectives/possessives	semantic
+E098	8	determiners/quantities	semantic
+E099	9	biology/nature	semantic

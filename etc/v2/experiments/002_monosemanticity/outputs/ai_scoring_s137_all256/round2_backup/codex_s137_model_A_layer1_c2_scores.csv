@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	6	pronouns	syntactic
+E101	9	sports	semantic
+E102	9	prepositions	syntactic
+E103	7	locative preps	syntactic
+E104	9	creation verbs	semantic
+E105	4	people roles	semantic
+E106	5	ion words	syntactic
+E107	2	subword mix	mixed
+E108	9	transportation	semantic
+E109	8	inclusion terms	syntactic
+E110	2	name fragments	mixed
+E111	2	subword mix	mixed
+E112	8	quantifiers	syntactic
+E113	9	naval military	semantic
+E114	7	verb forms	syntactic
+E115	8	function words	syntactic
+E116	8	cognition verbs	semantic
+E117	9	subwords	syntactic
+E118	10	numbers	syntactic
+E119	5	mixed adverbs	mixed
+E120	8	pronouns	syntactic
+E121	9	prepositions	syntactic
+E122	8	articles letters	syntactic
+E123	9	prepositions	syntactic
+E124	3	single preposition	syntactic
+E125	8	pronouns	syntactic
+E126	10	given names	semantic
+E127	6	punctuation mix	mixed
+E128	9	symbols	syntactic
+E129	8	ordinals	syntactic
+E130	10	punctuation	syntactic
+E131	8	conjunctions	syntactic
+E132	8	capitalized preps	syntactic
+E133	9	question words	syntactic
+E134	4	action verbs	mixed
+E135	9	possessives	syntactic
+E136	9	quantifiers	syntactic
+E137	9	pronouns	syntactic
+E138	6	process verbs	semantic
+E139	9	relative words	syntactic
+E140	8	people roles	semantic
+E141	9	prepositions	syntactic
+E142	10	subwords	syntactic
+E143	8	military	semantic
+E144	7	discourse markers	syntactic
+E145	9	quantifiers	syntactic
+E146	10	quoted punctuation	syntactic
+E147	9	spatial relations	semantic
+E148	5	adjectives mix	mixed
+E149	8	punctuation	syntactic

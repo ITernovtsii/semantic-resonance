@@ -1,0 +1,50 @@
+E000	8	regional geography	semantic
+E001	8	temporal adverbs	syntactic
+E002	7	adverbials	syntactic
+E003	6	plural nouns	syntactic
+E004	6	verb participles	syntactic
+E005	8	determiners	syntactic
+E006	10	be verbs	syntactic
+E007	10	prepositions	syntactic
+E008	9	prepositions	syntactic
+E009	8	action verbs	syntactic
+E010	9	do verbs	syntactic
+E011	2	random titles	mixed
+E012	8	subword fragments	syntactic
+E013	9	pronouns	syntactic
+E014	5	capitalized mix	mixed
+E015	9	determiners	syntactic
+E016	8	connective starters	syntactic
+E017	8	punctuation mix	syntactic
+E018	7	verb forms	syntactic
+E019	3	random labels	mixed
+E020	2	random words	mixed
+E021	10	weather terms	semantic
+E022	9	quantifiers	syntactic
+E023	7	advocacy verbs	semantic
+E024	7	have contain	syntactic
+E025	4	mixed modifiers	mixed
+E026	2	random entities	mixed
+E027	10	prefixes	syntactic
+E028	8	ordinals	syntactic
+E029	5	proper names	mixed
+E030	9	prefix morphology	syntactic
+E031	7	people plurals	syntactic
+E032	8	demonstratives	syntactic
+E033	7	referential words	syntactic
+E034	10	determiners	syntactic
+E035	6	punctuation discourse	mixed
+E036	3	random fragments	mixed
+E037	9	become verbs	syntactic
+E038	2	random names	mixed
+E039	10	punctuation tokens	syntactic
+E040	8	subword fragments	syntactic
+E041	9	symbol punctuation	syntactic
+E042	7	action verbs	syntactic
+E043	9	symbol units	syntactic
+E044	9	quantifiers	syntactic
+E045	5	activity words	mixed
+E046	9	ly adverbs	syntactic
+E047	9	music charts	semantic
+E048	8	generic modifiers	syntactic
+E049	8	degree adverbs	syntactic

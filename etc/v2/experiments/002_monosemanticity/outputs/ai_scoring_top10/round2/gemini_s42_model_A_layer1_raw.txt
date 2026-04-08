@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	10	prepositions	syntactic
+E001	10	pronouns	syntactic
+E002	8	articles	syntactic
+E003	10	past participles	syntactic
+E004	9	sports/rankings	semantic
+E005	7	adjectives	semantic
+E006	5	plural nouns	semantic
+E007	8	action verbs	semantic
+E008	9	interrogatives	syntactic
+E009	8	activity verbs	semantic
+E010	6	punctuation/parts	mixed
+E011	10	time units	semantic
+E012	8	ordinals/geopolitical	semantic
+E013	4	nature/industry	semantic
+E014	10	adverbs	syntactic
+E015	7	abstract/visual	semantic
+E016	2	mixed/unclear	mixed
+E017	6	entities/groups	semantic
+E018	2	random	mixed
+E019	7	geographical/titles	semantic
+E020	10	qualitative adjectives	semantic
+E021	10	entry/exit verbs	semantic
+E022	10	prepositions	syntactic
+E023	9	determiners	syntactic
+E024	10	copular verbs	syntactic
+E025	8	prepositions	syntactic
+E026	10	historical events	semantic
+E027	8	articles	syntactic
+E028	10	geography	semantic
+E029	3	mixed/unclear	mixed
+E030	6	causal/relational	mixed
+E031	4	subword fragments	syntactic
+E032	10	prepositions	syntactic
+E033	10	conjunctions	syntactic
+E034	10	punctuation	syntactic
+E035	10	conjunctions	syntactic
+E036	9	reporting/attribution	syntactic
+E037	10	years/history	semantic
+E038	10	punctuation	syntactic
+E039	10	causality	semantic
+E040	8	name fragments	semantic
+E041	7	punctuation/operators	syntactic
+E042	5	temporal relation	mixed
+E043	10	punctuation	syntactic
+E044	10	years/history	semantic
+E045	9	conjunctive adverbs	syntactic
+E046	4	mixed/unclear	semantic
+E047	8	sentence starters	syntactic
+E048	10	military/technical	semantic
+E049	9	naval/military	semantic
+E050	10	prepositions	syntactic
+E051	10	prepositions	syntactic
+E052	10	conjunctions	syntactic
+E053	8	plural nouns	semantic
+E054	7	music/titles	semantic
+E055	10	quantifiers	syntactic
+E056	3	mixed/unclear	semantic
+E057	7	organizations/names	semantic
+E058	8	verbs	syntactic
+E059	10	subordinators	syntactic
+E060	9	prefixes	syntactic
+E061	10	auxiliary verbs	syntactic
+E062	8	military/infrastructure	semantic
+E063	4	mixed/unclear	semantic
+E064	10	media/awards	semantic
+E065	10	determiners	syntactic
+E066	6	punctuation/special	syntactic
+E067	10	quantifiers	semantic
+E068	10	inclusion/possession	semantic
+E069	9	numbers/determiners	semantic
+E070	10	languages/nationalities	semantic
+E071	10	superlatives	semantic
+E072	10	verb suffixes	syntactic
+E073	7	qualitative adjectives	semantic
+E074	2	prepositions	syntactic
+E075	8	determiners	syntactic
+E076	8	prepositions	syntactic
+E077	10	meteorology	semantic
+E078	10	superlatives	semantic
+E079	10	punctuation	syntactic
+E080	10	communication verbs	semantic
+E081	10	prepositions	syntactic
+E082	8	content description	semantic
+E083	10	numbers	syntactic
+E084	5	proper names	semantic
+E085	9	proper names	semantic
+E086	3	mixed/unclear	mixed
+E087	10	punctuation	syntactic
+E088	8	conjunctions	syntactic
+E089	10	spatial prepositions	syntactic
+E090	8	social units	semantic
+E091	9	punctuation	syntactic
+E092	9	name fragments	semantic
+E093	7	scale/measurements	semantic
+E094	4	mixed/unclear	mixed
+E095	9	past tense verbs	syntactic
+E096	10	positioning	semantic
+E097	9	abstract nouns	semantic
+E098	10	quantifiers	syntactic
+E099	4	mixed/unclear	mixed

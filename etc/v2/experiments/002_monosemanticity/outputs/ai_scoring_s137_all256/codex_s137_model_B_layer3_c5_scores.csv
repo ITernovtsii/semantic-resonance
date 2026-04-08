@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	6	person names	semantic
+E251	8	action verbs	semantic
+E252	10	punctuation	syntactic
+E253	7	pronouns/function words	syntactic
+E254	9	adverbs/suffixes	syntactic
+E255	2	mixed/unclear	mixed

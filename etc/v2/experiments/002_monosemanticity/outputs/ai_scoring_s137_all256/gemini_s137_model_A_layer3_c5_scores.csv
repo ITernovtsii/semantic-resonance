@@ -1,0 +1,5 @@
+expert_id	score	category	type
+E250	8	formal verbs	syntactic
+E251	10	slash punctuation	syntactic
+E252	9	auxiliary verbs	syntactic
+E253	2	mixed fragments	mixed

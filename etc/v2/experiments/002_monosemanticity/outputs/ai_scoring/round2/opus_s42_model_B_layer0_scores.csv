@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	informal colloquial	mixed
+E001	2	single word to	syntactic
+E002	7	first names	semantic
+E003	3	since preposition	syntactic
+E004	6	role task nouns	semantic
+E005	3	mixed proper nouns	mixed
+E006	5	modal verbs	syntactic
+E007	4	quotation colon	syntactic
+E008	2	single article	syntactic
+E009	2	to the	syntactic
+E010	3	that conjunction	syntactic
+E011	7	verb adj suffixes	syntactic
+E012	6	social concepts	semantic
+E013	5	geographic political	mixed
+E014	5	perfect aspect	syntactic
+E015	4	BPE fragments	syntactic
+E016	5	discourse markers	syntactic
+E017	5	playing verbs	syntactic
+E018	8	numbers	syntactic
+E019	5	copular verbs	syntactic
+E020	5	function words	syntactic
+E021	4	work project	mixed
+E022	2	single which	syntactic
+E023	3	at preposition	syntactic
+E024	3	mixed fragments	mixed
+E025	3	with to the	syntactic
+E026	3	mixed nouns	mixed
+E027	4	indefinite article	syntactic
+E028	5	punctuation marks	syntactic
+E029	6	BPE word parts	syntactic
+E030	2	of the	syntactic
+E031	6	prepositions	syntactic
+E032	7	nationality adjectives	mixed
+E033	6	temporal superlatives	mixed
+E034	5	BPE syllables	syntactic
+E035	6	event verbs	syntactic
+E036	4	comparative more	syntactic
+E037	5	past participles	syntactic
+E038	3	are also its	syntactic
+E039	5	specialized adjectives	syntactic
+E040	2	single article	syntactic
+E041	3	punctuation dashes	syntactic
+E042	6	female pronouns	syntactic
+E043	5	modal verbs	syntactic
+E044	5	abstract plural nouns	semantic
+E045	3	in preposition	syntactic
+E046	4	mixed fragments	mixed
+E047	5	geographic expansion	mixed
+E048	6	domain adjectives	mixed
+E049	5	entity nouns	mixed
+E050	5	usage interest	mixed
+E051	5	pronoun reference	syntactic
+E052	5	group collective	mixed
+E053	4	sentence starters	syntactic
+E054	5	title compound names	semantic
+E055	4	military plural nouns	mixed
+E056	2	to the	syntactic
+E057	3	both for	syntactic
+E058	5	BPE name parts	syntactic
+E059	4	mixed function	mixed
+E060	6	ordinals modifiers	syntactic
+E061	5	BPE syllables	syntactic
+E062	4	mixed letters	syntactic
+E063	4	equivalence meaning	mixed
+E064	3	punctuation	syntactic
+E065	5	physical objects	mixed
+E066	3	all on	syntactic
+E067	6	positioned verbs	syntactic
+E068	3	no after	syntactic
+E069	5	places dates	mixed
+E070	3	copular is	syntactic
+E071	6	descriptive adjectives	syntactic
+E072	5	BPE word suffixes	syntactic
+E073	6	evaluative adjectives	syntactic
+E074	4	function preps	syntactic
+E075	3	copular under	syntactic
+E076	3	comma punctuation	syntactic
+E077	5	military service	mixed
+E078	5	sentence starters	syntactic
+E079	5	possessive their	syntactic
+E080	3	in the	syntactic
+E081	3	he for was	syntactic
+E082	3	were with to	syntactic
+E083	5	punctuation symbols	syntactic
+E084	4	after because	syntactic
+E085	4	along which with	syntactic
+E086	3	mixed fragments	mixed
+E087	2	single article	syntactic
+E088	4	mixed nouns	mixed
+E089	4	composition verbs	mixed
+E090	6	initial consonants	syntactic
+E091	3	by that the	syntactic
+E092	5	she who pronoun	syntactic
+E093	7	manner adverbs	syntactic
+E094	2	single without	syntactic
+E095	2	with to of	syntactic
+E096	4	directional down	syntactic
+E097	3	on top she	mixed
+E098	3	determiners	syntactic
+E099	6	air force	semantic

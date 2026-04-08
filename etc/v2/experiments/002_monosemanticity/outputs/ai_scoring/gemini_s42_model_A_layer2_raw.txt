@@ -1,0 +1,102 @@
+I will read the instructions and input data from `_tmp_s42_model_A_layer2_gemini.txt`.
+expert_id	score	category	type
+E000	10	modals/adverbs	syntactic
+E001	10	proper names	semantic
+E002	10	subword fragments	syntactic
+E003	9	adverbs/conversational	syntactic
+E004	8	auxiliary verbs	syntactic
+E005	10	conjunctions	syntactic
+E006	10	determiners	syntactic
+E007	10	punctuation	syntactic
+E008	9	abstract nouns	syntactic
+E009	8	institutions/government	semantic
+E010	7	groups of people	semantic
+E011	10	punctuation	syntactic
+E012	10	subword fragments	syntactic
+E013	9	pronouns/determiners	syntactic
+E014	10	prepositions	syntactic
+E015	8	comparatives/conjunctions	syntactic
+E016	10	articles	syntactic
+E017	10	past participles	syntactic
+E018	9	conflict/events	semantic
+E019	9	verbs	syntactic
+E020	7	people/ideologies	semantic
+E021	10	punctuation	syntactic
+E022	8	verbs/actions	mixed
+E023	9	proper names	semantic
+E024	10	determiners	syntactic
+E025	10	subword fragments	syntactic
+E026	9	punctuation	syntactic
+E027	7	temporal/contextual	mixed
+E028	8	relationships/conflicts	semantic
+E029	10	prefixes	syntactic
+E030	8	prepositions	syntactic
+E031	10	determiners	syntactic
+E032	10	conjunctions/adverbs	syntactic
+E033	10	punctuation/symbols	syntactic
+E034	7	subword fragments	syntactic
+E035	10	punctuation	syntactic
+E036	10	temporal nouns	semantic
+E037	9	abstract nouns	semantic
+E038	9	prepositions	syntactic
+E039	8	subword fragments	syntactic
+E040	10	adjectives	syntactic
+E041	10	possessives	syntactic
+E042	10	geography/infrastructure	semantic
+E043	10	prepositions	syntactic
+E044	6	subword fragments	syntactic
+E045	6	subword fragments	syntactic
+E046	10	nature/biology	semantic
+E047	9	adjectives/superlatives	syntactic
+E048	10	determiners	syntactic
+E049	7	determiners/adjectives	syntactic
+E050	8	spatial/directional	semantic
+E051	10	adverbs	syntactic
+E052	9	determiners/adjectives	syntactic
+E053	10	spatial/prepositions	syntactic
+E054	9	abbreviations	mixed
+E055	10	single letters/prefixes	syntactic
+E056	8	pronouns/groups	syntactic
+E057	10	subword fragments	syntactic
+E058	9	units/numbers	syntactic
+E059	9	abstract nouns	semantic
+E060	9	geopolitical adjectives	semantic
+E061	10	prepositions/temporal	syntactic
+E062	10	verbs	syntactic
+E063	10	verbs	syntactic
+E064	10	units/counts	syntactic
+E065	10	numbers	syntactic
+E066	9	prepositions	syntactic
+E067	10	prepositions	syntactic
+E068	7	military/conflict	semantic
+E069	9	spatio-temporal	semantic
+E070	10	possessives	syntactic
+E071	10	conjunctions/prepositions	syntactic
+E072	10	subword fragments	syntactic
+E073	10	dates/time	semantic
+E074	10	historical/temporal	semantic
+E075	10	punctuation	syntactic
+E076	10	quantifiers/ordinals	syntactic
+E077	9	plural nouns	syntactic
+E078	10	adverbs	syntactic
+E079	10	punctuation	syntactic
+E080	9	prepositions	syntactic
+E081	10	symbols	syntactic
+E082	10	numbers	syntactic
+E083	9	plural nouns/people	semantic
+E084	8	quantifiers/determiners	syntactic
+E085	9	punctuation/conjunctions	syntactic
+E086	10	verbs	syntactic
+E087	9	proper names	semantic
+E088	9	sports/awards	semantic
+E089	8	abstract nouns	semantic
+E090	8	geopolitical/health	semantic
+E091	10	adverbs/quantifiers	syntactic
+E092	9	linking verbs	syntactic
+E093	10	prepositions	syntactic
+E094	5	mixed/unclear	mixed
+E095	10	punctuation	syntactic
+E096	10	media/entertainment	semantic
+E097	10	adverbs	syntactic
+E098	10	adjectives	syntactic
+E099	8	conjunctions/punctuation	syntactic

@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the required tab-separated scoring lines.
+E000	1	random	mixed
+E001	8	logical qualifiers	syntactic
+E002	3	mixed/unclear	mixed
+E003	10	adverbs	syntactic
+E004	8	geography/culture	semantic
+E005	9	name fragments	syntactic
+E006	9	awards/rankings	semantic
+E007	6	punctuation/quotes	syntactic
+E008	5	mixed/unclear	mixed
+E009	4	punctuation artifacts	syntactic
+E010	10	past participles	syntactic
+E011	9	surnames	semantic
+E012	6	institutional terms	semantic
+E013	1	random	mixed
+E014	9	verbs	syntactic
+E015	2	stopwords	syntactic
+E016	8	modal verbs	syntactic
+E017	10	transportation	semantic
+E018	10	word starts	syntactic
+E019	10	punctuation	syntactic
+E020	7	proper names/places	semantic
+E021	5	connectives	syntactic
+E022	9	plural nouns	syntactic
+E023	10	possessive pronouns	syntactic
+E024	10	prepositions	syntactic
+E025	7	present participles	syntactic
+E026	4	title words	mixed
+E027	7	foreign names	semantic
+E028	10	abbreviations	syntactic
+E029	9	punctuation/commas	syntactic
+E030	4	mixed/unclear	mixed
+E031	8	descriptive adjectives	semantic
+E032	9	verbs	syntactic
+E033	3	fragments/suffixes	syntactic
+E034	3	prefixes/fragments	syntactic
+E035	8	attainment verbs	semantic
+E036	8	procedural verbs	semantic
+E037	9	history/politics	semantic
+E038	8	punctuation/dashes	syntactic
+E039	10	past participles	syntactic
+E040	7	articles/ordinals	syntactic
+E041	10	temporal/prepositions	syntactic
+E042	7	formal nouns	semantic
+E043	7	punctuation	syntactic
+E044	10	opening symbols	syntactic
+E045	6	symbols/prepositions	syntactic
+E046	9	determiners	syntactic
+E047	1	random	mixed
+E048	10	geography/years	semantic
+E049	2	mixed/unclear	mixed

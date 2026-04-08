@@ -1,0 +1,101 @@
+I will start by reading the contents of `_tmp_s19_model_B_layer2_gemini.txt` to understand the instructions and the data to be scored.
+E000	6	conversational	syntactic
+E001	9	state verbs	syntactic
+E002	10	prepositions	syntactic
+E003	7	list intro	mixed
+E004	3	word fragments	syntactic
+E005	10	action verbs	syntactic
+E006	9	conjunctions	syntactic
+E007	7	collective nouns	semantic
+E008	10	prepositions	syntactic
+E009	4	name fragments	syntactic
+E010	10	geography	semantic
+E011	9	personal names	semantic
+E012	8	relational terms	mixed
+E013	10	prepositions	syntactic
+E014	8	attribution	mixed
+E015	6	titles/roles	semantic
+E016	9	logical connectors	syntactic
+E017	10	abstract nouns	semantic
+E018	9	movement	mixed
+E019	8	plural nouns	semantic
+E020	3	character fragments	syntactic
+E021	10	abstract nouns	semantic
+E022	9	syntax/punct	syntactic
+E023	9	attribute nouns	semantic
+E024	10	prepositions	syntactic
+E025	10	determiners	syntactic
+E026	8	personal names	semantic
+E027	10	abstract nouns	semantic
+E028	8	formal adjectives	semantic
+E029	10	media/critics	semantic
+E030	7	proper nouns	semantic
+E031	10	spatio-temporal	mixed
+E032	9	name adjectives	semantic
+E033	10	punctuation	syntactic
+E034	8	media/units	semantic
+E035	7	occurrence/state	mixed
+E036	10	abstract nouns	semantic
+E037	10	punctuation	syntactic
+E038	5	stems/verbs	mixed
+E039	8	action/relation	mixed
+E040	10	conjunctions	syntactic
+E041	10	conjunctions	syntactic
+E042	9	possessives	syntactic
+E043	4	mixed fragments	mixed
+E044	10	adverbs	syntactic
+E045	8	attribution	mixed
+E046	5	name fragments	semantic
+E047	10	numbers/symbols	syntactic
+E048	10	structures	semantic
+E049	10	sentence starters	syntactic
+E050	9	action verbs	syntactic
+E051	9	media/eval	semantic
+E052	10	functional terms	syntactic
+E053	6	name fragments	semantic
+E054	9	connectors	syntactic
+E055	10	adverbs	syntactic
+E056	10	punctuation	syntactic
+E057	9	reporting verbs	syntactic
+E058	2	mixed/noise	mixed
+E059	5	name fragments	semantic
+E060	10	organizations	semantic
+E061	4	history/military	semantic
+E062	9	connectors	syntactic
+E063	8	word fragments	syntactic
+E064	2	articles	syntactic
+E065	6	plural entities	semantic
+E066	10	prepositions	syntactic
+E067	9	punctuation	syntactic
+E068	10	prepositions	syntactic
+E069	10	temporal terms	syntactic
+E070	8	technical units	mixed
+E071	7	proper names	semantic
+E072	8	culture/geography	semantic
+E073	10	punctuation	syntactic
+E074	10	surnames	semantic
+E075	9	adjectives	syntactic
+E076	7	word fragments	syntactic
+E077	8	title terms	semantic
+E078	7	feature nouns	semantic
+E079	10	quantifiers	syntactic
+E080	8	pop culture	semantic
+E081	8	functional terms	syntactic
+E082	10	determiners	syntactic
+E083	10	abstract nouns	semantic
+E084	10	prepositions	syntactic
+E085	10	admin/geography	semantic
+E086	10	media/entertainment	semantic
+E087	10	spatial/quant	syntactic
+E088	7	word fragments	syntactic
+E089	10	measurements	mixed
+E090	2	articles	syntactic
+E091	6	word fragments	syntactic
+E092	6	pop culture/pronouns	mixed
+E093	10	punctuation	syntactic
+E094	10	prepositions	syntactic
+E095	9	group nouns	semantic
+E096	10	numbers	syntactic
+E097	10	possessives	syntactic
+E098	10	geography	semantic
+E099	9	quantifiers	syntactic

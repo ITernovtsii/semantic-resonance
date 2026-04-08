@@ -1,0 +1,101 @@
+I will read the instructions in the specified file to determine the scoring criteria.
+E000	4	pop culture/dialogue	semantic
+E001	1	random	syntactic
+E002	10	names	semantic
+E003	2	prepositions	syntactic
+E004	8	roles/tasks	semantic
+E005	3	mixed/unclear	mixed
+E006	7	modal verbs	syntactic
+E007	10	punctuation	syntactic
+E008	1	random	syntactic
+E009	1	random	syntactic
+E010	1	random	syntactic
+E011	10	suffixes	syntactic
+E012	8	social/institutional	semantic
+E013	6	administrative/geo	semantic
+E014	4	auxiliary verbs	syntactic
+E015	2	noise	mixed
+E016	10	discourse markers	syntactic
+E017	8	play/sports	semantic
+E018	10	numbers	syntactic
+E019	6	be-verbs	syntactic
+E020	10	function words	syntactic
+E021	6	creative work	semantic
+E022	1	random	syntactic
+E023	1	random	syntactic
+E024	5	music arrangement	semantic
+E025	1	random	syntactic
+E026	4	geo/technical	semantic
+E027	10	articles	syntactic
+E028	10	punctuation	syntactic
+E029	9	suffixes	syntactic
+E030	1	random	syntactic
+E031	10	prepositions	syntactic
+E032	10	adjectives	semantic
+E033	10	time/measures	semantic
+E034	10	subwords	syntactic
+E035	10	verbs	syntactic
+E036	9	function words	syntactic
+E037	10	participles	syntactic
+E038	3	mixed/unclear	syntactic
+E039	5	descriptive adjectives	semantic
+E040	1	random	syntactic
+E041	10	punctuation	syntactic
+E042	8	female/women	semantic
+E043	4	modals/noise	syntactic
+E044	6	abstract/concepts	semantic
+E045	3	prepositions	syntactic
+E046	4	legal/martial	semantic
+E047	8	urban/travel	semantic
+E048	7	technical terms	semantic
+E049	4	mixed nouns	semantic
+E050	6	usage/association	semantic
+E051	10	pronouns	syntactic
+E052	7	quantifiers/geo	semantic
+E053	4	determiners	syntactic
+E054	5	titles/proper nouns	semantic
+E055	8	military	semantic
+E056	1	random	syntactic
+E057	1	random	syntactic
+E058	10	subwords	syntactic
+E059	8	connectors/punct	syntactic
+E060	10	relative adjectives	semantic
+E061	9	subwords	syntactic
+E062	2	noise	mixed
+E063	5	definitional	semantic
+E064	5	punctuation	syntactic
+E065	7	physical/time	semantic
+E066	3	quantifier	syntactic
+E067	9	action verbs	semantic
+E068	2	negation	syntactic
+E069	10	geo/years	semantic
+E070	5	auxiliary verbs	syntactic
+E071	10	descriptive adjectives	semantic
+E072	3	short words	mixed
+E073	8	adjectives/adverbs	semantic
+E074	8	function words	syntactic
+E075	2	random	syntactic
+E076	4	punctuation	syntactic
+E077	9	military/nautical	semantic
+E078	10	capitalized markers	syntactic
+E079	6	possessive/position	mixed
+E080	1	random	syntactic
+E081	2	mixed	mixed
+E082	1	random	syntactic
+E083	10	punctuation	syntactic
+E084	5	conjunctions/prep	syntactic
+E085	4	prepositions	syntactic
+E086	4	mixed/entities	semantic
+E087	1	random	syntactic
+E088	7	residential	semantic
+E089	6	composition	semantic
+E090	2	fragments	syntactic
+E091	1	random	syntactic
+E092	6	pronouns	syntactic
+E093	10	adverbs	syntactic
+E094	2	random	syntactic
+E095	1	random	syntactic
+E096	5	directions	syntactic
+E097	2	mixed	mixed
+E098	4	determiners	syntactic
+E099	10	military/aviation	semantic

@@ -1,0 +1,101 @@
+I will read the instructions in the specified file to understand the scoring task.
+E000	10	prepositions	syntactic
+E001	10	pronouns	syntactic
+E002	10	articles	syntactic
+E003	8	past participles	syntactic
+E004	6	sports/numbers	mixed
+E005	7	nationalities	semantic
+E006	5	occupations	mixed
+E007	8	action verbs	semantic
+E008	9	interrogatives	syntactic
+E009	7	general verbs	semantic
+E010	4	symbols/roads	mixed
+E011	10	time units	semantic
+E012	8	ordinals/geography	semantic
+E013	3	mixed/unclear	mixed
+E014	10	adverbs	syntactic
+E015	6	work/media	semantic
+E016	2	random	mixed
+E017	4	entities	semantic
+E018	4	objects	semantic
+E019	9	proper names	semantic
+E020	10	adjectives	syntactic
+E021	9	transition verbs	semantic
+E022	10	prepositions	syntactic
+E023	10	determiners	syntactic
+E024	10	auxiliary verbs	syntactic
+E025	8	connectors	syntactic
+E026	9	history/military	semantic
+E027	9	articles	syntactic
+E028	10	geography	semantic
+E029	3	mixed	mixed
+E030	7	function words	syntactic
+E031	10	subwords	syntactic
+E032	10	prepositions	syntactic
+E033	10	conjunctions	syntactic
+E034	10	punctuation	syntactic
+E035	10	conjunctions	syntactic
+E036	10	reporting verbs	syntactic
+E037	10	years	semantic
+E038	10	punctuation	syntactic
+E039	9	causation	semantic
+E040	8	linguistic fragments	mixed
+E041	9	symbols	syntactic
+E042	4	duration/prepositions	mixed
+E043	10	punctuation	syntactic
+E044	10	years	semantic
+E045	8	transitions	syntactic
+E046	5	abstract nouns	semantic
+E047	8	sentence starters	syntactic
+E048	10	technical units	semantic
+E049	9	naval/military	semantic
+E050	10	prepositions	syntactic
+E051	10	prepositions	syntactic
+E052	10	conjunctions	syntactic
+E053	10	plural nouns	syntactic
+E054	7	entertainment	semantic
+E055	10	quantifiers	syntactic
+E056	4	mixed	mixed
+E057	6	proper nouns	mixed
+E058	8	aux/state verbs	syntactic
+E059	10	temporal/logical	syntactic
+E060	9	prefixes	syntactic
+E061	10	modals	syntactic
+E062	8	infrastructure/military	semantic
+E063	7	agents/vehicles	semantic
+E064	10	awards/media	semantic
+E065	10	determiners	syntactic
+E066	9	punctuation	syntactic
+E067	10	quantifiers	syntactic
+E068	10	inclusion verbs	syntactic
+E069	10	capitalized words	syntactic
+E070	10	languages	semantic
+E071	10	superlatives	syntactic
+E072	10	suffixes	syntactic
+E073	6	suffixes	mixed
+E074	4	prepositions	syntactic
+E075	10	determiners	syntactic
+E076	7	preposition by	mixed
+E077	10	weather	semantic
+E078	10	superlatives	syntactic
+E079	10	punctuation	syntactic
+E080	10	communication verbs	semantic
+E081	10	prepositions	syntactic
+E082	9	inclusion verbs	syntactic
+E083	10	numbers	syntactic
+E084	4	mixed	mixed
+E085	10	proper names	semantic
+E086	10	subwords	syntactic
+E087	10	punctuation	syntactic
+E088	10	conjunctions	syntactic
+E089	10	prepositions	syntactic
+E090	8	groups/entities	semantic
+E091	10	punctuation	syntactic
+E092	9	name fragments	syntactic
+E093	5	measurement	mixed
+E094	10	punctuation	syntactic
+E095	9	past participles	syntactic
+E096	10	directional	semantic
+E097	10	abstract nouns	syntactic
+E098	10	quantifiers	syntactic
+E099	5	mixed	mixed

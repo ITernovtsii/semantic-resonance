@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	5	definite article	syntactic
+E101	8	sports/football stats	semantic
+E102	6	prepositions	syntactic
+E103	6	transport/location prepositions	mixed
+E104	9	creation/causation verbs	semantic
+E105	5	roles/titles	semantic
+E106	4	mixed/abstract nouns	mixed
+E107	3	mixed/subword+objects	mixed
+E108	9	roads/transportation	semantic
+E109	8	inclusion/comparison	syntactic
+E110	3	name-initial syllables	syntactic
+E111	3	subword fragments/pronouns	mixed
+E112	8	restrictive/ordinal adverbs	syntactic
+E113	9	naval/maritime	semantic
+E114	5	mixed verbs/gerunds	mixed
+E115	6	modal/conjunction words	syntactic
+E116	8	cognition/perception verbs	semantic
+E117	2	subword fragments	syntactic
+E118	9	three-digit numbers	syntactic
+E119	5	mixed verbs/adverbs	mixed
+E120	5	determiners/possessives	syntactic
+E121	8	locative prepositions	syntactic
+E122	7	sentence-initial words	syntactic
+E123	8	directional prepositions	syntactic
+E124	5	infinitive marker	syntactic
+E125	9	personal pronouns	syntactic
+E126	8	personal names	semantic
+E127	4	mixed/sentence-starters	mixed
+E128	5	symbols/special characters	syntactic
+E129	8	ordinal numbers/superlatives	syntactic
+E130	9	sentence-ending punctuation	syntactic
+E131	7	coordinating conjunctions	syntactic
+E132	8	sentence-initial prepositions	syntactic
+E133	8	interrogative/wh-words	syntactic
+E134	5	mixed action verbs	semantic
+E135	8	possessive determiners	syntactic
+E136	9	quantifiers/paired words	syntactic
+E137	8	object pronouns	syntactic
+E138	5	mixed verbs	mixed
+E139	8	relative pronouns/subordinators	syntactic
+E140	5	person roles	semantic
+E141	7	prepositions	syntactic
+E142	2	subword fragments	syntactic
+E143	7	military/combat	semantic
+E144	6	subordinating conjunctions	syntactic
+E145	9	universal quantifiers	syntactic
+E146	9	quote-ending punctuation	syntactic
+E147	8	spatial/positional	semantic
+E148	5	mixed adjectives/nationalities	mixed
+E149	7	quotation marks/punctuation	syntactic

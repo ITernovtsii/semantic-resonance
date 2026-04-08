@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	sentence-initial mixed	syntactic
+E001	5	BPE consonant/prefix	syntactic
+E002	4	sentence-initial caps	syntactic
+E003	5	prepositions to/with/of	syntactic
+E004	6	has/does/includes verbs	syntactic
+E005	4	conjunction or/and/In	syntactic
+E006	3	single When	syntactic
+E007	3	mixed nouns/random	mixed
+E008	5	quotation marks	syntactic
+E009	4	he/then/she pronouns	syntactic
+E010	5	name-initial BPE	syntactic
+E011	4	anti/ac/comma	syntactic
+E012	5	BPE suffix fragments	syntactic
+E013	4	adj sheer/collective	mixed
+E014	3	non-latin/rare mixed	mixed
+E015	3	single the	syntactic
+E016	4	mixed nouns/practices	mixed
+E017	5	sentence-end/versus/mixed	mixed
+E018	3	single On	syntactic
+E019	5	possibility adverbs	syntactic
+E020	4	considering/containing	mixed
+E021	4	determiners a/an/one	syntactic
+E022	4	punct/brackets/but	syntactic
+E023	4	US/United/symbols	mixed
+E024	3	had/the only	syntactic
+E025	3	er/a/the BPE	syntactic
+E026	7	BPE suffix fragments	syntactic
+E027	6	number words/currency	syntactic
+E028	3	working/the/mixed	mixed
+E029	4	adj decorative/children	mixed
+E030	4	used/had/as	syntactic
+E031	4	diving/brake/jungle	mixed
+E032	4	nouns war/cabin/soap	mixed
+E033	7	adverbs if/then/just	syntactic
+E034	3	single the	syntactic
+E035	4	nature/weather nouns	mixed
+E036	4	would/could/had modals	syntactic
+E037	4	mixed/deaf/anchor	mixed
+E038	3	mixed BPE/names	mixed
+E039	3	single the	syntactic
+E040	5	name-initial syllables	syntactic
+E041	3	single the	syntactic
+E042	4	adj modest/fewer/vast	mixed
+E043	5	finished/following verbs	mixed
+E044	4	gave/all/had	syntactic
+E045	3	that/April/which	syntactic
+E046	4	killed/mm/units	mixed
+E047	4	gained/sought/verbs	mixed
+E048	4	quotation/article mixed	mixed
+E049	4	BPE name fragments	mixed
+E050	3	one/a/the	syntactic
+E051	4	nouns class/men/land	mixed
+E052	4	instead/throughout	syntactic
+E053	4	entertainment/music	mixed
+E054	3	came/people/mixed	mixed
+E055	6	BPE suffix fragments	syntactic
+E056	3	a/the only	syntactic
+E057	4	because/despite conj	syntactic
+E058	2	random low-PMI	mixed
+E059	4	hyphens/dashes	syntactic
+E060	3	single the	syntactic
+E061	4	at/by/as preps	syntactic
+E062	5	BPE syllable fragments	syntactic
+E063	4	Both/Her/No/She	syntactic
+E064	3	War/road/mixed	mixed
+E065	4	since/previous/had	syntactic
+E066	7	directional particles	syntactic
+E067	4	her/she/their prns	syntactic
+E068	3	guilty/reference/mixed	mixed
+E069	4	BPE suffix fragments	syntactic
+E070	4	living/own/pro/port	mixed
+E071	4	titles/names mixed	mixed
+E072	4	BPE name fragments	mixed
+E073	4	articles a/an/the	syntactic
+E074	3	single turn/mixed	mixed
+E075	4	species/fact/mixed	mixed
+E076	4	numbers/Kansas/mixed	mixed
+E077	4	period/sentence end	syntactic
+E078	4	his/he/pronouns	syntactic
+E079	3	that/to only	syntactic
+E080	3	apostrophe/from	syntactic
+E081	7	sports statistics	semantic
+E082	4	English/American adj	mixed
+E083	5	performance/research	mixed
+E084	3	York/Oxford/km	mixed
+E085	5	naval velocity/units	semantic
+E086	4	design/support verbs	mixed
+E087	4	legal/speech verbs	mixed
+E088	5	closing question punct	syntactic
+E089	3	had/to/the	syntactic
+E090	3	single Dun/be/mixed	mixed
+E091	3	quotation/to/mixed	mixed
+E092	5	past tense/scored	mixed
+E093	4	place/road nouns	mixed
+E094	4	nearby/generated/mixed	mixed
+E095	4	number/kind/rest	mixed
+E096	4	adj preliminary/mixed	mixed
+E097	3	single X/high/the	mixed
+E098	3	off/back/out	syntactic
+E099	4	punct/closing mixed	syntactic

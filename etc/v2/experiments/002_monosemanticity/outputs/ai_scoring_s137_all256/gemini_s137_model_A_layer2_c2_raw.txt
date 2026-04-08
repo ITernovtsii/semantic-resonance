@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the scores.
+E100	5	perfect tense/adverbs	syntactic
+E101	8	word fragments	syntactic
+E102	6	tropical	semantic
+E103	10	names	semantic
+E104	10	possessives	syntactic
+E105	8	punctuation/quotes	syntactic
+E106	8	plural nouns	syntactic
+E107	9	modal verbs	syntactic
+E108	4	technical terms	mixed
+E109	10	suffixes	syntactic
+E110	8	determiners	syntactic
+E111	9	pronouns	syntactic
+E112	10	groups of people	semantic
+E113	5	abstract nouns	semantic
+E114	10	demonstratives	syntactic
+E115	9	short fragments	syntactic
+E116	4	concrete nouns	semantic
+E117	8	prepositions/quantifiers	syntactic
+E118	10	measurement units	semantic
+E119	9	past tense verbs	syntactic
+E120	6	verbs/adverbs	syntactic
+E121	3	imperatives/titles	mixed
+E122	9	roles/occupations	semantic
+E123	5	function words	syntactic
+E124	10	adverbs	syntactic
+E125	10	possessives	syntactic
+E126	2	mixed/random	mixed
+E127	8	adjectives	syntactic
+E128	10	3-digit numbers	syntactic
+E129	6	arrival/location	semantic
+E130	4	mixed nouns	mixed
+E131	5	proper noun prefixes	mixed
+E132	4	concrete nouns	semantic
+E133	7	social events	semantic
+E134	10	past participles	syntactic
+E135	9	verbs	syntactic
+E136	10	contrastive markers	syntactic
+E137	7	conjunctions/punctuation	syntactic
+E138	6	helping/prepositions	syntactic
+E139	10	determiners	syntactic
+E140	9	comparatives	syntactic
+E141	10	pronouns	syntactic
+E142	9	prepositions	syntactic
+E143	10	spatial terms	semantic
+E144	4	mixed nouns	semantic
+E145	8	determiners/period	syntactic
+E146	10	abbreviations/digraphs	syntactic
+E147	9	adverbs	syntactic
+E148	10	prepositions	syntactic
+E149	6	naming/reference	semantic

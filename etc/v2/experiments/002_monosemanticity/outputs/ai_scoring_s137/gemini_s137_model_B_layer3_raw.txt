@@ -1,0 +1,11 @@
+I will read the instructions and input data from `_tmp_s137_model_B_layer3_gemini.txt`.
+E000	5	official names	semantic
+E010	9	articles/determiners	syntactic
+E020	7	position/anatomy	semantic
+E030	6	formal adj/pronouns	mixed
+E040	4	roads/pronouns	mixed
+E050	5	articles/time	mixed
+E060	3	mixed/unclear	mixed
+E070	8	titles/ranks	semantic
+E080	3	entities/places	mixed
+E090	3	objects/locations	mixed

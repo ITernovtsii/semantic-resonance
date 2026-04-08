@@ -1,0 +1,51 @@
+I will read the instructions and content from `_tmp_s137_model_A_layer3_c0_gemini.txt` to provide the requested tab-separated scoring lines.
+E000	4	survey/census	semantic
+E001	8	political/govt	semantic
+E002	10	modal verbs	syntactic
+E003	6	abstract nouns	semantic
+E004	9	prepositions	syntactic
+E005	5	participation	semantic
+E006	10	male names	semantic
+E007	7	transitions	syntactic
+E008	10	country	semantic
+E009	2	mixed/unclear	mixed
+E010	4	proper nouns	semantic
+E011	3	mixed/unclear	mixed
+E012	5	titles/names	semantic
+E013	8	surnames	semantic
+E014	9	reviewers/media	semantic
+E015	3	syllables	syntactic
+E016	9	occupations	semantic
+E017	8	action verbs	syntactic
+E018	7	legal/social	semantic
+E019	9	adverbs	syntactic
+E020	10	padding	syntactic
+E021	8	spatial/relational	semantic
+E022	8	military/political	semantic
+E023	8	sports	semantic
+E024	3	mixed/unclear	mixed
+E025	9	prepositions	syntactic
+E026	8	punct/prefixes	syntactic
+E027	6	plural nouns	syntactic
+E028	7	military/conflict	semantic
+E029	10	spatial preps	syntactic
+E030	9	punctuation	syntactic
+E031	7	tv characters	semantic
+E032	7	determiners	syntactic
+E033	7	verbs	syntactic
+E034	10	punctuation	syntactic
+E035	8	past verbs	syntactic
+E036	8	biology/taxonomy	semantic
+E037	7	conflict/negative	semantic
+E038	6	adversity/verbs	semantic
+E039	9	articles/det	syntactic
+E040	4	mixed/unclear	mixed
+E041	10	punctuation	syntactic
+E042	2	fragments	syntactic
+E043	6	name fragments	semantic
+E044	4	mixed/unclear	mixed
+E045	9	modals/pronouns	syntactic
+E046	10	punctuation	syntactic
+E047	10	dates/years	semantic
+E048	1	random	mixed
+E049	10	article	syntactic

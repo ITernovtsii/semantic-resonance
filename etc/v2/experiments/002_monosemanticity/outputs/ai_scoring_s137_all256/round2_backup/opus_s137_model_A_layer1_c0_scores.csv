@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	5	function words	syntactic
+E001	9	sports/statistics	semantic
+E002	10	commas	syntactic
+E003	9	sentence-ending punctuation	syntactic
+E004	9	brackets/symbols	syntactic
+E005	4	mixed/names+determiners	mixed
+E006	9	two-letter abbreviations	syntactic
+E007	9	directional prepositions	syntactic
+E008	10	copula/auxiliary verbs	syntactic
+E009	3	mixed/adjectives+fragments	mixed
+E010	8	time/temporal	semantic
+E011	10	modal verbs	syntactic
+E012	7	verbs of action/entry	semantic
+E013	2	random/rare fragments	mixed
+E014	8	clause-separating punctuation	syntactic
+E015	2	subword fragments	syntactic
+E016	4	abstract nouns	semantic
+E017	4	mixed/proper nouns+punctuation	mixed
+E018	6	definite article	syntactic
+E019	9	sentence-ending punctuation	syntactic
+E020	5	function words	syntactic
+E021	9	numbers/counting	semantic
+E022	5	capitalized nouns	mixed
+E023	7	government/civic	semantic
+E024	9	conjunctions/subordinators	syntactic
+E025	2	subword fragments	syntactic
+E026	5	naval terms	semantic
+E027	9	pronouns/referential	syntactic
+E028	5	determiners	syntactic
+E029	9	publication/release verbs	semantic
+E030	5	apostrophes/numbers	syntactic
+E031	4	plural suffixes/nouns	mixed
+E032	2	mixed/dates+punctuation	mixed
+E033	8	locative prepositions	syntactic
+E034	9	place names/geography	semantic
+E035	4	mixed/punctuation+misc	mixed
+E036	9	recognition/naming verbs	semantic
+E037	3	name-initial syllables	syntactic
+E038	7	time periods/seasons	semantic
+E039	8	superlatives/extremes	semantic
+E040	9	discourse adverbs	syntactic
+E041	9	relative pronouns/wh-words	syntactic
+E042	8	degree adverbs	syntactic
+E043	5	definite article	syntactic
+E044	5	prefixes/fragments	syntactic
+E045	5	numbers/quantities	mixed
+E046	5	evaluative verbs	semantic
+E047	8	prepositions	syntactic
+E048	8	quotation punctuation	syntactic
+E049	8	coordinating conjunctions	syntactic

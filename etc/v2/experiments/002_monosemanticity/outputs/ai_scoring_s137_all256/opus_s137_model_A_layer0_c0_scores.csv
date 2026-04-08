@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	3	mixed proper nouns	mixed
+E001	2	random fragments	mixed
+E002	7	adverbs/modals	syntactic
+E003	3	mixed quantifiers	mixed
+E004	6	comma/conjunction	syntactic
+E005	2	random fragments	mixed
+E006	8	prepositions	syntactic
+E007	5	"-tion" suffixes	syntactic
+E008	6	masculine pronouns	mixed
+E009	6	determiners/articles	syntactic
+E010	2	BPE fragments	syntactic
+E011	6	determiners	syntactic
+E012	2	random nouns	mixed
+E013	7	prefix fragments	syntactic
+E014	3	mixed nouns	mixed
+E015	1	random	mixed
+E016	6	articles/determiners	syntactic
+E017	2	random	mixed
+E018	3	prepositions/mixed	mixed
+E019	9	directional particles	syntactic
+E020	8	association/meeting	semantic
+E021	7	quantifiers/pronouns	syntactic
+E022	4	mixed function words	mixed
+E023	7	numbers/digits	syntactic
+E024	6	sentence starters	syntactic
+E025	2	BPE fragments	syntactic
+E026	6	cognitive verbs	semantic
+E027	2	BPE fragments	syntactic
+E028	3	conjunctions/mixed	mixed
+E029	7	conjunctions	syntactic
+E030	3	mixed	mixed
+E031	9	punctuation	syntactic
+E032	7	articles/numerals	syntactic
+E033	4	adjectives/mixed	mixed
+E034	1	random	mixed
+E035	9	pronouns/relative	syntactic
+E036	9	sentence-final punct	syntactic
+E037	4	mixed function words	mixed
+E038	3	fragments	mixed
+E039	7	gerunds/participles	syntactic
+E040	2	BPE fragments	syntactic
+E041	3	mixed	mixed
+E042	4	percentages/numbers	mixed
+E043	8	closing parens	syntactic
+E044	3	mixed punctuation	mixed
+E045	4	function words	syntactic
+E046	2	initial letters/names	mixed
+E047	7	conjunctions	syntactic
+E048	7	nature/biology	semantic
+E049	7	numbers	syntactic

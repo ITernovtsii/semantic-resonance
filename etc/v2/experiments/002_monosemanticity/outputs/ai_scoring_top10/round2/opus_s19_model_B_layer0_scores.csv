@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	random nouns	mixed
+E001	8	sentence-end punct	syntactic
+E002	7	name prefixes	syntactic
+E003	6	punctuation	syntactic
+E004	6	BPE/natural	mixed
+E005	6	quotation punct	syntactic
+E006	5	punctuation	syntactic
+E007	5	then/punct	syntactic
+E008	4	informal/adj	mixed
+E009	7	reflexive pronouns	syntactic
+E010	2	single word	syntactic
+E011	6	for/from/preps	syntactic
+E012	5	compound/proper	mixed
+E013	5	spatial preps	syntactic
+E014	5	suggesting/that	syntactic
+E015	5	capitalized words	mixed
+E016	6	that/why/how	syntactic
+E017	5	abstract nouns	mixed
+E018	6	enter/movement	syntactic
+E019	4	mixed nouns	mixed
+E020	5	BPE/name frags	mixed
+E021	5	abstract nouns	mixed
+E022	5	punct/conj	mixed
+E023	4	abstract nouns	mixed
+E024	5	at/on preps	syntactic
+E025	6	spatial preps	syntactic
+E026	7	three-digit numbers	syntactic
+E027	6	BPE fragments	syntactic
+E028	4	mixed proper	mixed
+E029	7	conjunctions	syntactic
+E030	5	BPE fragments	mixed
+E031	5	reportedly/was	syntactic
+E032	6	with/following	syntactic
+E033	5	proper names	mixed
+E034	7	dashes/punct	syntactic
+E035	5	BPE fragments	mixed
+E036	3	determiners	syntactic
+E037	6	before/after	syntactic
+E038	6	versus/nor/or	syntactic
+E039	5	article/misc	mixed
+E040	6	scale/screen	mixed
+E041	4	article a/an	syntactic
+E042	5	BPE fragments	mixed
+E043	3	mixed proper	mixed
+E044	4	determiners	syntactic
+E045	4	training/nouns	mixed
+E046	6	action verbs	mixed
+E047	5	to/towards	syntactic
+E048	7	biology/nature	semantic
+E049	7	three-digit numbers	syntactic
+E050	6	title/proper	mixed
+E051	5	action verbs	mixed
+E052	5	quotation punct	syntactic
+E053	3	random	mixed
+E054	6	adj/proper	mixed
+E055	6	conjunctions	syntactic
+E056	5	VHS/creative	mixed
+E057	7	previous/same	syntactic
+E058	5	mixed verbs	mixed
+E059	7	nationality adj	semantic
+E060	5	place/geography	mixed
+E061	4	adverbs	mixed
+E062	5	number words	mixed
+E063	3	determiners	syntactic
+E064	5	sentence starters	mixed
+E065	5	action verbs	mixed
+E066	5	punctuation	syntactic
+E067	8	months/calendar	semantic
+E068	5	capitalized words	mixed
+E069	6	informal/anyone	mixed
+E070	3	determiners	syntactic
+E071	5	punctuation	syntactic
+E072	6	punctl/quotation	syntactic
+E073	6	plural nouns	mixed
+E074	5	quotation marks	syntactic
+E075	7	nature/biology	semantic
+E076	4	adj/mixed	mixed
+E077	7	first names	semantic
+E078	7	weather/tropical	semantic
+E079	7	relative pronouns	syntactic
+E080	4	abstract nouns	mixed
+E081	6	relative pronouns	syntactic
+E082	8	sentence-end punct	syntactic
+E083	4	sentence-end punct	syntactic
+E084	6	three-digit numbers	syntactic
+E085	5	punctuation	syntactic
+E086	5	BPE/proper	mixed
+E087	7	both/between	syntactic
+E088	4	BPE fragments	mixed
+E089	7	historical events	semantic
+E090	5	apostrophes	syntactic
+E091	5	hyphens/dashes	syntactic
+E092	6	past participles	syntactic
+E093	4	article a	syntactic
+E094	6	under/during	syntactic
+E095	5	punctuation	syntactic
+E096	3	determiners	syntactic
+E097	7	sports/football	semantic
+E098	5	action/climbing	mixed
+E099	4	adj/mixed	mixed

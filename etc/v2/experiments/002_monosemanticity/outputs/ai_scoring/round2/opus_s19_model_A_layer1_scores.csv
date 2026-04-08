@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	prepositions	syntactic
+E001	8	demonstratives	syntactic
+E002	6	adjectives political	mixed
+E003	7	degree adverbs	syntactic
+E004	4	mixed pronouns	mixed
+E005	7	quotation marks	syntactic
+E006	3	capitalized prefixes	mixed
+E007	6	history football	semantic
+E008	9	entertainment media	semantic
+E009	4	sentence endings	syntactic
+E010	3	punctuation comma	syntactic
+E011	7	abstract nouns	semantic
+E012	8	numbers	syntactic
+E013	7	prepositions	syntactic
+E014	8	movement verbs	semantic
+E015	7	approximation words	syntactic
+E016	4	punctuation fragments	mixed
+E017	7	adjectives formal	syntactic
+E018	8	quantifiers	syntactic
+E019	6	sentence endings	syntactic
+E020	6	event nouns	semantic
+E021	7	adjectives general	syntactic
+E022	7	organization nouns	semantic
+E023	5	action nouns	mixed
+E024	7	adjectives scale	syntactic
+E025	3	mixed tokens	mixed
+E026	7	pronouns articles	syntactic
+E027	4	BPE verb fragments	syntactic
+E028	3	capitalized fragments	mixed
+E029	4	plural noun suffixes	syntactic
+E030	7	relation words	syntactic
+E031	3	single characters	syntactic
+E032	3	mixed proper nouns	mixed
+E033	6	discourse markers	syntactic
+E034	7	past tense verbs	syntactic
+E035	7	directional preps	syntactic
+E036	5	punctuation comma	syntactic
+E037	5	articles	syntactic
+E038	5	punctuation comma	syntactic
+E039	7	copula verbs	syntactic
+E040	7	pronouns	syntactic
+E041	7	place names	semantic
+E042	3	BPE suffixes	syntactic
+E043	7	inclusion preps	syntactic
+E044	6	sentence endings	syntactic
+E045	2	conjunction and	syntactic
+E046	8	existence verbs	syntactic
+E047	8	authority nouns	semantic
+E048	7	degree adverbs	syntactic
+E049	5	temporal adverbs	mixed
+E050	5	adjective suffixes	syntactic
+E051	9	verb suffixes	syntactic
+E052	6	copula verbs	syntactic
+E053	7	military verbs	semantic
+E054	2	article the	syntactic
+E055	6	media proper nouns	semantic
+E056	5	event verbs	mixed
+E057	7	prefixes	syntactic
+E058	7	past participles	syntactic
+E059	6	nomination words	mixed
+E060	8	body parts	semantic
+E061	3	comma punctuation	syntactic
+E062	3	BPE fragments	syntactic
+E063	5	punctuation	syntactic
+E064	7	adverbs manner	syntactic
+E065	7	possessives	syntactic
+E066	6	ability nouns	mixed
+E067	2	apostrophe	syntactic
+E068	4	non-Latin names	mixed
+E069	7	locative adverbs	syntactic
+E070	2	article the	syntactic
+E071	7	concept nouns	semantic
+E072	3	function words	syntactic
+E073	5	surnames	semantic
+E074	8	subordinators	syntactic
+E075	3	mixed tokens	mixed
+E076	6	uppercase letters	syntactic
+E077	7	perfective have	syntactic
+E078	8	gaming competition	semantic
+E079	2	to preposition	syntactic
+E080	6	quotation marks	syntactic
+E081	8	beginning verbs	syntactic
+E082	2	conjunction and	syntactic
+E083	8	prepositions	syntactic
+E084	6	sentence starters	syntactic
+E085	4	mixed nouns	mixed
+E086	9	tropical meteorology	semantic
+E087	5	at preposition	syntactic
+E088	7	education sports	mixed
+E089	7	possessives	syntactic
+E090	5	discourse markers	mixed
+E091	8	temporal preps	syntactic
+E092	4	BPE science roots	mixed
+E093	6	modal verbs	syntactic
+E094	4	mixed nouns	mixed
+E095	8	sports statistics	semantic
+E096	5	in preposition	syntactic
+E097	3	BPE fragments	syntactic
+E098	5	punctuation	syntactic
+E099	4	capitalized names	mixed

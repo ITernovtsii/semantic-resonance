@@ -1,0 +1,6 @@
+E250	10	be verbs	syntactic
+E251	6	function words	syntactic
+E252	10	subword fragments	syntactic
+E253	9	connective words	syntactic
+E254	10	pronouns	syntactic
+E255	2	mixed/unclear	mixed

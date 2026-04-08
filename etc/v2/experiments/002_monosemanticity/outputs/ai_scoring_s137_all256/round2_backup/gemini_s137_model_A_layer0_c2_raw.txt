@@ -1,0 +1,51 @@
+I will read the contents of the file `_tmp_s137_model_A_layer0_c2_gemini.txt` to understand the instructions.
+E100	10	prepositions	syntactic
+E101	9	determiners	syntactic
+E102	7	prepositions	syntactic
+E103	9	legal/formal	semantic
+E104	3	mixed/unclear	mixed
+E105	5	aviation/symbols	mixed
+E106	6	directional	semantic
+E107	6	prepositions/suffixes	syntactic
+E108	8	determiners/pronouns	syntactic
+E109	6	"set" variants	semantic
+E110	2	mixed/unclear	mixed
+E111	3	mixed/unclear	mixed
+E112	2	mixed/unclear	mixed
+E113	10	punctuation	syntactic
+E114	2	random/fragments	mixed
+E115	1	random	syntactic
+E116	8	spatial	semantic
+E117	9	punctuation	syntactic
+E118	7	capitalized words	syntactic
+E119	2	random/fragments	mixed
+E120	5	narrative/pronouns	semantic
+E121	2	mixed/unclear	mixed
+E122	8	prepositions	syntactic
+E123	4	mixed/unclear	mixed
+E124	10	relational words	semantic
+E125	8	participation	semantic
+E126	9	prefixes	syntactic
+E127	7	determiners	syntactic
+E128	3	mixed/unclear	mixed
+E129	1	random	mixed
+E130	8	pronouns	syntactic
+E131	7	months/capitalized	semantic
+E132	9	punctuation	syntactic
+E133	2	mixed/unclear	mixed
+E134	4	names/specific	semantic
+E135	3	mixed/unclear	mixed
+E136	10	formal verbs	semantic
+E137	10	conjunctions	syntactic
+E138	10	music/media	semantic
+E139	2	mixed/unclear	mixed
+E140	10	punctuation	syntactic
+E141	10	plural nouns	syntactic
+E142	4	family/mixed	semantic
+E143	9	particles	syntactic
+E144	10	geography	semantic
+E145	10	quotes/punctuation	syntactic
+E146	7	mental states	semantic
+E147	5	adjectives	semantic
+E148	3	mixed/unclear	mixed
+E149	2	mixed/unclear	mixed

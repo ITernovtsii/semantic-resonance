@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	9	quantifiers	syntactic
+E151	7	relative adjectives	semantic
+E152	2	fragments	mixed
+E153	5	conflict terms	mixed
+E154	9	connectives	syntactic
+E155	8	prepositions	syntactic
+E156	3	mixed nouns	mixed
+E157	3	name fragments	mixed
+E158	6	groups/units	semantic
+E159	9	articles	syntactic
+E160	10	quotes punctuation	syntactic
+E161	7	hyphen units	syntactic
+E162	6	abstract terms	semantic
+E163	5	size terms	mixed
+E164	7	contractions/quotes	mixed
+E165	8	prepositions	syntactic
+E166	5	articles/punct	mixed
+E167	6	reporting markers	mixed
+E168	4	stopwords	mixed
+E169	2	random nouns	mixed
+E170	8	measurements	semantic
+E171	9	prepositions	syntactic
+E172	10	numbers	syntactic
+E173	9	quantifiers	syntactic
+E174	9	possessives	syntactic
+E175	4	pronouns/military	mixed
+E176	4	verb fragments	mixed
+E177	3	mixed entities	mixed
+E178	3	mixed fragments	mixed
+E179	3	mixed terms	mixed
+E180	8	plural nouns	syntactic
+E181	10	years	syntactic
+E182	6	historical terms	semantic
+E183	9	spatial/navigation	semantic
+E184	9	prepositions	syntactic
+E185	8	verbs	syntactic
+E186	9	punct+conj	syntactic
+E187	9	have forms	syntactic
+E188	10	sentence punctuation	syntactic
+E189	8	connectors	syntactic
+E190	4	abstract nouns	mixed
+E191	9	determiners	syntactic
+E192	9	conjunctions	syntactic
+E193	3	name fragments	mixed
+E194	6	measure formats	mixed
+E195	8	prepositions	syntactic
+E196	9	military units	semantic
+E197	9	articles/numbers	syntactic
+E198	10	comma punctuation	syntactic
+E199	3	mixed nouns	mixed

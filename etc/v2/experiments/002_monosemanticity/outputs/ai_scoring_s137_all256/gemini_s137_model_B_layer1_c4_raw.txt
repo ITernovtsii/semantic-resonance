@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E200	8	approximation	semantic
+E201	4	prefixes	syntactic
+E202	3	fragments	syntactic
+E203	7	prepositions	syntactic
+E204	9	sequence/order	semantic
+E205	8	suffixes	syntactic
+E206	10	punctuation	syntactic
+E207	9	people/roles	semantic
+E208	6	conjunctions	syntactic
+E209	9	conjunctions	syntactic
+E210	8	verbs	semantic
+E211	4	fragments	syntactic
+E212	9	determiners	syntactic
+E213	10	reporting verbs	semantic
+E214	8	prepositions	syntactic
+E215	6	narrative	mixed
+E216	10	prepositions	syntactic
+E217	7	visual/properties	semantic
+E218	8	abstract concepts	semantic
+E219	9	adverbs	syntactic
+E220	9	verb suffixes	syntactic
+E221	9	degree adverbs	semantic
+E222	9	prepositions	syntactic
+E223	4	prefixes	syntactic
+E224	8	determiners	syntactic
+E225	6	plural nouns	mixed
+E226	9	spatial	semantic
+E227	8	science	semantic
+E228	5	proper nouns	semantic
+E229	6	nouns	semantic
+E230	9	adjectives	semantic
+E231	7	linking/prepositions	syntactic
+E232	9	conjunctions	syntactic
+E233	8	numbers/measurements	semantic
+E234	8	auxiliary verbs	syntactic
+E235	9	states/adjectives	semantic
+E236	6	auxiliary	syntactic
+E237	7	sentence starts	syntactic
+E238	6	formal/conflict	semantic
+E239	10	linking verbs	syntactic
+E240	4	transportation/mixed	mixed
+E241	10	determiners	syntactic
+E242	10	groups of people	semantic
+E243	9	pronouns	syntactic
+E244	9	process verbs	semantic
+E245	5	prefixes	syntactic
+E246	9	abstract nouns	semantic
+E247	7	prepositions	syntactic
+E248	5	suffixes/punctuation	syntactic
+E249	10	modality/adverbs	semantic

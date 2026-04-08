@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	8	music	semantic
+E201	5	suffixes/naming	mixed
+E202	6	adverbs	syntactic
+E203	8	begin/end temporal	semantic
+E204	3	BPE fragments	syntactic
+E205	4	mixed verbs/nouns	mixed
+E206	1	random	mixed
+E207	7	past participles	syntactic
+E208	5	prepositions/pronouns	syntactic
+E209	2	random	mixed
+E210	4	mixed verbs	mixed
+E211	8	quantity expressions	semantic
+E212	4	ordinals/adjectives	mixed
+E213	7	articles/numerals	syntactic
+E214	6	determiners	syntactic
+E215	5	proper nouns/state	mixed
+E216	3	fragments	mixed
+E217	1	padding token	mixed
+E218	7	subordinators	syntactic
+E219	6	past tense verbs	syntactic
+E220	8	three-digit numbers	syntactic
+E221	5	BPE syllables	syntactic
+E222	4	single letters	mixed
+E223	6	"under"/prepositions	syntactic
+E224	5	determiners	syntactic
+E225	3	single word	syntactic
+E226	5	question/person words	mixed
+E227	4	prepositions/mixed	mixed
+E228	4	determiners/mixed	mixed
+E229	6	ability/capacity	semantic
+E230	6	games/franchise	semantic
+E231	7	past tense auxiliary	syntactic
+E232	8	third-person verbs	syntactic
+E233	6	past tense verbs	syntactic
+E234	8	single letters/BPE	syntactic
+E235	5	temporal adverbs	syntactic
+E236	8	war/campaign	semantic
+E237	7	money/value	semantic
+E238	9	competition/games	semantic
+E239	2	single letter	mixed
+E240	5	action verbs	semantic
+E241	5	capital letters	syntactic
+E242	7	rivers/geography	semantic
+E243	3	comma only	syntactic
+E244	7	music/voice	semantic
+E245	6	winning/competition	semantic
+E246	8	naval/military	semantic
+E247	4	punctuation/modal	mixed
+E248	5	infrastructure	semantic
+E249	4	mixed function words	mixed

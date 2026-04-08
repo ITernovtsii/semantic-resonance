@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	prepositions	syntactic
+E001	7	object pronouns	syntactic
+E002	5	indefinite article	syntactic
+E003	6	past participles	syntactic
+E004	7	ordinals superlatives	syntactic
+E005	7	adjectives	syntactic
+E006	6	occupational nouns	semantic
+E007	7	action verbs	syntactic
+E008	7	question words	syntactic
+E009	7	infinitive verbs	syntactic
+E010	5	separator symbols	syntactic
+E011	8	time periods	semantic
+E012	7	nationality ordinals	mixed
+E013	5	BPE word stems	syntactic
+E014	8	adverbs in ly	syntactic
+E015	6	abstract work nouns	semantic
+E016	2	year parenthesis	syntactic
+E017	5	institutional nouns	semantic
+E018	6	material objects	semantic
+E019	7	title place names	semantic
+E020	7	descriptive adjectives	syntactic
+E021	8	movement verbs	syntactic
+E022	5	prepositions	syntactic
+E023	5	possessive det	syntactic
+E024	7	copular passive	syntactic
+E025	6	comparison preps	syntactic
+E026	8	war military	semantic
+E027	5	indefinite article	syntactic
+E028	7	proper nouns places	semantic
+E029	4	subject pronouns	syntactic
+E030	6	causal prepositions	syntactic
+E031	5	BPE consonant clusters	syntactic
+E032	6	location prepositions	syntactic
+E033	8	concessive conj	syntactic
+E034	6	closing punctuation	syntactic
+E035	7	coordinating conj	syntactic
+E036	7	reported speech	syntactic
+E037	8	historical years	semantic
+E038	7	sentence endings	syntactic
+E039	7	causal verbs	syntactic
+E040	5	BPE Arabic syllables	syntactic
+E041	5	separator symbols	syntactic
+E042	4	for conjunction	syntactic
+E043	3	comma variants	syntactic
+E044	7	historical years	semantic
+E045	6	discourse adverbs	syntactic
+E046	6	relational nouns	semantic
+E047	5	sentence starters	syntactic
+E048	8	measurements units	semantic
+E049	7	military naval	semantic
+E050	6	location prepositions	syntactic
+E051	6	spatial prepositions	syntactic
+E052	4	and or but	syntactic
+E053	6	plural nouns	syntactic
+E054	7	title modifiers	mixed
+E055	6	quantity determiners	syntactic
+E056	6	geographic nouns	semantic
+E057	7	institutional titles	semantic
+E058	6	copular attempt	syntactic
+E059	7	temporal subordinators	syntactic
+E060	7	prefixes	syntactic
+E061	7	modal auxiliary	syntactic
+E062	6	domain nouns	semantic
+E063	6	entity pronouns	mixed
+E064	6	media competition	semantic
+E065	6	demonstratives	syntactic
+E066	3	quotation marks	syntactic
+E067	7	quantity adjectives	syntactic
+E068	7	containment verbs	syntactic
+E069	7	sentence starters	syntactic
+E070	6	nationality language	semantic
+E071	8	ordinals superlatives	syntactic
+E072	8	verb adj suffixes	syntactic
+E073	7	adverb adj suffixes	syntactic
+E074	2	of preposition	syntactic
+E075	4	the his its	syntactic
+E076	5	by agent prep	syntactic
+E077	8	weather meteorology	semantic
+E078	7	superlatives ordinals	syntactic
+E079	6	sentence endings	syntactic
+E080	7	speech act verbs	syntactic
+E081	6	locative at near	syntactic
+E082	6	featured starring	syntactic
+E083	7	large numbers	syntactic
+E084	6	BPE word starts	syntactic
+E085	7	proper nouns places	semantic
+E086	5	BPE suffixes	syntactic
+E087	6	punctuation closing	syntactic
+E088	6	concessive conj	syntactic
+E089	7	complex prepositions	syntactic
+E090	7	relationship nouns	semantic
+E091	5	punctuation marks	syntactic
+E092	5	BPE name prefixes	syntactic
+E093	5	compound modifiers	mixed
+E094	3	comma punctuation	syntactic
+E095	6	past participles	syntactic
+E096	7	directional into	syntactic
+E097	6	abstract noun suffix	syntactic
+E098	7	each every	syntactic
+E099	5	quotation dates	mixed

@@ -1,0 +1,51 @@
+I will read the instructions from the specified file to understand the scoring task.
+E000	1	random	mixed
+E001	10	possessive pronouns	syntactic
+E002	8	common verbs	syntactic
+E003	7	conjunctions/punctuation	syntactic
+E004	9	spatial prepositions	syntactic
+E005	3	mixed nouns	semantic
+E006	8	quantifiers	syntactic
+E007	8	possessive pronouns	syntactic
+E008	1	random	mixed
+E009	9	determiners	syntactic
+E010	7	comparisons	syntactic
+E011	4	name fragments	syntactic
+E012	4	abbreviations/names	mixed
+E013	9	punctuation	syntactic
+E014	8	roles/occupations	semantic
+E015	8	descriptive adjectives	semantic
+E016	10	months	semantic
+E017	10	definite article	syntactic
+E018	3	verb fragments	syntactic
+E019	10	conjunctions	syntactic
+E020	4	adverbs/verbs	mixed
+E021	10	time/duration	semantic
+E022	4	media titles	mixed
+E023	9	forms of "do"	syntactic
+E024	2	mixed fragments	mixed
+E025	5	modifying words	syntactic
+E026	10	verbal suffixes	syntactic
+E027	7	demonstrative pronouns	syntactic
+E028	10	punctuation clusters	syntactic
+E029	9	temporal words	semantic
+E030	8	military/warfare	semantic
+E031	1	random	mixed
+E032	8	dates/ordinals	semantic
+E033	10	subword fragments	syntactic
+E034	5	measurements/fragments	mixed
+E035	9	punctuation	syntactic
+E036	10	verbs of inclusion	semantic
+E037	7	verbs	syntactic
+E038	4	tech/mixed	mixed
+E039	5	capitalized nouns	syntactic
+E040	4	adverbs/numbers	syntactic
+E041	9	combination words	semantic
+E042	9	adverbs	syntactic
+E043	8	structures/locations	semantic
+E044	2	mixed names/nouns	mixed
+E045	8	media/arts	semantic
+E046	5	adverbs/participles	syntactic
+E047	10	capital letters	syntactic
+E048	3	common nouns	semantic
+E049	6	connective phrases	syntactic

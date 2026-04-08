@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	aging/avoid/commit verbs	mixed
+E001	3	mixed verbs/places	mixed
+E002	8	mushroom/biology terms	semantic
+E003	6	media format nouns	semantic
+E004	7	adverbs -ly frequency	syntactic
+E005	5	currency/parens/symbols	syntactic
+E006	5	discourse/concessive	syntactic
+E007	5	have/were/un-/newly	mixed
+E008	3	single period	syntactic
+E009	5	quantity determiners	syntactic
+E010	3	single period	syntactic
+E011	4	military adj/mixed	mixed
+E012	4	group nouns/officials	mixed
+E013	6	spatial prepositions	syntactic
+E014	4	result/appearance verbs	mixed
+E015	4	number words/four	syntactic
+E016	3	PAD/the only	mixed
+E017	5	media/criticism verbs	mixed
+E018	4	geographic/commas	mixed
+E019	6	temporal prepositions	syntactic
+E020	5	temporal prepositions	syntactic
+E021	4	letters/names/codes	mixed
+E022	6	large numbers/quantity	syntactic
+E023	6	weather/environmental	semantic
+E024	3	unique high-PMI words	mixed
+E025	6	comma/closing punct	syntactic
+E026	5	articles an/An	syntactic
+E027	3	sentence-end/period	syntactic
+E028	7	sports statistics	semantic
+E029	3	random mixed	mixed
+E030	4	prepositions within/on	syntactic
+E031	5	action/display verbs	mixed
+E032	5	state/getting verbs	mixed
+E033	4	among/describing preps	mixed
+E034	6	number words/quantity	syntactic
+E035	3	couldn/within/mixed	mixed
+E036	5	currency/approx symbols	syntactic
+E037	4	integration/crisis nouns	mixed
+E038	4	early/since/temporal	syntactic
+E039	3	manufacturing/scale	mixed
+E040	3	the/The only	syntactic
+E041	6	comma/closing punct	syntactic
+E042	4	entertainment/media adj	mixed
+E043	3	single period	syntactic
+E044	6	conjunctions nor/and	syntactic
+E045	4	adj ceramic/decorative	mixed
+E046	6	sports/ranking nouns	semantic
+E047	4	BPE foreign syllables	mixed
+E048	5	action verbs discover	mixed
+E049	4	BPE name syllables	mixed
+E050	5	BPE name syllables	syntactic
+E051	6	modal/helping verbs	syntactic
+E052	5	dialogue/question words	mixed
+E053	4	years 1890s-1930s	syntactic
+E054	5	abstract nouns care	mixed
+E055	4	disabled/contact/mixed	mixed
+E056	5	discourse conjunctions	syntactic
+E057	7	measurement units	semantic
+E058	5	In/in preposition	syntactic
+E059	7	years late 1800s-1900s	syntactic
+E060	4	BPE Latin fragments	syntactic
+E061	5	abstract offering nouns	mixed
+E062	5	becoming/seeming verbs	syntactic
+E063	6	first names	semantic
+E064	6	helping/modal verbs	syntactic
+E065	3	mixed nouns	mixed
+E066	5	first names female	semantic
+E067	3	naval/physical nouns	mixed
+E068	5	being/were/newly	syntactic
+E069	4	adj military/retreating	mixed
+E070	4	adverb/developers/having	mixed
+E071	4	enters/across preps	syntactic
+E072	4	titles/names mixed	mixed
+E073	3	affiliation/on only	mixed
+E074	5	past participle verbs	mixed
+E075	6	becoming/appointed	syntactic
+E076	4	sports/titles mixed	mixed
+E077	5	km/measurement/punct	mixed
+E078	4	adj parking/sacred	mixed
+E079	7	modal/will/can verbs	syntactic
+E080	4	social/education adj	mixed
+E081	3	single period	syntactic
+E082	4	articles a/A/no	syntactic
+E083	5	adj tallest/youngest	syntactic
+E084	3	period/quotation	syntactic
+E085	4	informal/catchy words	mixed
+E086	4	BPE name fragments	mixed
+E087	4	adj natural/nearby	mixed
+E088	5	achieve/without/on	mixed
+E089	3	unique high-PMI words	mixed
+E090	4	BPE word fragments	syntactic
+E091	4	adj tallest/preliminary	mixed
+E092	5	BPE name fragments	syntactic
+E093	4	brief/disputed/adj	mixed
+E094	5	comma/currency symbols	syntactic
+E095	7	have/had auxiliary	syntactic
+E096	5	action/opposing verbs	mixed
+E097	7	sentence-initial discourse	syntactic
+E098	5	comprising/using verbs	syntactic
+E099	6	first/proper names	semantic

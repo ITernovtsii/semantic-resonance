@@ -1,0 +1,5 @@
+expert_id	score	category	type
+E250	6	common words	syntactic
+E251	6	suffixes	syntactic
+E252	10	prepositions	syntactic
+E253	8	capital letters	syntactic

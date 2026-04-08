@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	10	prepositions	syntactic
+E001	10	demonstratives	syntactic
+E002	8	historical adjectives	semantic
+E003	10	adverbs of degree	syntactic
+E004	4	mixed/unclear	mixed
+E005	10	punctuation	syntactic
+E006	3	names/fragments	semantic
+E007	5	history/football	semantic
+E008	9	media/entertainment	semantic
+E009	6	numbers/punctuation	mixed
+E010	7	punctuation	syntactic
+E011	9	mental states/goals	semantic
+E012	9	numbers	syntactic
+E013	10	prepositions	syntactic
+E014	9	movement verbs	semantic
+E015	10	approximation	semantic
+E016	10	punctuation	syntactic
+E017	7	technical adjectives	semantic
+E018	10	numbers/quantities	syntactic
+E019	10	punctuation	syntactic
+E020	6	abstract nouns	semantic
+E021	9	descriptive adjectives	semantic
+E022	9	business/organizations	semantic
+E023	5	abstract concepts	semantic
+E024	8	descriptive adjectives	semantic
+E025	7	importance/scale	semantic
+E026	10	pronouns/articles	syntactic
+E027	8	physical actions	semantic
+E028	4	proper nouns	semantic
+E029	7	nouns/suffixes	mixed
+E030	10	relational verbs	semantic
+E031	4	mixed/symbols	mixed
+E032	2	mixed/unclear	mixed
+E033	8	logical/contrastive	semantic
+E034	9	action verbs	semantic
+E035	10	prepositions	syntactic
+E036	6	punctuation/mixed	mixed
+E037	9	determiners	syntactic
+E038	10	punctuation	syntactic
+E039	10	copular verbs	syntactic
+E040	10	pronouns	syntactic
+E041	9	geography/places	semantic
+E042	3	fragments/mixed	mixed
+E043	10	inclusion/usage	semantic
+E044	10	punctuation	syntactic
+E045	10	conjunctions	syntactic
+E046	10	survival/existence	semantic
+E047	4	mixed/unclear	semantic
+E048	9	degree adverbs	syntactic
+E049	6	adverbs/years	mixed
+E050	8	adjective suffixes	mixed
+E051	10	verb suffixes	syntactic
+E052	10	copular verbs	syntactic
+E053	7	conflict verbs	semantic
+E054	10	articles	syntactic
+E055	7	names/pop culture	semantic
+E056	6	historical events	semantic
+E057	9	prefixes	syntactic
+E058	8	state participles	semantic
+E059	7	achievement/process	semantic
+E060	8	body parts/titles	semantic
+E061	10	punctuation	syntactic
+E062	4	fragments	syntactic
+E063	10	punctuation	syntactic
+E064	8	advanced adverbs	semantic
+E065	10	possessives	syntactic
+E066	6	state/capacity	semantic
+E067	10	punctuation	syntactic
+E068	7	foreign characters	syntactic
+E069	10	locative/relatives	semantic
+E070	8	determiners	syntactic
+E071	9	music/media terms	semantic
+E072	3	common words	mixed
+E073	9	names/celebrities	semantic
+E074	10	logical connectors	syntactic
+E075	4	mixed	mixed
+E076	5	abbreviations	syntactic
+E077	10	perfective/temporal	mixed
+E078	9	gaming/sports	semantic
+E079	10	prepositions	syntactic
+E080	10	punctuation	syntactic
+E081	9	action/state verbs	semantic
+E082	10	conjunctions	syntactic
+E083	10	prepositions	syntactic
+E084	9	temporal/logical	semantic
+E085	4	mixed nouns	semantic
+E086	10	meteorology	semantic
+E087	9	location/time	semantic
+E088	6	school/sports	semantic
+E089	10	possessives	syntactic
+E090	7	comparison/brackets	mixed
+E091	10	temporal/locative	semantic
+E092	10	biology/mycology	semantic
+E093	10	modals/infinitives	syntactic
+E094	6	nature/structures	semantic
+E095	10	sports	semantic
+E096	10	prepositions	syntactic
+E097	3	fragments	syntactic
+E098	7	punctuation/mixed	mixed
+E099	7	names/pop culture	semantic

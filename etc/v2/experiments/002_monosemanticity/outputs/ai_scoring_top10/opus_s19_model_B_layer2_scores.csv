@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	mixed low-PMI random	mixed
+E001	4	dialogue/question words	mixed
+E002	4	distant/hard/adj	mixed
+E003	5	reporting/telling verbs	semantic
+E004	5	modal verbs/To	syntactic
+E005	4	or/yet/relatively	syntactic
+E006	4	BPE name fragments	mixed
+E007	6	capital letter prefixes	syntactic
+E008	5	title/designation verbs	mixed
+E009	4	northern/between/mixed	mixed
+E010	3	manga/hiking/mixed	mixed
+E011	5	BPE name fragments	syntactic
+E012	6	relative/question words	syntactic
+E013	4	sports/mixed nouns	mixed
+E014	7	sentence-end punctuation	syntactic
+E015	5	BPE name fragments	syntactic
+E016	5	defeating/champion verbs	mixed
+E017	7	modal/auxiliary verbs	syntactic
+E018	5	determiner every/any	syntactic
+E019	4	mixed titles/BPE	mixed
+E020	5	action/overthrow verbs	mixed
+E021	4	adj vast/respective	mixed
+E022	6	adverb -ly manner	syntactic
+E023	4	abstract nouns pattern	mixed
+E024	5	titles/name mixed	mixed
+E025	4	its/2004/the	syntactic
+E026	4	preposition via/of	syntactic
+E027	5	examining/constitute	mixed
+E028	5	charts/emphasis/yellow	mixed
+E029	5	participating/starring	mixed
+E030	4	titles/names mixed	mixed
+E031	4	sentence-initial mixed	mixed
+E032	5	dialogue/question punct	mixed
+E033	4	examining/overthrow	mixed
+E034	5	abstract/integration nouns	mixed
+E035	4	the/surrounding/these	syntactic
+E036	3	the/The only	syntactic
+E037	5	adj founding/ensuing	mixed
+E038	5	sentence-end/greatest	mixed
+E039	4	BPE name syllables	mixed
+E040	4	Russian/southern adj	mixed
+E041	4	apostrophe/dashes	syntactic
+E042	4	weather/road nouns	mixed
+E043	5	nationalist/guerrilla adj	mixed
+E044	4	non-latin/place names	mixed
+E045	5	BPE name/surname	syntactic
+E046	5	BPE word fragments	syntactic
+E047	5	belonged/emerged verbs	mixed
+E048	4	adj ensuing/joint	mixed
+E049	5	BPE word fragments	syntactic
+E050	4	nearby/entire/the	syntactic
+E051	3	mixed places/names	mixed
+E052	6	employing/comprising	syntactic
+E053	6	adverbs explicitly/openly	syntactic
+E054	4	adj hostile/unfit	mixed
+E055	5	disliked/praised verbs	mixed
+E056	4	temporal early/late	syntactic
+E057	5	temporal In/By/From	syntactic
+E058	5	versus/beating/champion	mixed
+E059	5	adj personal/scientific	mixed
+E060	4	codes/abbreviations	mixed
+E061	5	adj healthcare/ethnic	mixed
+E062	6	number words/quantity	syntactic
+E063	7	large numbers	syntactic
+E064	5	action/avoiding verbs	mixed
+E065	4	group nouns/officials	mixed
+E066	5	organization titles	mixed
+E067	7	ordinal numbers	syntactic
+E068	6	modal/helping verbs	syntactic
+E069	7	sentence-initial discourse	syntactic
+E070	4	action/distinguish verbs	mixed
+E071	6	media adj decorative	mixed
+E072	3	mixed sports/biology	mixed
+E073	7	demonstratives each/this	syntactic
+E074	5	BPE word fragments	syntactic
+E075	4	Instead/memoirs/1906	mixed
+E076	5	adverb rarely/apparently	syntactic
+E077	4	geographic/place nouns	mixed
+E078	5	conjunctions plus/and	syntactic
+E079	4	plural nouns/abstract	mixed
+E080	4	aboard/leaving verbs	mixed
+E081	3	mixed nouns/disc	mixed
+E082	4	comma/although/punct	syntactic
+E083	4	abstract/velocity nouns	mixed
+E084	5	geographic Upper/Late	mixed
+E085	4	refer/manages verbs	mixed
+E086	5	opening brackets/money	syntactic
+E087	6	sentence-end punctuation	syntactic
+E088	4	road/section nouns	mixed
+E089	5	speech/testimony verbs	semantic
+E090	4	plural/document nouns	mixed
+E091	5	among/through preps	syntactic
+E092	4	articles an/An/Nat	syntactic
+E093	5	been/were/newly	syntactic
+E094	5	entitled/discourse	syntactic
+E095	4	the/entire/ranked	syntactic
+E096	4	BPE biology/names	mixed
+E097	4	titles/Best/Historic	mixed
+E098	7	naval/military units	semantic
+E099	4	informal/something nouns	mixed

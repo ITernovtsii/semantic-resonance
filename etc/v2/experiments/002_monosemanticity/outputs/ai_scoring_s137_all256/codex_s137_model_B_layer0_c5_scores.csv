@@ -1,0 +1,4 @@
+expert_id	score	category	type
+E250	5	medical/online	mixed
+E251	8	nobility title	semantic
+E252	7	subword fragments	syntactic

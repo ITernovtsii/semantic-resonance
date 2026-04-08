@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	10	prepositions	syntactic
+E001	9	demonstratives	syntactic
+E002	5	adjectives	mixed
+E003	9	degree adverbs	syntactic
+E004	3	pronouns/ordinals	mixed
+E005	10	quotes/brackets	syntactic
+E006	2	random fragments	mixed
+E007	6	history/sports	semantic
+E008	7	music/media	semantic
+E009	7	numbered parts	syntactic
+E010	8	punctuation	syntactic
+E011	6	attitude terms	semantic
+E012	7	numbers/codes	syntactic
+E013	10	prepositions	syntactic
+E014	7	motion verbs	semantic
+E015	8	approximation terms	syntactic
+E016	10	quote punctuation	syntactic
+E017	4	mixed adjectives	mixed
+E018	9	numbers/quantifiers	syntactic
+E019	10	sentence punctuation	syntactic
+E020	3	mixed abstractions	mixed
+E021	5	general adjectives	mixed
+E022	8	companies/workforce	semantic
+E023	4	generic nouns	mixed
+E024	6	descriptive adjectives	semantic
+E025	4	size/economy	mixed
+E026	9	pronouns/articles	syntactic
+E027	6	action verbs	semantic
+E028	4	proper nouns	mixed
+E029	8	suffix plurals	syntactic
+E030	7	relational participles	syntactic
+E031	3	abbrev symbols	mixed
+E032	1	random unicode	mixed
+E033	7	discourse connectives	syntactic
+E034	7	movement/change verbs	semantic
+E035	10	on-prepositions	syntactic
+E036	9	punctuation	syntactic
+E037	8	articles/determiners	syntactic
+E038	10	punctuation	syntactic
+E039	9	be-verb forms	syntactic
+E040	9	personal pronouns	syntactic
+E041	7	place names	semantic
+E042	2	random fragments	mixed
+E043	8	inclusion verbs	syntactic
+E044	10	punctuation	syntactic
+E045	10	conjunctions	syntactic
+E046	8	remain/survive	semantic
+E047	3	mixed nouns	mixed
+E048	8	comparative adverbs	syntactic
+E049	3	mixed adverbs	mixed
+E050	9	adjective suffixes	syntactic
+E051	10	verb endings	syntactic
+E052	10	be auxiliaries	syntactic
+E053	6	combat actions	semantic
+E054	10	definite article	syntactic
+E055	7	person names	semantic
+E056	5	history events	mixed
+E057	9	prefix fragments	syntactic
+E058	6	past-participle verbs	semantic
+E059	7	appointment events	semantic
+E060	5	body/leadership terms	mixed
+E061	10	punctuation	syntactic
+E062	9	subword prefixes	syntactic
+E063	10	punctuation	syntactic
+E064	8	adverbials	syntactic
+E065	10	possessives	syntactic
+E066	3	mixed verbs	mixed
+E067	10	apostrophes	syntactic
+E068	8	diacritics/chars	syntactic
+E069	8	deictic/wh words	syntactic
+E070	8	determiners	syntactic
+E071	8	songwriting terms	semantic
+E072	7	function words	syntactic
+E073	8	surnames	semantic
+E074	8	connectives	syntactic
+E075	2	symbol/noise	mixed
+E076	4	abbrev fragments	mixed
+E077	9	have-verb forms	syntactic
+E078	7	combat sports	semantic
+E079	10	infinitive/prep	syntactic
+E080	10	quote punctuation	syntactic
+E081	7	start-stop actions	semantic
+E082	10	conjunctions	syntactic
+E083	9	spatial prepositions	syntactic
+E084	8	temporal markers	syntactic
+E085	2	random nouns	mixed
+E086	9	tropical weather	semantic
+E087	9	prepositions	syntactic
+E088	4	sports/school	mixed
+E089	10	possessive pronouns	syntactic
+E090	5	like/have pattern	mixed
+E091	9	time/place preps	syntactic
+E092	8	mycology terms	semantic
+E093	9	modals/infinitive	syntactic
+E094	2	random nouns	mixed
+E095	9	sports stats	semantic
+E096	9	prepositions	syntactic
+E097	2	random fragments	mixed
+E098	6	punctuation-heavy	mixed
+E099	7	proper names	semantic

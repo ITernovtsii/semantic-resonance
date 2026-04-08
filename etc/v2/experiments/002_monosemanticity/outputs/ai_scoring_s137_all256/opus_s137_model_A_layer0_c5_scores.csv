@@ -1,0 +1,5 @@
+expert_id	score	category	type
+E250	5	determiners/general	syntactic
+E251	6	agentive suffixes	syntactic
+E252	3	single word	syntactic
+E253	5	capital letters	syntactic

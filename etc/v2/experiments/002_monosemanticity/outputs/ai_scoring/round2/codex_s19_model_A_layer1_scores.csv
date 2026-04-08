@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	9	prepositions	syntactic
+E001	8	demonstratives	syntactic
+E002	6	adjectives	syntactic
+E003	9	adverbs	syntactic
+E004	3	pronoun mix	mixed
+E005	10	quotes/brackets	syntactic
+E006	1	random fragments	mixed
+E007	4	history/sports	mixed
+E008	9	entertainment	semantic
+E009	7	list markers	syntactic
+E010	8	punctuation	syntactic
+E011	8	abstract nouns	semantic
+E012	9	numbers	syntactic
+E013	9	prepositions	syntactic
+E014	8	movement verbs	semantic
+E015	8	approximation	syntactic
+E016	5	punct+military	mixed
+E017	7	adjectives	syntactic
+E018	9	quantifiers	syntactic
+E019	10	sentence punctuation	syntactic
+E020	7	event outcomes	semantic
+E021	8	adjectives	syntactic
+E022	7	organizations	semantic
+E023	4	generic actions	mixed
+E024	8	adjectives	syntactic
+E025	4	size terms	mixed
+E026	8	pronouns/articles	syntactic
+E027	5	action verbs	mixed
+E028	1	random tokens	mixed
+E029	8	plurals/suffixes	syntactic
+E030	8	association verbs	semantic
+E031	2	abbreviations	mixed
+E032	1	random mix	mixed
+E033	7	connectives	syntactic
+E034	7	verb forms	syntactic
+E035	10	on/onto preps	syntactic
+E036	7	punctuation	syntactic
+E037	6	articles	syntactic
+E038	9	punctuation	syntactic
+E039	9	copula verbs	syntactic
+E040	8	pronouns	syntactic
+E041	8	place names	semantic
+E042	1	random subwords	mixed
+E043	7	inclusion markers	syntactic
+E044	10	sentence endings	syntactic
+E045	10	conjunctions	syntactic
+E046	8	continuance	semantic
+E047	7	social roles	semantic
+E048	8	comparative adverbs	syntactic
+E049	8	time adverbs	syntactic
+E050	7	adjective forms	syntactic
+E051	10	verb suffixes	syntactic
+E052	10	be forms	syntactic
+E053	7	military actions	semantic
+E054	10	definite article	syntactic
+E055	8	media names	semantic
+E056	5	narrative verbs	mixed
+E057	10	prefixes	syntactic
+E058	9	past participles	syntactic
+E059	6	selection events	mixed
+E060	8	body parts	semantic
+E061	10	punctuation	syntactic
+E062	1	random fragments	mixed
+E063	10	punctuation	syntactic
+E064	9	adverbs	syntactic
+E065	9	possessives	syntactic
+E066	7	requirement terms	semantic
+E067	10	apostrophes	syntactic
+E068	6	orthography	syntactic
+E069	8	wh/deictics	syntactic
+E070	10	definite article	syntactic
+E071	7	labeling terms	semantic
+E072	4	function words	mixed
+E073	9	surnames	semantic
+E074	9	clause markers	syntactic
+E075	3	symbol mix	mixed
+E076	9	initialisms	syntactic
+E077	9	have forms	syntactic
+E078	9	gaming/sports	semantic
+E079	9	prepositions	syntactic
+E080	9	quotes/punct	syntactic
+E081	8	event transitions	semantic
+E082	10	conjunctions	syntactic
+E083	9	spatial preps	syntactic
+E084	8	discourse openers	syntactic
+E085	1	random nouns	mixed
+E086	10	tropical cyclones	semantic
+E087	9	preposition at	syntactic
+E088	4	education/sports	mixed
+E089	9	possessives	syntactic
+E090	5	like/have mix	mixed
+E091	9	temporal preps	syntactic
+E092	4	science fragments	mixed
+E093	9	modals	syntactic
+E094	1	random nouns	mixed
+E095	9	sports stats	semantic
+E096	9	prepositions	syntactic
+E097	1	random fragments	mixed
+E098	7	punctuation	syntactic
+E099	1	random names	mixed

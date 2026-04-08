@@ -1,0 +1,100 @@
+E000	3	mixed/unclear	mixed
+E001	10	preposition	syntactic
+E002	9	personal names	semantic
+E003	7	function words	syntactic
+E004	8	roles/tasks	semantic
+E005	1	random	mixed
+E006	8	modal/auxiliary	syntactic
+E007	9	punctuation	syntactic
+E008	10	article	syntactic
+E009	8	function words	syntactic
+E010	6	complementizer	syntactic
+E011	10	suffixes	syntactic
+E012	8	society/education	semantic
+E013	7	geography/admin	semantic
+E014	9	auxiliary verbs	syntactic
+E015	7	contractions	syntactic
+E016	9	discourse markers	syntactic
+E017	7	play terms	semantic
+E018	10	numbers	syntactic
+E019	9	auxiliary verbs	syntactic
+E020	9	function words	syntactic
+E021	7	work/projects	semantic
+E022	10	relative pronoun	syntactic
+E023	8	preposition	syntactic
+E024	7	music production	semantic
+E025	8	prepositions	syntactic
+E026	3	mixed/unclear	mixed
+E027	10	articles	syntactic
+E028	10	punctuation	syntactic
+E029	8	subword fragments	syntactic
+E030	10	articles	syntactic
+E031	10	prepositions	syntactic
+E032	8	adjectives	syntactic
+E033	8	time/statistics	semantic
+E034	9	subword fragments	syntactic
+E035	8	action verbs	syntactic
+E036	7	function words	syntactic
+E037	8	past participles	syntactic
+E038	7	function words	syntactic
+E039	6	adjectives	syntactic
+E040	10	article	syntactic
+E041	10	punctuation	syntactic
+E042	8	female terms	semantic
+E043	8	modal verbs	syntactic
+E044	7	abstract concepts	semantic
+E045	9	prepositions	syntactic
+E046	6	legal/military	semantic
+E047	7	urban infrastructure	semantic
+E048	3	mixed/unclear	mixed
+E049	2	mixed/unclear	mixed
+E050	7	participation/use	semantic
+E051	10	pronouns	syntactic
+E052	6	pronouns/deixis	syntactic
+E053	8	sentence starters	syntactic
+E054	2	mixed/unclear	mixed
+E055	8	military terms	semantic
+E056	9	function words	syntactic
+E057	4	mixed/unclear	mixed
+E058	8	subword fragments	syntactic
+E059	7	discourse/punctuation	syntactic
+E060	9	modifiers	syntactic
+E061	7	subword fragments	syntactic
+E062	4	subword fragments	syntactic
+E063	8	definition terms	semantic
+E064	7	punctuation	syntactic
+E065	7	physical objects	semantic
+E066	8	determiners	syntactic
+E067	8	action verbs	syntactic
+E068	6	function words	syntactic
+E069	9	geography/years	semantic
+E070	9	copula verbs	syntactic
+E071	9	adjectives	syntactic
+E072	5	subword mix	mixed
+E073	8	descriptive words	syntactic
+E074	8	function words	syntactic
+E075	7	function words	syntactic
+E076	9	punctuation	syntactic
+E077	9	military operations	semantic
+E078	8	discourse starters	syntactic
+E079	7	pronouns/position	syntactic
+E080	10	phrase starter	syntactic
+E081	6	function words	syntactic
+E082	8	function words	syntactic
+E083	10	punctuation	syntactic
+E084	8	connectives	syntactic
+E085	7	connectives	syntactic
+E086	2	mixed/unclear	mixed
+E087	10	article	syntactic
+E088	7	housing/places	semantic
+E089	8	composition terms	semantic
+E090	8	letter clusters	syntactic
+E091	8	function words	syntactic
+E092	9	pronouns	syntactic
+E093	10	adverbs	syntactic
+E094	9	preposition	syntactic
+E095	9	function words	syntactic
+E096	8	directional preps	syntactic
+E097	5	mixed/unclear	mixed
+E098	8	determiners	syntactic
+E099	9	air force	semantic

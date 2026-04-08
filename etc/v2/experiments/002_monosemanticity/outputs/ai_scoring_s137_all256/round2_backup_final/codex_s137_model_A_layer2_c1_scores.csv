@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	8	copular verbs	syntactic
+E051	4	proper names	mixed
+E052	9	prepositions	syntactic
+E053	3	fragments/mixed	mixed
+E054	9	locative prepositions	syntactic
+E055	5	punctuation/connectives	mixed
+E056	7	action verbs	syntactic
+E057	8	roles/occupations	semantic
+E058	10	wh-words	syntactic
+E059	10	articles/determiners	syntactic
+E060	9	name prefixes	syntactic
+E061	8	name fragments	syntactic
+E062	2	random tokens	mixed
+E063	5	descriptors	mixed
+E064	6	-ed forms	syntactic
+E065	4	place terms	mixed
+E066	8	subword endings	syntactic
+E067	9	open punctuation	syntactic
+E068	7	event nouns	semantic
+E069	8	conjunction punctuation	syntactic
+E070	8	symbols/punctuation	syntactic
+E071	10	punctuation pairs	syntactic
+E072	8	sentence markers	syntactic
+E073	7	geography names	semantic
+E074	10	comma/quote punctuation	syntactic
+E075	8	quotation marks	syntactic
+E076	8	abstract concepts	semantic
+E077	9	prepositions	syntactic
+E078	9	ellipsis/quotes	syntactic
+E079	8	directional preps	syntactic
+E080	4	mixed title words	mixed
+E081	4	topic list	mixed
+E082	10	period punctuation	syntactic
+E083	10	punctuation	syntactic
+E084	5	acronyms/names	mixed
+E085	9	person names	semantic
+E086	9	place names	semantic
+E087	8	roads/places	semantic
+E088	8	political-ethnic terms	semantic
+E089	6	deictic adverbs	mixed
+E090	7	plural/suffix forms	syntactic
+E091	4	abstract mixed	mixed
+E092	9	determiners	syntactic
+E093	8	subword prefixes	syntactic
+E094	10	indefinite determiners	syntactic
+E095	8	reporting verbs	semantic
+E096	8	composition verbs	semantic
+E097	8	to/prepositions	syntactic
+E098	7	action verbs	semantic
+E099	1	random mix	mixed

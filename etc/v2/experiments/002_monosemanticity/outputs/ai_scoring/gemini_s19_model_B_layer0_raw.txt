@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the required scoring lines.
+E000	9	function words	syntactic
+E001	8	word fragments	syntactic
+E002	8	function words	syntactic
+E003	10	prepositions	syntactic
+E004	9	auxiliary verbs	syntactic
+E005	6	connectors/punctuation	syntactic
+E006	10	conjunction	syntactic
+E007	2	random fragments	mixed
+E008	9	quotation marks	syntactic
+E009	8	temporal/pronouns	syntactic
+E010	8	word fragments	syntactic
+E011	5	prefix/common	syntactic
+E012	7	plural suffixes	syntactic
+E013	10	adjectives	syntactic
+E014	2	random fragments	mixed
+E015	10	definite article	syntactic
+E016	8	society/politics	semantic
+E017	8	punctuation/connectors	syntactic
+E018	10	preposition	syntactic
+E019	9	logical connectors	syntactic
+E020	10	participles/adverbs	syntactic
+E021	10	determiners	syntactic
+E022	9	punctuation	syntactic
+E023	7	US-related	semantic
+E024	10	auxiliary verb	syntactic
+E025	8	fragment/common	syntactic
+E026	10	subword fragments	syntactic
+E027	9	numbers/currency	semantic
+E028	4	mixed/unclear	mixed
+E029	8	descriptive nouns	semantic
+E030	7	verb usage	syntactic
+E031	7	aviation/nature	semantic
+E032	5	miscellaneous nouns	semantic
+E033	10	logical connectors	syntactic
+E034	10	definite article	syntactic
+E035	8	technical/measurement	semantic
+E036	9	modal verbs	syntactic
+E037	4	mixed/unclear	mixed
+E038	2	random fragments	mixed
+E039	10	definite article	syntactic
+E040	7	geographic fragments	syntactic
+E041	10	definite article	syntactic
+E042	10	quantifiers/adjectives	syntactic
+E043	9	sequence/completion	semantic
+E044	7	verb/pronoun	syntactic
+E045	6	relative pronouns	mixed
+E046	7	death/measurement	semantic
+E047	10	verbs	syntactic
+E048	8	punctuation/articles	syntactic
+E049	4	mixed/unclear	mixed
+E050	9	quantifiers/articles	syntactic
+E051	8	collective nouns	semantic
+E052	9	connectors/punctuation	syntactic
+E053	9	music/recording	semantic
+E054	5	mixed/unclear	mixed
+E055	10	subword fragments	syntactic
+E056	10	articles	syntactic
+E057	10	prepositions/conjunctions	syntactic
+E058	6	adverbs/names	mixed
+E059	9	punctuation/dashes	syntactic
+E060	10	definite article	syntactic
+E061	9	prepositions/articles	syntactic
+E062	9	word fragments	syntactic
+E063	8	pronouns/determiners	syntactic
+E064	10	transportation/geography	semantic
+E065	8	temporal words	semantic
+E066	10	spatial adverbs	syntactic
+E067	10	feminine pronouns	syntactic
+E068	3	mixed/unclear	mixed
+E069	8	subword suffixes	syntactic
+E070	4	mixed/unclear	mixed
+E071	8	media/titles	semantic
+E072	6	names/fragments	semantic
+E073	9	articles/function	syntactic
+E074	6	verb usage	mixed
+E075	8	adverbs/scientific	syntactic
+E076	9	numbers/sports	semantic
+E077	8	punctuation/common	syntactic
+E078	10	masculine pronouns	syntactic
+E079	10	function words	syntactic
+E080	9	possessive/common	syntactic
+E081	10	sports	semantic
+E082	8	nationalities/locations	semantic
+E083	8	professional/academic	semantic
+E084	8	location/unit	semantic
+E085	10	naval engineering	semantic
+E086	10	action/design	semantic
+E087	9	legal/discourse	semantic
+E088	10	punctuation	syntactic
+E089	10	function words	syntactic
+E090	5	mixed/unclear	mixed
+E091	9	quotation/articles	syntactic
+E092	10	verbs	syntactic
+E093	9	infrastructure/gov	semantic
+E094	7	verbs/adverbs	semantic
+E095	5	mixed modifiers	semantic
+E096	9	ordinals/adjectives	semantic
+E097	4	mixed/unclear	mixed
+E098	9	particles/prepositions	syntactic
+E099	9	connectors/punctuation	syntactic

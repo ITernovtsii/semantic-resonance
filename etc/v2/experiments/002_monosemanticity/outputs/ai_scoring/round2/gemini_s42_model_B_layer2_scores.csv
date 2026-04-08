@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	occupations/titles	semantic
+E001	2	BPE fragments	syntactic
+E002	9	existence verbs	syntactic
+E003	10	adverbs	syntactic
+E004	9	surnames	semantic
+E005	10	articles/determiners	syntactic
+E006	10	quantifiers/numbers	syntactic
+E007	10	conjunctions	syntactic
+E008	9	punctuation	syntactic
+E009	10	geographic names	semantic
+E010	8	time/sequence	semantic
+E011	3	mixed/fragments	mixed
+E012	4	punctuation/mixed	mixed
+E013	10	punctuation	syntactic
+E014	10	punctuation/quotes	syntactic
+E015	9	adjectives	syntactic
+E016	10	adjectives	syntactic
+E017	5	determiners/mixed	mixed
+E018	10	process verbs	semantic
+E019	8	entities/orgs	semantic
+E020	6	prepositions/naval	mixed
+E021	9	sequence/ordering	semantic
+E022	10	communication verbs	semantic
+E023	9	societal topics	semantic
+E024	10	measurements	semantic
+E025	10	superlatives	syntactic
+E026	10	prepositions	syntactic
+E027	10	adverbs	syntactic
+E028	2	BPE fragments	syntactic
+E029	4	word fragments	syntactic
+E030	10	prepositions	syntactic
+E031	7	determiners	syntactic
+E032	10	numbers	syntactic
+E033	8	listing/clarification	syntactic
+E034	10	spatial relations	semantic
+E035	5	fragments/nouns	mixed
+E036	10	pronouns/dialogue	syntactic
+E037	4	functional words	syntactic
+E038	7	place modifiers	semantic
+E039	10	adjectives/status	semantic
+E040	10	trait adjectives	semantic
+E041	9	place/rank descriptors	semantic
+E042	9	punctuation/conjunctions	syntactic
+E043	9	citation markers	syntactic
+E044	10	media/arts	semantic
+E045	9	media titles	semantic
+E046	8	functional/stative	syntactic
+E047	10	plural nouns	syntactic
+E048	10	singular nouns	syntactic
+E049	10	sentence starters	syntactic
+E050	3	mixed/common	mixed
+E051	6	capitalized terms	mixed
+E052	10	inclusion markers	semantic
+E053	5	nouns/mixed	semantic
+E054	10	mental verbs	semantic
+E055	9	apostrophes	syntactic
+E056	10	names	semantic
+E057	9	adjectives	semantic
+E058	10	nationalities/regions	semantic
+E059	10	punctuation	syntactic
+E060	2	BPE fragments	syntactic
+E061	6	comparisons	syntactic
+E062	8	logical/discourse markers	syntactic
+E063	3	suffixes	syntactic
+E064	10	quantifiers	semantic
+E065	7	direction/intent	mixed
+E066	9	demonstratives	syntactic
+E067	9	entity nouns	semantic
+E068	9	event verbs	semantic
+E069	10	adjectives	semantic
+E070	10	adjectives	semantic
+E071	4	mixed/functional	mixed
+E072	7	symbols/units	mixed
+E073	10	conflict/relation nouns	semantic
+E074	10	names	semantic
+E075	9	punctuation	syntactic
+E076	10	prepositions	syntactic
+E077	9	reference words	syntactic
+E078	10	spatio-temporal	semantic
+E079	9	punctuation	syntactic
+E080	10	first names	semantic
+E081	10	demonstratives	syntactic
+E082	3	consonant clusters	syntactic
+E083	8	sequence/determiners	mixed
+E084	9	punctuation	syntactic
+E085	8	capitalized nouns	semantic
+E086	3	BPE fragments	syntactic
+E087	6	conjunctions/years	mixed
+E088	10	dates/time	semantic
+E089	10	abstract nouns	semantic
+E090	2	common words	syntactic
+E091	10	influence verbs	semantic
+E092	10	approximations	semantic
+E093	6	capitalized fragments	mixed
+E094	9	action verbs	semantic
+E095	10	relational words	syntactic
+E096	10	creative works	semantic
+E097	8	punctuation/meta	syntactic
+E098	10	modal verbs	syntactic
+E099	10	pronouns/interrogatives	syntactic

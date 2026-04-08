@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	hyphens/early	syntactic
+E001	7	society/culture	semantic
+E002	8	geographic modifiers	semantic
+E003	4	punctuation	syntactic
+E004	7	places/institutions	semantic
+E005	6	person roles	semantic
+E006	7	possessives	syntactic
+E007	8	recognition/known-as	syntactic
+E008	6	copula is/are	syntactic
+E009	2	subword fragments	syntactic
+E010	5	possessive adjectives	syntactic
+E011	8	prepositions/from-at	syntactic
+E012	7	action verbs/gerunds	syntactic
+E013	7	contrastive conjunctions	syntactic
+E014	2	subword fragments	syntactic
+E015	7	conjunctions/semicolons	syntactic
+E016	2	subword fragments	syntactic
+E017	7	attempt/obligation verbs	semantic
+E018	7	adjectives	syntactic
+E019	7	temporal prepositions	syntactic
+E020	7	possessives/determiners	syntactic
+E021	6	song/media titles	mixed
+E022	4	prepositions	syntactic
+E023	6	preposition for	syntactic
+E024	5	punctuation	syntactic
+E025	9	years/dates	syntactic
+E026	8	units of measurement	syntactic
+E027	5	sentence-end punctuation	syntactic
+E028	7	sports/scoring stats	semantic
+E029	3	subword fragments	syntactic
+E030	7	indefinite articles	syntactic
+E031	4	articles/determiners	syntactic
+E032	3	articles	syntactic
+E033	8	quantifiers/degree	syntactic
+E034	3	articles	syntactic
+E035	8	person roles/family	semantic
+E036	8	transport/infrastructure	semantic
+E037	8	indefinite articles	syntactic
+E038	6	dates/months	mixed
+E039	8	quantifiers/determiners	syntactic
+E040	6	punctuation	syntactic
+E041	7	abstract nouns	semantic
+E042	8	ordinals/sequence	syntactic
+E043	5	punctuation/inclusion	syntactic
+E044	6	articles/demonstratives	syntactic
+E045	8	modal/auxiliary verbs	syntactic
+E046	7	speech act verbs	semantic
+E047	5	possessives	syntactic
+E048	7	spatial/movement	mixed
+E049	6	capitalized prefixes	syntactic
+E050	4	sentence-end punctuation	syntactic
+E051	7	past tense verbs	syntactic
+E052	8	superlatives	syntactic
+E053	8	place names	semantic
+E054	6	prepositions	syntactic
+E055	6	to/from prepositions	syntactic
+E056	6	conjunctions/or-and	syntactic
+E057	4	punctuation/possessive	syntactic
+E058	4	mixed proper nouns	mixed
+E059	7	causative/providing verbs	semantic
+E060	7	withdrawal/movement	semantic
+E061	8	speech/claim verbs	semantic
+E062	7	event/location verbs	syntactic
+E063	7	first names/titles	syntactic
+E064	7	modal adverbs	syntactic
+E065	5	punctuation/brackets	syntactic
+E066	4	punctuation	syntactic
+E067	8	dates/months	syntactic
+E068	7	sentence starters	syntactic
+E069	7	informal/colloquial	semantic
+E070	3	articles	syntactic
+E071	6	quotation punctuation	syntactic
+E072	5	punctuation	syntactic
+E073	6	plural nouns	syntactic
+E074	8	negation/temporal adverbs	syntactic
+E075	6	hedging adverbs	syntactic
+E076	2	subword fragments	syntactic
+E077	7	temporal/months	mixed
+E078	5	mixed nouns	mixed
+E079	7	temporal prepositions	syntactic
+E080	6	dates/units	mixed
+E081	6	ordinal/sequential adj	syntactic
+E082	7	base form verbs	syntactic
+E083	7	first names	syntactic
+E084	8	military equipment	semantic
+E085	5	sentence-end punctuation	syntactic
+E086	7	relative pronouns	syntactic
+E087	7	adjectives	syntactic
+E088	8	units/measurement	syntactic
+E089	7	institutional adjectives	mixed
+E090	6	comparison/than	syntactic
+E091	4	mixed military/nouns	mixed
+E092	4	punctuation/connectives	syntactic
+E093	2	subword fragments	syntactic
+E094	1	random subwords	mixed
+E095	8	time periods/distances	semantic
+E096	3	lowercase letters	syntactic
+E097	5	articles/prefixes	syntactic
+E098	5	surnames	syntactic
+E099	5	punctuation/connectives	syntactic

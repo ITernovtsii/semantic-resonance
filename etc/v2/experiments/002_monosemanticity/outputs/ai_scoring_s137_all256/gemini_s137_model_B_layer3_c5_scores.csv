@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	8	names	semantic
+E251	9	motion verbs	semantic
+E252	10	punctuation	syntactic
+E253	6	pronouns	syntactic
+E254	9	adverbs	syntactic
+E255	1	random	mixed

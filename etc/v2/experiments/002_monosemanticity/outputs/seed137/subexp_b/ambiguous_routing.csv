@@ -1,0 +1,161 @@
+word,context_id,context,layer,expert_ids,n_tokens,tokens,primary_coherence,topk_overlap,routing_flicker,model
+bank,0,The bank of the river was covered with wildflowers.,0,240,1,bank,0.0,0.0,0,SRA-B
+bank,0,The bank of the river was covered with wildflowers.,1,153,1,bank,0.0,0.0,0,SRA-B
+bank,0,The bank of the river was covered with wildflowers.,2,75,1,bank,0.0,0.0,0,SRA-B
+bank,0,The bank of the river was covered with wildflowers.,3,73,1,bank,0.0,0.0,0,SRA-B
+bank,1,The bank approved the mortgage application today.,0,240,1,bank,0.0,0.0,0,SRA-B
+bank,1,The bank approved the mortgage application today.,1,153,1,bank,0.0,0.0,0,SRA-B
+bank,1,The bank approved the mortgage application today.,2,75,1,bank,0.0,0.0,0,SRA-B
+bank,1,The bank approved the mortgage application today.,3,73,1,bank,0.0,0.0,0,SRA-B
+spring,0,The spring rain brought new flowers to the garden.,0,101,1,spring,0.0,0.0,0,SRA-B
+spring,0,The spring rain brought new flowers to the garden.,1,137,1,spring,0.0,0.0,0,SRA-B
+spring,0,The spring rain brought new flowers to the garden.,2,96,1,spring,0.0,0.0,0,SRA-B
+spring,0,The spring rain brought new flowers to the garden.,3,235,1,spring,0.0,0.0,0,SRA-B
+spring,1,The spring in the mechanism was tightly coiled.,0,101,1,spring,0.0,0.0,0,SRA-B
+spring,1,The spring in the mechanism was tightly coiled.,1,137,1,spring,0.0,0.0,0,SRA-B
+spring,1,The spring in the mechanism was tightly coiled.,2,96,1,spring,0.0,0.0,0,SRA-B
+spring,1,The spring in the mechanism was tightly coiled.,3,235,1,spring,0.0,0.0,0,SRA-B
+bat,0,The bat flew silently through the dark cave.,0,240,1,bat,0.0,0.0,0,SRA-B
+bat,0,The bat flew silently through the dark cave.,1,156,1,bat,0.0,0.0,0,SRA-B
+bat,0,The bat flew silently through the dark cave.,2,75,1,bat,0.0,0.0,0,SRA-B
+bat,0,The bat flew silently through the dark cave.,3,12,1,bat,0.0,0.0,0,SRA-B
+bat,1,He picked up the bat and walked to home plate.,0,240,1,bat,0.0,0.0,0,SRA-B
+bat,1,He picked up the bat and walked to home plate.,1,189,1,bat,0.0,0.0,0,SRA-B
+bat,1,He picked up the bat and walked to home plate.,2,170,1,bat,0.0,0.0,0,SRA-B
+bat,1,He picked up the bat and walked to home plate.,3,94,1,bat,0.0,0.0,0,SRA-B
+crane,0,A crane stood motionless in the shallow water.,0,35,1,crane,0.0,0.0,0,SRA-B
+crane,0,A crane stood motionless in the shallow water.,1,15,1,crane,0.0,0.0,0,SRA-B
+crane,0,A crane stood motionless in the shallow water.,2,170,1,crane,0.0,0.0,0,SRA-B
+crane,0,A crane stood motionless in the shallow water.,3,73,1,crane,0.0,0.0,0,SRA-B
+crane,1,The construction crane lifted the heavy steel beam.,0,35,1,crane,0.0,0.0,0,SRA-B
+crane,1,The construction crane lifted the heavy steel beam.,1,120,1,crane,0.0,0.0,0,SRA-B
+crane,1,The construction crane lifted the heavy steel beam.,2,75,1,crane,0.0,0.0,0,SRA-B
+crane,1,The construction crane lifted the heavy steel beam.,3,73,1,crane,0.0,0.0,0,SRA-B
+bark,0,The bark of the ancient tree was rough and thick.,0,227,1,bark,0.0,0.0,0,SRA-B
+bark,0,The bark of the ancient tree was rough and thick.,1,156,1,bark,0.0,0.0,0,SRA-B
+bark,0,The bark of the ancient tree was rough and thick.,2,61,1,bark,0.0,0.0,0,SRA-B
+bark,0,The bark of the ancient tree was rough and thick.,3,25,1,bark,0.0,0.0,0,SRA-B
+bark,1,We could hear the bark of the dog from outside.,0,59,1,bark,0.0,0.0,0,SRA-B
+bark,1,We could hear the bark of the dog from outside.,1,69,1,bark,0.0,0.0,0,SRA-B
+bark,1,We could hear the bark of the dog from outside.,2,72,1,bark,0.0,0.0,0,SRA-B
+bark,1,We could hear the bark of the dog from outside.,3,12,1,bark,0.0,0.0,0,SRA-B
+match,0,She lit a match to start the campfire.,0,153,1,match,0.0,0.0,0,SRA-B
+match,0,She lit a match to start the campfire.,1,189,1,match,0.0,0.0,0,SRA-B
+match,0,She lit a match to start the campfire.,2,57,1,match,0.0,0.0,0,SRA-B
+match,0,She lit a match to start the campfire.,3,200,1,match,0.0,0.0,0,SRA-B
+match,1,The championship match was watched by millions.,0,234,1,match,0.0,0.0,0,SRA-B
+match,1,The championship match was watched by millions.,1,189,1,match,0.0,0.0,0,SRA-B
+match,1,The championship match was watched by millions.,2,75,1,match,0.0,0.0,0,SRA-B
+match,1,The championship match was watched by millions.,3,47,1,match,0.0,0.0,0,SRA-B
+pitch,0,The pitch of the violin was perfectly tuned.,0,234,1,pitch,0.0,0.0,0,SRA-B
+pitch,0,The pitch of the violin was perfectly tuned.,1,206,1,pitch,0.0,0.0,0,SRA-B
+pitch,0,The pitch of the violin was perfectly tuned.,2,75,1,pitch,0.0,0.0,0,SRA-B
+pitch,0,The pitch of the violin was perfectly tuned.,3,73,1,pitch,0.0,0.0,0,SRA-B
+pitch,1,The pitcher threw a fastball pitch over the plate.,0,234,1,pitch,0.0,0.0,0,SRA-B
+pitch,1,The pitcher threw a fastball pitch over the plate.,1,189,1,pitch,0.0,0.0,0,SRA-B
+pitch,1,The pitcher threw a fastball pitch over the plate.,2,170,1,pitch,0.0,0.0,0,SRA-B
+pitch,1,The pitcher threw a fastball pitch over the plate.,3,67,1,pitch,0.0,0.0,0,SRA-B
+ring,0,He placed the ring on her finger carefully.,0,59,1,ring,0.0,0.0,0,SRA-B
+ring,0,He placed the ring on her finger carefully.,1,189,1,ring,0.0,0.0,0,SRA-B
+ring,0,He placed the ring on her finger carefully.,2,170,1,ring,0.0,0.0,0,SRA-B
+ring,0,He placed the ring on her finger carefully.,3,67,1,ring,0.0,0.0,0,SRA-B
+ring,1,The phone continued to ring in the empty room.,0,59,1,ring,0.0,0.0,0,SRA-B
+ring,1,The phone continued to ring in the empty room.,1,118,1,ring,0.0,0.0,0,SRA-B
+ring,1,The phone continued to ring in the empty room.,2,123,1,ring,0.0,0.0,0,SRA-B
+ring,1,The phone continued to ring in the empty room.,3,35,1,ring,0.0,0.0,0,SRA-B
+scale,0,The fish had a beautiful iridescent scale.,0,213,1,scale,0.0,0.0,0,SRA-B
+scale,0,The fish had a beautiful iridescent scale.,1,111,1,scale,0.0,0.0,0,SRA-B
+scale,0,The fish had a beautiful iridescent scale.,2,9,1,scale,0.0,0.0,0,SRA-B
+scale,0,The fish had a beautiful iridescent scale.,3,25,1,scale,0.0,0.0,0,SRA-B
+scale,1,The scale indicated the package weighed five pounds.,0,45,1,scale,0.0,0.0,0,SRA-B
+scale,1,The scale indicated the package weighed five pounds.,1,196,1,scale,0.0,0.0,0,SRA-B
+scale,1,The scale indicated the package weighed five pounds.,2,14,1,scale,0.0,0.0,0,SRA-B
+scale,1,The scale indicated the package weighed five pounds.,3,235,1,scale,0.0,0.0,0,SRA-B
+seal,0,The seal swam gracefully through the cold water.,0,59,1,seal,0.0,0.0,0,SRA-B
+seal,0,The seal swam gracefully through the cold water.,1,18,1,seal,0.0,0.0,0,SRA-B
+seal,0,The seal swam gracefully through the cold water.,2,75,1,seal,0.0,0.0,0,SRA-B
+seal,0,The seal swam gracefully through the cold water.,3,50,1,seal,0.0,0.0,0,SRA-B
+seal,1,He pressed the seal into the warm red wax.,0,59,1,seal,0.0,0.0,0,SRA-B
+seal,1,He pressed the seal into the warm red wax.,1,18,1,seal,0.0,0.0,0,SRA-B
+seal,1,He pressed the seal into the warm red wax.,2,170,1,seal,0.0,0.0,0,SRA-B
+seal,1,He pressed the seal into the warm red wax.,3,12,1,seal,0.0,0.0,0,SRA-B
+bank,0,The bank of the river was covered with wildflowers.,0,10,1,bank,0.0,0.0,0,StdMoE-B
+bank,0,The bank of the river was covered with wildflowers.,1,146,1,bank,0.0,0.0,0,StdMoE-B
+bank,0,The bank of the river was covered with wildflowers.,2,51,1,bank,0.0,0.0,0,StdMoE-B
+bank,0,The bank of the river was covered with wildflowers.,3,172,1,bank,0.0,0.0,0,StdMoE-B
+bank,1,The bank approved the mortgage application today.,0,10,1,bank,0.0,0.0,0,StdMoE-B
+bank,1,The bank approved the mortgage application today.,1,146,1,bank,0.0,0.0,0,StdMoE-B
+bank,1,The bank approved the mortgage application today.,2,51,1,bank,0.0,0.0,0,StdMoE-B
+bank,1,The bank approved the mortgage application today.,3,172,1,bank,0.0,0.0,0,StdMoE-B
+spring,0,The spring rain brought new flowers to the garden.,0,23,1,spring,0.0,0.0,0,StdMoE-B
+spring,0,The spring rain brought new flowers to the garden.,1,72,1,spring,0.0,0.0,0,StdMoE-B
+spring,0,The spring rain brought new flowers to the garden.,2,117,1,spring,0.0,0.0,0,StdMoE-B
+spring,0,The spring rain brought new flowers to the garden.,3,115,1,spring,0.0,0.0,0,StdMoE-B
+spring,1,The spring in the mechanism was tightly coiled.,0,23,1,spring,0.0,0.0,0,StdMoE-B
+spring,1,The spring in the mechanism was tightly coiled.,1,72,1,spring,0.0,0.0,0,StdMoE-B
+spring,1,The spring in the mechanism was tightly coiled.,2,117,1,spring,0.0,0.0,0,StdMoE-B
+spring,1,The spring in the mechanism was tightly coiled.,3,115,1,spring,0.0,0.0,0,StdMoE-B
+bat,0,The bat flew silently through the dark cave.,0,66,1,bat,0.0,0.0,0,StdMoE-B
+bat,0,The bat flew silently through the dark cave.,1,45,1,bat,0.0,0.0,0,StdMoE-B
+bat,0,The bat flew silently through the dark cave.,2,51,1,bat,0.0,0.0,0,StdMoE-B
+bat,0,The bat flew silently through the dark cave.,3,193,1,bat,0.0,0.0,0,StdMoE-B
+bat,1,He picked up the bat and walked to home plate.,0,66,1,bat,0.0,0.0,0,StdMoE-B
+bat,1,He picked up the bat and walked to home plate.,1,76,1,bat,0.0,0.0,0,StdMoE-B
+bat,1,He picked up the bat and walked to home plate.,2,147,1,bat,0.0,0.0,0,StdMoE-B
+bat,1,He picked up the bat and walked to home plate.,3,135,1,bat,0.0,0.0,0,StdMoE-B
+crane,0,A crane stood motionless in the shallow water.,0,124,1,crane,0.0,0.0,0,StdMoE-B
+crane,0,A crane stood motionless in the shallow water.,1,41,1,crane,0.0,0.0,0,StdMoE-B
+crane,0,A crane stood motionless in the shallow water.,2,76,1,crane,0.0,0.0,0,StdMoE-B
+crane,0,A crane stood motionless in the shallow water.,3,11,1,crane,0.0,0.0,0,StdMoE-B
+crane,1,The construction crane lifted the heavy steel beam.,0,124,1,crane,0.0,0.0,0,StdMoE-B
+crane,1,The construction crane lifted the heavy steel beam.,1,56,1,crane,0.0,0.0,0,StdMoE-B
+crane,1,The construction crane lifted the heavy steel beam.,2,51,1,crane,0.0,0.0,0,StdMoE-B
+crane,1,The construction crane lifted the heavy steel beam.,3,136,1,crane,0.0,0.0,0,StdMoE-B
+bark,0,The bark of the ancient tree was rough and thick.,0,184,1,bark,0.0,0.0,0,StdMoE-B
+bark,0,The bark of the ancient tree was rough and thick.,1,241,1,bark,0.0,0.0,0,StdMoE-B
+bark,0,The bark of the ancient tree was rough and thick.,2,51,1,bark,0.0,0.0,0,StdMoE-B
+bark,0,The bark of the ancient tree was rough and thick.,3,243,1,bark,0.0,0.0,0,StdMoE-B
+bark,1,We could hear the bark of the dog from outside.,0,45,1,bark,0.0,0.0,0,StdMoE-B
+bark,1,We could hear the bark of the dog from outside.,1,67,1,bark,0.0,0.0,0,StdMoE-B
+bark,1,We could hear the bark of the dog from outside.,2,147,1,bark,0.0,0.0,0,StdMoE-B
+bark,1,We could hear the bark of the dog from outside.,3,47,1,bark,0.0,0.0,0,StdMoE-B
+match,0,She lit a match to start the campfire.,0,50,1,match,0.0,0.0,0,StdMoE-B
+match,0,She lit a match to start the campfire.,1,76,1,match,0.0,0.0,0,StdMoE-B
+match,0,She lit a match to start the campfire.,2,151,1,match,0.0,0.0,0,StdMoE-B
+match,0,She lit a match to start the campfire.,3,179,1,match,0.0,0.0,0,StdMoE-B
+match,1,The championship match was watched by millions.,0,50,1,match,0.0,0.0,0,StdMoE-B
+match,1,The championship match was watched by millions.,1,76,1,match,0.0,0.0,0,StdMoE-B
+match,1,The championship match was watched by millions.,2,51,1,match,0.0,0.0,0,StdMoE-B
+match,1,The championship match was watched by millions.,3,243,1,match,0.0,0.0,0,StdMoE-B
+pitch,0,The pitch of the violin was perfectly tuned.,0,50,1,pitch,0.0,0.0,0,StdMoE-B
+pitch,0,The pitch of the violin was perfectly tuned.,1,241,1,pitch,0.0,0.0,0,StdMoE-B
+pitch,0,The pitch of the violin was perfectly tuned.,2,51,1,pitch,0.0,0.0,0,StdMoE-B
+pitch,0,The pitch of the violin was perfectly tuned.,3,6,1,pitch,0.0,0.0,0,StdMoE-B
+pitch,1,The pitcher threw a fastball pitch over the plate.,0,50,1,pitch,0.0,0.0,0,StdMoE-B
+pitch,1,The pitcher threw a fastball pitch over the plate.,1,76,1,pitch,0.0,0.0,0,StdMoE-B
+pitch,1,The pitcher threw a fastball pitch over the plate.,2,147,1,pitch,0.0,0.0,0,StdMoE-B
+pitch,1,The pitcher threw a fastball pitch over the plate.,3,179,1,pitch,0.0,0.0,0,StdMoE-B
+ring,0,He placed the ring on her finger carefully.,0,66,1,ring,0.0,0.0,0,StdMoE-B
+ring,0,He placed the ring on her finger carefully.,1,76,1,ring,0.0,0.0,0,StdMoE-B
+ring,0,He placed the ring on her finger carefully.,2,147,1,ring,0.0,0.0,0,StdMoE-B
+ring,0,He placed the ring on her finger carefully.,3,159,1,ring,0.0,0.0,0,StdMoE-B
+ring,1,The phone continued to ring in the empty room.,0,70,1,ring,0.0,0.0,0,StdMoE-B
+ring,1,The phone continued to ring in the empty room.,1,129,1,ring,0.0,0.0,0,StdMoE-B
+ring,1,The phone continued to ring in the empty room.,2,237,1,ring,0.0,0.0,0,StdMoE-B
+ring,1,The phone continued to ring in the empty room.,3,176,1,ring,0.0,0.0,0,StdMoE-B
+scale,0,The fish had a beautiful iridescent scale.,0,184,1,scale,0.0,0.0,0,StdMoE-B
+scale,0,The fish had a beautiful iridescent scale.,1,41,1,scale,0.0,0.0,0,StdMoE-B
+scale,0,The fish had a beautiful iridescent scale.,2,65,1,scale,0.0,0.0,0,StdMoE-B
+scale,0,The fish had a beautiful iridescent scale.,3,51,1,scale,0.0,0.0,0,StdMoE-B
+scale,1,The scale indicated the package weighed five pounds.,0,50,1,scale,0.0,0.0,0,StdMoE-B
+scale,1,The scale indicated the package weighed five pounds.,1,10,1,scale,0.0,0.0,0,StdMoE-B
+scale,1,The scale indicated the package weighed five pounds.,2,51,1,scale,0.0,0.0,0,StdMoE-B
+scale,1,The scale indicated the package weighed five pounds.,3,109,1,scale,0.0,0.0,0,StdMoE-B
+seal,0,The seal swam gracefully through the cold water.,0,45,1,seal,0.0,0.0,0,StdMoE-B
+seal,0,The seal swam gracefully through the cold water.,1,2,1,seal,0.0,0.0,0,StdMoE-B
+seal,0,The seal swam gracefully through the cold water.,2,51,1,seal,0.0,0.0,0,StdMoE-B
+seal,0,The seal swam gracefully through the cold water.,3,6,1,seal,0.0,0.0,0,StdMoE-B
+seal,1,He pressed the seal into the warm red wax.,0,45,1,seal,0.0,0.0,0,StdMoE-B
+seal,1,He pressed the seal into the warm red wax.,1,38,1,seal,0.0,0.0,0,StdMoE-B
+seal,1,He pressed the seal into the warm red wax.,2,147,1,seal,0.0,0.0,0,StdMoE-B
+seal,1,He pressed the seal into the warm red wax.,3,159,1,seal,0.0,0.0,0,StdMoE-B

@@ -1,0 +1,50 @@
+E050	8	discourse adverbs	syntactic
+E051	3	mixed names	mixed
+E052	8	reporting verbs	semantic
+E053	9	descriptive adjectives	semantic
+E054	9	naval military	semantic
+E055	9	pronouns	syntactic
+E056	8	inclusion verbs	syntactic
+E057	7	connectives	syntactic
+E058	8	determiners	syntactic
+E059	10	punctuation	syntactic
+E060	10	capital letters	syntactic
+E061	9	prepositions	syntactic
+E062	9	discourse markers	syntactic
+E063	4	proper nouns	mixed
+E064	5	punctuation mix	mixed
+E065	2	random fragments	mixed
+E066	10	comma	syntactic
+E067	2	random fragments	mixed
+E068	10	subordinators	syntactic
+E069	9	military terms	semantic
+E070	4	descriptive words	mixed
+E071	6	place nouns	semantic
+E072	9	brackets quotes	syntactic
+E073	7	pronouns	syntactic
+E074	8	articles quantifiers	syntactic
+E075	7	articles pronouns	syntactic
+E076	10	years dates	syntactic
+E077	8	prepositions	syntactic
+E078	9	contractions	syntactic
+E079	10	definite article	syntactic
+E080	7	action verbs	semantic
+E081	7	motion conflict	semantic
+E082	4	symbol pronoun	mixed
+E083	10	years dates	syntactic
+E084	4	proper nouns	mixed
+E085	8	surnames	semantic
+E086	10	punctuation	syntactic
+E087	10	numbers	syntactic
+E088	8	national adjectives	semantic
+E089	2	mixed unclear	mixed
+E090	3	function tokens	syntactic
+E091	2	random subwords	mixed
+E092	10	indefinite articles	syntactic
+E093	9	be verbs	syntactic
+E094	6	monuments history	semantic
+E095	2	mixed unclear	mixed
+E096	9	ethnic nationalities	semantic
+E097	9	prefixes	syntactic
+E098	3	mixed nouns	mixed
+E099	7	abstract nouns	semantic

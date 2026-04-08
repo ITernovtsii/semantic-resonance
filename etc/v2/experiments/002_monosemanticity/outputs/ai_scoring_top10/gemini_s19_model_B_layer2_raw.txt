@@ -1,0 +1,101 @@
+I will read the instructions and input data from the specified file to generate the required scoring output.
+E000	3	mixed/pronouns	mixed
+E001	9	existence verbs	semantic
+E002	10	prepositions	syntactic
+E003	6	citation/listing	semantic
+E004	4	word fragments	syntactic
+E005	8	movement verbs	semantic
+E006	9	conjunctions	syntactic
+E007	1	random	mixed
+E008	10	prepositions	syntactic
+E009	8	Japanese/romaji	semantic
+E010	10	geographic names	semantic
+E011	9	personal names	semantic
+E012	5	various verbs	mixed
+E013	10	preposition "to"	syntactic
+E014	9	reporting/speech	semantic
+E015	6	roles/nouns	semantic
+E016	9	discourse markers	syntactic
+E017	7	abstract nouns	semantic
+E018	10	entry/movement	semantic
+E019	4	plural nouns	syntactic
+E020	3	short fragments	syntactic
+E021	2	random nouns	mixed
+E022	8	contrast/punct	syntactic
+E023	4	plural nouns	syntactic
+E024	10	prepositions	syntactic
+E025	10	possessives	syntactic
+E026	6	name fragments	syntactic
+E027	9	abstract nouns	semantic
+E028	8	organizational words	semantic
+E029	9	names/media	semantic
+E030	6	proper nouns	semantic
+E031	9	approach/position	semantic
+E032	7	descriptors	semantic
+E033	10	punctuation	syntactic
+E034	8	media/entertainment	semantic
+E035	7	occurrence/loc	semantic
+E036	8	abstract nouns	syntactic
+E037	9	punctuation/commas	syntactic
+E038	2	random	mixed
+E039	6	action/following	semantic
+E040	9	conjunctions	syntactic
+E041	9	conjunctions	syntactic
+E042	8	possessive/punct	syntactic
+E043	3	random words	mixed
+E044	10	epistemic adverbs	semantic
+E045	9	referential words	semantic
+E046	4	name fragments	syntactic
+E047	9	numbers/symbols	syntactic
+E048	7	structural parts	semantic
+E049	9	sentence starters	syntactic
+E050	6	transitive verbs	semantic
+E051	8	creative nouns	semantic
+E052	6	functional words	syntactic
+E053	4	fragments	syntactic
+E054	9	interrogatives	syntactic
+E055	9	manner adverbs	semantic
+E056	8	punctuation/conjunction	syntactic
+E057	7	interaction verbs	semantic
+E058	2	random/noise	mixed
+E059	8	Japanese fragments	semantic
+E060	7	entity nouns	semantic
+E061	1	random	mixed
+E062	10	conjunctions	syntactic
+E063	4	capitalized fragments	syntactic
+E064	2	articles/noise	mixed
+E065	5	specific nouns	semantic
+E066	10	prepositions	syntactic
+E067	9	punctuation	syntactic
+E068	9	prepositions	syntactic
+E069	10	temporal prepositions	semantic
+E070	8	East Asian text	semantic
+E071	8	proper names/HP	semantic
+E072	8	geographic/entities	semantic
+E073	10	punctuation	syntactic
+E074	9	surnames	semantic
+E075	6	adjectives	semantic
+E076	3	fragments	syntactic
+E077	5	proper nouns	semantic
+E078	5	physical nouns	semantic
+E079	10	quantifiers/pronouns	semantic
+E080	8	ethnic/history	semantic
+E081	9	possessives	syntactic
+E082	10	determiners	syntactic
+E083	3	nouns	semantic
+E084	10	prepositions	syntactic
+E085	8	administrative nouns	semantic
+E086	8	media/technical	semantic
+E087	10	locative prepositions	semantic
+E088	4	fragments	syntactic
+E089	10	numbers	syntactic
+E090	4	articles	syntactic
+E091	4	fragments	syntactic
+E092	8	pronouns/characters	semantic
+E093	10	punctuation clusters	syntactic
+E094	9	spatial prepositions	semantic
+E095	7	conflict/groups	semantic
+E096	10	numbers	syntactic
+E097	10	possessives	syntactic
+E098	10	geographic names	semantic
+E099	9	quantifiers	semantic

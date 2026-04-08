@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	mixed/unclear	mixed
+E001	10	preposition	syntactic
+E002	9	first names	semantic
+E003	8	function words	syntactic
+E004	8	roles/tasks	semantic
+E005	1	random	mixed
+E006	8	auxiliaries	syntactic
+E007	9	punctuation	syntactic
+E008	10	determiner	syntactic
+E009	9	function words	syntactic
+E010	7	function words	syntactic
+E011	8	suffix fragments	syntactic
+E012	7	societal nouns	semantic
+E013	9	geography/admin	semantic
+E014	9	auxiliaries	syntactic
+E015	6	contractions	syntactic
+E016	8	discourse adverbs	syntactic
+E017	8	play terms	semantic
+E018	8	numbers/codes	syntactic
+E019	8	auxiliaries	syntactic
+E020	7	connectives	syntactic
+E021	8	production/work	semantic
+E022	10	relative pronoun	syntactic
+E023	8	prepositions	syntactic
+E024	6	music/credits	semantic
+E025	8	function words	syntactic
+E026	2	mixed/unclear	mixed
+E027	10	articles	syntactic
+E028	8	punctuation/quotes	syntactic
+E029	3	mixed/unclear	mixed
+E030	10	function words	syntactic
+E031	10	prepositions	syntactic
+E032	9	demonyms/labels	semantic
+E033	7	temporal/stat	semantic
+E034	8	subword fragments	syntactic
+E035	7	verbs	syntactic
+E036	6	function words	syntactic
+E037	7	participles	syntactic
+E038	7	function words	syntactic
+E039	4	mixed/unclear	mixed
+E040	10	determiner	syntactic
+E041	10	punctuation	syntactic
+E042	9	female terms	semantic
+E043	7	modal verbs	syntactic
+E044	6	suffixes	syntactic
+E045	9	prepositions	syntactic
+E046	7	military/legal	semantic
+E047	8	travel/geography	semantic
+E048	3	mixed/unclear	mixed
+E049	2	random	mixed
+E050	8	association/use	semantic
+E051	10	pronouns	syntactic
+E052	5	pronouns	mixed
+E053	8	demonstratives	syntactic
+E054	3	mixed/unclear	mixed
+E055	6	military terms	semantic
+E056	10	function words	syntactic
+E057	6	function words	syntactic
+E058	8	subword fragments	syntactic
+E059	4	mixed/unclear	mixed
+E060	9	descriptive adjectives	semantic
+E061	5	mixed/unclear	mixed
+E062	7	char fragments	syntactic
+E063	9	definitions	semantic
+E064	8	punctuation/function	syntactic
+E065	8	combat/action	semantic
+E066	8	function words	syntactic
+E067	8	participles	syntactic
+E068	7	function words	syntactic
+E069	8	countries/years	semantic
+E070	8	copulas	syntactic
+E071	9	adjectives	semantic
+E072	7	subword fragments	syntactic
+E073	6	suffixes	syntactic
+E074	9	function words	syntactic
+E075	8	function words	syntactic
+E076	9	punctuation	syntactic
+E077	7	military/naval	semantic
+E078	8	discourse words	syntactic
+E079	6	mixed/unclear	mixed
+E080	10	function words	syntactic
+E081	7	function words	syntactic
+E082	9	function words	syntactic
+E083	9	punctuation	syntactic
+E084	8	connectives	syntactic
+E085	7	function words	syntactic
+E086	3	mixed/unclear	mixed
+E087	10	determiner	syntactic
+E088	3	mixed/unclear	mixed
+E089	9	composition/process	semantic
+E090	7	letters	syntactic
+E091	8	function words	syntactic
+E092	8	pronouns	syntactic
+E093	9	adverbs	syntactic
+E094	8	preposition	syntactic
+E095	9	function words	syntactic
+E096	8	prepositions	syntactic
+E097	7	function words	syntactic
+E098	8	determiners	syntactic
+E099	8	air force	semantic

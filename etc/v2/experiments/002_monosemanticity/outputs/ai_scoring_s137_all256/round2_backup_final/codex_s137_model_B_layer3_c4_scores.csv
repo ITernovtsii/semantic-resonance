@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	2	mixed/unclear	mixed
+E201	9	superlatives	syntactic
+E202	10	subword fragments	syntactic
+E203	9	modal verbs	syntactic
+E204	8	articles	syntactic
+E205	5	locations	semantic
+E206	4	mixed nouns	mixed
+E207	4	mixed/unclear	mixed
+E208	7	action verbs	syntactic
+E209	8	verb forms	syntactic
+E210	3	mixed/unclear	mixed
+E211	8	conjunctions	syntactic
+E212	9	occupations	semantic
+E213	6	function words	syntactic
+E214	7	movement verbs	semantic
+E215	8	spatial relations	semantic
+E216	2	mixed/unclear	mixed
+E217	4	mixed nouns	mixed
+E218	2	random names	mixed
+E219	7	articles	syntactic
+E220	6	abstract nouns	semantic
+E221	8	prepositions	syntactic
+E222	7	abstract concepts	semantic
+E223	7	pronouns	syntactic
+E224	3	mixed/unclear	mixed
+E225	6	historical terms	semantic
+E226	9	connectives	syntactic
+E227	9	letters	syntactic
+E228	10	time terms	semantic
+E229	6	group nouns	semantic
+E230	10	subword stems	syntactic
+E231	6	proper names	mixed
+E232	9	quantifiers	syntactic
+E233	6	civic events	semantic
+E234	8	institutional events	semantic
+E235	9	possessives	syntactic
+E236	9	determiners	syntactic
+E237	7	anatomical terms	semantic
+E238	9	articles	syntactic
+E239	8	auxiliaries	syntactic
+E240	2	token noise	mixed
+E241	10	past participles	syntactic
+E242	8	function tokens	syntactic
+E243	3	mixed fragments	mixed
+E244	7	reporting verbs	semantic
+E245	9	have auxiliary	syntactic
+E246	7	verb lexicon	syntactic
+E247	9	modal verbs	syntactic
+E248	9	articles punctuation	syntactic
+E249	7	social descriptors	semantic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	6	subword syllables	syntactic
+E051	2	mixed/unclear	mixed
+E052	7	construction terms	semantic
+E053	7	suffix morphology	syntactic
+E054	9	prepositions	syntactic
+E055	5	geography	semantic
+E056	8	pronouns	syntactic
+E057	8	political history	semantic
+E058	9	auxiliary verbs	syntactic
+E059	7	measurement units	semantic
+E060	6	punctuation mix	syntactic
+E061	4	mixed/unclear	mixed
+E062	3	mixed/unclear	mixed
+E063	9	connectives	syntactic
+E064	2	mixed/unclear	mixed
+E065	8	release actions	semantic
+E066	7	character fragments	syntactic
+E067	3	mixed/unclear	mixed
+E068	9	auxiliary verbs	syntactic
+E069	7	pronouns determiners	syntactic
+E070	7	punctuation	syntactic
+E071	8	damage actions	semantic
+E072	8	imperial history	semantic
+E073	8	past-tense verbs	syntactic
+E074	3	mixed/unclear	mixed
+E075	5	geography	semantic
+E076	8	modal auxiliaries	syntactic
+E077	8	conjunction punctuation	syntactic
+E078	2	mixed/unclear	mixed
+E079	8	prepositions	syntactic
+E080	1	random	mixed
+E081	5	civic terms	semantic
+E082	7	determiners	syntactic
+E083	5	action term	semantic
+E084	6	subword fragments	syntactic
+E085	8	temporal discourse	semantic
+E086	4	mixed/unclear	mixed
+E087	8	crossing terms	semantic
+E088	7	personal life	semantic
+E089	9	begin/end verbs	semantic
+E090	9	auxiliary verbs	syntactic
+E091	8	articles punctuation	syntactic
+E092	6	war infrastructure	semantic
+E093	8	auxiliary verbs	syntactic
+E094	7	similarity terms	semantic
+E095	10	prepositions	syntactic
+E096	4	mixed/unclear	mixed
+E097	3	mixed/unclear	mixed
+E098	7	abstract nouns	semantic
+E099	3	mixed/unclear	mixed

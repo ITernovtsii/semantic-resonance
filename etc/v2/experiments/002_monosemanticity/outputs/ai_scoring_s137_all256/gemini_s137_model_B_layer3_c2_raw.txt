@@ -1,0 +1,51 @@
+I will read the instructions and data from `_tmp_s137_model_B_layer3_c2_gemini.txt` to generate the requested scoring lines.
+E100	4	names/mixed	mixed
+E101	4	names/fragments	mixed
+E102	8	personal/identity	semantic
+E103	9	titles/positions	semantic
+E104	8	punctuation	syntactic
+E105	5	miscellaneous nouns	semantic
+E106	9	adjectives	semantic
+E107	5	fragments	syntactic
+E108	7	roles/entities	semantic
+E109	8	entertainment/media	semantic
+E110	5	punctuation/mixed	mixed
+E111	8	connectives	syntactic
+E112	10	process verbs	semantic
+E113	9	prefixes	syntactic
+E114	5	locations/mixed	semantic
+E115	8	location verbs	semantic
+E116	9	mental verbs	semantic
+E117	7	military context	semantic
+E118	10	formal verbs	semantic
+E119	9	degree/be-verbs	mixed
+E120	8	verbs/adverbs	mixed
+E121	6	abstract nouns	semantic
+E122	9	quantifiers	semantic
+E123	5	mixed/unclear	mixed
+E124	5	mixed/unclear	mixed
+E125	6	travel/mixed	mixed
+E126	5	names/mixed	mixed
+E127	9	history/dates	semantic
+E128	10	adverbs	syntactic
+E129	4	mixed/verbs	mixed
+E130	10	verbs	semantic
+E131	10	transitions	semantic
+E132	10	quantifiers	semantic
+E133	8	prepositions	syntactic
+E134	10	years/numbers	syntactic
+E135	3	mixed/nouns	mixed
+E136	9	reporting words	semantic
+E137	9	determiners	syntactic
+E138	8	function words	syntactic
+E139	7	title adjectives	semantic
+E140	5	miscellaneous nouns	semantic
+E141	9	modal verbs	syntactic
+E142	8	Asian names/fragments	mixed
+E143	9	political adjectives	semantic
+E144	4	mixed/unclear	mixed
+E145	9	media/aesthetics	semantic
+E146	8	locations	semantic
+E147	7	transitions/mixed	mixed
+E148	10	measurements	semantic
+E149	9	word fragments	syntactic

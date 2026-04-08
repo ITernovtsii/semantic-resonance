@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	3	mixed/unclear	mixed
+E151	10	male names	semantic
+E152	4	fragments/optics	mixed
+E153	9	numbers/quantities	semantic
+E154	5	adverbs	syntactic
+E155	7	containment/features	semantic
+E156	8	plural roles/groups	semantic
+E157	3	mixed/unclear	mixed
+E158	2	punctuation/noise	mixed
+E159	7	military/history	semantic
+E160	1	random	mixed
+E161	10	punctuation	syntactic
+E162	10	modal verbs	syntactic
+E163	6	scientific adjectives	semantic
+E164	8	quantifiers	syntactic
+E165	10	politics/military	semantic
+E166	8	referential words	syntactic
+E167	8	structures/locations	semantic
+E168	8	usage/requirement	semantic
+E169	4	word fragments	syntactic
+E170	7	transport/geography	semantic
+E171	8	spatial/parts	semantic
+E172	9	organizations	semantic
+E173	6	abstract verbs	semantic
+E174	8	action verbs	semantic
+E175	2	random	mixed
+E176	10	transitions	syntactic
+E177	10	punctuation	syntactic
+E178	5	status/attributes	semantic
+E179	3	capitalized words	mixed
+E180	10	arts/media	semantic
+E181	6	progress/status	semantic
+E182	8	symbols/references	syntactic
+E183	2	mixed/unclear	mixed
+E184	9	official/political	semantic
+E185	10	reporting verbs	semantic
+E186	9	name fragments	syntactic
+E187	9	personal names	semantic
+E188	4	fragments/names	mixed
+E189	5	mixed/descriptive	mixed
+E190	10	punctuation clusters	syntactic
+E191	10	punctuation clusters	syntactic
+E192	10	function words	syntactic
+E193	8	foreign fragments	syntactic
+E194	9	auxiliary/adverbs	syntactic
+E195	6	comparatives	syntactic
+E196	10	public perception	semantic
+E197	8	function words	syntactic
+E198	10	punctuation	syntactic
+E199	10	measurements/numbers	semantic

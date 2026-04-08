@@ -1,0 +1,10 @@
+E000	4	mixed/unclear	mixed
+E010	8	articles/determiners	syntactic
+E020	7	anatomy/direction	semantic
+E030	6	pronouns/possessives	syntactic
+E040	5	road abbreviations	mixed
+E050	6	articles/function	syntactic
+E060	4	conversation words	mixed
+E070	7	titles/ranks	semantic
+E080	4	proper names	mixed
+E090	3	mixed/unclear	mixed

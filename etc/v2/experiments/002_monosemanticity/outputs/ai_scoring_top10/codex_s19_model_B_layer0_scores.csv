@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	function words	syntactic
+E001	3	subword fragments	syntactic
+E002	6	pronouns/determiners	syntactic
+E003	10	prepositions	syntactic
+E004	9	auxiliary verbs	syntactic
+E005	8	conjunction punctuation	syntactic
+E006	2	subordinator	syntactic
+E007	1	random	mixed
+E008	9	quotation punctuation	syntactic
+E009	8	temporal sequence	semantic
+E010	7	prefix fragments	syntactic
+E011	7	prefixes	syntactic
+E012	10	suffixes	syntactic
+E013	9	adjectives	semantic
+E014	2	random names	mixed
+E015	1	article	syntactic
+E016	3	mixed terms	mixed
+E017	5	punctuation mixed	mixed
+E018	2	preposition	syntactic
+E019	8	logical connectives	syntactic
+E020	7	adverbs/participles	syntactic
+E021	9	articles quantifiers	syntactic
+E022	9	punctuation	syntactic
+E023	7	US references	semantic
+E024	3	auxiliary verb	syntactic
+E025	4	suffix/article	syntactic
+E026	10	word endings	syntactic
+E027	9	numbers currency	syntactic
+E028	2	mixed/unclear	mixed
+E029	4	descriptors	mixed
+E030	6	past auxiliaries	syntactic
+E031	4	outdoor/action	mixed
+E032	2	random nouns	mixed
+E033	9	connectives	syntactic
+E034	1	article	syntactic
+E035	6	technical nouns	semantic
+E036	8	modal verbs	syntactic
+E037	2	random proper	mixed
+E038	2	fragments mixed	mixed
+E039	1	article	syntactic
+E040	2	random fragments	mixed
+E041	1	article	syntactic
+E042	7	descriptive adjectives	semantic
+E043	8	sequence/completion	semantic
+E044	5	past verbs	syntactic
+E045	4	relative markers	mixed
+E046	7	death/casualty	semantic
+E047	8	action verbs	syntactic
+E048	7	quotes articles	syntactic
+E049	1	random proper	mixed
+E050	6	articles number	syntactic
+E051	5	common nouns	semantic
+E052	8	discourse markers	syntactic
+E053	7	music terms	semantic
+E054	7	generic verbs	syntactic
+E055	9	subword endings	syntactic
+E056	8	articles	syntactic
+E057	9	prepositions/connectors	syntactic
+E058	1	random	mixed
+E059	9	dashes punctuation	syntactic
+E060	1	article	syntactic
+E061	9	prepositions	syntactic
+E062	6	subword fragments	syntactic
+E063	7	pronouns	syntactic
+E064	7	transport geography	semantic
+E065	8	past time	semantic
+E066	9	spatial directions	semantic
+E067	8	female pronouns	syntactic
+E068	4	mixed/unclear	mixed
+E069	8	subword fragments	syntactic
+E070	3	mixed fragments	mixed
+E071	2	random caps	mixed
+E072	2	random proper	mixed
+E073	9	articles	syntactic
+E074	4	verb/function mix	syntactic
+E075	5	adverb fragments	mixed
+E076	7	numbers	syntactic
+E077	7	punctuation function	syntactic
+E078	9	male pronouns	syntactic
+E079	5	function words	syntactic
+E080	7	apostrophe/function	syntactic
+E081	9	sports	semantic
+E082	8	nationalities	semantic
+E083	7	medical/research	semantic
+E084	7	place names	semantic
+E085	8	naval engineering	semantic
+E086	6	action verbs	semantic
+E087	7	legal actions	semantic
+E088	10	quote punctuation	syntactic
+E089	5	function words	syntactic
+E090	3	mixed/unclear	mixed
+E091	7	quotes/articles	syntactic
+E092	8	past-tense verbs	syntactic
+E093	6	civic geography	semantic
+E094	6	past verbs	syntactic
+E095	7	quantifiers/ordinals	syntactic
+E096	6	descriptive terms	semantic
+E097	3	mixed/unclear	mixed
+E098	8	particles	syntactic
+E099	7	parenthesis punctuation	syntactic

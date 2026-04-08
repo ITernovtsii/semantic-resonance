@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	7	punctuation/symbols	syntactic
+E051	4	mixed/unclear	mixed
+E052	5	discourse words	syntactic
+E053	6	entertainment terms	semantic
+E054	6	proper names	semantic
+E055	4	mixed/unclear	mixed
+E056	8	media/literature	semantic
+E057	9	pronouns	syntactic
+E058	4	mixed/unclear	mixed
+E059	1	random	mixed
+E060	7	function words	syntactic
+E061	8	verb forms	syntactic
+E062	3	mixed/unclear	mixed
+E063	8	adjectives	syntactic
+E064	9	subword fragments	syntactic
+E065	5	mixed/unclear	mixed
+E066	2	random	mixed
+E067	5	general nouns	mixed
+E068	6	title words	semantic
+E069	8	geographic places	semantic
+E070	8	become verbs	syntactic
+E071	8	past verbs	syntactic
+E072	10	punctuation	syntactic
+E073	7	adjectives	syntactic
+E074	3	mixed/unclear	mixed
+E075	9	auxiliary verbs	syntactic
+E076	6	naming/status	mixed
+E077	9	conjunctions	syntactic
+E078	9	sports	semantic
+E079	6	pregnancy	semantic
+E080	2	random	mixed
+E081	6	geopolitical descriptors	semantic
+E082	10	transitions	syntactic
+E083	7	action verbs	syntactic
+E084	8	superlatives	syntactic
+E085	10	conjunctions	syntactic
+E086	9	be verbs	syntactic
+E087	5	mixed/unclear	mixed
+E088	9	wh-words	syntactic
+E089	6	physical descriptors	semantic
+E090	9	modals	syntactic
+E091	8	place names	semantic
+E092	3	mixed/unclear	mixed
+E093	7	process verbs	syntactic
+E094	9	have verbs	syntactic
+E095	9	prepositions	syntactic
+E096	7	regional terms	semantic
+E097	6	proper names	semantic
+E098	10	numbers	syntactic
+E099	10	punctuation	syntactic

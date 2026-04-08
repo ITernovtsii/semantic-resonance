@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	8	phrasal verb particles	syntactic
+E051	7	sentence starters	syntactic
+E052	4	"to" + verb context	mixed
+E053	3	fragments	mixed
+E054	8	articles/numerals	syntactic
+E055	1	random	mixed
+E056	7	military	semantic
+E057	6	months/time periods	semantic
+E058	8	past tense verbs	syntactic
+E059	6	adverbs	syntactic
+E060	6	auxiliary verbs	syntactic
+E061	2	BPE fragments	mixed
+E062	4	historical dates	mixed
+E063	3	mixed	mixed
+E064	5	contractions/BPE	syntactic
+E065	5	"part"/prepositions	mixed
+E066	3	mixed nouns	mixed
+E067	4	prepositions	syntactic
+E068	4	colon/punctuation	mixed
+E069	4	BPE suffixes	syntactic
+E070	7	closing brackets	syntactic
+E071	7	sentence-final punct	syntactic
+E072	6	adjectives	syntactic
+E073	3	mixed	mixed
+E074	8	temporal adverbs	syntactic
+E075	4	function words	mixed
+E076	8	third-person verbs	syntactic
+E077	8	sentence-final punct	syntactic
+E078	5	ordinals/adjectives	mixed
+E079	5	"on"/prepositions	syntactic
+E080	5	proper noun places	semantic
+E081	3	mixed	mixed
+E082	2	random fragments	mixed
+E083	8	discourse adverbs	syntactic
+E084	8	masculine pronouns	syntactic
+E085	3	mixed	mixed
+E086	2	mixed abbreviations	mixed
+E087	9	past tense narration	syntactic
+E088	3	single preposition	syntactic
+E089	5	physical objects	semantic
+E090	7	determiners/possessives	syntactic
+E091	4	BPE/mixed	mixed
+E092	5	opening parens	syntactic
+E093	4	noun suffixes	syntactic
+E094	7	time of day	semantic
+E095	2	random	mixed
+E096	6	name prefixes	syntactic
+E097	5	consonant clusters	syntactic
+E098	1	random	mixed
+E099	6	film/entertainment	semantic

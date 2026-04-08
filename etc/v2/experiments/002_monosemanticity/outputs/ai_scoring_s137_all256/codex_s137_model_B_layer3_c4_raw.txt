@@ -1,0 +1,50 @@
+E200	2	mixed/unclear	mixed
+E201	8	comparatives	syntactic
+E202	1	subword fragments	syntactic
+E203	9	modal verbs	syntactic
+E204	10	articles	syntactic
+E205	6	locations	semantic
+E206	5	plural nouns	syntactic
+E207	3	mixed/unclear	mixed
+E208	8	process verbs	semantic
+E209	7	verb forms	syntactic
+E210	3	mixed/unclear	mixed
+E211	8	conjunctions	syntactic
+E212	9	roles/titles	semantic
+E213	6	function words	syntactic
+E214	8	movement verbs	semantic
+E215	8	spatial prepositions	syntactic
+E216	2	mixed/unclear	mixed
+E217	5	institutional terms	semantic
+E218	3	proper nouns	mixed
+E219	7	definite article	syntactic
+E220	6	abstract nouns	semantic
+E221	9	prepositions	syntactic
+E222	8	abstract concepts	semantic
+E223	6	pronouns/discourse	syntactic
+E224	4	mixed/unclear	mixed
+E225	6	historical modifiers	semantic
+E226	8	conjunctions	syntactic
+E227	10	single characters	syntactic
+E228	10	time expressions	semantic
+E229	6	group nouns	semantic
+E230	2	subword fragments	syntactic
+E231	7	surnames	semantic
+E232	10	quantifiers	syntactic
+E233	7	civic events	semantic
+E234	8	event nouns	semantic
+E235	9	possessive pronouns	syntactic
+E236	9	determiners	syntactic
+E237	8	anatomical orientation	semantic
+E238	9	articles	syntactic
+E239	9	modal auxiliaries	syntactic
+E240	4	mixed/unclear	mixed
+E241	10	past participles	syntactic
+E242	8	function words	syntactic
+E243	3	mixed/unclear	mixed
+E244	8	verb phrases	syntactic
+E245	9	have auxiliaries	syntactic
+E246	6	action verbs	semantic
+E247	9	modal auxiliaries	syntactic
+E248	8	hyphen/articles	syntactic
+E249	7	social adjectives	semantic

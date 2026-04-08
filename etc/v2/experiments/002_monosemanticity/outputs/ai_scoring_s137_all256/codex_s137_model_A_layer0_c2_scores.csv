@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	10	prepositions	syntactic
+E101	8	pronouns/determiners	syntactic
+E102	7	prepositions	syntactic
+E103	9	legal/proceedings	semantic
+E104	3	mixed/unclear	mixed
+E105	5	aviation/mixed	mixed
+E106	6	back-forms	syntactic
+E107	7	prepositions	syntactic
+E108	8	pronouns/determiners	syntactic
+E109	7	set-forms	syntactic
+E110	2	mixed/unclear	mixed
+E111	4	prepositions/mixed	mixed
+E112	2	random	mixed
+E113	9	punctuation	syntactic
+E114	4	subword fragments	syntactic
+E115	3	single-letter	syntactic
+E116	9	prepositions	syntactic
+E117	7	punctuation	syntactic
+E118	8	capitalized function	syntactic
+E119	3	name fragments	mixed
+E120	6	narrative words	mixed
+E121	4	pronouns/quantifiers	syntactic
+E122	8	prepositions	syntactic
+E123	2	random	mixed
+E124	10	relational preps	syntactic
+E125	8	participation	semantic
+E126	9	subword prefixes	syntactic
+E127	8	pronouns/determiners	syntactic
+E128	5	affixes	mixed
+E129	3	single-word	syntactic
+E130	8	pronouns	syntactic
+E131	7	calendar terms	semantic
+E132	9	punctuation	syntactic
+E133	7	conjunction/punct	syntactic
+E134	6	proper names	semantic
+E135	5	adverbial links	mixed
+E136	9	action verbs	semantic
+E137	9	conjunctions	syntactic
+E138	9	music/audio	semantic
+E139	4	abstract nouns	mixed
+E140	10	punctuation patterns	syntactic
+E141	6	plural nouns	syntactic
+E142	6	family terms	semantic
+E143	9	directional preps	syntactic
+E144	8	geographic names	semantic
+E145	10	quote punctuation	syntactic
+E146	7	cognition/self	semantic
+E147	5	mixed topical	mixed
+E148	9	letters	syntactic
+E149	7	hyphenation	syntactic

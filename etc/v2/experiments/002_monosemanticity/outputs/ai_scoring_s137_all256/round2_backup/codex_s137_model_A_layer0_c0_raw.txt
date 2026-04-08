@@ -1,0 +1,50 @@
+E000	4	mixed/unclear	mixed
+E001	2	mixed/unclear	mixed
+E002	8	discourse words	syntactic
+E003	7	temporal/quantifier	syntactic
+E004	6	punctuation/connective	syntactic
+E005	3	mixed/unclear	mixed
+E006	9	prepositions	syntactic
+E007	7	nominal suffixes	syntactic
+E008	6	pronouns/mixed	mixed
+E009	8	function words	syntactic
+E010	1	random	mixed
+E011	7	function words	syntactic
+E012	3	mixed/unclear	mixed
+E013	8	subword fragments	syntactic
+E014	5	machinery/industry	semantic
+E015	3	mixed entities	mixed
+E016	8	function words	syntactic
+E017	5	punctuation/mixed	mixed
+E018	6	prepositions	syntactic
+E019	10	spatial prepositions	syntactic
+E020	8	relationships	semantic
+E021	9	pronouns/quantifiers	syntactic
+E022	5	mixed/unclear	mixed
+E023	9	numbers/punctuation	syntactic
+E024	7	connective starters	syntactic
+E025	5	subword/mixed	mixed
+E026	8	verbs	syntactic
+E027	7	subword fragments	syntactic
+E028	7	contrast connectives	syntactic
+E029	9	conjunctions	syntactic
+E030	5	mixed/unclear	mixed
+E031	10	punctuation	syntactic
+E032	8	determiners/articles	syntactic
+E033	6	descriptors	semantic
+E034	2	random	mixed
+E035	10	pronouns	syntactic
+E036	10	punctuation	syntactic
+E037	4	mixed/unclear	mixed
+E038	4	function words	syntactic
+E039	8	participle forms	syntactic
+E040	6	subword fragments	syntactic
+E041	4	mixed/unclear	mixed
+E042	7	percent/statistics	semantic
+E043	10	punctuation	syntactic
+E044	6	punctuation/mixed	mixed
+E045	9	prepositions	syntactic
+E046	3	mixed entities	mixed
+E047	10	conjunctions	syntactic
+E048	8	natural history	semantic
+E049	10	numbers	syntactic

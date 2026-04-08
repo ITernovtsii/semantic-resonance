@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	6	prepositions	syntactic
+E151	2	mixed/unclear	mixed
+E152	7	history/biography	semantic
+E153	8	pronouns/determiners	syntactic
+E154	2	mixed/unclear	mixed
+E155	9	business/law	semantic
+E156	8	history/war	semantic
+E157	8	arts/publications	semantic
+E158	7	measurements/numbers	mixed
+E159	8	media/narrative	semantic
+E160	7	public activities	semantic
+E161	10	stative verbs	syntactic
+E162	5	prefix fragments	syntactic
+E163	1	mixed/unclear	mixed
+E164	9	gerunds	syntactic
+E165	9	function words	syntactic
+E166	9	sports	semantic
+E167	10	punctuation	syntactic
+E168	8	punctuation	syntactic
+E169	8	descriptions/writing	semantic
+E170	2	mixed/unclear	mixed
+E171	9	punctuation	syntactic
+E172	7	function words	syntactic
+E173	9	capitalized prefixes	syntactic
+E174	10	numbers	syntactic
+E175	8	sports/competition	semantic
+E176	7	historical/legal	semantic
+E177	2	mixed/unclear	mixed
+E178	4	mixed	mixed
+E179	8	people/roles	semantic
+E180	6	meeting	semantic
+E181	2	mixed/unclear	mixed
+E182	6	people/fragments	semantic
+E183	1	mixed/unclear	mixed
+E184	10	gender/female	semantic
+E185	10	punctuation	syntactic
+E186	8	quantifiers	semantic
+E187	9	spatial/conjunctions	syntactic
+E188	1	mixed/unclear	mixed
+E189	1	mixed/unclear	mixed
+E190	8	open/close state	semantic
+E191	5	verbs/descriptors	semantic
+E192	8	adverbs/starters	syntactic
+E193	9	numbers/counts	semantic
+E194	3	mixed/unclear	mixed
+E195	6	conjunctions	semantic
+E196	7	music/quotes	mixed
+E197	10	determiners	syntactic
+E198	8	quotes/punctuation	syntactic
+E199	1	mixed/unclear	mixed

@@ -1,0 +1,51 @@
+I will read the instructions and content from `_tmp_s137_model_B_layer3_c0_gemini.txt` to generate the requested scores.
+E000	9	titles/ranks	semantic
+E001	3	mixed/Chinese	mixed
+E002	6	geologic/temporal	semantic
+E003	10	narrative verbs	semantic
+E004	5	mixed/media	semantic
+E005	8	conversational fillers	semantic
+E006	9	adverbs/negations	syntactic
+E007	8	superlatives/adjectives	semantic
+E008	7	quantitative prepositions	semantic
+E009	1	random fragments	mixed
+E010	9	locations/storage	semantic
+E011	7	prepositions	syntactic
+E012	4	symbols/Chinese	mixed
+E013	6	Asian names	semantic
+E014	9	temporal transitions	semantic
+E015	7	groups/reviewers	semantic
+E016	8	punctuation/symbols	syntactic
+E017	6	name fragments	semantic
+E018	10	19th-20th century dates	semantic
+E019	6	proper nouns	semantic
+E020	7	conjunctions/punctuation	syntactic
+E021	9	locations/ferries	semantic
+E022	5	titles/names	semantic
+E023	10	measurements	semantic
+E024	4	mixed fragments	mixed
+E025	10	conjunctive adverbs	semantic
+E026	8	action verbs	semantic
+E027	7	sociopolitical/sports	semantic
+E028	7	personal names	semantic
+E029	10	months	semantic
+E030	8	spatial/temporal prepositions	semantic
+E031	10	possessive pronouns	syntactic
+E032	6	song titles/phrases	semantic
+E033	4	mixed fragments	mixed
+E034	3	articles/common	syntactic
+E035	4	mixed/unclear	mixed
+E036	9	movement/status	semantic
+E037	7	plural objects	semantic
+E038	9	degree adverbs	semantic
+E039	8	conjunctions	syntactic
+E040	8	communication/giving	semantic
+E041	7	participial prepositions	semantic
+E042	7	plural nouns	semantic
+E043	6	mixed topics	semantic
+E044	10	adverbs	syntactic
+E045	7	narrative verbs	semantic
+E046	8	charts/records	semantic
+E047	9	proper noun modifiers	semantic
+E048	8	legal/negative sentiment	semantic
+E049	8	prepositions/symbols	syntactic

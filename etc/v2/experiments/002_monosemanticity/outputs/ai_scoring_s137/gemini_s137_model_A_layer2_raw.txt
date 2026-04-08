@@ -1,0 +1,11 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	9	professions	semantic
+E010	3	mixed/unclear	mixed
+E020	4	mixed/unclear	mixed
+E030	9	human roles	semantic
+E040	7	adverbs	syntactic
+E050	4	mixed/nouns	mixed
+E060	9	spatial terms	syntactic
+E070	10	temporal terms	syntactic
+E080	10	artillery/military	semantic
+E090	9	function words	syntactic

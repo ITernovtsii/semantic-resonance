@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	3	common words	syntactic
+E001	10	sports	semantic
+E002	10	punctuation	syntactic
+E003	9	punctuation	syntactic
+E004	9	punctuation/symbols	syntactic
+E005	4	mixed/unclear	mixed
+E006	10	uppercase abbreviations	syntactic
+E007	10	prepositions	syntactic
+E008	10	auxiliary verbs	syntactic
+E009	8	adjectives	syntactic
+E010	10	time/duration	semantic
+E011	10	modal verbs	syntactic
+E012	8	verbs	syntactic
+E013	2	mixed/unclear	mixed
+E014	10	punctuation	syntactic
+E015	10	word fragments	syntactic
+E016	9	abstract nouns	semantic
+E017	7	geography/locations	semantic
+E018	10	article	syntactic
+E019	10	punctuation	syntactic
+E020	10	prepositions	syntactic
+E021	10	numbers/quantity	semantic
+E022	7	entertainment/mixed	semantic
+E023	9	government/politics	semantic
+E024	10	conjunctions	syntactic
+E025	9	scientific/roots	semantic
+E026	10	naval ships	semantic
+E027	10	pronouns	syntactic
+E028	10	determiners	syntactic
+E029	10	publication	semantic
+E030	10	punctuation	syntactic
+E031	10	plural nouns	syntactic
+E032	3	mixed/unclear	mixed
+E033	10	prepositions	syntactic
+E034	10	geography	semantic
+E035	4	punctuation/mixed	mixed
+E036	10	cognition/reference	semantic
+E037	9	name starts	syntactic
+E038	9	time/sports	semantic
+E039	10	superlatives	syntactic
+E040	10	adverbs	syntactic
+E041	10	relative pronouns	syntactic
+E042	10	adverbs	syntactic
+E043	3	mixed/unclear	mixed
+E044	9	prefixes	syntactic
+E045	8	statistics	semantic
+E046	10	evaluation	semantic
+E047	10	prepositions	syntactic
+E048	10	punctuation	syntactic
+E049	10	conjunctions	syntactic

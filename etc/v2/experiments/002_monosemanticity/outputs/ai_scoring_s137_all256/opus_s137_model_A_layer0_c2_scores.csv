@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	9	prepositions	syntactic
+E101	8	possessive determiners	syntactic
+E102	5	"in"/prepositions	syntactic
+E103	7	legal/procedural	semantic
+E104	4	relative pronouns	syntactic
+E105	3	mixed	mixed
+E106	8	"back" particle	syntactic
+E107	6	prepositions/through	syntactic
+E108	7	determiners/possessives	syntactic
+E109	6	"set"/placement	mixed
+E110	4	"under"/fragment	syntactic
+E111	5	directional preps	syntactic
+E112	3	mixed starters	mixed
+E113	8	punctuation/delimiters	syntactic
+E114	4	BPE fragments	syntactic
+E115	2	single letter	mixed
+E116	6	"over"/"under"	syntactic
+E117	5	hyphens/punctuation	syntactic
+E118	7	sentence-initial caps	syntactic
+E119	2	BPE fragments	mixed
+E120	6	pronouns/narration	syntactic
+E121	4	mixed	mixed
+E122	6	prepositions	syntactic
+E123	3	BPE/mixed nouns	mixed
+E124	9	complex prepositions	syntactic
+E125	7	participation	semantic
+E126	5	BPE prefixes	syntactic
+E127	6	possessive determiners	syntactic
+E128	5	prefixes/suffixes	syntactic
+E129	3	single word	syntactic
+E130	8	plural pronouns	syntactic
+E131	5	months/starters	mixed
+E132	7	sentence-final punct	syntactic
+E133	5	comma/conjunction	syntactic
+E134	1	random proper nouns	mixed
+E135	5	temporal adverbs	mixed
+E136	7	cognitive/report verbs	semantic
+E137	6	conjunctions	syntactic
+E138	9	music	semantic
+E139	4	"of"/function words	syntactic
+E140	9	terminal punctuation	syntactic
+E141	2	random plurals	mixed
+E142	4	family/mixed	mixed
+E143	8	directional particles	syntactic
+E144	8	US geography	semantic
+E145	9	quotation marks	syntactic
+E146	6	mental state words	semantic
+E147	5	indigenous/regional	semantic
+E148	5	capital letters	syntactic
+E149	4	hyphen/prefix	syntactic

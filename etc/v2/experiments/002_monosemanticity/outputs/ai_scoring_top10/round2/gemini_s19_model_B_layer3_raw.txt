@@ -1,0 +1,101 @@
+I will read the instructions and data in the specified file to generate the required scoring lines.
+E000	6	quantifiers/amounts	semantic
+E001	4	mixed/unclear	mixed
+E002	5	adjectives/articles	mixed
+E003	8	reporting/telling	semantic
+E004	9	modal verbs	syntactic
+E005	7	adverbs/conjunctions	syntactic
+E006	1	random/fragments	mixed
+E007	8	capitalized starts	syntactic
+E008	7	titles/identifiers	semantic
+E009	4	mixed/names	mixed
+E010	3	mixed/unclear	mixed
+E011	1	random/fragments	mixed
+E012	8	relative pronouns	syntactic
+E013	7	sports/achievements	semantic
+E014	10	punctuation clusters	syntactic
+E015	1	random/fragments	mixed
+E016	6	competition/conflict	semantic
+E017	9	modal verbs	syntactic
+E018	7	determiners	syntactic
+E019	5	military/mixed	semantic
+E020	8	military/command	semantic
+E021	7	quantifiers/possessives	mixed
+E022	7	epistemic adverbs	semantic
+E023	5	organization/finance	semantic
+E024	4	capitalized words	mixed
+E025	5	years/articles	mixed
+E026	6	prepositions	syntactic
+E027	8	legal/procedural	semantic
+E028	4	mixed/unclear	mixed
+E029	9	participation/verbs	semantic
+E030	8	military/official	semantic
+E031	4	mixed/questions	mixed
+E032	10	punctuation/fragments	syntactic
+E033	7	action verbs	semantic
+E034	9	public services	semantic
+E035	6	adjectives/articles	mixed
+E036	4	possessives/articles	syntactic
+E037	8	attributive adjectives	semantic
+E038	6	superlatives/punctuation	mixed
+E039	1	random/fragments	mixed
+E040	8	descriptive/geographic	semantic
+E041	7	punctuation/dashes	syntactic
+E042	5	weather/roads	semantic
+E043	10	ethnic/political groups	semantic
+E044	1	random	mixed
+E045	2	names/fragments	mixed
+E046	1	random/fragments	mixed
+E047	6	verbs/movement	semantic
+E048	6	adjectives/dates	mixed
+E049	1	random/fragments	mixed
+E050	6	spatial/descriptive	semantic
+E051	4	entities/locations	semantic
+E052	10	containment/usage	semantic
+E053	10	manner adverbs	syntactic
+E054	7	negative/status	semantic
+E055	8	relational verbs	semantic
+E056	7	temporal/geographic	semantic
+E057	9	temporal prepositions	syntactic
+E058	8	competition/struggle	semantic
+E059	8	personal/scientific	mixed
+E060	2	mixed/abbreviations	mixed
+E061	10	adjectives (-al/-ic)	syntactic
+E062	10	number words	syntactic
+E063	10	numbers	syntactic
+E064	8	prevention/legal	semantic
+E065	8	plural nouns	syntactic
+E066	8	organizational/political	semantic
+E067	10	ordinal numbers	syntactic
+E068	8	modal verbs	syntactic
+E069	10	conjunctive adverbs	syntactic
+E070	8	infinitive verbs	syntactic
+E071	8	media/arts	semantic
+E072	6	mixed/status	semantic
+E073	9	determiners/pronouns	syntactic
+E074	2	fragments/mixed	mixed
+E075	6	academic/writing	semantic
+E076	7	adverbs/copulas	syntactic
+E077	8	political/geography	semantic
+E078	8	conjunctions/prepositions	syntactic
+E079	9	plural nouns	syntactic
+E080	8	verbs/choice	semantic
+E081	4	mixed/unclear	mixed
+E082	8	punctuation/symbols	syntactic
+E083	7	formal/legal	semantic
+E084	7	temporal/descriptive	semantic
+E085	8	administrative verbs	semantic
+E086	6	punctuation/numbers	mixed
+E087	10	punctuation clusters	syntactic
+E088	7	infrastructure/logic	semantic
+E089	9	speech acts	semantic
+E090	7	bureaucratic/plural	semantic
+E091	8	prepositions	syntactic
+E092	5	articles/entities	mixed
+E093	9	adverbs/copulas	syntactic
+E094	9	punctuation/titles	mixed
+E095	5	mixed/descriptors	mixed
+E096	2	fragments/mixed	mixed
+E097	4	mixed/descriptors	mixed
+E098	9	naval/ordnance	semantic
+E099	9	indefinite pronouns	syntactic

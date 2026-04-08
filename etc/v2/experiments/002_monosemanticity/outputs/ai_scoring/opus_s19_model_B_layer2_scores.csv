@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	informal/colloquial	syntactic
+E001	7	existence/persistence verbs	semantic
+E002	8	preposition in	syntactic
+E003	5	parenthetical/listing	syntactic
+E004	2	subword fragments	mixed
+E005	7	action/movement verbs	semantic
+E006	7	contrastive conjunctions	syntactic
+E007	6	countable nouns	syntactic
+E008	8	locative prepositions at	syntactic
+E009	2	subword fragments	syntactic
+E010	9	place names/countries	semantic
+E011	8	first names	syntactic
+E012	7	spatial/accompanying verbs	mixed
+E013	8	preposition to	syntactic
+E014	6	reporting/claiming verbs	syntactic
+E015	4	capitalized words	mixed
+E016	8	discourse/reasoning	syntactic
+E017	8	abstract event nouns	semantic
+E018	8	directional/entry verbs	semantic
+E019	6	plural nouns	syntactic
+E020	2	subword fragments	syntactic
+E021	6	abstract event nouns	semantic
+E022	5	punctuation/conjunctions	syntactic
+E023	7	human attributes/nouns	semantic
+E024	6	prepositions of/about	syntactic
+E025	8	possessives/determiners	syntactic
+E026	3	mixed surnames/subwords	mixed
+E027	7	abstract situation nouns	semantic
+E028	4	capitalized suffixes/words	mixed
+E029	7	media/publications	semantic
+E030	7	organizations/institutions	semantic
+E031	7	spatial prepositions	syntactic
+E032	8	geographic modifiers	semantic
+E033	6	punctuation/commas	syntactic
+E034	7	media/entertainment nouns	semantic
+E035	7	locative/occurrence adverbs	syntactic
+E036	8	abstract process nouns	semantic
+E037	5	punctuation	syntactic
+E038	2	mixed subwords/verbs	mixed
+E039	6	purpose/action verbs	syntactic
+E040	7	coordinating conjunctions	syntactic
+E041	7	conjunctions/connectives	syntactic
+E042	6	possessives	syntactic
+E043	3	capitalized prefixes	mixed
+E044	8	adverbs/discourse	syntactic
+E045	7	evidential/citation verbs	syntactic
+E046	2	capitalized prefixes	mixed
+E047	7	currency/numbers	syntactic
+E048	8	physical structures/places	semantic
+E049	8	sentence-initial adverbials	syntactic
+E050	7	transactional verbs	semantic
+E051	7	plural result nouns	syntactic
+E052	5	purpose prepositions	syntactic
+E053	2	capitalized prefixes	mixed
+E054	7	question/subordinating words	syntactic
+E055	8	adverbs/discourse markers	syntactic
+E056	5	punctuation	syntactic
+E057	7	speech/action verbs	semantic
+E058	1	random/mixed	mixed
+E059	2	capitalized prefixes	mixed
+E060	8	institutional suffixes	syntactic
+E061	3	mixed numbers/names	mixed
+E062	7	subordinating conjunctions	syntactic
+E063	2	capitalized prefixes	syntactic
+E064	7	definite article the	syntactic
+E065	3	mixed suffixes/nouns	mixed
+E066	8	source prepositions from	syntactic
+E067	5	punctuation	syntactic
+E068	8	preposition on	syntactic
+E069	9	temporal prepositions	syntactic
+E070	3	numbers/CJK characters	mixed
+E071	3	mixed names/subwords	mixed
+E072	6	geographic/cultural nouns	mixed
+E073	4	punctuation	syntactic
+E074	6	surnames	syntactic
+E075	5	adjectives/nationality	mixed
+E076	2	capitalized prefixes	mixed
+E077	4	capitalized titles/names	mixed
+E078	7	physical features/parts	semantic
+E079	9	quantifiers/determiners	syntactic
+E080	4	mixed proper nouns	mixed
+E081	6	possessives/determiners	syntactic
+E082	7	possessive determiners	syntactic
+E083	7	abstract event nouns	semantic
+E084	8	preposition for	syntactic
+E085	7	administrative places	semantic
+E086	9	media/entertainment adj	semantic
+E087	8	spatial prepositions	syntactic
+E088	2	subword prefixes	syntactic
+E089	8	numbers/measurements	syntactic
+E090	4	articles the	syntactic
+E091	2	subword fragments	syntactic
+E092	7	personal pronouns	syntactic
+E093	7	sentence-end punctuation	syntactic
+E094	7	spatial prepositions under	syntactic
+E095	7	human groups/agents	semantic
+E096	9	numbers/numerals	syntactic
+E097	8	possessive pronouns	syntactic
+E098	9	place names/cities	semantic
+E099	8	quantifiers among/both	syntactic

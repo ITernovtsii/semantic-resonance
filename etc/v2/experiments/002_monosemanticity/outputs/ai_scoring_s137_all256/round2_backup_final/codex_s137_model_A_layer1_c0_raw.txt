@@ -1,0 +1,50 @@
+E000	7	prepositions/articles	syntactic
+E001	9	football terms	semantic
+E002	10	punctuation	syntactic
+E003	9	punctuation	syntactic
+E004	9	punctuation/symbols	syntactic
+E005	3	mixed/unclear	mixed
+E006	4	letter bigrams	syntactic
+E007	10	prepositions	syntactic
+E008	10	be verbs	syntactic
+E009	4	mixed descriptors	mixed
+E010	9	temporal terms	semantic
+E011	10	modal verbs	syntactic
+E012	8	verb forms	syntactic
+E013	2	random fragments	mixed
+E014	10	punctuation	syntactic
+E015	10	subword fragments	syntactic
+E016	5	abstract nouns	mixed
+E017	7	place names	semantic
+E018	9	articles/casing	syntactic
+E019	10	punctuation	syntactic
+E020	9	prepositions	syntactic
+E021	9	numbering	semantic
+E022	3	mixed proper-nouns	mixed
+E023	7	government/civics	semantic
+E024	10	conjunctions	syntactic
+E025	8	subword fragments	syntactic
+E026	7	naval vessels	semantic
+E027	10	pronouns	syntactic
+E028	9	determiners	syntactic
+E029	9	release/reporting	semantic
+E030	8	apostrophes	syntactic
+E031	7	plural nouns	syntactic
+E032	2	mixed/unclear	mixed
+E033	9	prepositions	syntactic
+E034	10	geography	semantic
+E035	3	mixed/unclear	mixed
+E036	9	recognition verbs	semantic
+E037	3	name fragments	mixed
+E038	8	time periods	semantic
+E039	9	superlatives	syntactic
+E040	10	conjunctive adverbs	syntactic
+E041	9	wh words	syntactic
+E042	10	adverbs	syntactic
+E043	6	articles/casing	syntactic
+E044	8	prefixes	syntactic
+E045	4	quantities mixed	mixed
+E046	8	evaluation verbs	semantic
+E047	10	prepositions	syntactic
+E048	10	punctuation	syntactic
+E049	10	conjunctions	syntactic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	9	possessive pronouns	syntactic
+E201	6	negation/qualification	syntactic
+E202	3	proper nouns/titles	mixed
+E203	8	honorific abbreviations	syntactic
+E204	5	apostrophe/punctuation	syntactic
+E205	3	mixed/unclear	mixed
+E206	4	relative clause	syntactic
+E207	8	sentence-end punctuation	syntactic
+E208	9	units of measurement	semantic
+E209	7	quantifiers/numerals	syntactic
+E210	9	military weapons/vehicles	semantic
+E211	5	surnames	semantic
+E212	8	dates/calendar	semantic
+E213	3	plural nouns/mixed	mixed
+E214	8	conjunctions	syntactic
+E215	4	dates/events mixed	mixed
+E216	6	title-case modifiers	syntactic
+E217	5	media format/brand	semantic
+E218	2	single-token	mixed
+E219	4	mixed/unclear	mixed
+E220	8	copula/be-verbs	syntactic
+E221	3	mixed/fragments	mixed
+E222	2	single-token	syntactic
+E223	6	reporting/assertion verbs	semantic
+E224	4	BPE prefixes	syntactic
+E225	1	single-token	mixed
+E226	4	mixed/route	mixed
+E227	9	quantifiers/amount	syntactic
+E228	2	single-token	mixed
+E229	3	mixed/unclear	mixed
+E230	2	single-token	mixed
+E231	5	quotation marks	syntactic
+E232	5	entertainment/culture	semantic
+E233	6	articles	syntactic
+E234	7	dates/months	semantic
+E235	4	determiners/adjectives	mixed
+E236	6	superlative adjectives	syntactic
+E237	6	prepositions/speech	mixed
+E238	8	three-digit numbers	syntactic
+E239	3	mixed/unclear	mixed
+E240	5	have-auxiliaries	syntactic
+E241	6	buildings/structures	semantic
+E242	5	punctuation/names	mixed
+E243	6	governance/economics	semantic
+E244	3	mixed/unclear	mixed
+E245	5	dates/awards	mixed
+E246	3	single-token	mixed
+E247	7	informal speech	semantic
+E248	6	discourse connectives	syntactic
+E249	4	relative pronoun	syntactic

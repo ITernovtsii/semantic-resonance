@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	7	name fragments	syntactic
+E051	1	random	mixed
+E052	4	construction	semantic
+E053	2	mixed/unclear	mixed
+E054	6	prepositions	syntactic
+E055	1	random	mixed
+E056	7	personal pronouns	syntactic
+E057	8	political events	semantic
+E058	8	modal verbs	syntactic
+E059	8	units of measurement	semantic
+E060	2	punctuation	syntactic
+E061	3	mixed/unclear	mixed
+E062	1	random	mixed
+E063	9	subordinate conjunctions	syntactic
+E064	1	random	mixed
+E065	7	media release verbs	semantic
+E066	2	fragments	syntactic
+E067	1	random	mixed
+E068	7	auxiliary verbs	syntactic
+E069	5	determiners	syntactic
+E070	5	punctuation	syntactic
+E071	6	combat/damage	semantic
+E072	8	historical empires	semantic
+E073	7	past tense verbs	syntactic
+E074	1	random	mixed
+E075	1	random	mixed
+E076	7	modal auxiliaries	syntactic
+E077	6	conjunctions/punct	syntactic
+E078	1	random	mixed
+E079	5	prepositions	syntactic
+E080	1	random	mixed
+E081	4	infrastructure	semantic
+E082	5	determiners	syntactic
+E083	1	random	mixed
+E084	2	BPE fragments	syntactic
+E085	7	temporal adverbs	syntactic
+E086	5	sentence starters	syntactic
+E087	8	crossing	semantic
+E088	5	personal life	semantic
+E089	8	temporal verbs	semantic
+E090	8	copula verbs	syntactic
+E091	5	articles	syntactic
+E092	3	mixed/unclear	mixed
+E093	7	past auxiliaries	syntactic
+E094	3	mixed/unclear	mixed
+E095	10	complex prepositions	syntactic
+E096	3	mixed/unclear	mixed
+E097	1	random	mixed
+E098	6	abstract nouns	semantic
+E099	2	mixed/unclear	mixed

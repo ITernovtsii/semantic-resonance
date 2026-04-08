@@ -1,0 +1,51 @@
+I will read the instructions in the specified file to understand the scoring task.
+E050	8	phrasal particles	syntactic
+E051	10	sentence starters	syntactic
+E052	2	random	mixed
+E053	2	random/fragments	mixed
+E054	9	determiners/quantifiers	syntactic
+E055	4	proper nouns/mixed	semantic
+E056	9	military/conflict	semantic
+E057	8	dates/months	semantic
+E058	10	past tense verbs	syntactic
+E059	7	adverbs	syntactic
+E060	7	verbs	syntactic
+E061	3	fragments/mixed	mixed
+E062	8	geopolitics/history	semantic
+E063	3	unclear	mixed
+E064	9	contractions/suffixes	syntactic
+E065	6	parts/prepositions	semantic
+E066	5	historical/architecture	semantic
+E067	2	random	mixed
+E068	3	metadata/unclear	mixed
+E069	8	suffixes	syntactic
+E070	9	punctuation/brackets	syntactic
+E071	8	punctuation	syntactic
+E072	9	adjectives	semantic
+E073	2	random	mixed
+E074	8	temporal/participles	semantic
+E075	1	random	mixed
+E076	10	singular verbs	syntactic
+E077	9	punctuation clusters	syntactic
+E078	6	adjectives	semantic
+E079	7	prepositions	syntactic
+E080	7	place names	semantic
+E081	2	random	mixed
+E082	3	fragments/mixed	mixed
+E083	9	transition adverbs	semantic
+E084	9	masculine pronouns	syntactic
+E085	2	random	mixed
+E086	4	mixed/caps	mixed
+E087	10	narrative verbs	syntactic
+E088	1	single token	mixed
+E089	4	concrete nouns	semantic
+E090	9	determiners/pronouns	syntactic
+E091	3	mixed/fragments	mixed
+E092	4	punctuation/mixed	syntactic
+E093	8	suffixes	syntactic
+E094	8	time/seasons	semantic
+E095	5	formal vocabulary	semantic
+E096	8	capitalized prefixes	syntactic
+E097	7	consonant clusters	syntactic
+E098	3	mixed/rare	mixed
+E099	4	mixed/unclear	mixed

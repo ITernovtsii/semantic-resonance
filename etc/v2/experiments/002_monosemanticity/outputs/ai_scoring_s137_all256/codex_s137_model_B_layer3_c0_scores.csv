@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	7	military titles	semantic
+E001	3	mixed/unclear	mixed
+E002	4	geo function mix	mixed
+E003	8	biography verbs	semantic
+E004	4	mixed topics	mixed
+E005	7	conversational fillers	syntactic
+E006	9	negation adverbs	syntactic
+E007	7	descriptive adjectives	syntactic
+E008	7	connective words	syntactic
+E009	2	name fragments	mixed
+E010	5	places/objects	mixed
+E011	9	prepositions	syntactic
+E012	8	quotes/symbols	syntactic
+E013	8	asian names	semantic
+E014	7	temporal connectors	syntactic
+E015	6	public entities	mixed
+E016	8	brackets/punctuation	syntactic
+E017	3	name fragments	mixed
+E018	9	years/numbers	syntactic
+E019	4	mixed capitals	mixed
+E020	9	conjunction punctuation	syntactic
+E021	8	place names	semantic
+E022	4	title words	mixed
+E023	10	measurement units	semantic
+E024	2	random fragments	mixed
+E025	10	sequence adverbs	syntactic
+E026	7	action verbs	semantic
+E027	4	mixed descriptors	mixed
+E028	7	first names	semantic
+E029	10	months	semantic
+E030	8	prepositions	syntactic
+E031	10	possessive pronouns	syntactic
+E032	3	mixed words	mixed
+E033	1	random fragments	mixed
+E034	6	articles/determiners	syntactic
+E035	4	mixed function	mixed
+E036	9	progression verbs	semantic
+E037	6	plural nouns	syntactic
+E038	9	approximation adverbs	syntactic
+E039	10	conjunctions	syntactic
+E040	8	speech verbs	semantic
+E041	7	linking words	syntactic
+E042	6	plural nouns	syntactic
+E043	4	mixed nouns	mixed
+E044	9	degree adverbs	syntactic
+E045	8	past tense verbs	syntactic
+E046	7	music charts	semantic
+E047	8	general adjectives	syntactic
+E048	8	negative judgment	semantic
+E049	9	prepositions	syntactic

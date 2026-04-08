@@ -1,0 +1,50 @@
+E000	8	function words	syntactic
+E001	9	football terms	semantic
+E002	10	punctuation	syntactic
+E003	9	punctuation	syntactic
+E004	9	symbols	syntactic
+E005	3	mixed tokens	mixed
+E006	7	uppercase bigrams	syntactic
+E007	10	prepositions	syntactic
+E008	10	be verbs	syntactic
+E009	4	mixed adjectives	mixed
+E010	9	time words	semantic
+E011	10	modal verbs	syntactic
+E012	7	action verbs	syntactic
+E013	2	random fragments	mixed
+E014	10	punctuation	syntactic
+E015	8	subword fragments	syntactic
+E016	4	abstract nouns	mixed
+E017	6	place terms	mixed
+E018	9	article case	syntactic
+E019	10	punctuation	syntactic
+E020	10	prepositions	syntactic
+E021	9	numbering	semantic
+E022	4	title words	mixed
+E023	8	government terms	semantic
+E024	10	conjunctions	syntactic
+E025	8	subword fragments	syntactic
+E026	6	naval terms	mixed
+E027	10	pronouns	syntactic
+E028	9	determiners	syntactic
+E029	8	event verbs	semantic
+E030	8	apostrophes	syntactic
+E031	7	plural nouns	syntactic
+E032	2	random mixed	mixed
+E033	10	prepositions	syntactic
+E034	9	geography	semantic
+E035	7	punctuation mixed	syntactic
+E036	8	reference verbs	semantic
+E037	7	name fragments	syntactic
+E038	9	time periods	semantic
+E039	9	superlatives	syntactic
+E040	10	adverbials	syntactic
+E041	9	wh words	syntactic
+E042	9	adverbs	syntactic
+E043	6	articles	syntactic
+E044	8	prefix fragments	syntactic
+E045	6	quantities	mixed
+E046	8	evaluation verbs	semantic
+E047	10	prepositions	syntactic
+E048	10	punctuation	syntactic
+E049	10	coordinators	syntactic

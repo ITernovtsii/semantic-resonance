@@ -1,0 +1,51 @@
+I will read the instructions and data from `_tmp_s137_model_A_layer0_c4_gemini.txt` to generate the scoring lines.
+E200	9	music	semantic
+E201	2	mixed/unclear	mixed
+E202	4	adverbs/suffixes	mixed
+E203	6	temporal/extent	semantic
+E204	2	fragments	syntactic
+E205	5	technical verbs	semantic
+E206	2	mixed/unclear	mixed
+E207	8	past participles	syntactic
+E208	10	function words	syntactic
+E209	4	conflict/deception	semantic
+E210	3	mixed/unclear	mixed
+E211	9	numbers/quantity	semantic
+E212	6	ordinal/comparative	semantic
+E213	9	determiners	syntactic
+E214	9	pronouns/determiners	syntactic
+E215	4	mixed/unclear	mixed
+E216	1	random	mixed
+E217	10	padding	syntactic
+E218	10	conjunctions	syntactic
+E219	7	auxiliary verbs	syntactic
+E220	10	numbers	syntactic
+E221	10	fragments	syntactic
+E222	2	letters/fragments	syntactic
+E223	8	prepositions	syntactic
+E224	7	common words	syntactic
+E225	10	preposition	syntactic
+E226	5	pronouns/questions	mixed
+E227	2	mixed	mixed
+E228	3	mixed	mixed
+E229	7	capability/modals	semantic
+E230	8	video games	semantic
+E231	8	auxiliary verbs	syntactic
+E232	9	verbs	syntactic
+E233	8	past verbs	syntactic
+E234	10	fragments	syntactic
+E235	6	adverbs	semantic
+E236	8	military/campaigns	semantic
+E237	8	finance/currency	semantic
+E238	10	sports/games	semantic
+E239	10	suffix	syntactic
+E240	7	action verbs	semantic
+E241	4	letters	syntactic
+E242	8	geography	semantic
+E243	10	punctuation	syntactic
+E244	10	music	semantic
+E245	8	competition	semantic
+E246	9	naval/military	semantic
+E247	4	mixed	mixed
+E248	5	infrastructure/nouns	semantic
+E249	2	mixed	mixed

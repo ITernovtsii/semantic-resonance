@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	3	abstract nouns	semantic
+E010	4	units/measurements	mixed
+E020	8	prefixes	syntactic
+E030	9	determiners	syntactic
+E040	6	physical objects	semantic
+E050	8	copula/auxiliary verbs	syntactic
+E060	5	abstract plural nouns	semantic
+E070	9	person roles	semantic
+E080	9	possessives	syntactic
+E090	9	quantifiers	syntactic

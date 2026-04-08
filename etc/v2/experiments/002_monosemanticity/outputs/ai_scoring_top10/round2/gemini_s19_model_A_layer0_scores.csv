@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	ability/usage	semantic
+E001	2	fragments	syntactic
+E002	4	mixed/unclear	mixed
+E003	4	people/common	semantic
+E004	7	legal/official	semantic
+E005	4	sports/mixed	mixed
+E006	9	pronouns/function	syntactic
+E007	8	punctuation	syntactic
+E008	6	state/prefixes	mixed
+E009	9	pronouns	semantic
+E010	10	common word	syntactic
+E011	2	random/mixed	mixed
+E012	10	until/till	semantic
+E013	5	quantity/general	semantic
+E014	6	abstract nouns	semantic
+E015	9	numbers	semantic
+E016	8	sentence starters	syntactic
+E017	2	fragments	syntactic
+E018	5	common words	syntactic
+E019	8	adjectives	semantic
+E020	4	mixed/function	syntactic
+E021	8	performance/work	semantic
+E022	10	punctuation	syntactic
+E023	9	prepositions	syntactic
+E024	9	punctuation	syntactic
+E025	6	proper nouns	semantic
+E026	8	verbs/articles	syntactic
+E027	6	articles/mixed	syntactic
+E028	8	media/arts	semantic
+E029	5	proper nouns/sports	semantic
+E030	10	scale/degree	semantic
+E031	2	random	mixed
+E032	7	subjective/opinion	semantic
+E033	9	prepositions	syntactic
+E034	3	mixed	mixed
+E035	10	common word	syntactic
+E036	6	abstract nouns	semantic
+E037	7	time/punctuation	mixed
+E038	4	mixed	mixed
+E039	6	formal words	semantic
+E040	10	proper noun	semantic
+E041	8	quality/degree	semantic
+E042	6	capitalized words	syntactic
+E043	10	past tense	syntactic
+E044	5	direction/mixed	mixed
+E045	6	number/comparison	mixed
+E046	5	part/preposition	mixed
+E047	8	collective nouns	semantic
+E048	5	numbers/common	mixed
+E049	9	descriptive/spatial	semantic
+E050	6	stop words	syntactic
+E051	9	masculine pronouns	semantic
+E052	10	single word	semantic
+E053	9	conjunctions	syntactic
+E054	2	random	mixed
+E055	3	mixed	mixed
+E056	9	units/measure	semantic
+E057	6	common words	syntactic
+E058	9	list connectors	syntactic
+E059	3	mixed	mixed
+E060	6	comparison/preposition	syntactic
+E061	3	prefixes	syntactic
+E062	6	path/direction	semantic
+E063	8	geopolitics/military	semantic
+E064	8	temporal/sequence	semantic
+E065	10	modals	syntactic
+E066	4	mixed/descriptive	semantic
+E067	8	syntax/structure	syntactic
+E068	7	quantifiers	semantic
+E069	3	mixed	mixed
+E070	5	verbs/mixed	mixed
+E071	10	single word	semantic
+E072	10	articles	syntactic
+E073	5	numbers/units	mixed
+E074	10	suffix	syntactic
+E075	4	mixed	mixed
+E076	5	formal/proper nouns	semantic
+E077	6	spatial/prepositions	mixed
+E078	8	prepositions	syntactic
+E079	8	colors	semantic
+E080	7	roads/location	semantic
+E081	10	past verbs	syntactic
+E082	9	frequency/comparison	semantic
+E083	6	institutions/social	semantic
+E084	8	proper nouns	semantic
+E085	4	abbreviations	syntactic
+E086	8	quantity/evidence	semantic
+E087	7	adjectives	semantic
+E088	9	war	semantic
+E089	10	construction	semantic
+E090	7	history/dates	semantic
+E091	5	mixed nouns	semantic
+E092	10	time units	semantic
+E093	6	form/mixed	semantic
+E094	10	adverbs	syntactic
+E095	9	function words	syntactic
+E096	7	sports results	semantic
+E097	10	common word	syntactic
+E098	10	quantifiers	semantic
+E099	10	numbers	semantic

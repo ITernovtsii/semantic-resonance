@@ -1,0 +1,51 @@
+I will read the instructions in `_tmp_s137_model_A_layer1_c4_gemini.txt` to determine the scoring format and the content to be evaluated.
+E200	8	adverbs/prefixes	syntactic
+E201	6	negatives/indefinites	mixed
+E202	8	military/conflict	semantic
+E203	4	mixed/unclear	mixed
+E204	2	fragments	syntactic
+E205	6	temporal/events	semantic
+E206	9	military/history	semantic
+E207	8	past-tense verbs	syntactic
+E208	7	investigation/official	semantic
+E209	2	random	mixed
+E210	9	hyphens/prefixes	syntactic
+E211	10	prepositions	syntactic
+E212	10	violence/crime	semantic
+E213	10	articles	syntactic
+E214	10	numbers	syntactic
+E215	7	verbs/punctuation	syntactic
+E216	10	reporting verbs	semantic
+E217	9	fragments	syntactic
+E218	8	resultative verbs	semantic
+E219	9	transport/roads	semantic
+E220	10	capitalized starters	syntactic
+E221	5	word fragments	syntactic
+E222	4	mixed	mixed
+E223	9	prepositions	syntactic
+E224	7	abstract verbs	semantic
+E225	8	acronyms	syntactic
+E226	3	fragments	syntactic
+E227	4	mixed nouns	semantic
+E228	10	possessives	syntactic
+E229	9	abstract nouns	semantic
+E230	8	weather/storms	semantic
+E231	6	common words	syntactic
+E232	8	prepositions	syntactic
+E233	10	global/intl	semantic
+E234	3	fragments	syntactic
+E235	8	initials	syntactic
+E236	10	adverbs	syntactic
+E237	9	determiners	syntactic
+E238	10	geography/maritime	semantic
+E239	9	common verbs	syntactic
+E240	10	pronouns	syntactic
+E241	8	prepositions	syntactic
+E242	6	names/fragments	semantic
+E243	8	symbols/conjunctions	syntactic
+E244	9	adjectives	semantic
+E245	8	proper nouns	semantic
+E246	8	indefinites/punct	syntactic
+E247	10	letter fragments	syntactic
+E248	9	positional/rank	semantic
+E249	8	action verbs	semantic

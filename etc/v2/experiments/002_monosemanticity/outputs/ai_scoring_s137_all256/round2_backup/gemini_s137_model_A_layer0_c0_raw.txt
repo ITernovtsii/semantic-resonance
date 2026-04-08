@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	5	news/proper nouns	semantic
+E001	2	location/suffix	mixed
+E002	8	modal/logical	syntactic
+E003	4	mixed/unclear	mixed
+E004	6	punctuation/conjunction	syntactic
+E005	3	suffixes/names	mixed
+E006	10	prepositions	syntactic
+E007	5	abstract nouns	syntactic
+E008	6	pronouns/symbols	syntactic
+E009	8	functional words	syntactic
+E010	2	fragments	syntactic
+E011	9	functional words	syntactic
+E012	6	weather/urban	semantic
+E013	4	prefixes	syntactic
+E014	5	technical/mixed	semantic
+E015	4	mixed/proper nouns	semantic
+E016	8	common words	syntactic
+E017	3	mixed	mixed
+E018	4	mixed/prepositions	mixed
+E019	10	spatial prepositions	syntactic
+E020	9	relationships/interaction	semantic
+E021	10	pronouns/quantifiers	syntactic
+E022	3	mixed	mixed
+E023	8	numbers/punctuation	syntactic
+E024	6	temporal/conditional	semantic
+E025	1	fragments	syntactic
+E026	7	verbs	syntactic
+E027	2	fragments	syntactic
+E028	5	conjunctions/mixed	mixed
+E029	9	conjunctions	syntactic
+E030	4	mixed	mixed
+E031	10	punctuation	syntactic
+E032	9	determiners/numbers	syntactic
+E033	5	adjectives/quantifiers	semantic
+E034	4	concrete nouns	semantic
+E035	10	pronouns	syntactic
+E036	10	punctuation	syntactic
+E037	4	mixed	mixed
+E038	2	mixed	mixed
+E039	9	participles	syntactic
+E040	2	fragments	syntactic
+E041	2	mixed	mixed
+E042	7	statistics	semantic
+E043	10	punctuation	syntactic
+E044	3	mixed	mixed
+E045	8	prepositions	syntactic
+E046	3	names/fragments	mixed
+E047	10	conjunctions	syntactic
+E048	9	biology/nature	semantic
+E049	10	numbers	syntactic

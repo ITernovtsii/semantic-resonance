@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	function words	mixed
+E001	5	world topics	semantic
+E002	4	place descriptors	semantic
+E003	10	punctuation	syntactic
+E004	5	civic history	semantic
+E005	5	people roles	semantic
+E006	9	possessive pronouns	syntactic
+E007	7	classification terms	semantic
+E008	9	auxiliary verbs	syntactic
+E009	2	subword fragments	syntactic
+E010	6	determiners	syntactic
+E011	10	prepositions	syntactic
+E012	8	verb forms	syntactic
+E013	10	conjunctions	syntactic
+E014	2	subword fragments	syntactic
+E015	8	clause markers	syntactic
+E016	3	name fragments	mixed
+E017	8	action verbs	semantic
+E018	4	mixed descriptors	mixed
+E019	9	temporal prepositions	syntactic
+E020	8	pronouns	syntactic
+E021	6	title words	mixed
+E022	8	prepositions	syntactic
+E023	8	prepositions	syntactic
+E024	10	punctuation	syntactic
+E025	9	years	semantic
+E026	10	measurement units	semantic
+E027	9	punctuation	syntactic
+E028	10	sports	semantic
+E029	4	transliteration pieces	mixed
+E030	9	indefinite articles	syntactic
+E031	8	determiners	syntactic
+E032	8	articles	syntactic
+E033	9	quantifiers	syntactic
+E034	9	determiners	syntactic
+E035	8	people groups	semantic
+E036	7	infrastructure terms	semantic
+E037	10	articles	syntactic
+E038	9	years	semantic
+E039	9	quantifiers	syntactic
+E040	10	punctuation	syntactic
+E041	8	abstract nouns	semantic
+E042	9	number words	syntactic
+E043	6	punctuation connectives	mixed
+E044	9	determiners	syntactic
+E045	10	auxiliary verbs	syntactic
+E046	8	reporting verbs	semantic
+E047	8	possessives	syntactic
+E048	8	directional movement	semantic
+E049	3	mixed fragments	mixed
+E050	7	punctuation tokens	syntactic
+E051	8	action verbs	semantic
+E052	10	superlatives	syntactic
+E053	9	place names	semantic
+E054	9	prepositions	syntactic
+E055	8	prepositions	syntactic
+E056	9	conjunctions	syntactic
+E057	8	symbols	syntactic
+E058	5	proper nouns	mixed
+E059	8	process verbs	semantic
+E060	8	movement verbs	semantic
+E061	8	cognition verbs	semantic
+E062	8	event verbs	semantic
+E063	9	personal names	semantic
+E064	10	hedging adverbs	semantic
+E065	9	punctuation	syntactic
+E066	10	punctuation	syntactic
+E067	9	calendar terms	semantic
+E068	7	discourse markers	mixed
+E069	9	indefinite pronouns	syntactic
+E070	10	definite article	syntactic
+E071	9	punctuation	syntactic
+E072	8	punctuation	syntactic
+E073	5	plural nouns	mixed
+E074	9	adverbs	syntactic
+E075	10	hedging adverbs	semantic
+E076	2	subword fragments	syntactic
+E077	9	timeline markers	semantic
+E078	3	mixed nouns	mixed
+E079	10	temporal prepositions	syntactic
+E080	7	dates measures	semantic
+E081	9	temporal adjectives	semantic
+E082	8	action verbs	semantic
+E083	9	personal names	semantic
+E084	8	military hardware	semantic
+E085	9	punctuation endings	syntactic
+E086	10	pronouns	syntactic
+E087	5	mixed adjectives	mixed
+E088	10	measurement units	semantic
+E089	7	descriptors	mixed
+E090	8	comparison terms	syntactic
+E091	4	mixed topics	mixed
+E092	8	clause markers	syntactic
+E093	2	subword fragments	syntactic
+E094	2	subword fragments	syntactic
+E095	10	time units	semantic
+E096	4	symbol fragments	mixed
+E097	5	morph fragments	mixed
+E098	9	personal names	semantic
+E099	9	punctuation	syntactic

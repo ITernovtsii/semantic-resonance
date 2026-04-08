@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	capable/use verbs	mixed
+E001	3	BPE fragments random	mixed
+E002	3	mixed nouns	mixed
+E003	5	people/person/function	mixed
+E004	3	random nouns/legal	mixed
+E005	3	mixed BPE/names	mixed
+E006	6	relative/function words	syntactic
+E007	7	closing parentheses	syntactic
+E008	5	state/post compounds	mixed
+E009	5	informal pronouns	mixed
+E010	3	single The	syntactic
+E011	3	random mixed	mixed
+E012	4	till/until temporal	syntactic
+E013	4	quantity/mixed	mixed
+E014	3	sign/conspiracy nouns	mixed
+E015	5	number words	syntactic
+E016	4	sentence-initial words	syntactic
+E017	4	BPE mixed fragments	syntactic
+E018	4	did/into only	syntactic
+E019	5	adjectives various	syntactic
+E020	4	than/or/M/after	syntactic
+E021	5	performance/media verbs	mixed
+E022	5	sentence-end punctuation	syntactic
+E023	4	for/until/from	syntactic
+E024	5	hyphens/apostrophes	syntactic
+E025	3	mixed/random	mixed
+E026	5	becoming/being verbs	syntactic
+E027	4	an/another/against	syntactic
+E028	4	media/award nouns	mixed
+E029	5	sports/mixed names	mixed
+E030	5	adj fewer/extensive	mixed
+E031	3	mixed nouns random	mixed
+E032	5	informal/feeling words	mixed
+E033	4	in/under prepositions	syntactic
+E034	3	side/as only	mixed
+E035	3	single the	syntactic
+E036	4	abstract nouns	mixed
+E037	5	time/punctuation	syntactic
+E038	4	by/war/during	syntactic
+E039	3	random mixed	mixed
+E040	3	single United	mixed
+E041	4	adj low/open/short	mixed
+E042	3	The/Los/mixed	mixed
+E043	4	had/did/been	syntactic
+E044	3	back/into/comma	syntactic
+E045	4	ones/compared/out	mixed
+E046	4	of/portion/side	syntactic
+E047	5	group/war/process	mixed
+E048	4	numbers/leading	mixed
+E049	4	adj/situated/gray	mixed
+E050	3	by/The only	syntactic
+E051	6	personal pronouns he	syntactic
+E052	3	single side	mixed
+E053	4	and/ampersand	syntactic
+E054	3	goal/two only	mixed
+E055	3	of/side only	syntactic
+E056	4	units/symbols	mixed
+E057	3	some/also/the	syntactic
+E058	4	comma/and	syntactic
+E059	3	then/Dr/City	mixed
+E060	3	akin/to/mixed	mixed
+E061	5	name-initial BPE	syntactic
+E062	4	route/back/end	mixed
+E063	3	mixed/random	mixed
+E064	4	reached/after/reach	mixed
+E065	3	would/might	syntactic
+E066	3	random action/adj	mixed
+E067	3	mixed low-PMI	mixed
+E068	4	half/over/quarter	syntactic
+E069	3	ons/on/comma	syntactic
+E070	4	were/are/ships	syntactic
+E071	3	single end	mixed
+E072	4	articles a/an	syntactic
+E073	4	thousand/million/units	syntactic
+E074	3	single ia	syntactic
+E075	4	hyphens/dashes	syntactic
+E076	3	mixed/random	mixed
+E077	3	surrounding/mixed	mixed
+E078	4	wire/through/across	mixed
+E079	7	color adjectives	semantic
+E080	5	street/road/side	semantic
+E081	4	became/found/verbs	mixed
+E082	5	degree/comparison	syntactic
+E083	3	random nouns/mixed	mixed
+E084	4	BPE name fragments	mixed
+E085	4	abbreviation letters	syntactic
+E086	4	evidence/many/quantity	mixed
+E087	4	adj interim/terrorist	mixed
+E088	6	war/conflict	semantic
+E089	6	construction/build	semantic
+E090	3	mixed dates/places	mixed
+E091	3	random mixed	mixed
+E092	6	time periods	semantic
+E093	5	Los/forms/named	mixed
+E094	4	adverbs/frequency	mixed
+E095	5	or/from/between preps	syntactic
+E096	4	against/five/into	mixed
+E097	3	single the	syntactic
+E098	5	quantifier various/many	syntactic
+E099	7	large numbers	syntactic

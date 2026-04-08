@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	3	mixed-nouns/places	mixed
+E251	10	uppercase-abbreviations	syntactic
+E252	8	sentence-end-punctuation	syntactic
+E253	7	prepositions	syntactic
+E254	7	superlatives/determiners	syntactic
+E255	2	subword-fragments	syntactic

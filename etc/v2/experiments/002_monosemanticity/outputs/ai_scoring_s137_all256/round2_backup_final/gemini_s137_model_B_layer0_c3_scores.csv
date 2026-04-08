@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	3	numbers/mixed	mixed
+E151	10	prepositions	syntactic
+E152	9	determiners	syntactic
+E153	10	suffixes/fragments	syntactic
+E154	1	single fragment	mixed
+E155	2	mixed fragments	mixed
+E156	4	mixed/media	mixed
+E157	2	fragments	syntactic
+E158	10	quantifiers/determiners	syntactic
+E159	10	punctuation	syntactic
+E160	1	single name	semantic
+E161	2	mixed/unclear	mixed
+E162	7	nautical/mechanical	semantic
+E163	4	common verbs/adj	mixed
+E164	8	political/military	semantic
+E165	9	auxiliary verbs	syntactic
+E166	9	directional/prepositions	syntactic
+E167	8	descriptive adjectives	semantic
+E168	5	mixed names/legal	semantic
+E169	2	mixed/unclear	mixed
+E170	4	mixed/roles	semantic
+E171	10	pronouns	syntactic
+E172	7	common nouns	semantic
+E173	9	geography/superlatives	semantic
+E174	2	mixed/unclear	mixed
+E175	9	capitalized prepositions	syntactic
+E176	2	proper nouns	semantic
+E177	9	verbs of state	semantic
+E178	10	legal/political	semantic
+E179	8	abstract verbs	semantic
+E180	3	academic/dates	mixed
+E181	7	punctuation/conjunctions	syntactic
+E182	8	arts/performance	semantic
+E183	10	US states	semantic
+E184	6	adverbs/logical	syntactic
+E185	1	unclear	mixed
+E186	6	punctuation	syntactic
+E187	2	mixed/unclear	mixed
+E188	10	prepositions/articles	syntactic
+E189	3	mixed/unclear	mixed
+E190	2	mixed/unclear	mixed
+E191	10	meteorology	semantic
+E192	4	mixed/verbs	mixed
+E193	6	functional verbs	mixed
+E194	9	abstract nouns	semantic
+E195	7	numbers/adj	mixed
+E196	2	unclear	mixed
+E197	2	negation/fragments	mixed
+E198	1	random	mixed
+E199	4	mixed/science	mixed

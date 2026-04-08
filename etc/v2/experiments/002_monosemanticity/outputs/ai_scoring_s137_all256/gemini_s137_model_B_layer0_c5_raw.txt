@@ -1,0 +1,4 @@
+I will read the instructions in `_tmp_s137_model_B_layer0_c5_gemini.txt` to provide the requested scoring lines.
+E250	5	online medical	semantic
+E251	2	religious titles	semantic
+E252	9	subword fragments	syntactic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	5	definite article	syntactic
+E101	9	sports statistics	semantic
+E102	6	prepositions/temporal	syntactic
+E103	6	travel/via prepositions	syntactic
+E104	9	creation/production verbs	semantic
+E105	5	roles/person nouns	semantic
+E106	4	abstract nouns/feelings	mixed
+E107	3	mixed suffixes/nouns	mixed
+E108	8	roads/transportation	semantic
+E109	9	inclusion/featuring	syntactic
+E110	2	name-start fragments	mixed
+E111	3	mixed fragments/pronouns	mixed
+E112	8	restriction/priority adverbs	syntactic
+E113	9	naval/maritime	semantic
+E114	5	gerund/participle verbs	mixed
+E115	6	modal/conjunction	syntactic
+E116	8	cognition/perception verbs	semantic
+E117	2	BPE subword fragments	syntactic
+E118	8	three-digit numbers	syntactic
+E119	4	mixed adverbs/verbs	mixed
+E120	6	determiners/possessives	syntactic
+E121	8	locative "at"	syntactic
+E122	7	sentence-start capitals	syntactic
+E123	8	directional prepositions	syntactic
+E124	5	preposition "to"	syntactic
+E125	9	personal pronouns	syntactic
+E126	8	personal names	semantic
+E127	4	sentence starters	mixed
+E128	5	symbols/special chars	syntactic
+E129	8	ordinal numbers	syntactic
+E130	9	sentence-ending punctuation	syntactic
+E131	7	coordinating conjunctions	syntactic
+E132	8	sentence-start prepositions	syntactic
+E133	9	interrogative words	syntactic
+E134	4	mixed action verbs	mixed
+E135	8	possessive determiners	syntactic
+E136	9	quantifiers/dual markers	syntactic
+E137	8	object pronouns	syntactic
+E138	5	miscellaneous verbs	mixed
+E139	8	relative pronouns/clauses	syntactic
+E140	5	person roles/nouns	semantic
+E141	7	prepositions	syntactic
+E142	2	BPE subword fragments	syntactic
+E143	7	military/conflict	semantic
+E144	7	naming/attribution	syntactic
+E145	9	universal quantifiers	syntactic
+E146	9	quote-ending punctuation	syntactic
+E147	9	spatial/positional	semantic
+E148	5	adjectives/nationalities	mixed
+E149	7	quotation punctuation	syntactic

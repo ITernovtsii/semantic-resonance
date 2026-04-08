@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	verb forms	syntactic
+E001	7	discourse adverbs	syntactic
+E002	9	punctuation	syntactic
+E003	9	unicode chars	syntactic
+E004	4	mixed nouns	mixed
+E005	9	quotes/punct	syntactic
+E006	7	punctuation	syntactic
+E007	6	time/punct	mixed
+E008	3	mixed descriptors	mixed
+E009	7	pronouns	syntactic
+E010	2	article	syntactic
+E011	10	prepositions	syntactic
+E012	4	name fragments	mixed
+E013	8	prepositions	syntactic
+E014	9	articles/determiners	syntactic
+E015	9	pronouns	syntactic
+E016	4	institutions/roles	mixed
+E017	6	punctuation	syntactic
+E018	2	random fragments	mixed
+E019	9	auxiliary verbs	syntactic
+E020	10	given names	semantic
+E021	9	possessives	syntactic
+E022	8	pronouns/determiners	syntactic
+E023	9	prepositions	syntactic
+E024	9	prepositions	syntactic
+E025	10	directional preps	syntactic
+E026	10	numbers	syntactic
+E027	9	subword suffixes	syntactic
+E028	3	mixed function	mixed
+E029	7	aux/modals	syntactic
+E030	3	subword fragments	syntactic
+E031	8	hedging adverbs	syntactic
+E032	8	prepositions	syntactic
+E033	5	proper names	mixed
+E034	6	punct/connectors	mixed
+E035	2	random fragments	mixed
+E036	8	articles	syntactic
+E037	9	temporal connectives	syntactic
+E038	8	conjunctions	syntactic
+E039	6	formal terms	semantic
+E040	7	physical objects	semantic
+E041	9	articles	syntactic
+E042	2	random fragments	mixed
+E043	3	mixed fragments	mixed
+E044	6	determiners	syntactic
+E045	5	nominalizations	mixed
+E046	8	verb participles	syntactic
+E047	9	prepositions	syntactic
+E048	5	biology terms	mixed
+E049	10	numbers	syntactic
+E050	9	social roles	semantic
+E051	8	quotes/punct	syntactic
+E052	7	events/activities	semantic
+E053	2	random tokens	mixed
+E054	7	political descriptors	semantic
+E055	8	conjunctions	syntactic
+E056	8	media/music	semantic
+E057	8	determiners/deixis	syntactic
+E058	4	mixed verbs	mixed
+E059	9	nationalities	semantic
+E060	9	geography places	semantic
+E061	9	discourse connectives	syntactic
+E062	9	quantifiers/numbers	syntactic
+E063	7	articles/pronouns	syntactic
+E064	7	deictic adverbs	mixed
+E065	7	action verbs	syntactic
+E066	5	determiners/mix	mixed
+E067	5	sports mix	mixed
+E068	4	military/geography	mixed
+E069	7	transport geography	semantic
+E070	4	function mix	mixed
+E071	9	directional preps	syntactic
+E072	8	relational preps	syntactic
+E073	8	inclusion terms	syntactic
+E074	10	punctuation	syntactic
+E075	3	random nouns	mixed
+E076	3	random descriptors	mixed
+E077	9	first names	semantic
+E078	7	storm/weather	semantic
+E079	9	relative pronouns	syntactic
+E080	5	abstract nouns	mixed
+E081	8	wh/function words	syntactic
+E082	10	sentence punctuation	syntactic
+E083	8	punctuation	syntactic
+E084	9	numbers	syntactic
+E085	7	punct/year	mixed
+E086	3	mixed names	mixed
+E087	9	correlative quantifiers	syntactic
+E088	2	random fragments	mixed
+E089	9	historical terms	semantic
+E090	8	apostrophe/articles	syntactic
+E091	9	hyphens	syntactic
+E092	9	verb suffixes	syntactic
+E093	9	indefinite articles	syntactic
+E094	9	prepositions	syntactic
+E095	8	punctuation	syntactic
+E096	6	article terms	syntactic
+E097	9	american football	semantic
+E098	8	movement verbs	semantic
+E099	4	mixed descriptors	mixed

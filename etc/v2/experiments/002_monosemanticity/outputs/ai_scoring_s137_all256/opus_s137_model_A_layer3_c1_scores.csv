@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	5	punctuation/mixed	syntactic
+E051	3	mixed/unclear	mixed
+E052	3	mixed/unclear	mixed
+E053	6	media/entertainment	semantic
+E054	3	names/fragments	mixed
+E055	4	mixed/unclear	mixed
+E056	7	creative works/titles	semantic
+E057	9	possessive pronouns	syntactic
+E058	8	biology/natural-description	semantic
+E059	2	mixed/unclear	mixed
+E060	7	articles/adjectives	syntactic
+E061	5	action verbs	syntactic
+E062	3	mixed/unclear	mixed
+E063	6	adjectives/descriptors	syntactic
+E064	4	BPE prefixes	syntactic
+E065	4	geographic/adjectives	mixed
+E066	3	mixed/unclear	mixed
+E067	4	abstract nouns	mixed
+E068	5	capitalized words/titles	mixed
+E069	6	proper nouns/places	semantic
+E070	8	copula/becoming verbs	syntactic
+E071	6	past-tense verbs	syntactic
+E072	8	punctuation/quotes	syntactic
+E073	8	long adjectives/-al	syntactic
+E074	3	mixed/unclear	mixed
+E075	8	have/get auxiliaries	syntactic
+E076	6	naming/labeling verbs	semantic
+E077	7	conjunctions/connectives	syntactic
+E078	8	sports/football stats	semantic
+E079	2	single-token	mixed
+E080	3	foreign/fragments	mixed
+E081	5	geographic adjectives	semantic
+E082	9	sentence-start adverbs	syntactic
+E083	7	speech/reporting verbs	semantic
+E084	7	superlatives/adjectives	syntactic
+E085	8	conjunctions	syntactic
+E086	7	copula/be-verbs	syntactic
+E087	5	spatial/movement verbs	mixed
+E088	9	relative/interrogative	syntactic
+E089	6	physical descriptors	semantic
+E090	8	modal verbs	syntactic
+E091	5	place-name fragments	semantic
+E092	3	mixed/unclear	mixed
+E093	5	past-tense verbs	syntactic
+E094	8	have-auxiliaries	syntactic
+E095	6	prepositions/movement	syntactic
+E096	5	geographic adjectives	semantic
+E097	3	name fragments	mixed
+E098	2	single-token	mixed
+E099	2	single-token	syntactic

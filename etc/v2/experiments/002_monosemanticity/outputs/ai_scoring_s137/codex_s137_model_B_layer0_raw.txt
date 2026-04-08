@@ -1,0 +1,10 @@
+E000	4	mixed/unclear	mixed
+E010	6	function words	syntactic
+E020	2	mixed/unclear	mixed
+E030	6	biographical dates	semantic
+E040	8	pronouns/determiners	syntactic
+E050	5	arrival verb	semantic
+E060	4	abstract nouns	mixed
+E070	2	fragments/numbers	mixed
+E080	5	question discourse	mixed
+E090	9	connectors/punctuation	syntactic

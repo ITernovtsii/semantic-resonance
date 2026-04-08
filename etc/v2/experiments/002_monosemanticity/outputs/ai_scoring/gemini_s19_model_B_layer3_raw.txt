@@ -1,0 +1,101 @@
+I will read the instructions and input data from the specified file.
+E000	8	quantifiers/amounts	semantic
+E001	7	dialogue/emotional	semantic
+E002	4	determiners/adjectives	mixed
+E003	9	reporting/attribution	semantic
+E004	10	modal verbs	syntactic
+E005	9	adverbs/conjunctions	syntactic
+E006	10	name fragments	syntactic
+E007	10	initials/fragments	syntactic
+E008	9	titles/identifiers	semantic
+E009	5	names/awards	mixed
+E010	3	mixed nouns/adj	mixed
+E011	10	subword fragments	syntactic
+E012	9	relative pronouns	syntactic
+E013	7	sports/achievements	semantic
+E014	10	punctuation	syntactic
+E015	10	suffixes/fragments	syntactic
+E016	8	competition/conflict	semantic
+E017	9	modals/negation	syntactic
+E018	10	determiners/quantifiers	syntactic
+E019	6	military/geography	semantic
+E020	9	military actions	semantic
+E021	8	scale/scope adj	semantic
+E022	10	appearance/certainty	semantic
+E023	8	institutional nouns	semantic
+E024	7	music/titles	semantic
+E025	6	years/determiners	mixed
+E026	10	prepositions	syntactic
+E027	10	legal/cognitive verbs	semantic
+E028	5	measurements/descriptions	mixed
+E029	10	participation verbs	semantic
+E030	8	proper nouns	semantic
+E031	5	mixed/dialogue	mixed
+E032	10	nested punctuation	syntactic
+E033	9	social action verbs	semantic
+E034	10	industry/sectors	semantic
+E035	8	determiners/adj	mixed
+E036	10	determiners	syntactic
+E037	10	descriptive adjectives	semantic
+E038	6	superlatives/punct	mixed
+E039	9	place names	semantic
+E040	8	nationality/military	semantic
+E041	6	dashes/symbols	syntactic
+E042	7	infrastructure/physical	semantic
+E043	10	ethnicity/ideology	semantic
+E044	8	surnames/kanji	semantic
+E045	10	surnames	semantic
+E046	10	prefix fragments	syntactic
+E047	7	narrative adverbs/verbs	semantic
+E048	8	event descriptions	semantic
+E049	10	etymological roots	syntactic
+E050	6	land/area	mixed
+E051	9	proper names	semantic
+E052	10	inclusion verbs	semantic
+E053	10	adverbs	syntactic
+E054	8	condition adjectives	semantic
+E055	8	comparison/reaction	semantic
+E056	9	temporal/spatial	semantic
+E057	10	prepositions	syntactic
+E058	9	competition	semantic
+E059	8	possessives/adj	mixed
+E060	10	abbreviations	syntactic
+E061	10	policy adjectives	semantic
+E062	10	numbers/quantifiers	semantic
+E063	10	area/numbers	semantic
+E064	8	risk/legal	semantic
+E065	10	plural nouns	semantic
+E066	10	proper noun adj	semantic
+E067	10	ordinals	semantic
+E068	9	modals/ability	syntactic
+E069	9	discourse markers	syntactic
+E070	10	action verbs	semantic
+E071	9	arts/media	semantic
+E072	6	sports metrics	semantic
+E073	10	demonstratives	syntactic
+E074	9	verb roots	semantic
+E075	7	history/academic	semantic
+E076	9	adverbs/copula	syntactic
+E077	9	political/geography	semantic
+E078	10	prepositions	syntactic
+E079	9	plural nouns	semantic
+E080	9	decision/movement	semantic
+E081	8	technical/formal	semantic
+E082	10	punctuation/symbols	syntactic
+E083	6	formal nouns/adj	semantic
+E084	8	time/place prefixes	semantic
+E085	10	relational verbs	semantic
+E086	8	symbols/punct	syntactic
+E087	10	punct clusters	syntactic
+E088	7	infrastructure/discourse	mixed
+E089	10	speech verbs	semantic
+E090	5	plural nouns	semantic
+E091	10	prepositions	syntactic
+E092	10	indefinite articles	syntactic
+E093	10	passive markers	syntactic
+E094	8	formal punct	syntactic
+E095	6	determiners/formal	mixed
+E096	10	noun roots	semantic
+E097	5	mixed proper nouns	mixed
+E098	10	naval technical	semantic
+E099	8	indefinite/psychology	semantic

@@ -1,0 +1,51 @@
+I will read the instructions and content from `_tmp_s137_model_A_layer2_c1_gemini.txt` to provide the requested scoring lines.
+E050	10	linking verbs	syntactic
+E051	7	proper nouns	semantic
+E052	10	spatial relations	semantic
+E053	3	mixed/fragments	mixed
+E054	10	prepositions	syntactic
+E055	8	punctuation/conjunctions	syntactic
+E056	9	movement/status	semantic
+E057	10	roles/occupations	semantic
+E058	10	wh-words	syntactic
+E059	10	determiners	syntactic
+E060	10	name prefixes	syntactic
+E061	10	name fragments	syntactic
+E062	2	mixed/units/cjk	mixed
+E063	6	intensity adjectives	semantic
+E064	7	past/descriptive	semantic
+E065	5	mixed nouns	semantic
+E066	9	name suffixes	syntactic
+E067	9	opening punctuation	syntactic
+E068	9	formal nouns	semantic
+E069	9	punctuation/contrast	syntactic
+E070	8	symbols/punctuation	syntactic
+E071	10	complex punctuation	syntactic
+E072	8	the/period	syntactic
+E073	9	locations	semantic
+E074	10	complex punctuation	syntactic
+E075	6	quotes/common	syntactic
+E076	10	abstract nouns	semantic
+E077	10	prepositions	syntactic
+E078	9	quotes/punctuation	syntactic
+E079	10	prepositions/method	semantic
+E080	4	mixed/common	mixed
+E081	9	topic domains	semantic
+E082	10	ending punctuation	syntactic
+E083	10	punctuation	syntactic
+E084	6	acronyms/names	semantic
+E085	10	names	semantic
+E086	10	locations	semantic
+E087	8	place suffixes	semantic
+E088	10	social/political	semantic
+E089	6	place/time/verbs	mixed
+E090	10	plural nouns	syntactic
+E091	8	abstract nouns	semantic
+E092	10	determiners	syntactic
+E093	10	word roots	syntactic
+E094	10	quantifiers/articles	syntactic
+E095	9	cognitive/communication	semantic
+E096	10	inclusion verbs	semantic
+E097	9	prepositions/modal	syntactic
+E098	10	action verbs	semantic
+E099	2	random	mixed

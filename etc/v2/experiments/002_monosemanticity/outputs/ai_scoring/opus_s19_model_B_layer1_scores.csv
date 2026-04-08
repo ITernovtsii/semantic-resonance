@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	communication/action verbs	semantic
+E001	6	determiners/quantifiers	syntactic
+E002	5	punctuation/quotation	syntactic
+E003	2	subword fragments	syntactic
+E004	4	subword/natural objects	mixed
+E005	7	quotation marks	syntactic
+E006	4	punctuation	syntactic
+E007	4	mixed punctuation/narr	mixed
+E008	7	informal/colloquial	semantic
+E009	5	nouns/reflexive	mixed
+E010	1	single token	syntactic
+E011	7	prepositions from/for	syntactic
+E012	6	prefixes/compounds	syntactic
+E013	7	prepositions/spatial	syntactic
+E014	7	indefinite articles	syntactic
+E015	8	pronouns he/she/it	syntactic
+E016	6	organizations/places	semantic
+E017	3	punctuation/mixed	syntactic
+E018	3	mixed nouns/fragments	mixed
+E019	9	perfect tense/have	syntactic
+E020	9	first names	syntactic
+E021	7	possessives	syntactic
+E022	6	sentence starters	syntactic
+E023	7	prepositions	syntactic
+E024	7	prepositions at/on/by	syntactic
+E025	8	directional prepositions	syntactic
+E026	9	numbers	syntactic
+E027	3	subword fragments	syntactic
+E028	3	mixed/unclear	mixed
+E029	6	copula/conjunctions	syntactic
+E030	3	subword fragments	syntactic
+E031	7	becoming/adverbs	syntactic
+E032	7	with/without	syntactic
+E033	4	proper nouns/titles	mixed
+E034	5	dash/punctuation	syntactic
+E035	4	subword/mixed verbs	mixed
+E036	3	articles	syntactic
+E037	8	temporal prepositions	syntactic
+E038	6	conjunctions or/and	syntactic
+E039	6	portions/quantities	semantic
+E040	5	physical nouns/units	mixed
+E041	7	indefinite articles	syntactic
+E042	3	subword fragments	mixed
+E043	3	mixed subwords/nouns	mixed
+E044	5	possessives/determiners	syntactic
+E045	6	abstract event nouns	semantic
+E046	6	creation/action verbs	semantic
+E047	6	preposition to	syntactic
+E048	7	plural nouns/nature	mixed
+E049	9	numbers	syntactic
+E050	8	titles/roles	semantic
+E051	5	quotation/mixed	syntactic
+E052	6	events/performances	semantic
+E053	3	mixed proper nouns	mixed
+E054	7	political adjectives	mixed
+E055	6	conjunctions	syntactic
+E056	8	media/entertainment	semantic
+E057	7	demonstratives/sequence	syntactic
+E058	7	past tense movement	syntactic
+E059	7	nationality adjectives	mixed
+E060	7	places/geography nouns	semantic
+E061	5	discourse connectives	syntactic
+E062	8	quantifiers/numbers	syntactic
+E063	3	articles	syntactic
+E064	5	existential/discourse	mixed
+E065	6	intention/effort verbs	semantic
+E066	4	determiners/articles	syntactic
+E067	4	mixed nouns/activities	mixed
+E068	4	mixed nouns	mixed
+E069	6	operations/activities	semantic
+E070	3	articles/determiners	syntactic
+E071	7	prepositions	syntactic
+E072	6	prepositions with/about	syntactic
+E073	6	including/possessives	syntactic
+E074	5	punctuation	syntactic
+E075	7	natural/physical nouns	semantic
+E076	4	mixed adjectives/nouns	mixed
+E077	7	first/last names	syntactic
+E078	5	geography/weather	mixed
+E079	7	relative pronouns	syntactic
+E080	7	person roles/concepts	semantic
+E081	5	relative pronouns	syntactic
+E082	8	sentence-end punctuation	syntactic
+E083	3	punctuation/mixed	syntactic
+E084	8	numbers	syntactic
+E085	4	punctuation	syntactic
+E086	5	units/dates mixed	mixed
+E087	7	both/either/neither	syntactic
+E088	3	mixed suffixes/nouns	mixed
+E089	6	proper titles/org	semantic
+E090	5	articles/possessives	syntactic
+E091	5	hyphens	syntactic
+E092	7	past participles	syntactic
+E093	6	articles a/an	syntactic
+E094	7	temporal prepositions	syntactic
+E095	4	punctuation	syntactic
+E096	3	articles the/same	syntactic
+E097	8	sports/competition	semantic
+E098	8	movement verbs	semantic
+E099	6	adjectives/descriptive	syntactic

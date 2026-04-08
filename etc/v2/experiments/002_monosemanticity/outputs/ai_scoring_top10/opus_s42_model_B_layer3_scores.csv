@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	communication/problem	mixed
+E001	4	sentence-end punct/codes	mixed
+E002	4	sentence-initial words	mixed
+E003	5	mixed HMS/tells/names	mixed
+E004	5	past-tense action verbs	mixed
+E005	6	comma/closing punct	syntactic
+E006	4	group nouns/officials	mixed
+E007	7	title/honorific words	semantic
+E008	6	conjunctions and/or	syntactic
+E009	4	The/Its determiners	syntactic
+E010	6	modal/helping verbs	syntactic
+E011	5	earning/starring verbs	mixed
+E012	5	name-initial BPE	syntactic
+E013	5	sentence-initial/given	syntactic
+E014	4	adj current/existing	mixed
+E015	4	action verbs mixed	mixed
+E016	5	action verbs gerund	mixed
+E017	7	degree adverbs	syntactic
+E018	5	need/unable/prior	mixed
+E019	4	organization names	mixed
+E020	6	quotation/dialogue punct	syntactic
+E021	6	spatial below/above	syntactic
+E022	7	music charts/media	semantic
+E023	5	state/feeling verbs	mixed
+E024	3	mixed nouns/places	mixed
+E025	4	mixed prepositions	syntactic
+E026	4	mixed symbols/units	mixed
+E027	5	New/said/reporting	mixed
+E028	4	The/My determiners	syntactic
+E029	4	past-tense action verbs	mixed
+E030	5	BPE word fragments	syntactic
+E031	5	concessive conjunctions	syntactic
+E032	5	adj decorative/sacred	mixed
+E033	7	temporal prepositions	syntactic
+E034	5	hyphens/dashes	syntactic
+E035	5	adj modest/vast	mixed
+E036	5	BPE name fragments	syntactic
+E037	6	adverbs -ly manner	syntactic
+E038	7	large numbers/sq	syntactic
+E039	5	temporal adj late/early	syntactic
+E040	3	SpongeBob/random	mixed
+E041	4	geographic/nearby	mixed
+E042	5	adj violent/rapid	mixed
+E043	4	plural nouns mixed	mixed
+E044	4	material/substance	mixed
+E045	3	mixed places/names	mixed
+E046	5	competition/versus	mixed
+E047	5	adverb/degree widely	syntactic
+E048	3	mixed BPE/nouns	mixed
+E049	4	place names mixed	mixed
+E050	4	abstract nouns/mixed	mixed
+E051	5	media/commentary nouns	semantic
+E052	4	retreating/combined	mixed
+E053	5	BPE word fragments	syntactic
+E054	7	sentence-initial discourse	syntactic
+E055	4	codes/route labels	mixed
+E056	4	having/depression/mixed	mixed
+E057	4	geographic/harbor nouns	mixed
+E058	5	names/proper nouns	semantic
+E059	4	BPE prefix fragments	syntactic
+E060	4	plural nouns mixed	mixed
+E061	4	adj vast/volcanic	mixed
+E062	4	surname patterns	semantic
+E063	5	BPE/titled operations	mixed
+E064	3	comma only	syntactic
+E065	7	first/proper names	semantic
+E066	7	single cap letters	syntactic
+E067	5	adj sonic/decorative	mixed
+E068	4	BPE name fragments	mixed
+E069	3	Easy/mixed random	mixed
+E070	3	mixed nouns/geo	mixed
+E071	4	emerged/dispute verbs	mixed
+E072	4	BPE name fragments	mixed
+E073	3	mixed low-PMI	mixed
+E074	5	closing punct/%	syntactic
+E075	7	large numbers	syntactic
+E076	5	name BPE patterns	syntactic
+E077	5	speech/cognition verbs	semantic
+E078	5	conjunctions plus/and	syntactic
+E079	6	modal/helping verbs	syntactic
+E080	5	group nouns officials	mixed
+E081	5	among/containing preps	syntactic
+E082	5	BPE word fragments	syntactic
+E083	7	sentence-end punctuation	syntactic
+E084	3	mixed random punct	mixed
+E085	5	abstract nouns chance	semantic
+E086	4	group nouns officials	mixed
+E087	4	political adj mixed	mixed
+E088	5	BPE word fragments	syntactic
+E089	5	possessive pronouns	syntactic
+E090	5	conjunctions and/but	syntactic
+E091	5	currency/number symbols	syntactic
+E092	5	entertainment media	mixed
+E093	7	sentence-end punctuation	syntactic
+E094	3	mixed determiner/nouns	mixed
+E095	4	BPE foreign fragments	mixed
+E096	6	locative on/upon/along	syntactic
+E097	4	adj sonic/scientific	mixed
+E098	5	determiners each/this	syntactic
+E099	7	nature/biology terms	semantic

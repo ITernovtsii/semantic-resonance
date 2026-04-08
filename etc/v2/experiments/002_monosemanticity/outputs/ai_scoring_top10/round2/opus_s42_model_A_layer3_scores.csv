@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	discourse adverbs	syntactic
+E001	4	action/misc	mixed
+E002	4	industry/misc	mixed
+E003	6	past tense verbs	mixed
+E004	7	road/transport	semantic
+E005	4	action verbs	mixed
+E006	5	determiners	syntactic
+E007	6	title abbreviations	mixed
+E008	7	punctuation	syntactic
+E009	4	nature/religion	mixed
+E010	5	past participles	mixed
+E011	7	spatial nouns	semantic
+E012	5	political action	mixed
+E013	5	informal speech	mixed
+E014	5	mixed starters	mixed
+E015	3	demonstrative	syntactic
+E016	6	helping verbs	syntactic
+E017	4	place/geography	mixed
+E018	6	temporal adj	syntactic
+E019	7	proper names	semantic
+E020	4	abstract nouns	mixed
+E021	4	abbreviations	mixed
+E022	7	geographic adj	semantic
+E023	5	adj/mixed	mixed
+E024	1	random unicode	mixed
+E025	2	random unicode	mixed
+E026	5	geographic adj	mixed
+E027	6	containing/incl	syntactic
+E028	5	role/title nouns	mixed
+E029	4	rain/numbers	mixed
+E030	3	album/ellipsis	mixed
+E031	5	name prefixes	syntactic
+E032	5	emotive/mental	mixed
+E033	4	mixed people	mixed
+E034	5	pronouns/conj	syntactic
+E035	4	misc adjectives	mixed
+E036	4	plural nouns	mixed
+E037	7	quantifiers	syntactic
+E038	6	concessive conj	syntactic
+E039	5	time period	mixed
+E040	7	adverbs -ly	syntactic
+E041	4	proper nouns	mixed
+E042	5	media verbs	mixed
+E043	6	ampersand/versus	syntactic
+E044	5	military/proper	mixed
+E045	5	political adj	mixed
+E046	3	period/punct	syntactic
+E047	2	single word	mixed
+E048	5	action verbs	mixed
+E049	6	sports/numbers	mixed
+E050	3	mixed/dates	mixed
+E051	5	months/marks	syntactic
+E052	5	modal verbs	syntactic
+E053	4	genre/adj	mixed
+E054	4	plural groups	mixed
+E055	9	sentence-end punct	syntactic
+E056	4	nature/misc	mixed
+E057	7	discourse adverbs	syntactic
+E058	5	proper nouns	mixed
+E059	6	role/title nouns	semantic
+E060	5	article/adj	syntactic
+E061	6	biology/species	semantic
+E062	5	name fragments	mixed
+E063	5	determiners	syntactic
+E064	4	mixed/unclear	mixed
+E065	4	crime/history	mixed
+E066	5	adj temporal	mixed
+E067	4	adverb/verb	mixed
+E068	5	negative adj	mixed
+E069	5	prepositions	syntactic
+E070	7	quantity/approx	syntactic
+E071	4	mixed nouns	mixed
+E072	7	have/received	syntactic
+E073	3	acronyms	mixed
+E074	8	measurement units	semantic
+E075	4	action verbs	mixed
+E076	3	mixed nouns	mixed
+E077	5	becoming verbs	mixed
+E078	3	mixed	mixed
+E079	7	adverbs	syntactic
+E080	3	determiners	syntactic
+E081	3	mixed/unclear	mixed
+E082	4	mixed	mixed
+E083	4	random	mixed
+E084	3	mixed fragments	mixed
+E085	4	access/series	mixed
+E086	4	BPE/random	mixed
+E087	4	groups/critics	mixed
+E088	5	adj social	mixed
+E089	5	determiners	mixed
+E090	7	first names	semantic
+E091	8	weather/tropical	semantic
+E092	4	media/mixed	mixed
+E093	5	adv/verb	mixed
+E094	3	misc nouns	mixed
+E095	8	passive participle	syntactic
+E096	4	mixed/unclear	mixed
+E097	8	measurement units	semantic
+E098	5	punct/conj	mixed
+E099	8	difficulty words	semantic

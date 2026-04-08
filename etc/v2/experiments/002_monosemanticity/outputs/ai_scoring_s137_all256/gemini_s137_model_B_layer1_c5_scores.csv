@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	10	copular verbs	syntactic
+E251	3	function words	syntactic
+E252	1	subword fragments	mixed
+E253	9	conjunctions	syntactic
+E254	10	pronouns	syntactic
+E255	7	formal nouns	semantic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	9	compass directions	semantic
+E001	9	transition adverbs	semantic
+E002	8	adverbs	syntactic
+E003	4	plural nouns	syntactic
+E004	3	mixed verbs	mixed
+E005	5	determiners	syntactic
+E006	10	copular verbs	syntactic
+E007	10	prepositions	syntactic
+E008	9	prepositions	syntactic
+E009	4	action verbs	mixed
+E010	8	auxiliary verbs	syntactic
+E011	4	media nouns	mixed
+E012	3	word fragments	syntactic
+E013	10	pronouns	syntactic
+E014	2	capitalized words	syntactic
+E015	9	determiners	syntactic
+E016	9	sentence openers	syntactic
+E017	8	punctuation	syntactic
+E018	5	verbs	syntactic
+E019	5	capitalized nouns	mixed
+E020	5	natural nouns	semantic
+E021	10	meteorology	semantic
+E022	6	quantifiers	syntactic
+E023	8	support verbs	semantic
+E024	8	containment verbs	semantic
+E025	7	identity possession	semantic
+E026	3	proper nouns	semantic
+E027	10	prefixes	syntactic
+E028	8	ordinal numbers	semantic
+E029	7	names places	semantic
+E030	9	prefixes hyphens	syntactic
+E031	8	people groups	semantic
+E032	7	demonstratives	syntactic
+E033	9	determiners	syntactic
+E034	9	determiners	syntactic
+E035	5	punctuation causality	mixed
+E036	4	technical stems	semantic
+E037	9	copular verbs	syntactic
+E038	2	mixed nouns	mixed
+E039	10	punctuation marks	syntactic
+E040	2	characters fragments	syntactic
+E041	8	punctuation marks	syntactic
+E042	6	action verbs	semantic
+E043	9	symbols units	syntactic
+E044	9	quantifiers	syntactic
+E045	4	modifiers	mixed
+E046	6	adverbs	syntactic
+E047	10	music charts	semantic
+E048	8	determiners adjectives	syntactic
+E049	8	degree adverbs	syntactic

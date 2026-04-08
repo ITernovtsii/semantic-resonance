@@ -1,0 +1,6 @@
+E250	7	prefix fragments	syntactic
+E251	3	mixed/unclear	mixed
+E252	2	mixed/unclear	mixed
+E253	8	symbols/connectors	syntactic
+E254	9	prepositions	syntactic
+E255	8	prepositions/punctuation	syntactic

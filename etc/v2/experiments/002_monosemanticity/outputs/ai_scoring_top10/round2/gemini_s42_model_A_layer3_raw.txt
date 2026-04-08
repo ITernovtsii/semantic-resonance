@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	6	connectives/time	mixed
+E001	7	military/action	semantic
+E002	5	social sectors	semantic
+E003	8	action verbs	syntactic
+E004	10	roads/highways	semantic
+E005	6	verbs	syntactic
+E006	10	stop words	syntactic
+E007	9	names/titles	semantic
+E008	10	punctuation	syntactic
+E009	4	abstract nouns	semantic
+E010	7	past participles	syntactic
+E011	8	spatial terms	semantic
+E012	6	formal/conflict	semantic
+E013	7	dialogue/informal	mixed
+E014	6	formal vocabulary	mixed
+E015	2	noise	mixed
+E016	8	auxiliaries/help	syntactic
+E017	8	geography	semantic
+E018	9	temporal adjectives	semantic
+E019	10	names	semantic
+E020	5	states	semantic
+E021	6	abbreviations	syntactic
+E022	10	geo prefixes	semantic
+E023	7	media adjectives	semantic
+E024	2	foreign/fragments	mixed
+E025	2	fragments	mixed
+E026	7	property/geography	semantic
+E027	9	inclusion verbs	semantic
+E028	9	roles/titles	semantic
+E029	1	random	mixed
+E030	3	album/punctuation	mixed
+E031	4	short words	mixed
+E032	9	mental states	semantic
+E033	4	mixed/unclear	mixed
+E034	9	pronouns	syntactic
+E035	6	technical adjectives	semantic
+E036	6	plural nouns	syntactic
+E037	10	quantifiers	syntactic
+E038	10	conjunctions	syntactic
+E039	7	historical terms	semantic
+E040	10	adverbs	syntactic
+E041	5	proper nouns	semantic
+E042	7	media verbs	semantic
+E043	5	symbols/connectives	syntactic
+E044	7	military/places	semantic
+E045	9	political adjectives	semantic
+E046	10	punctuation	syntactic
+E047	3	training	semantic
+E048	8	action verbs	syntactic
+E049	10	football stats	semantic
+E050	4	years/determinants	mixed
+E051	8	months/symbols	mixed
+E052	8	modals/wrestler	mixed
+E053	7	media/arts	semantic
+E054	8	professional groups	semantic
+E055	10	punctuation	syntactic
+E056	5	diverse nouns	semantic
+E057	8	connectives	mixed
+E058	6	corporate/social	semantic
+E059	10	occupations	semantic
+E060	8	articles/adjectives	syntactic
+E061	7	biology	semantic
+E062	8	names/fragments	semantic
+E063	9	determiners	syntactic
+E064	4	functional words	syntactic
+E065	4	crime/history	semantic
+E066	8	temporal/state	semantic
+E067	6	state/transition	mixed
+E068	8	emotional states	semantic
+E069	10	prepositions	syntactic
+E070	10	quantifiers/money	semantic
+E071	5	diverse nouns	semantic
+E072	8	verbs/auxiliaries	syntactic
+E073	5	abbreviations	syntactic
+E074	10	measurements	semantic
+E075	7	operational terms	semantic
+E076	5	plural nouns	semantic
+E077	7	copular verbs	syntactic
+E078	1	random	mixed
+E079	8	frequency/state	mixed
+E080	5	stop words	syntactic
+E081	4	diverse nouns	semantic
+E082	10	punctuation	syntactic
+E083	4	narrative	mixed
+E084	1	random	mixed
+E085	2	mixed/unclear	mixed
+E086	4	mixed/unclear	semantic
+E087	8	professional groups	semantic
+E088	7	qualitative adjectives	semantic
+E089	8	quantifiers	syntactic
+E090	10	names	semantic
+E091	10	meteorology	semantic
+E092	4	arts/media	semantic
+E093	8	stative verbs	syntactic
+E094	4	tech/general	semantic
+E095	10	past participles	syntactic
+E096	3	fragments	mixed
+E097	10	measurements	semantic
+E098	7	punctuation/connectives	mixed
+E099	10	difficulties/problems	semantic

@@ -1,0 +1,5 @@
+expert_id	score	category	type
+E250	7	reporting verbs	syntactic
+E251	10	punctuation	syntactic
+E252	10	auxiliary/modals	syntactic
+E253	1	random	mixed

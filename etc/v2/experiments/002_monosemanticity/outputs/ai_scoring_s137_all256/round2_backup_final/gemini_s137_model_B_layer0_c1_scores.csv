@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	2	fragments	syntactic
+E051	1	random	mixed
+E052	4	mixed	semantic
+E053	3	mixed/suffixes	mixed
+E054	10	prepositions	syntactic
+E055	2	geography	semantic
+E056	9	pronouns	syntactic
+E057	9	historical events	semantic
+E058	10	auxiliary verbs	syntactic
+E059	8	measurements/units	semantic
+E060	3	punctuation/mixed	syntactic
+E061	3	mixed	mixed
+E062	2	mixed	mixed
+E063	10	conjunctions/relatives	syntactic
+E064	2	mixed	mixed
+E065	9	release/development	semantic
+E066	4	common/suffixes	syntactic
+E067	2	mixed	mixed
+E068	9	common verbs	syntactic
+E069	7	determiners/pronouns	syntactic
+E070	8	punctuation	syntactic
+E071	6	damage/actions	semantic
+E072	10	history/empire	semantic
+E073	9	formal actions	semantic
+E074	2	mixed	mixed
+E075	2	geography	semantic
+E076	8	modals/common	syntactic
+E077	8	punctuation/connectors	syntactic
+E078	1	random	mixed
+E079	9	common particles	syntactic
+E080	1	random	mixed
+E081	6	infrastructure/public	semantic
+E082	7	common words	syntactic
+E083	2	action	semantic
+E084	1	random	mixed
+E085	9	transitions/adverbs	semantic
+E086	4	mixed	mixed
+E087	8	cross/navigation	semantic
+E088	6	life events	semantic
+E089	10	starts/ends	semantic
+E090	9	state verbs	syntactic
+E091	8	determiners/punctuation	syntactic
+E092	4	mixed	mixed
+E093	8	common verbs	syntactic
+E094	5	comparison/feelings	semantic
+E095	10	spatial prepositions	syntactic
+E096	7	tech/gaming	semantic
+E097	2	mixed	mixed
+E098	7	organizational/nouns	semantic
+E099	3	mixed	mixed

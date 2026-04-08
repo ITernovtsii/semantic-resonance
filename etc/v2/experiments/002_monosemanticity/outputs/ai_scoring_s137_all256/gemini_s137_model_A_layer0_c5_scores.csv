@@ -1,0 +1,5 @@
+expert_id	score	category	type
+E250	5	function words	syntactic
+E251	6	suffixes	syntactic
+E252	1	unclear	mixed
+E253	8	capital letters	syntactic

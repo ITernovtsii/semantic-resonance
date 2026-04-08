@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	8	roles/titles	semantic
+E001	3	mixed/syllables	mixed
+E002	10	linking verbs	syntactic
+E003	10	adverbs	syntactic
+E004	9	proper names	semantic
+E005	10	determiners	syntactic
+E006	10	quantifiers	semantic
+E007	10	conjunctions	syntactic
+E008	10	punctuation	syntactic
+E009	9	geography	semantic
+E010	6	time/conditionals	mixed
+E011	4	mixed fragments	mixed
+E012	5	punctuation/mixed	mixed
+E013	10	punctuation	syntactic
+E014	10	quotation marks	syntactic
+E015	9	adjectives	syntactic
+E016	10	adjectives	syntactic
+E017	7	determiners	syntactic
+E018	10	process verbs	semantic
+E019	8	entities/attributes	semantic
+E020	6	naval/relational	mixed
+E021	8	temporal/order	semantic
+E022	10	cognitive verbs	semantic
+E023	8	topics/news	semantic
+E024	10	measurements	semantic
+E025	10	superlatives	syntactic
+E026	10	prepositions	syntactic
+E027	10	adverbs	syntactic
+E028	4	mixed fragments	mixed
+E029	9	word fragments	syntactic
+E030	10	locative prepositions	syntactic
+E031	9	determiners	syntactic
+E032	9	numbers	semantic
+E033	7	relational	mixed
+E034	10	spatial relations	semantic
+E035	9	word fragments	syntactic
+E036	10	pronouns	syntactic
+E037	7	function words	syntactic
+E038	6	geographic markers	mixed
+E039	10	formal adjectives	semantic
+E040	10	adjectives	syntactic
+E041	8	ordinals/geography	mixed
+E042	7	punctuation/connectives	mixed
+E043	7	quotes/attribution	mixed
+E044	9	media/technology	semantic
+E045	8	titles/proper names	semantic
+E046	5	mixed function	mixed
+E047	10	plural nouns	syntactic
+E048	9	singular nouns	syntactic
+E049	10	sentence starters	syntactic
+E050	8	determiners	syntactic
+E051	4	mixed fragments	mixed
+E052	10	inclusion verbs	semantic
+E053	7	mixed topics	semantic
+E054	10	cognitive verbs	semantic
+E055	10	possessive markers	syntactic
+E056	9	proper names	semantic
+E057	9	adjectives	syntactic
+E058	10	demonyms	semantic
+E059	10	punctuation	syntactic
+E060	9	character fragments	syntactic
+E061	9	comparatives	syntactic
+E062	8	discourse markers	syntactic
+E063	10	word fragments	syntactic
+E064	10	quantifiers	semantic
+E065	8	direction/action	mixed
+E066	10	determiners	syntactic
+E067	8	collective nouns	semantic
+E068	10	change verbs	semantic
+E069	10	relational adjectives	syntactic
+E070	9	descriptive adjectives	syntactic
+E071	5	mixed verbs	mixed
+E072	8	symbols/units	mixed
+E073	10	interaction nouns	semantic
+E074	9	proper names	semantic
+E075	7	punctuation fragments	mixed
+E076	10	prepositions	syntactic
+E077	10	demonstratives	syntactic
+E078	10	spatio-temporal prepositions	syntactic
+E079	10	punctuation	syntactic
+E080	10	first names	semantic
+E081	10	demonstratives	syntactic
+E082	10	consonant clusters	syntactic
+E083	8	sequential determiners	syntactic
+E084	10	end punctuation	syntactic
+E085	5	mixed titles	mixed
+E086	10	word roots	syntactic
+E087	5	mixed markers	mixed
+E088	10	dates/months	semantic
+E089	9	abstract nouns	syntactic
+E090	8	function words	syntactic
+E091	10	transitive verbs	syntactic
+E092	10	approximations	semantic
+E093	10	word fragments	syntactic
+E094	10	action verbs	semantic
+E095	10	inclusive connectives	syntactic
+E096	10	creative concepts	semantic
+E097	7	mixed punctuation	mixed
+E098	10	modal verbs	syntactic
+E099	10	wh-words	syntactic

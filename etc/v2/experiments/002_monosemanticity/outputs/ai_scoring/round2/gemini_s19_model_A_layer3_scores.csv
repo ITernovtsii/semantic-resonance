@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	social/aging	semantic
+E001	4	geography/sports	semantic
+E002	10	mycology/mushrooms	semantic
+E003	9	media/music	semantic
+E004	10	adverbs	syntactic
+E005	7	units/symbols	syntactic
+E006	8	conjunctions/punctuation	syntactic
+E007	9	auxiliaries/adverbs	syntactic
+E008	10	punctuation	syntactic
+E009	9	quantifiers	syntactic
+E010	10	punctuation	syntactic
+E011	10	military/nationalities	semantic
+E012	9	roles/groups	semantic
+E013	10	spatial/prepositions	syntactic
+E014	7	summary/descriptors	syntactic
+E015	8	numbers/determinants	syntactic
+E016	1	random/padding	mixed
+E017	8	verbs/reporting	syntactic
+E018	5	geography/punctuation	mixed
+E019	10	temporal/prepositions	syntactic
+E020	10	temporal/prepositions	syntactic
+E021	4	acronyms/short words	mixed
+E022	10	numbers/measurements	syntactic
+E023	9	weather/science	semantic
+E024	3	mixed/unclear	mixed
+E025	10	punctuation	syntactic
+E026	8	articles	syntactic
+E027	1	random	mixed
+E028	7	states/actions	semantic
+E029	6	quantity/prepositions	syntactic
+E030	10	prepositions	syntactic
+E031	10	verbs	syntactic
+E032	9	movement/state verbs	syntactic
+E033	9	relational words	syntactic
+E034	10	numbers	syntactic
+E035	4	function/punctuation	syntactic
+E036	7	technical/geographic	mixed
+E037	6	abstract nouns	semantic
+E038	8	temporal/spatial	syntactic
+E039	2	random	mixed
+E040	10	articles	syntactic
+E041	10	punctuation	syntactic
+E042	9	entertainment/film	semantic
+E043	10	punctuation	syntactic
+E044	10	conjunctions	syntactic
+E045	8	descriptors/cultural	semantic
+E046	10	rankings/sports stats	semantic
+E047	10	asian names/syllables	semantic
+E048	8	action verbs	syntactic
+E049	10	asian names/terms	semantic
+E050	9	proper noun prefixes	syntactic
+E051	10	modals/auxiliaries	syntactic
+E052	8	dialogue/informal	mixed
+E053	9	years/durations	syntactic
+E054	10	abstract nouns	semantic
+E055	3	mixed/unclear	mixed
+E056	10	conjunctions/discourse	syntactic
+E057	7	units/chinese	mixed
+E058	9	prepositions	syntactic
+E059	10	years	syntactic
+E060	6	suffixes/short words	syntactic
+E061	9	nouns/governance	semantic
+E062	10	copular/linking verbs	syntactic
+E063	10	male names	semantic
+E064	10	help/modals	syntactic
+E065	10	abstract nouns	semantic
+E066	9	character names	semantic
+E067	9	physical objects/areas	semantic
+E068	9	auxiliaries/adverbs	syntactic
+E069	9	military history	semantic
+E070	7	people/adverbs	mixed
+E071	8	travel/geography	semantic
+E072	10	capitalized nouns	syntactic
+E073	2	random	mixed
+E074	10	past participles	syntactic
+E075	10	status/change verbs	syntactic
+E076	10	sports/competition	semantic
+E077	8	measurements/units	mixed
+E078	10	adjectives	syntactic
+E079	10	modals/auxiliaries	syntactic
+E080	10	descriptors/nouns	semantic
+E081	10	punctuation	syntactic
+E082	9	determiners/short words	syntactic
+E083	10	superlative/adjectives	syntactic
+E084	6	punctuation	syntactic
+E085	8	emotive/casual	semantic
+E086	9	foreign name parts	semantic
+E087	10	geographic descriptors	semantic
+E088	10	function words	syntactic
+E089	3	mixed/unclear	mixed
+E090	8	word fragments/stems	syntactic
+E091	10	adjectives	syntactic
+E092	10	name prefixes/capitalized	syntactic
+E093	8	adjectives/stats	syntactic
+E094	7	stats/quantities	mixed
+E095	10	auxiliaries/adverbs	syntactic
+E096	10	abstract verbs	semantic
+E097	10	transitions/conjunctions	syntactic
+E098	10	functional verbs	syntactic
+E099	5	names/units	mixed

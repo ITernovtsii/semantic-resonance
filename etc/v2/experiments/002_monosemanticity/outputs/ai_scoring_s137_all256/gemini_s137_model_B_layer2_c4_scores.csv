@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	10	determiners/quantifiers	syntactic
+E201	1	random	mixed
+E202	9	name fragments	syntactic
+E203	8	word fragments	syntactic
+E204	4	mixed/unclear	mixed
+E205	10	roles/titles	semantic
+E206	2	mixed/verbs	mixed
+E207	8	prepositions/location	syntactic
+E208	9	possessives/determiners	syntactic
+E209	9	adjectives	syntactic
+E210	4	adjectives	mixed
+E211	9	evaluative adjectives	semantic
+E212	9	adverbs	syntactic
+E213	10	-ly adverbs	syntactic
+E214	10	plural nouns	syntactic
+E215	1	random	mixed
+E216	6	functional words	syntactic
+E217	9	suffixes	syntactic
+E218	10	prepositions	syntactic
+E219	8	fame/achievement	semantic
+E220	9	naval names/titles	semantic
+E221	10	prepositions	syntactic
+E222	9	articles	syntactic
+E223	8	name fragments	syntactic
+E224	10	gerunds/activities	syntactic
+E225	10	prefixes	syntactic
+E226	10	contrastive conjunctions	syntactic
+E227	10	numbers	syntactic
+E228	10	geography	semantic
+E229	1	random	mixed
+E230	6	months/symbols	mixed
+E231	4	mixed/nouns	mixed
+E232	8	conjunctions/punctuation	syntactic
+E233	1	random	mixed
+E234	8	time/quantity	semantic
+E235	1	random	mixed
+E236	1	random	mixed
+E237	10	first names	semantic
+E238	10	punctuation	syntactic
+E239	10	verbs	syntactic
+E240	9	name fragments	syntactic
+E241	9	discourse markers	syntactic
+E242	10	verbs	syntactic
+E243	8	possessives/punctuation	syntactic
+E244	10	numbers/quantity	semantic
+E245	9	name fragments	syntactic
+E246	1	random	mixed
+E247	9	prepositions/participles	syntactic
+E248	9	geography/administration	semantic
+E249	9	units/stats	semantic

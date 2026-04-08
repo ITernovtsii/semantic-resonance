@@ -1,0 +1,7 @@
+I will read the instructions and data from the specified file to generate the required scoring output.
+E250	3	geography/mixed	mixed
+E251	9	abbreviations	syntactic
+E252	9	punctuation	syntactic
+E253	10	prepositions	syntactic
+E254	8	superlatives	syntactic
+E255	5	subword fragments	syntactic

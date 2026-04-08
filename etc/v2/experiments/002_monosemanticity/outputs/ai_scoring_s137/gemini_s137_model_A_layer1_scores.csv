@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	2	subword fragments	syntactic
+E010	9	government/law	semantic
+E020	1	random	mixed
+E030	10	period/punctuation	syntactic
+E040	8	plural endings	syntactic
+E050	4	geography/nature	semantic
+E060	10	prepositions	syntactic
+E070	3	pronouns/fragments	mixed
+E080	1	random	mixed
+E090	10	opening punctuation	syntactic

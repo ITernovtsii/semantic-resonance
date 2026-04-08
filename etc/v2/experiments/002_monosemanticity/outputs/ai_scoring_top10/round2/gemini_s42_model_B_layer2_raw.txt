@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	7	people/roles	semantic
+E001	2	syllables/fragments	syntactic
+E002	9	state verbs	semantic
+E003	10	adverbs	syntactic
+E004	9	proper names	semantic
+E005	10	determiners	syntactic
+E006	10	quantifiers	semantic
+E007	10	conjunctions	syntactic
+E008	8	punctuation	syntactic
+E009	9	geographic names	semantic
+E010	6	temporal/conditional	semantic
+E011	4	mixed fragments	mixed
+E012	4	mixed/unclear	mixed
+E013	10	punctuation	syntactic
+E014	10	quotation/brackets	syntactic
+E015	10	adjectives	syntactic
+E016	9	adjectives	syntactic
+E017	9	determiners	syntactic
+E018	9	process verbs	semantic
+E019	8	identity/orgs	semantic
+E020	7	naval/military	semantic
+E021	9	sequential terms	semantic
+E022	9	speech/thought verbs	semantic
+E023	8	social topics	semantic
+E024	10	measurements	semantic
+E025	10	superlatives	syntactic
+E026	9	prepositions	syntactic
+E027	10	adverbs	syntactic
+E028	6	name fragments	semantic
+E029	5	historical/foreign fragments	semantic
+E030	9	spatial prepositions	semantic
+E031	7	determiners	syntactic
+E032	8	numbers/symbols	syntactic
+E033	7	listing/qualifying	mixed
+E034	10	spatial/movement	semantic
+E035	6	technical roots	semantic
+E036	10	pronouns/contractions	syntactic
+E037	6	determiners/punctuation	syntactic
+E038	8	geographic terms	semantic
+E039	8	official adjectives	semantic
+E040	10	trait adjectives	semantic
+E041	7	ordinals/geographic	mixed
+E042	5	mixed/unclear	mixed
+E043	8	attribution punctuation	syntactic
+E044	9	media/technology	semantic
+E045	8	title words	semantic
+E046	7	logical/existence	semantic
+E047	10	plural nouns	syntactic
+E048	10	agent nouns	syntactic
+E049	10	sentence starters	syntactic
+E050	7	determiners	syntactic
+E051	7	descriptive terms	semantic
+E052	10	inclusion verbs	semantic
+E053	7	administrative/geo	semantic
+E054	9	mental verbs	semantic
+E055	9	possessive marker	syntactic
+E056	9	proper names	semantic
+E057	8	adjectives	semantic
+E058	10	geographic adjectives	semantic
+E059	10	sentence endings	syntactic
+E060	2	fragments	syntactic
+E061	8	comparatives	syntactic
+E062	7	logical/action	mixed
+E063	4	foreign fragments	syntactic
+E064	10	quantity/size	semantic
+E065	9	directional/intent	semantic
+E066	10	determiners	syntactic
+E067	8	concrete nouns	semantic
+E068	8	movement verbs	semantic
+E069	9	adjectives	semantic
+E070	9	adjectives	semantic
+E071	6	mixed/unclear	mixed
+E072	8	technical/math	mixed
+E073	9	social/abstract	semantic
+E074	9	proper names	semantic
+E075	10	sentence endings	syntactic
+E076	10	prepositions	syntactic
+E077	9	demonstratives	syntactic
+E078	10	prepositions	syntactic
+E079	10	punctuation	syntactic
+E080	10	first names	semantic
+E081	10	demonstratives	syntactic
+E082	4	consonant clusters	syntactic
+E083	7	sequential/determiners	syntactic
+E084	10	sentence endings	syntactic
+E085	7	titles/orgs	semantic
+E086	9	technical roots	semantic
+E087	8	conjunctions/years	mixed
+E088	10	months	semantic
+E089	8	formal nouns	semantic
+E090	10	definite article	syntactic
+E091	9	instruction verbs	semantic
+E092	10	approximations	semantic
+E093	5	mixed fragments	semantic
+E094	9	action verbs	semantic
+E095	9	association terms	semantic
+E096	10	narrative/creative	semantic
+E097	8	punctuation	syntactic
+E098	10	modal verbs	syntactic
+E099	10	relative pronouns	syntactic

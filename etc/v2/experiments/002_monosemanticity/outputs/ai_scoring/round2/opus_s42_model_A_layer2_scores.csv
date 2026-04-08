@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	modal auxiliary	syntactic
+E001	6	surnames	semantic
+E002	5	BPE word stems	syntactic
+E003	6	informal negation	syntactic
+E004	6	possession verbs	syntactic
+E005	5	coordinating conj	syntactic
+E006	4	definite article	syntactic
+E007	4	comma punctuation	syntactic
+E008	6	abstract nouns	semantic
+E009	7	institutional nouns	semantic
+E010	7	people groups	semantic
+E011	6	sentence endings	syntactic
+E012	5	BPE name parts	syntactic
+E013	4	determiners	syntactic
+E014	6	prepositions	syntactic
+E015	5	comparative as	syntactic
+E016	3	indefinite article	syntactic
+E017	6	past participles	syntactic
+E018	7	conflict warfare	semantic
+E019	6	transitive verbs	syntactic
+E020	6	agent role nouns	mixed
+E021	5	comma variants	syntactic
+E022	5	verb stems	mixed
+E023	7	first names	semantic
+E024	5	possessive det	syntactic
+E025	6	BPE prefixes	syntactic
+E026	4	quotation marks	syntactic
+E027	4	mixed temporal	mixed
+E028	7	relational nouns	semantic
+E029	8	prefixes	syntactic
+E030	6	agent by prep	syntactic
+E031	4	definite article	syntactic
+E032	7	conditional conj	syntactic
+E033	6	symbols punctuation	syntactic
+E034	4	rare BPE tokens	syntactic
+E035	2	single period	syntactic
+E036	7	time periods	semantic
+E037	7	abstract nouns	semantic
+E038	5	on preposition	syntactic
+E039	5	BPE name prefixes	syntactic
+E040	6	evaluative adj	syntactic
+E041	6	possessive det	syntactic
+E042	7	geographic features	semantic
+E043	6	purpose preps	syntactic
+E044	5	BPE suffixes	syntactic
+E045	4	BPE syllables	syntactic
+E046	8	nature biology	semantic
+E047	7	superlatives	syntactic
+E048	6	demonstratives	syntactic
+E049	5	modifier of	syntactic
+E050	6	positional adjectives	syntactic
+E051	7	modal adverbs	syntactic
+E052	6	demonstrative det	syntactic
+E053	7	spatial movement	syntactic
+E054	6	abbreviation codes	syntactic
+E055	7	single letters	syntactic
+E056	6	subject pronouns	syntactic
+E057	5	BPE word stems	syntactic
+E058	5	measurements codes	mixed
+E059	7	abstract qualities	semantic
+E060	5	domain adjectives	mixed
+E061	7	temporal preps	syntactic
+E062	6	action verbs	syntactic
+E063	6	cognitive verbs	syntactic
+E064	7	measurements units	semantic
+E065	7	large numbers	syntactic
+E066	6	instrumental preps	syntactic
+E067	6	locative preps	syntactic
+E068	5	mixed nouns	mixed
+E069	6	locative adverbs	syntactic
+E070	6	possessive det	syntactic
+E071	5	coordinating conj	syntactic
+E072	5	rare BPE tokens	syntactic
+E073	7	historical years	semantic
+E074	7	era century	semantic
+E075	5	quotation marks	syntactic
+E076	7	ordinal determiner	syntactic
+E077	6	plural activities	semantic
+E078	8	manner adverbs	syntactic
+E079	5	closing punctuation	syntactic
+E080	5	preposition with	syntactic
+E081	5	dash hyphen	syntactic
+E082	7	numbers	syntactic
+E083	6	plural agent nouns	semantic
+E084	6	sentence starters	syntactic
+E085	5	quotation marks	syntactic
+E086	6	speech act verbs	syntactic
+E087	5	proper name parts	semantic
+E088	7	sports awards	semantic
+E089	7	abstract plurals	semantic
+E090	6	countries places	semantic
+E091	7	degree adverbs	syntactic
+E092	5	copular verbs	syntactic
+E093	5	location preps	syntactic
+E094	5	BPE word parts	syntactic
+E095	4	sentence endings	syntactic
+E096	7	entertainment media	semantic
+E097	7	temporal adverbs	syntactic
+E098	7	pre-nominal adjectives	syntactic
+E099	5	inclusion markers	syntactic

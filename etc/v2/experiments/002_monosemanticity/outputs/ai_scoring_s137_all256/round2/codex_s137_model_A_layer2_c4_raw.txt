@@ -1,0 +1,50 @@
+E200	7	articles/possessives	syntactic
+E201	5	punctuation+connectives	mixed
+E202	9	conjunctions	syntactic
+E203	6	function words	syntactic
+E204	7	verb forms	syntactic
+E205	8	quotation punctuation	syntactic
+E206	9	ordinals	syntactic
+E207	10	sentence punctuation	syntactic
+E208	10	numbers	syntactic
+E209	1	random fragments	mixed
+E210	9	be-verb forms	syntactic
+E211	10	terminal punctuation	syntactic
+E212	3	mixed nouns	mixed
+E213	8	pronoun+auxiliary	syntactic
+E214	7	name fragments	syntactic
+E215	4	proper nouns	mixed
+E216	9	coordinators	syntactic
+E217	10	possessive pronouns	syntactic
+E218	10	punctuation	syntactic
+E219	7	sports stats	semantic
+E220	8	articles	syntactic
+E221	3	mixed terms	mixed
+E222	10	temporal connectives	syntactic
+E223	9	articles	syntactic
+E224	7	state verbs	syntactic
+E225	10	prepositions	syntactic
+E226	8	adjectives	syntactic
+E227	7	action verbs	syntactic
+E228	8	artillery calibers	semantic
+E229	4	mixed plurals	mixed
+E230	6	stem fragments	syntactic
+E231	7	legal/social nouns	semantic
+E232	7	spatial+ordinal	mixed
+E233	9	negation/modals	syntactic
+E234	7	name fragments	syntactic
+E235	7	past-event verbs	syntactic
+E236	8	discourse words	syntactic
+E237	2	random subwords	mixed
+E238	6	articles+demonyms	mixed
+E239	8	subword suffixes	syntactic
+E240	9	punctuation endings	syntactic
+E241	10	punctuation	syntactic
+E242	7	surnames	semantic
+E243	8	adjectival forms	syntactic
+E244	9	person names	semantic
+E245	10	question connectives	syntactic
+E246	7	verb forms	syntactic
+E247	8	time periods	semantic
+E248	10	punctuation	syntactic
+E249	8	gerund verbs	syntactic

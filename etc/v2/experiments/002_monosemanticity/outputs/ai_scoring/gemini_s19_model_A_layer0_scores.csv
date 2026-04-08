@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	ability/use	semantic
+E001	3	fragments	syntactic
+E002	9	military/strategic	semantic
+E003	4	pronouns/common	semantic
+E004	7	legal/official	semantic
+E005	6	sports	semantic
+E006	5	relative pronouns	syntactic
+E007	10	punctuation	syntactic
+E008	6	prefixes/state	mixed
+E009	6	indefinite pronouns	syntactic
+E010	1	single word	mixed
+E011	4	mixed nouns	semantic
+E012	10	conjunctions	syntactic
+E013	3	mixed	mixed
+E014	8	nouns/planning	semantic
+E015	10	numbers/quantifiers	syntactic
+E016	9	capitalized transitions	syntactic
+E017	4	fragments	syntactic
+E018	2	common words	syntactic
+E019	9	adjectives/colors	semantic
+E020	4	comparisons/conjunctions	syntactic
+E021	10	media verbs	semantic
+E022	10	punctuation	syntactic
+E023	8	prepositions	syntactic
+E024	10	punctuation	syntactic
+E025	9	WWII/historical	semantic
+E026	8	verbs of being	syntactic
+E027	3	mixed	mixed
+E028	10	entertainment	semantic
+E029	10	sports	semantic
+E030	10	scale/degree	semantic
+E031	2	mixed nouns	semantic
+E032	8	conversational	semantic
+E033	7	prepositions	syntactic
+E034	2	mixed	mixed
+E035	1	single word	mixed
+E036	8	abstract nouns	semantic
+E037	5	prepositions/punct	syntactic
+E038	4	mixed	mixed
+E039	7	formal vocabulary	semantic
+E040	1	single word	mixed
+E041	9	evaluative adjectives	semantic
+E042	5	capitalized common	syntactic
+E043	8	auxiliary verbs	syntactic
+E044	3	mixed	mixed
+E045	4	quantifiers/mixed	mixed
+E046	3	mixed	mixed
+E047	6	collective nouns/war	semantic
+E048	7	numbers/quantities	semantic
+E049	10	descriptive/scientific	semantic
+E050	3	function words	syntactic
+E051	10	masculine pronouns	syntactic
+E052	1	single word	mixed
+E053	7	conjunctions/symbols	syntactic
+E054	2	mixed	mixed
+E055	2	mixed	mixed
+E056	10	units/abbreviations	syntactic
+E057	3	function words	syntactic
+E058	5	punctuation/conj	syntactic
+E059	2	mixed	mixed
+E060	6	comparative phrases	syntactic
+E061	8	capitalized fragments	syntactic
+E062	5	navigation/mixed	semantic
+E063	9	organizations/nations	semantic
+E064	8	temporal/sequence	semantic
+E065	10	modal verbs	syntactic
+E066	9	biographical/human	semantic
+E067	8	logical connectors	syntactic
+E068	9	proportions	semantic
+E069	3	fragments/prep	syntactic
+E070	6	auxiliary verbs/ships	mixed
+E071	1	single word	mixed
+E072	10	articles	syntactic
+E073	7	numbers/units	semantic
+E074	1	suffix	syntactic
+E075	3	mixed	mixed
+E076	8	geopolitics/official	semantic
+E077	9	spatial/temporal	syntactic
+E078	7	prepositions	syntactic
+E079	9	colors	semantic
+E080	9	location/streets	semantic
+E081	10	narrative verbs	semantic
+E082	8	frequency/comparison	semantic
+E083	9	institutional/official	semantic
+E084	8	proper nouns/places	semantic
+E085	8	capitalized starts	syntactic
+E086	7	quantification	semantic
+E087	9	political adjectives	semantic
+E088	8	war	semantic
+E089	9	construction/origin	semantic
+E090	10	dates/periods	semantic
+E091	6	plural nouns	syntactic
+E092	10	time units	semantic
+E093	5	formal/mixed	mixed
+E094	9	adverbs/sequence	semantic
+E095	7	prepositions/punct	syntactic
+E096	7	sports results	semantic
+E097	1	single word	mixed
+E098	10	indefinite quantifiers	syntactic
+E099	10	numbers	syntactic

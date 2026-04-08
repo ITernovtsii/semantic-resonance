@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E200	6	adverbs/prefixes	syntactic
+E201	4	negation/restriction	mixed
+E202	8	military/violence	semantic
+E203	3	mixed/unclear	mixed
+E204	1	random	mixed
+E205	5	event/timing	semantic
+E206	9	military/history	semantic
+E207	6	past verbs	syntactic
+E208	5	professional roles	semantic
+E209	2	mixed/unclear	semantic
+E210	7	prefixes/punctuation	syntactic
+E211	10	prepositions	syntactic
+E212	10	violence/murder	semantic
+E213	10	articles	syntactic
+E214	10	numbers	syntactic
+E215	6	auxiliary verbs/brackets	syntactic
+E216	9	reporting verbs	semantic
+E217	1	random	syntactic
+E218	8	status/possession	semantic
+E219	8	transportation	semantic
+E220	10	capitalized determiners	syntactic
+E221	1	random	syntactic
+E222	4	universities/mixed	semantic
+E223	9	prepositions	syntactic
+E224	7	abstract verbs	semantic
+E225	6	acronyms	syntactic
+E226	1	random	mixed
+E227	4	agents/objects	semantic
+E228	10	pronouns	syntactic
+E229	9	outcomes/abstracts	semantic
+E230	7	weather/hurricanes	semantic
+E231	4	common words	syntactic
+E232	8	function words	syntactic
+E233	10	global/international	semantic
+E234	1	random	syntactic
+E235	8	abbreviations	syntactic
+E236	10	adverbs	syntactic
+E237	9	determiners	syntactic
+E238	10	coastal/geography	semantic
+E239	9	basic verbs	syntactic
+E240	10	pronouns	syntactic
+E241	8	prepositions	syntactic
+E242	5	name fragments	semantic
+E243	7	symbols/connectors	syntactic
+E244	9	status adjectives	semantic
+E245	8	proper nouns	semantic
+E246	7	pronouns/punctuation	syntactic
+E247	9	letters/fragments	syntactic
+E248	9	positions/superlatives	semantic
+E249	9	active verbs	semantic

@@ -1,0 +1,5 @@
+I will read the instructions and data from the specified file to generate the required scoring.
+E250	5	function words	syntactic
+E251	6	suffixes	syntactic
+E252	1	unclear	mixed
+E253	8	capital letters	syntactic

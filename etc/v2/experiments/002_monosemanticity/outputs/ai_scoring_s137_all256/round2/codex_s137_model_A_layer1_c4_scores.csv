@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	6	adverbs/affixes	syntactic
+E201	7	negation terms	syntactic
+E202	4	conflict terms	mixed
+E203	3	punctuation/names	mixed
+E204	2	subword fragments	syntactic
+E205	7	process verbs	semantic
+E206	5	institutions/military	mixed
+E207	7	action verbs	syntactic
+E208	6	public actors	semantic
+E209	1	random	mixed
+E210	8	hyphens/prefixes	syntactic
+E211	10	prepositions	syntactic
+E212	9	violence terms	semantic
+E213	10	articles	syntactic
+E214	10	numbers	syntactic
+E215	8	be-forms	syntactic
+E216	8	stance verbs	semantic
+E217	2	subword fragments	syntactic
+E218	8	state-change verbs	semantic
+E219	7	road transport	semantic
+E220	9	determiners	syntactic
+E221	1	subword fragments	syntactic
+E222	3	mixed/unclear	mixed
+E223	8	prepositions	syntactic
+E224	5	abstract verbs	mixed
+E225	3	abbreviations	mixed
+E226	1	tokenization noise	mixed
+E227	4	agents/animals	mixed
+E228	10	pronouns	syntactic
+E229	8	abstract concepts	semantic
+E230	8	hurricane weather	semantic
+E231	4	capitalized words	mixed
+E232	9	function words	syntactic
+E233	9	global geography	semantic
+E234	1	subword fragments	syntactic
+E235	6	abbreviations	syntactic
+E236	9	-ly adverbs	syntactic
+E237	8	pronouns/determiners	syntactic
+E238	9	coastal geography	semantic
+E239	7	auxiliary verbs	syntactic
+E240	10	pronouns	syntactic
+E241	8	prepositions	syntactic
+E242	2	names/fragments	mixed
+E243	9	punctuation symbols	syntactic
+E244	6	descriptive adjectives	semantic
+E245	3	proper nouns	mixed
+E246	7	indefinite pronouns	mixed
+E247	3	letter chunks	syntactic
+E248	7	ranking terms	semantic
+E249	8	action verbs	semantic

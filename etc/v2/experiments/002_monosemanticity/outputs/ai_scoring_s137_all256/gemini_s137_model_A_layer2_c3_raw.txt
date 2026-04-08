@@ -1,0 +1,51 @@
+I will read the content of the specified file to understand the scoring instructions and data.
+E150	8	quantifiers/numbers	syntactic
+E151	9	temporal adjectives	semantic
+E152	10	word fragments	syntactic
+E153	4	mixed/unclear	mixed
+E154	10	transitions	syntactic
+E155	9	prepositions	syntactic
+E156	3	mixed nouns	mixed
+E157	10	proper name fragments	syntactic
+E158	8	military/history	semantic
+E159	10	determiners	syntactic
+E160	10	quotation marks	syntactic
+E161	7	punctuation/units	syntactic
+E162	7	abstract nouns	semantic
+E163	6	measurements	semantic
+E164	8	dialogue/negation	syntactic
+E165	9	punctuation/prepositions	syntactic
+E166	3	determiners/letters	syntactic
+E167	8	attribution/markers	syntactic
+E168	3	mixed/unclear	mixed
+E169	4	diverse nouns	semantic
+E170	9	measurements	semantic
+E171	10	prepositions	syntactic
+E172	10	numbers	syntactic
+E173	10	quantifiers	syntactic
+E174	10	pronouns/determiners	syntactic
+E175	2	mixed/unclear	mixed
+E176	5	verbs/fragments	mixed
+E177	8	proper nouns	semantic
+E178	4	fragments/nouns	mixed
+E179	2	random nouns	semantic
+E180	10	plural nouns	syntactic
+E181	10	years	semantic
+E182	8	history/geography	semantic
+E183	10	spatial/navigation	semantic
+E184	10	temporal/spatial	syntactic
+E185	9	verbs	syntactic
+E186	9	punctuation/conjunctions	syntactic
+E187	9	verb have	syntactic
+E188	10	punctuation	syntactic
+E189	10	connectors	syntactic
+E190	4	abstract nouns	semantic
+E191	10	determiners	syntactic
+E192	10	conjunctions	syntactic
+E193	10	proper name fragments	syntactic
+E194	6	units/symbols	mixed
+E195	8	prepositions	syntactic
+E196	9	military/organizations	semantic
+E197	10	determiners/numbers	syntactic
+E198	10	punctuation	syntactic
+E199	3	mixed	mixed

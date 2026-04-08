@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	10	the	syntactic
+E151	8	transitions	syntactic
+E152	8	syllables	syntactic
+E153	5	prefixes/mixed	mixed
+E154	8	adjectives	syntactic
+E155	10	the	syntactic
+E156	9	adverbs	syntactic
+E157	9	prepositions	syntactic
+E158	9	connectors	syntactic
+E159	10	adjectives	semantic
+E160	4	mixed/unclear	mixed
+E161	9	war/military	semantic
+E162	3	mixed/unclear	mixed
+E163	9	quantifiers	semantic
+E164	10	possessive pronouns	syntactic
+E165	10	determiners	syntactic
+E166	10	punctuation	syntactic
+E167	3	mixed/unclear	mixed
+E168	9	importance adjectives	semantic
+E169	9	spatial/tactical	semantic
+E170	10	punctuation	syntactic
+E171	8	governance	semantic
+E172	8	media/entertainment	semantic
+E173	7	verbs	syntactic
+E174	6	groups/entities	semantic
+E175	7	crises/suffixes	mixed
+E176	9	punctuation	syntactic
+E177	9	prepositions	syntactic
+E178	10	punctuation	syntactic
+E179	8	verbs	syntactic
+E180	9	adjectives	semantic
+E181	10	prepositions	syntactic
+E182	10	punctuation	syntactic
+E183	7	abstract nouns	semantic
+E184	8	transitions	syntactic
+E185	10	numbers	syntactic
+E186	7	units/titles	semantic
+E187	4	function words	syntactic
+E188	10	suffixes	syntactic
+E189	1	random	mixed
+E190	8	transitions	syntactic
+E191	8	name fragments	semantic
+E192	5	fragments/gaming	semantic
+E193	9	copula/infinitive	syntactic
+E194	9	prepositions	syntactic
+E195	9	the/both	syntactic
+E196	6	nouns	semantic
+E197	10	royal titles	semantic
+E198	7	geography/nature	semantic
+E199	5	mixed adjectives	semantic

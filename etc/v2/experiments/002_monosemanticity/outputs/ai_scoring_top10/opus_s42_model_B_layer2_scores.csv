@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	several/fellow/role	mixed
+E001	6	name-initial syllables	syntactic
+E002	7	becoming/state verbs	syntactic
+E003	8	adverbs -ly	syntactic
+E004	5	surnames	semantic
+E005	3	the/its determiners	syntactic
+E006	7	quantity words	syntactic
+E007	6	conjunctions but/and	syntactic
+E008	6	comma/punctuation	syntactic
+E009	5	place names	semantic
+E010	5	sentence-initial/temporal	mixed
+E011	5	BPE foreign syllables	syntactic
+E012	6	opening brackets/as	syntactic
+E013	6	opening brackets/money	syntactic
+E014	6	quotation marks	syntactic
+E015	4	adjectives static/hostile	mixed
+E016	5	adj similar/elaborate	mixed
+E017	5	articles a/an	syntactic
+E018	5	action verbs	mixed
+E019	4	organization names	mixed
+E020	6	HMS/whose/involving	mixed
+E021	5	adj subsequent/rapid	mixed
+E022	6	speech/testimony verbs	semantic
+E023	5	domain/activity nouns	mixed
+E024	7	measurement units	semantic
+E025	8	superlative adjectives	syntactic
+E026	4	of/from prepositions	syntactic
+E027	7	adverbs -ly negative	syntactic
+E028	5	name-initial BPE	syntactic
+E029	5	BPE word fragments	syntactic
+E030	6	location at/near	syntactic
+E031	5	articles a/an/$	syntactic
+E032	7	large numbers/codes	syntactic
+E033	6	comprising/especially	syntactic
+E034	6	movement prepositions	syntactic
+E035	5	BPE word fragments	syntactic
+E036	6	informal pronouns	syntactic
+E037	4	determiners/our	syntactic
+E038	5	geographic/New/Lower	mixed
+E039	5	adj gubernatorial/intl	mixed
+E040	5	adj stupid/wrong	mixed
+E041	4	ordinal/upper/mixed	mixed
+E042	5	discourse/quotation	syntactic
+E043	4	quotation/citing	mixed
+E044	5	media/entertainment	mixed
+E045	4	titled words mixed	mixed
+E046	4	adverb proved/merely	mixed
+E047	5	plural nouns regions	mixed
+E048	5	role/person nouns	mixed
+E049	5	sentence-initial adverbs	syntactic
+E050	3	the/federal/this	syntactic
+E051	4	mixed names/titles	mixed
+E052	7	comprising/containing	syntactic
+E053	4	mixed geo/divisions	mixed
+E054	5	cognition/reaction verbs	mixed
+E055	5	apostrophes	syntactic
+E056	5	names/places	semantic
+E057	4	adj/bonus/volunteer	mixed
+E058	7	nationality/regional adj	semantic
+E059	8	sentence-end punctuation	syntactic
+E060	5	BPE syllable fragments	syntactic
+E061	6	comparative as/like	syntactic
+E062	4	sentence-initial/using	mixed
+E063	5	BPE foreign syllables	syntactic
+E064	6	quantity/large numbers	syntactic
+E065	5	action/avoidance verbs	mixed
+E066	5	The/Both determiners	syntactic
+E067	4	nouns city/sect/parish	mixed
+E068	5	returning/transfer verbs	mixed
+E069	5	adj local/natural	mixed
+E070	4	adj distant/vast mixed	mixed
+E071	4	containing/best/mixed	mixed
+E072	6	hyphens/per/square	syntactic
+E073	5	abstract nouns action	semantic
+E074	5	surnames/names	semantic
+E075	7	sentence-end punctuation	syntactic
+E076	6	preposition for/over	syntactic
+E077	6	demonstrative such/these	syntactic
+E078	6	temporal/directional	syntactic
+E079	5	comma/closing punct	syntactic
+E080	7	first names	semantic
+E081	7	demonstratives this/that	syntactic
+E082	4	BPE abbreviations	mixed
+E083	4	adj ensuing/another	syntactic
+E084	7	sentence-end punctuation	syntactic
+E085	3	mixed titles/names	mixed
+E086	5	BPE word fragments	syntactic
+E087	4	conjunctions but/though	syntactic
+E088	7	calendar months	semantic
+E089	5	abstract nouns extent	semantic
+E090	3	the/The determiners	syntactic
+E091	5	action/ordering verbs	mixed
+E092	7	approximation/numbers	syntactic
+E093	4	BPE foreign names	mixed
+E094	4	action verbs/gerunds	mixed
+E095	6	with/alongside preps	syntactic
+E096	5	media/concept nouns	semantic
+E097	5	punctuation/est/marks	syntactic
+E098	6	modal/will verbs	syntactic
+E099	6	question/relative words	syntactic

@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	9	modal verbs	syntactic
+E001	9	surnames	semantic
+E002	7	word fragments	syntactic
+E003	8	adverbs/verbs	syntactic
+E004	9	verbs/auxiliaries	syntactic
+E005	9	conjunctions	syntactic
+E006	9	determiners	syntactic
+E007	10	punctuation	syntactic
+E008	4	mixed nouns	mixed
+E009	3	capitalized nouns	mixed
+E010	9	groups of people	semantic
+E011	10	punctuation	syntactic
+E012	8	phonetic fragments	syntactic
+E013	7	determiners	syntactic
+E014	10	prepositions	syntactic
+E015	8	comparison/prep	syntactic
+E016	10	articles	syntactic
+E017	9	past participles	syntactic
+E018	7	events/conflicts	semantic
+E019	8	verbs	syntactic
+E020	9	social roles	semantic
+E021	10	punctuation	syntactic
+E022	8	action verbs	semantic
+E023	9	names	semantic
+E024	10	determiners	syntactic
+E025	9	word prefixes	syntactic
+E026	8	punctuation/symbols	syntactic
+E027	3	mixed punctuation	mixed
+E028	8	states/events	semantic
+E029	9	tech prefixes	semantic
+E030	6	attribution	mixed
+E031	9	determiners	syntactic
+E032	10	conjunctions	syntactic
+E033	10	symbols	syntactic
+E034	5	writing fragments	syntactic
+E035	10	period	syntactic
+E036	9	dates/time	semantic
+E037	9	abstract nouns	semantic
+E038	8	prepositions	syntactic
+E039	4	capitalized fragments	mixed
+E040	9	negative adjectives	semantic
+E041	10	possessives	syntactic
+E042	9	infrastructure	semantic
+E043	9	prepositions	syntactic
+E044	3	mixed fragments	mixed
+E045	4	phonetic fragments	syntactic
+E046	10	biology/nature	semantic
+E047	9	adjectives	syntactic
+E048	10	determiners	syntactic
+E049	4	mixed determiners	mixed
+E050	10	direction/location	semantic
+E051	8	adverbs/verbs	syntactic
+E052	9	determiners/adjectives	syntactic
+E053	10	position/movement	semantic
+E054	8	acronyms	semantic
+E055	9	titles/letters	syntactic
+E056	10	pronouns	syntactic
+E057	8	word fragments	syntactic
+E058	9	measurements	semantic
+E059	9	abstract nouns	semantic
+E060	10	societal/geopolitical	semantic
+E061	10	temporal terms	semantic
+E062	8	action verbs	semantic
+E063	9	verbs	syntactic
+E064	9	units/quantities	semantic
+E065	10	numbers	syntactic
+E066	10	prepositions	syntactic
+E067	10	prepositions	syntactic
+E068	6	military/history	semantic
+E069	8	location/manner	semantic
+E070	10	possessives	syntactic
+E071	9	conjunctions/prep	syntactic
+E072	9	word fragments	syntactic
+E073	10	years	semantic
+E074	9	historical dates	semantic
+E075	10	punctuation	syntactic
+E076	10	quantifiers	syntactic
+E077	9	media/performance	semantic
+E078	10	adverbs	syntactic
+E079	9	punctuation	syntactic
+E080	9	prepositions	syntactic
+E081	9	dashes	syntactic
+E082	10	numbers	syntactic
+E083	9	plural nouns	semantic
+E084	9	quantifiers	syntactic
+E085	10	punctuation	syntactic
+E086	9	verbs	syntactic
+E087	8	name fragments	syntactic
+E088	10	sports	semantic
+E089	8	abstract nouns	semantic
+E090	6	location/biology	semantic
+E091	10	adverbs	syntactic
+E092	9	static verbs	syntactic
+E093	10	prepositions	syntactic
+E094	4	mixed nouns	mixed
+E095	10	punctuation	syntactic
+E096	10	media	semantic
+E097	10	adverbs	syntactic
+E098	10	temporal adjectives	semantic
+E099	8	inclusion/punctuation	mixed

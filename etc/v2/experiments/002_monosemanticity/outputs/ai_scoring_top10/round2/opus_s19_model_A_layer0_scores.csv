@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	sentence starters	syntactic
+E001	7	BPE prefixes	syntactic
+E002	7	becoming verbs	syntactic
+E003	8	adverbs -ly	syntactic
+E004	5	proper names	mixed
+E005	3	determiners	syntactic
+E006	8	quantifier words	syntactic
+E007	6	conjunctions	syntactic
+E008	7	punctuation	syntactic
+E009	6	place names	mixed
+E010	5	temporal starters	mixed
+E011	4	BPE fragments	mixed
+E012	5	parenthetical	syntactic
+E013	6	parenthetical	syntactic
+E014	5	quotation punct	syntactic
+E015	4	adj/mixed	mixed
+E016	6	adj descriptive	mixed
+E017	5	articles	syntactic
+E018	5	action verbs	mixed
+E019	4	proper nouns	mixed
+E020	6	prepositions	syntactic
+E021	5	ensuing/this	syntactic
+E022	6	cognitive verbs	mixed
+E023	5	media/entertain	mixed
+E024	8	measurement units	semantic
+E025	8	superlatives	syntactic
+E026	5	of/preposition	syntactic
+E027	8	adverbs -ly	syntactic
+E028	5	name fragments	mixed
+E029	6	BPE fragments	mixed
+E030	7	at/near preps	syntactic
+E031	4	article a	syntactic
+E032	7	three-digit numbers	syntactic
+E033	6	comprising/except	syntactic
+E034	6	directional preps	syntactic
+E035	7	BPE fragments	syntactic
+E036	6	informal pronouns	mixed
+E037	5	determiners	syntactic
+E038	5	name prefixes	mixed
+E039	6	adj/political	mixed
+E040	5	negative adj	mixed
+E041	5	ordinal/upper	mixed
+E042	5	punct/misc	mixed
+E043	4	quotation/misc	mixed
+E044	6	media/creative	semantic
+E045	5	title words	mixed
+E046	5	discourse adverbs	mixed
+E047	5	plural nouns	mixed
+E048	5	component/nouns	mixed
+E049	6	sentence starters	syntactic
+E050	4	determiners	syntactic
+E051	4	mixed/unclear	mixed
+E052	7	comprising/feat	syntactic
+E053	4	proper nouns	mixed
+E054	6	cognitive verbs	mixed
+E055	5	apostrophes	syntactic
+E056	6	proper names	mixed
+E057	6	adj potential	mixed
+E058	7	nationality adj	semantic
+E059	8	sentence-end punct	syntactic
+E060	6	BPE fragments	syntactic
+E061	5	as/comparison	syntactic
+E062	5	verbs/starters	mixed
+E063	6	BPE suffixes	syntactic
+E064	6	quantifiers	syntactic
+E065	5	action verbs	mixed
+E066	5	determiners	syntactic
+E067	4	mixed nouns	mixed
+E068	5	returning/trans	mixed
+E069	5	adj/various	mixed
+E070	5	adj/mixed	mixed
+E071	6	containing/with	syntactic
+E072	7	hyphens/dashes	syntactic
+E073	5	abstract nouns	mixed
+E074	5	proper names	mixed
+E075	8	sentence-end punct	syntactic
+E076	5	for/preposition	syntactic
+E077	7	demonstratives	syntactic
+E078	6	prepositions	syntactic
+E079	5	punctuation	syntactic
+E080	7	first names	semantic
+E081	7	demonstratives	syntactic
+E082	4	BPE fragments	mixed
+E083	5	sentence starters	syntactic
+E084	7	sentence-end punct	syntactic
+E085	4	capitalized words	mixed
+E086	7	BPE fragments	syntactic
+E087	5	conjunctions	mixed
+E088	7	months/dates	semantic
+E089	4	abstract nouns	mixed
+E090	3	determiners	syntactic
+E091	5	action verbs	mixed
+E092	7	approximate	syntactic
+E093	4	BPE fragments	mixed
+E094	4	action verbs	mixed
+E095	6	with/alongside	syntactic
+E096	5	creative nouns	mixed
+E097	5	punctuation	mixed
+E098	7	modal verbs	syntactic
+E099	6	question/relative	syntactic

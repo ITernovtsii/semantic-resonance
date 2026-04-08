@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	abstract nouns	semantic
+E001	4	mixed codes endings	mixed
+E002	4	title compound words	mixed
+E003	5	proper noun titles	mixed
+E004	6	movement verbs	syntactic
+E005	3	punctuation comma	syntactic
+E006	5	mixed nouns verbs	mixed
+E007	7	title role nouns	semantic
+E008	5	coordinating conj	syntactic
+E009	3	determiners	syntactic
+E010	6	modal auxiliary	syntactic
+E011	5	mixed verbs reviews	mixed
+E012	5	BPE consonant clusters	syntactic
+E013	5	sentence starters	syntactic
+E014	5	pre-nominal adjectives	syntactic
+E015	6	action movement verbs	syntactic
+E016	6	action infinitive verbs	syntactic
+E017	7	degree adverbs	syntactic
+E018	4	mixed nouns dates	mixed
+E019	6	proper noun modifiers	mixed
+E020	4	quotation informal	syntactic
+E021	5	spatial prepositions	syntactic
+E022	7	chart ranking	semantic
+E023	5	copular stative verbs	syntactic
+E024	5	plural nouns	syntactic
+E025	5	prepositions	syntactic
+E026	5	ordinal determiners	syntactic
+E027	5	mixed speech said	mixed
+E028	3	determiners	syntactic
+E029	5	participial verbs	syntactic
+E030	4	BPE word stems	syntactic
+E031	5	discourse subordinators	syntactic
+E032	6	descriptive adjectives	syntactic
+E033	7	temporal prepositions	syntactic
+E034	4	hyphen dash	syntactic
+E035	5	temporal adjectives	mixed
+E036	4	BPE name prefixes	syntactic
+E037	5	manner adverbs	syntactic
+E038	7	numbers quantities	syntactic
+E039	5	temporal adjectives	syntactic
+E040	2	mixed fragments	mixed
+E041	4	mixed proper nouns	mixed
+E042	5	physical adjectives	mixed
+E043	5	plural nouns	syntactic
+E044	7	materials colors	semantic
+E045	5	proper place names	mixed
+E046	5	action competition verbs	mixed
+E047	5	adverbs copular	syntactic
+E048	4	BPE syllables	syntactic
+E049	5	geographic place nouns	mixed
+E050	5	singular object nouns	mixed
+E051	6	media entertainment	semantic
+E052	4	military nationality	mixed
+E053	7	BPE consonant clusters	syntactic
+E054	6	discourse adverbs	syntactic
+E055	4	codes abbreviations	syntactic
+E056	5	pronouns discourse	syntactic
+E057	4	geographic place nouns	mixed
+E058	5	proper nouns names	mixed
+E059	5	BPE syllables	syntactic
+E060	5	plural nouns	mixed
+E061	4	determiners	syntactic
+E062	5	mixed proper nouns	mixed
+E063	4	mixed titles BPE	mixed
+E064	1	single comma	syntactic
+E065	5	proper noun titles	mixed
+E066	7	single capital letters	syntactic
+E067	6	media adjectives	mixed
+E068	4	BPE name parts	syntactic
+E069	3	mixed fragments	mixed
+E070	5	singular nouns	mixed
+E071	4	mixed verbs nouns	mixed
+E072	4	BPE name prefixes	syntactic
+E073	2	mixed low PMI	mixed
+E074	5	punctuation marks	syntactic
+E075	6	numbers	syntactic
+E076	5	surnames proper	semantic
+E077	6	cognitive verbs	syntactic
+E078	4	conjunction plus	syntactic
+E079	5	modal auxiliary	syntactic
+E080	5	plural group nouns	syntactic
+E081	5	prepositions among	syntactic
+E082	5	BPE word stems	syntactic
+E083	4	determiners	syntactic
+E084	4	sentence endings	syntactic
+E085	5	abstract nouns	mixed
+E086	5	mixed proper nouns	mixed
+E087	6	proper noun modifiers	mixed
+E088	5	BPE morphemes	syntactic
+E089	4	possessive determiners	syntactic
+E090	4	conjunction discourse	syntactic
+E091	5	currency symbols	syntactic
+E092	5	ordinal media	mixed
+E093	5	sentence endings	syntactic
+E094	5	mixed nouns	mixed
+E095	4	BPE syllables	syntactic
+E096	6	on preposition	syntactic
+E097	5	evaluative adjectives	syntactic
+E098	6	ordinal determiners	syntactic
+E099	5	that which clause	syntactic

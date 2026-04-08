@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	past verbs	syntactic
+E001	8	conjunctions/prepositions	syntactic
+E002	9	determiners	syntactic
+E003	10	quantifiers/relation	syntactic
+E004	3	mixed/unclear	mixed
+E005	9	relative pronouns	syntactic
+E006	9	capitalized starters	syntactic
+E007	6	letters/prefixes	syntactic
+E008	9	plural nouns	syntactic
+E009	8	abstract nouns	semantic
+E010	4	fragments/noise	syntactic
+E011	9	capitalized starters	syntactic
+E012	8	connectives	syntactic
+E013	9	male names	semantic
+E014	8	verbs	syntactic
+E015	10	punctuation	syntactic
+E016	10	adjectives/quantity	semantic
+E017	4	land	mixed
+E018	2	mixed/unclear	mixed
+E019	1	random	mixed
+E020	10	verbs	syntactic
+E021	9	punctuation/dashes	syntactic
+E022	10	weather/disasters	semantic
+E023	9	feminine pronouns	syntactic
+E024	9	letters	syntactic
+E025	1	random	mixed
+E026	7	functional words	syntactic
+E027	7	years/relations	mixed
+E028	10	law/politics	semantic
+E029	3	articles	syntactic
+E030	4	fragments/foreign	mixed
+E031	7	prepositions	syntactic
+E032	10	numbers	syntactic
+E033	5	mixed/verbs	mixed
+E034	9	particles	syntactic
+E035	10	statistics/measures	semantic
+E036	6	naming/quotes	syntactic
+E037	7	determiners	syntactic
+E038	9	punctuation	syntactic
+E039	10	past verbs	syntactic
+E040	1	random	mixed
+E041	9	proper nouns	semantic
+E042	1	random	mixed
+E043	6	prepositions	syntactic
+E044	8	proper nouns/entities	semantic
+E045	10	transitions	syntactic
+E046	8	adjectives/verbs	semantic
+E047	7	directionals	syntactic
+E048	9	pronouns/possessives	syntactic
+E049	10	prepositions/path	syntactic
+E050	9	years/acronyms	mixed
+E051	2	random	mixed
+E052	5	relative clauses	syntactic
+E053	9	fragments	syntactic
+E054	1	random	mixed
+E055	7	creation verbs	semantic
+E056	7	possessives	syntactic
+E057	3	mixed	mixed
+E058	1	random	mixed
+E059	8	countries/politics	semantic
+E060	8	formal/research	semantic
+E061	8	song titles	semantic
+E062	5	relational words	mixed
+E063	10	national adjectives	semantic
+E064	9	fragments	syntactic
+E065	9	colors/directions	semantic
+E066	3	mixed	mixed
+E067	9	adverbs/prepositions	syntactic
+E068	10	capitalized starters	syntactic
+E069	8	call variations	mixed
+E070	7	apostrophes	syntactic
+E071	9	conjunctions	syntactic
+E072	3	mixed	mixed
+E073	7	numerals/letters	syntactic
+E074	10	naval engineering	semantic
+E075	10	capitalized fragments	syntactic
+E076	10	quantifiers	syntactic
+E077	7	abbreviations	syntactic
+E078	10	cognition/speech	semantic
+E079	8	suffixes	syntactic
+E080	9	punctuation	syntactic
+E081	10	transitions/temporal	syntactic
+E082	3	mixed	mixed
+E083	8	capitalized starters	syntactic
+E084	9	punctuation	syntactic
+E085	9	fragments	syntactic
+E086	8	numbers/years	mixed
+E087	4	mixed	mixed
+E088	4	functional	syntactic
+E089	9	quantity words	semantic
+E090	9	prepositions	syntactic
+E091	1	random	mixed
+E092	10	fragments	syntactic
+E093	10	spatial relations	syntactic
+E094	10	sports/competition	semantic
+E095	7	colors/quantifiers	mixed
+E096	2	mixed	mixed
+E097	1	random	mixed
+E098	3	mixed	mixed
+E099	6	functional words	syntactic

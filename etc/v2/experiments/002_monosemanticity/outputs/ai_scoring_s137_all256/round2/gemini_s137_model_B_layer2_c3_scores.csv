@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	6	people/groups	semantic
+E151	10	punctuation	syntactic
+E152	5	abstract nouns	semantic
+E153	6	domains/activities	semantic
+E154	3	mixed	mixed
+E155	10	prepositions	syntactic
+E156	5	parts/roles	semantic
+E157	2	random	mixed
+E158	10	names	semantic
+E159	2	common words	syntactic
+E160	7	relatives/adverbs	syntactic
+E161	10	punctuation	syntactic
+E162	7	spatial/quantities	semantic
+E163	5	verbs	syntactic
+E164	10	punctuation	syntactic
+E165	2	mixed	mixed
+E166	10	punctuation	syntactic
+E167	3	word fragments	syntactic
+E168	8	connectives	syntactic
+E169	10	possessives	syntactic
+E170	9	temporal adjectives	semantic
+E171	2	mixed fragments	mixed
+E172	6	abstract nouns	semantic
+E173	7	quantities/structure	semantic
+E174	9	punctuation	syntactic
+E175	10	possessives	syntactic
+E176	10	conjunctions	syntactic
+E177	3	fragments	syntactic
+E178	8	verbs	syntactic
+E179	9	determiners	syntactic
+E180	7	-ing forms	syntactic
+E181	9	quantifiers/indefinites	semantic
+E182	8	connectives	syntactic
+E183	7	punctuation/mixed	mixed
+E184	5	names/places	semantic
+E185	10	adverbs	syntactic
+E186	3	fragments	syntactic
+E187	9	adjectives	syntactic
+E188	5	nouns	semantic
+E189	4	capitalized fragments	syntactic
+E190	3	mixed	mixed
+E191	8	auxiliaries/adverbs	syntactic
+E192	4	capitalized fragments	syntactic
+E193	10	prepositions	syntactic
+E194	4	mixed symbols	mixed
+E195	10	quantifiers	semantic
+E196	6	history/geography	semantic
+E197	10	prepositions	syntactic
+E198	8	connectives	syntactic
+E199	3	mixed roots	mixed

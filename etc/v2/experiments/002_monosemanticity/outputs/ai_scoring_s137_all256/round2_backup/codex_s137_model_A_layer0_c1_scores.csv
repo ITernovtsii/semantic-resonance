@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	8	particles/prepositions	syntactic
+E051	7	discourse starters	syntactic
+E052	6	prepositions/function	mixed
+E053	3	subword/punctuation	mixed
+E054	8	articles/numbers	syntactic
+E055	2	random proper nouns	mixed
+E056	8	military conflict	semantic
+E057	7	dates/time	semantic
+E058	8	past-tense verbs	syntactic
+E059	8	logical adverbs	semantic
+E060	7	auxiliary verbs	syntactic
+E061	2	random fragments	mixed
+E062	6	geopolitics/history	semantic
+E063	3	mixed tokens	mixed
+E064	7	contraction fragments	syntactic
+E065	6	part/position	mixed
+E066	2	random nouns	mixed
+E067	6	prepositions	syntactic
+E068	4	punctuation/numbers	mixed
+E069	7	suffix fragments	syntactic
+E070	9	punctuation patterns	syntactic
+E071	10	sentence punctuation	syntactic
+E072	6	adjectives	syntactic
+E073	3	mixed fragments	mixed
+E074	8	temporal sequence	semantic
+E075	5	function words	syntactic
+E076	8	action verbs	syntactic
+E077	10	quote punctuation	syntactic
+E078	5	adjective mix	mixed
+E079	9	prepositions	syntactic
+E080	7	place-name parts	semantic
+E081	3	symbol/color mix	mixed
+E082	2	random mix	mixed
+E083	9	discourse adverbs	semantic
+E084	9	male pronouns	syntactic
+E085	3	mixed function words	mixed
+E086	4	abbrev/ordinals	mixed
+E087	9	auxiliary/modals	syntactic
+E088	5	single preposition	syntactic
+E089	4	concrete nouns	mixed
+E090	8	determiners/pronouns	syntactic
+E091	4	mixed lexical	mixed
+E092	9	parentheses/quotes	syntactic
+E093	2	random fragments	mixed
+E094	8	time words	semantic
+E095	2	random mix	mixed
+E096	7	capital abbreviations	syntactic
+E097	8	onset clusters	syntactic
+E098	1	random noise	mixed
+E099	6	action/process verbs	semantic

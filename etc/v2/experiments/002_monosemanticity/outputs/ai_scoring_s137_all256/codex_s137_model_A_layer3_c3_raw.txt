@@ -1,0 +1,50 @@
+E150	3	mixed/unclear	mixed
+E151	10	first names	semantic
+E152	8	subword fragments	syntactic
+E153	9	numbers/quantities	syntactic
+E154	5	adverbs/state	mixed
+E155	7	containment	semantic
+E156	7	plural group nouns	syntactic
+E157	3	mixed/unclear	mixed
+E158	2	mixed/unclear	mixed
+E159	8	military/conflict	semantic
+E160	10	deictic word	syntactic
+E161	10	punctuation	syntactic
+E162	9	modal verbs	syntactic
+E163	5	mixed/unclear	mixed
+E164	9	quantifiers/determiners	syntactic
+E165	8	political-military	semantic
+E166	9	demonstratives	syntactic
+E167	7	fortification/space	semantic
+E168	8	usage/procedure	semantic
+E169	7	subword fragments	syntactic
+E170	4	mixed/unclear	mixed
+E171	7	spatial positions	semantic
+E172	6	organizations/acronyms	semantic
+E173	8	action verbs	syntactic
+E174	9	verb forms	syntactic
+E175	4	mixed/unclear	mixed
+E176	10	temporal connectives	syntactic
+E177	10	punctuation	syntactic
+E178	3	mixed/unclear	mixed
+E179	4	title words	mixed
+E180	9	music descriptors	semantic
+E181	7	progress/process	semantic
+E182	8	symbols/abbrev	syntactic
+E183	2	mixed/unclear	mixed
+E184	8	appointments/office	semantic
+E185	8	reporting reactions	semantic
+E186	7	name fragments	syntactic
+E187	8	proper names	semantic
+E188	4	mixed/unclear	mixed
+E189	5	composition terms	mixed
+E190	10	punctuation	syntactic
+E191	10	punctuation	syntactic
+E192	9	function words	syntactic
+E193	8	subword fragments	syntactic
+E194	9	be-verbs	syntactic
+E195	7	comparison/connectives	syntactic
+E196	9	celebrity reputation	semantic
+E197	7	function words	syntactic
+E198	10	punctuation	syntactic
+E199	9	measurements/numbers	syntactic

@@ -1,0 +1,50 @@
+E200	6	adverbs/affixes	syntactic
+E201	5	negation/misc	mixed
+E202	6	conflict/force	semantic
+E203	3	punctuation/names	mixed
+E204	2	subword fragments	syntactic
+E205	7	process verbs	semantic
+E206	6	military/national	semantic
+E207	7	action verbs	semantic
+E208	6	institutions/reporting	semantic
+E209	2	random mixed	mixed
+E210	8	hyphens/prefixes	syntactic
+E211	10	prepositions	syntactic
+E212	9	violence/injury	semantic
+E213	10	articles	syntactic
+E214	10	numbers	syntactic
+E215	9	be-forms	syntactic
+E216	8	evaluation verbs	semantic
+E217	2	subword fragments	syntactic
+E218	8	state-change verbs	semantic
+E219	7	road/transport	semantic
+E220	10	determiners	syntactic
+E221	2	subword fragments	syntactic
+E222	4	mixed entities	mixed
+E223	8	prepositions	syntactic
+E224	6	abstract verbs	semantic
+E225	3	abbrev/names	mixed
+E226	1	tokenization noise	syntactic
+E227	6	crime/security	semantic
+E228	10	pronouns	syntactic
+E229	8	abstract concepts	semantic
+E230	7	weather/storm	semantic
+E231	6	question words	syntactic
+E232	9	function words	syntactic
+E233	9	global/international	semantic
+E234	1	subword noise	syntactic
+E235	7	abbreviations	syntactic
+E236	9	adverbs	syntactic
+E237	9	pronouns/determiners	syntactic
+E238	9	geography/coast	semantic
+E239	7	common verbs	semantic
+E240	10	pronouns	syntactic
+E241	8	prepositions	syntactic
+E242	3	names/fragments	mixed
+E243	9	symbols/connectors	syntactic
+E244	7	descriptive adjectives	semantic
+E245	3	proper nouns	mixed
+E246	8	indefinite pronouns	syntactic
+E247	3	short fragments	syntactic
+E248	8	ranking/position	semantic
+E249	8	action verbs	semantic

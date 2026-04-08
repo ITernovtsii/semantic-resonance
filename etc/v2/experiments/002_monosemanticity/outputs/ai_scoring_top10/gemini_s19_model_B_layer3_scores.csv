@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	quantities/descriptors	semantic
+E001	3	conversational/mixed	mixed
+E002	3	mixed/adjectives	mixed
+E003	9	communication/reporting	semantic
+E004	9	modal verbs	syntactic
+E005	7	conjunctions/adverbs	syntactic
+E006	4	names/fragments	semantic
+E007	6	initials/pairs	syntactic
+E008	5	titles/classification	mixed
+E009	4	names/mixed	mixed
+E010	3	mixed/unclear	mixed
+E011	5	phonetic fragments	syntactic
+E012	8	relative pronouns	syntactic
+E013	7	sports/awards	semantic
+E014	10	punctuation	syntactic
+E015	2	word fragments	mixed
+E016	7	competition/sports	semantic
+E017	10	modal verbs	syntactic
+E018	8	determiners	syntactic
+E019	4	military/mixed	mixed
+E020	8	military/command	semantic
+E021	6	descriptors/relative	semantic
+E022	7	adverbs/hedging	syntactic
+E023	5	organizational/corporate	semantic
+E024	3	mixed/common	mixed
+E025	6	years/articles	syntactic
+E026	9	prepositions	syntactic
+E027	9	legal/procedural	semantic
+E028	3	mixed/unclear	mixed
+E029	9	activity verbs	semantic
+E030	7	military/official	semantic
+E031	3	mixed/common	mixed
+E032	10	punctuation	syntactic
+E033	8	action/political	semantic
+E034	8	social processes	semantic
+E035	6	determiners/adjectives	syntactic
+E036	9	determiners/pronouns	syntactic
+E037	8	evaluative adjectives	semantic
+E038	6	superlatives/punctuation	mixed
+E039	4	name fragments	semantic
+E040	8	historical/geographic	semantic
+E041	7	punctuation/symbols	syntactic
+E042	5	environmental/technical	semantic
+E043	10	ethnic/groups	semantic
+E044	3	mixed/scripts	mixed
+E045	7	names/suffixes	semantic
+E046	5	scientific roots	semantic
+E047	5	verbs/locations	mixed
+E048	8	historical/political	semantic
+E049	6	word roots	semantic
+E050	5	descriptive/mixed	mixed
+E051	7	history/geography	semantic
+E052	10	relational verbs	semantic
+E053	10	adverbs	syntactic
+E054	7	evaluative/descriptive	semantic
+E055	8	evaluative/associative	semantic
+E056	8	temporal/descriptive	semantic
+E057	10	prepositions/temporal	syntactic
+E058	9	competition/conflict	semantic
+E059	9	possessive pronouns	syntactic
+E060	3	mixed/codes	mixed
+E061	10	societal adjectives	semantic
+E062	10	numbers/quantities	syntactic
+E063	10	numbers	syntactic
+E064	7	legal/precautionary	semantic
+E065	9	plural roles	semantic
+E066	7	organizational names	semantic
+E067	10	ordinal numbers	syntactic
+E068	7	modals/mixed	syntactic
+E069	10	transition adverbs	syntactic
+E070	8	action verbs	semantic
+E071	10	arts/media	semantic
+E072	5	mixed/sports	mixed
+E073	10	determiners/quantifiers	syntactic
+E074	4	word roots	semantic
+E075	5	academic/historical	mixed
+E076	7	adverbs/verbs	syntactic
+E077	8	geography/governance	semantic
+E078	9	conjunctions/prepositions	syntactic
+E079	8	plural nouns	semantic
+E080	5	verbs/mixed	mixed
+E081	4	official/units	mixed
+E082	8	punctuation	syntactic
+E083	5	formal terms	mixed
+E084	7	temporal/hierarchical	semantic
+E085	7	verbs	semantic
+E086	6	symbols/punctuation	syntactic
+E087	10	punctuation	syntactic
+E088	7	infrastructure/transport	semantic
+E089	10	reporting verbs	semantic
+E090	6	nouns/processes	semantic
+E091	9	prepositions/articles	syntactic
+E092	7	articles/noise	syntactic
+E093	9	adverbs/auxiliary	syntactic
+E094	10	punctuation/titles	syntactic
+E095	4	descriptive/mixed	mixed
+E096	4	word roots	semantic
+E097	4	mixed/unclear	mixed
+E098	10	naval/military	semantic
+E099	9	pronouns/nouns	semantic

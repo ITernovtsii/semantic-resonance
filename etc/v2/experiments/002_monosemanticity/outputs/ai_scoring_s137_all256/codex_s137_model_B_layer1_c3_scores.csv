@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	8	legal testimony	semantic
+E151	5	places/facilities	semantic
+E152	9	first names	semantic
+E153	10	prepositions	syntactic
+E154	4	mixed geography	mixed
+E155	2	random fragments	mixed
+E156	10	conjunctions	syntactic
+E157	8	auxiliary verbs	syntactic
+E158	5	punctuation mix	mixed
+E159	10	punctuation	syntactic
+E160	8	game design	semantic
+E161	9	directional prepositions	syntactic
+E162	10	articles	syntactic
+E163	4	pronouns ordinals	mixed
+E164	9	sports terms	semantic
+E165	8	letters numerals	syntactic
+E166	8	demonstratives	syntactic
+E167	10	punctuation	syntactic
+E168	9	indefinite pronouns	syntactic
+E169	8	ordinals	syntactic
+E170	3	numbers mix	mixed
+E171	3	name fragments	mixed
+E172	10	prepositions	syntactic
+E173	6	names places	semantic
+E174	9	prepositions	syntactic
+E175	7	articles tokens	syntactic
+E176	9	punctuation	syntactic
+E177	10	prepositions	syntactic
+E178	9	subword fragments	syntactic
+E179	8	institutions venues	semantic
+E180	2	random fragments	mixed
+E181	3	proper fragments	mixed
+E182	7	plural nouns	syntactic
+E183	6	social roles	semantic
+E184	5	ordinals superlatives	mixed
+E185	9	prepositions	syntactic
+E186	8	prepositions	syntactic
+E187	6	demographic descriptors	semantic
+E188	8	place names	semantic
+E189	7	action verbs	semantic
+E190	8	determiners	syntactic
+E191	9	determiners	syntactic
+E192	7	action verbs	syntactic
+E193	7	verb forms	syntactic
+E194	9	suffix fragments	syntactic
+E195	9	given names	semantic
+E196	10	prepositions	syntactic
+E197	6	process terms	semantic
+E198	8	subword fragments	syntactic
+E199	3	mixed proper	mixed

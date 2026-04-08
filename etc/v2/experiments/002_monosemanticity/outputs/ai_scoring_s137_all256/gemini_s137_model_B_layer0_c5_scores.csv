@@ -1,0 +1,4 @@
+expert_id	score	category	type
+E250	5	online medical	semantic
+E251	2	religious titles	semantic
+E252	9	subword fragments	syntactic

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	people roles	semantic
+E001	2	bpe fragments	mixed
+E002	8	copula verbs	syntactic
+E003	9	adverbs	mixed
+E004	9	proper names	semantic
+E005	9	articles	syntactic
+E006	10	quantifiers	mixed
+E007	9	conjunctions	syntactic
+E008	9	punctuation	syntactic
+E009	8	place names	semantic
+E010	7	time markers	semantic
+E011	2	bpe fragments	mixed
+E012	6	brackets quotes	syntactic
+E013	10	brackets	syntactic
+E014	10	quotation marks	syntactic
+E015	8	adjectives	syntactic
+E016	9	adjectives	syntactic
+E017	7	determiners	syntactic
+E018	8	process verbs	semantic
+E019	7	geopolitical terms	semantic
+E020	5	prepositions mixed	mixed
+E021	7	sequence terms	mixed
+E022	9	speech cognition	semantic
+E023	4	mixed topics	mixed
+E024	8	measurements	semantic
+E025	9	superlatives ordinals	syntactic
+E026	10	prepositions	syntactic
+E027	10	ly adverbs	syntactic
+E028	1	bpe fragments	mixed
+E029	1	bpe fragments	mixed
+E030	9	locative preps	syntactic
+E031	9	articles	syntactic
+E032	10	numbers	syntactic
+E033	7	inclusion markers	syntactic
+E034	8	spatial preps	syntactic
+E035	1	bpe fragments	mixed
+E036	8	pronouns contractions	syntactic
+E037	7	function words	syntactic
+E038	5	geo modifiers	mixed
+E039	8	attributive adjectives	syntactic
+E040	9	adjectives	syntactic
+E041	6	ordinals directions	mixed
+E042	7	punctuation discourse	syntactic
+E043	8	quotes punctuation	syntactic
+E044	8	media arts	semantic
+E045	4	title words	mixed
+E046	6	auxiliary verbs	syntactic
+E047	8	plural groups	semantic
+E048	7	entity nouns	semantic
+E049	10	connectives	syntactic
+E050	9	articles	syntactic
+E051	2	mixed fragments	mixed
+E052	9	composition verbs	semantic
+E053	6	places institutions	semantic
+E054	8	cognition verbs	semantic
+E055	10	apostrophes	syntactic
+E056	9	proper names	semantic
+E057	4	mixed descriptors	mixed
+E058	9	demonyms	semantic
+E059	10	punctuation	syntactic
+E060	1	char fragments	mixed
+E061	8	comparison words	syntactic
+E062	6	clause markers	mixed
+E063	1	bpe fragments	mixed
+E064	9	quantifiers	syntactic
+E065	8	prepositions	syntactic
+E066	9	demonstratives	syntactic
+E067	4	mixed nouns	mixed
+E068	8	transition verbs	semantic
+E069	8	adjectives	syntactic
+E070	8	adjectives	syntactic
+E071	3	mixed function	mixed
+E072	9	hyphen units	syntactic
+E073	8	conflict terms	semantic
+E074	7	proper names	semantic
+E075	10	punctuation	syntactic
+E076	10	prepositions	syntactic
+E077	8	pronouns demonstratives	syntactic
+E078	8	prepositions motion	syntactic
+E079	10	punctuation	syntactic
+E080	10	given names	semantic
+E081	10	demonstratives	syntactic
+E082	1	subword clusters	mixed
+E083	7	determiners sequence	syntactic
+E084	10	punctuation	syntactic
+E085	6	institution names	semantic
+E086	2	subword morphemes	syntactic
+E087	6	conjunctions years	mixed
+E088	9	dates months	semantic
+E089	7	event outcomes	semantic
+E090	10	articles	syntactic
+E091	8	causative verbs	semantic
+E092	8	approximation terms	semantic
+E093	1	bpe fragments	mixed
+E094	8	action verbs	semantic
+E095	9	with preposition	syntactic
+E096	9	media narrative	semantic
+E097	8	ellipsis punctuation	syntactic
+E098	9	modal verbs	syntactic
+E099	9	wh words	syntactic

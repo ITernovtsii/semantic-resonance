@@ -1,0 +1,100 @@
+E000	4	mixed/unclear	mixed
+E001	7	verb forms	syntactic
+E002	10	prepositions	syntactic
+E003	5	mixed/unclear	mixed
+E004	1	subword fragments	mixed
+E005	6	action verbs	semantic
+E006	9	clause markers	syntactic
+E007	2	mixed/unclear	mixed
+E008	9	prepositions	syntactic
+E009	3	name fragments	mixed
+E010	9	geography	semantic
+E011	8	personal names	semantic
+E012	5	verb forms	syntactic
+E013	10	to/into	syntactic
+E014	7	reporting markers	syntactic
+E015	4	titles/roles	mixed
+E016	8	clause markers	syntactic
+E017	6	abstract concepts	semantic
+E018	9	entry/motion	semantic
+E019	2	mixed/unclear	mixed
+E020	1	subword fragments	mixed
+E021	2	mixed/unclear	mixed
+E022	8	punctuation/connectors	syntactic
+E023	3	mixed nouns	mixed
+E024	9	prepositions	syntactic
+E025	8	possessives	syntactic
+E026	2	mixed/unclear	mixed
+E027	8	abstract nouns	semantic
+E028	7	institutions	semantic
+E029	8	names/media	semantic
+E030	7	proper nouns	semantic
+E031	8	prepositions	syntactic
+E032	3	mixed/unclear	mixed
+E033	10	punctuation	syntactic
+E034	4	mixed/unclear	mixed
+E035	6	process verbs	syntactic
+E036	8	abstract nouns	semantic
+E037	9	punctuation	syntactic
+E038	3	mixed/unclear	mixed
+E039	7	progress actions	semantic
+E040	10	conjunctions	syntactic
+E041	9	conjunctions	syntactic
+E042	9	possessives	syntactic
+E043	2	mixed/unclear	mixed
+E044	9	discourse adverbs	syntactic
+E045	7	referential terms	mixed
+E046	1	subword fragments	mixed
+E047	9	symbols/numbers	syntactic
+E048	7	physical parts	semantic
+E049	8	function words	syntactic
+E050	7	verb participles	syntactic
+E051	6	plural nouns	mixed
+E052	7	function words	syntactic
+E053	2	subword fragments	mixed
+E054	9	wh-clauses	syntactic
+E055	8	stance adverbs	syntactic
+E056	9	punctuation	syntactic
+E057	7	communication verbs	semantic
+E058	3	mixed/unclear	mixed
+E059	3	name fragments	mixed
+E060	6	proper nouns	mixed
+E061	3	mixed/unclear	mixed
+E062	9	clause connectives	syntactic
+E063	2	subword fragments	mixed
+E064	8	definite article	syntactic
+E065	5	military units	mixed
+E066	9	prepositions	syntactic
+E067	9	punctuation	syntactic
+E068	9	prepositions	syntactic
+E069	10	temporal markers	syntactic
+E070	6	nonlatin symbols	mixed
+E071	6	names/fragments	mixed
+E072	5	geography mixed	mixed
+E073	10	punctuation	syntactic
+E074	4	proper nouns	mixed
+E075	6	descriptors	mixed
+E076	1	subword fragments	mixed
+E077	4	proper nouns	mixed
+E078	7	physical features	semantic
+E079	10	indefinite pronouns	syntactic
+E080	4	mixed/unclear	mixed
+E081	8	pronouns	syntactic
+E082	8	determiners	syntactic
+E083	3	mixed nouns	mixed
+E084	10	preposition for	syntactic
+E085	6	civic terms	semantic
+E086	7	media terms	semantic
+E087	9	spatial prepositions	syntactic
+E088	1	subword fragments	mixed
+E089	10	numbers	syntactic
+E090	8	articles	syntactic
+E091	1	subword fragments	mixed
+E092	6	pronouns/contractions	mixed
+E093	10	punctuation endings	syntactic
+E094	9	spatial prepositions	syntactic
+E095	5	people/groups	mixed
+E096	10	numbers	syntactic
+E097	10	possessive pronouns	syntactic
+E098	9	place names	semantic
+E099	9	quantifiers	syntactic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	9	approximation words	semantic
+E201	6	prefixes	syntactic
+E202	7	subword fragments	syntactic
+E203	8	preposition to	syntactic
+E204	8	temporal adjectives	semantic
+E205	9	plural suffixes	syntactic
+E206	9	quotation/brackets	syntactic
+E207	5	person roles	mixed
+E208	7	conjunctions	syntactic
+E209	9	sentence-start words	syntactic
+E210	5	action verbs	mixed
+E211	8	subword fragments	syntactic
+E212	8	indefinite articles	syntactic
+E213	8	reporting verbs	semantic
+E214	9	preposition with	syntactic
+E215	7	narrative auxiliaries	syntactic
+E216	8	prepositions by/from	syntactic
+E217	5	abstract nouns	mixed
+E218	6	measurement nouns	semantic
+E219	8	adverbs -ly	syntactic
+E220	8	past tense suffixes	syntactic
+E221	9	degree adverbs	syntactic
+E222	8	preposition in	syntactic
+E223	8	rare subword stems	syntactic
+E224	7	indefinite articles	syntactic
+E225	5	plural nouns/objects	mixed
+E226	7	directional/spatial	semantic
+E227	6	scientific subwords	mixed
+E228	2	random proper/subwords	mixed
+E229	4	rare words	mixed
+E230	5	adjectives/national	mixed
+E231	7	prepositions/copula	syntactic
+E232	7	sentence-start conjunctions	syntactic
+E233	5	numbers/symbols	syntactic
+E234	9	auxiliary/modal verbs	syntactic
+E235	6	past participles	syntactic
+E236	8	infinitive to	syntactic
+E237	7	sentence-start words	syntactic
+E238	4	mixed nouns	mixed
+E239	9	be-verbs/copula	syntactic
+E240	4	mixed subwords	mixed
+E241	7	determiners	syntactic
+E242	7	group/people nouns	semantic
+E243	9	demonstrative/plural	syntactic
+E244	6	event verbs	semantic
+E245	6	prefix subwords	syntactic
+E246	5	abstract nouns	mixed
+E247	6	prepositions	syntactic
+E248	7	possessive s	syntactic
+E249	9	frequency adverbs	syntactic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	8	names/surnames	semantic
+E101	10	inclusion/usage verbs	semantic
+E102	3	mixed/unclear	mixed
+E103	10	prepositions	syntactic
+E104	9	determiners	syntactic
+E105	6	noun suffixes	syntactic
+E106	5	mixed/functional	syntactic
+E107	9	determiners	syntactic
+E108	10	pronouns	syntactic
+E109	9	degree adverbs	syntactic
+E110	10	ordinals	syntactic
+E111	9	media/criticism	semantic
+E112	9	determiners	syntactic
+E113	9	months/dates	semantic
+E114	2	mixed/common nouns	mixed
+E115	8	punctuation	syntactic
+E116	9	relational terms	semantic
+E117	7	determiners/prefixes	syntactic
+E118	10	temporal sequence	semantic
+E119	6	articles/punctuation	syntactic
+E120	7	military/movement	semantic
+E121	7	naval/military	semantic
+E122	4	plural nouns	syntactic
+E123	3	mixed/unclear	mixed
+E124	8	measurements/stats	semantic
+E125	10	entry/direction	semantic
+E126	7	equipment/parts	semantic
+E127	8	function words	syntactic
+E128	5	technical/measurements	mixed
+E129	10	prepositions	syntactic
+E130	10	punctuation/brackets	syntactic
+E131	9	roles/occupations	semantic
+E132	10	modal verbs	syntactic
+E133	9	copula/qualifiers	syntactic
+E134	6	direction/temporal adverbs	semantic
+E135	8	action verbs	semantic
+E136	10	demonstratives	syntactic
+E137	8	sci-fi/titles	semantic
+E138	9	state verbs	semantic
+E139	9	male names	semantic
+E140	9	status verbs	semantic
+E141	10	conjunctions	syntactic
+E142	5	place/title nouns	semantic
+E143	4	mixed adjectives	semantic
+E144	8	temporal adjectives	semantic
+E145	7	group/plural names	semantic
+E146	10	subordinators	syntactic
+E147	7	formal adjectives	semantic
+E148	10	geography	semantic
+E149	7	action verbs	semantic

@@ -1,0 +1,6 @@
+E250	6	verb forms	syntactic
+E251	7	proper names	mixed
+E252	10	death/mortality	semantic
+E253	3	mixed names	mixed
+E254	9	social descriptors	semantic
+E255	10	punctuation	syntactic

@@ -1,0 +1,51 @@
+I will read the instructions in the specified file to understand the scoring task.
+E100	8	connectives	syntactic
+E101	4	mixed/unclear	mixed
+E102	6	verbs	syntactic
+E103	8	modal verbs	syntactic
+E104	9	verbs	syntactic
+E105	3	mixed/unclear	mixed
+E106	6	conflict/social	semantic
+E107	4	mixed/unclear	mixed
+E108	2	mixed/unclear	mixed
+E109	7	proper nouns	semantic
+E110	8	conjunctions	syntactic
+E111	9	function words	syntactic
+E112	7	abbreviations	syntactic
+E113	4	mixed/unclear	mixed
+E114	6	prepositions/verbs	syntactic
+E115	8	abbreviations/initials	syntactic
+E116	10	punctuation	syntactic
+E117	9	media/publications	semantic
+E118	8	be-verbs/padding	syntactic
+E119	2	mixed/unclear	mixed
+E120	7	adjectives/determiners	syntactic
+E121	10	prepositions	syntactic
+E122	10	common words	syntactic
+E123	7	prepositions/verbs	syntactic
+E124	9	verbs	syntactic
+E125	10	numbers	syntactic
+E126	10	suffering/pain	semantic
+E127	9	identity/culture	semantic
+E128	8	numbers/symbols	syntactic
+E129	9	word fragments	syntactic
+E130	3	mixed/unclear	mixed
+E131	10	prepositions	syntactic
+E132	10	adjectives	syntactic
+E133	7	descriptive/science	semantic
+E134	10	titles/professions	semantic
+E135	8	spatial	semantic
+E136	3	mixed/unclear	mixed
+E137	6	adjectives/determiners	syntactic
+E138	10	verbs	syntactic
+E139	10	temporal/order	semantic
+E140	10	punctuation	syntactic
+E141	6	mixed/unclear	mixed
+E142	8	formal nouns	semantic
+E143	7	temporal/general	semantic
+E144	9	proper nouns	semantic
+E145	10	foreign words	semantic
+E146	9	sports	semantic
+E147	10	action states	semantic
+E148	3	mixed/unclear	mixed
+E149	7	names	semantic

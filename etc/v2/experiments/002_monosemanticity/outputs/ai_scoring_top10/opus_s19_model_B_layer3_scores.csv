@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	informal didn/you/we	syntactic
+E001	5	existed/has/lasted	syntactic
+E002	5	preposition in/near/of	syntactic
+E003	5	starring/comprising	syntactic
+E004	5	BPE word fragments	syntactic
+E005	4	action verbs mixed	mixed
+E006	6	concessive while/whereas	syntactic
+E007	4	nouns velocity/panel	mixed
+E008	6	location at/around/near	syntactic
+E009	3	BPE foreign syllables	mixed
+E010	5	place names/geography	semantic
+E011	5	BPE name/surname	syntactic
+E012	5	action/endorsed verbs	mixed
+E013	5	directional to/into	syntactic
+E014	6	suggesting/claiming	syntactic
+E015	5	sentence-initial/mixed	mixed
+E016	6	that/why/whether conj	syntactic
+E017	5	abstract mission/concept	mixed
+E018	6	entering/onto movement	syntactic
+E019	4	measurement/mixed nouns	mixed
+E020	5	BPE foreign syllables	syntactic
+E021	4	abstract blow/radius	mixed
+E022	4	discourse punct/conj	syntactic
+E023	4	abstract nouns mixed	mixed
+E024	5	preposition of/about	syntactic
+E025	4	our/their/entire	syntactic
+E026	4	BPE name fragments	mixed
+E027	5	abstract conclusion/gap	semantic
+E028	5	historical/titles	mixed
+E029	5	media/reviewer names	mixed
+E030	4	organization/titles	mixed
+E031	5	entering/directional	syntactic
+E032	4	compound adj/HMAS	mixed
+E033	5	comma/quotation punct	syntactic
+E034	3	media nouns/random	mixed
+E035	4	event/action verbs	mixed
+E036	5	abstract nouns sales	mixed
+E037	6	closing quotation punct	syntactic
+E038	4	action/mixed verbs	mixed
+E039	4	BPE name syllables	mixed
+E040	6	conjunctions and/nor/or	syntactic
+E041	6	conjunctions but/and	syntactic
+E042	4	possessive/apostrophe	syntactic
+E043	4	mixed/random BPE	mixed
+E044	5	adverb possibly/thus	syntactic
+E045	6	known/perceived/such	syntactic
+E046	5	BPE word fragments	syntactic
+E047	5	currency/numbers	syntactic
+E048	4	structural nouns	mixed
+E049	5	sentence-initial adverbs	syntactic
+E050	5	action/attained verbs	mixed
+E051	4	review/opinion nouns	mixed
+E052	5	seeking/requiring verbs	syntactic
+E053	5	name-initial BPE	syntactic
+E054	5	question/where/what	syntactic
+E055	6	adverbs -ly discourse	syntactic
+E056	5	comma/closing punct	syntactic
+E057	5	gave/caused/earned	mixed
+E058	3	mixed low-PMI	mixed
+E059	4	BPE name/foreign	mixed
+E060	5	organization titles	mixed
+E061	3	mixed/low PMI	mixed
+E062	5	discourse conj that/which	syntactic
+E063	5	BPE name syllables	syntactic
+E064	3	the/The/Japanese	syntactic
+E065	4	mixed random nouns	mixed
+E066	6	prepositions from/via	syntactic
+E067	5	comma/closing punct	syntactic
+E068	6	locative on/onto/upon	syntactic
+E069	7	temporal till/until/after	syntactic
+E070	4	non-latin/BPE chars	syntactic
+E071	4	BPE name/place	mixed
+E072	4	mixed BPE/places	mixed
+E073	4	comma/punctuation	syntactic
+E074	5	surnames/proper nouns	semantic
+E075	4	adj sharp/rapid/This	mixed
+E076	4	BPE word fragments	syntactic
+E077	4	mixed BPE/proper names	mixed
+E078	4	nouns/places mixed	mixed
+E079	6	quantifier each/every	syntactic
+E080	4	mixed BPE/places	mixed
+E081	5	relative/question words	syntactic
+E082	6	sentence-end punctuation	syntactic
+E083	3	mixed low-PMI/PAD	mixed
+E084	3	low-PMI numbers	mixed
+E085	4	comma/who/closing	syntactic
+E086	4	BPE name fragments	mixed
+E087	6	both/between/neither	syntactic
+E088	3	mixed BPE/names	mixed
+E089	5	historical events	semantic
+E090	3	the/entire only	syntactic
+E091	5	BPE word fragments	syntactic
+E092	5	verb suffix -ed/-ised	syntactic
+E093	4	articles a/A/an	syntactic
+E094	6	temporal during/at/by	syntactic
+E095	5	comma/closing punct	syntactic
+E096	3	the/same/det	syntactic
+E097	6	sports statistics	semantic
+E098	4	BPE name fragments	mixed
+E099	4	plural nouns/amounts	mixed

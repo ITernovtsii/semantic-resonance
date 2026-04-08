@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	2	numbers	mixed
+E151	9	prepositions	syntactic
+E152	8	articles/determiners	syntactic
+E153	7	word-end suffixes	syntactic
+E154	1	random	mixed
+E155	1	random	mixed
+E156	2	mixed/unclear	mixed
+E157	1	random	mixed
+E158	8	quantifiers/determiners	syntactic
+E159	7	sentence-end punct	syntactic
+E160	1	random	mixed
+E161	1	random	mixed
+E162	5	technical specs	semantic
+E163	5	monosyllabic words	syntactic
+E164	2	mixed/unclear	mixed
+E165	4	function words	syntactic
+E166	7	phrasal particles	syntactic
+E167	7	capitalized adjectives	syntactic
+E168	1	random	mixed
+E169	1	random	mixed
+E170	1	random	mixed
+E171	7	pronouns	syntactic
+E172	5	common nouns	semantic
+E173	7	geography/superlatives	semantic
+E174	1	random	mixed
+E175	7	sentence-initial	syntactic
+E176	3	titles	semantic
+E177	6	existence verbs	semantic
+E178	8	politics/legal	semantic
+E179	6	base-form verbs	syntactic
+E180	1	random	mixed
+E181	2	function words	syntactic
+E182	4	entertainment	semantic
+E183	9	US states	semantic
+E184	3	discourse markers	mixed
+E185	2	suffixes	syntactic
+E186	3	function words	syntactic
+E187	1	random	mixed
+E188	6	prepositions	syntactic
+E189	2	mixed/unclear	mixed
+E190	1	random	mixed
+E191	9	meteorology	semantic
+E192	2	mixed/unclear	mixed
+E193	3	mixed/unclear	mixed
+E194	5	abstract nouns	semantic
+E195	4	numbers/ordinals	syntactic
+E196	2	random	mixed
+E197	5	negation	syntactic
+E198	1	random	mixed
+E199	2	mixed/unclear	mixed

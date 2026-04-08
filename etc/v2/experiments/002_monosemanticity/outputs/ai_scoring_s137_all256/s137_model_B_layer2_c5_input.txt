@@ -1,0 +1,6 @@
+E250	peninsula(6.15); zones(6.15); verses(6.15); directions(6.15); Isles(6.15); drugs(6.15); texts(6.15); Places(6.15); ballot(6.15); 1840s(6.15)
+E251	NR(6.39); AN(6.39); CS(6.39); LS(6.39); BL(6.39); IN(6.39); NA(6.39); La(6.39); SA(6.39); PC(6.39)
+E252	!.(4.12); '."(4.12); %.(4.12); ").(4.12); ".(3.79); '.(3.70); ).(3.63); Edward(3.38); .(3.30); ."(3.28)
+E253	for(5.87); For(4.84); With(4.49); at(4.40); with(4.39); without(3.99); from(3.84); against(3.75); by(3.60); of(3.44)
+E254	closest(6.02); youngest(6.02); longest(6.02); oldest(6.02); Each(6.02); entire(6.02); Other(5.95); His(5.86); largest(5.70); his(5.65)
+E255	yah(6.69); atsu(6.69); oh(6.69); wan(6.69); ny(6.69); ky(6.69); co(6.69); sy(6.69); ob(6.69); z(6.69)

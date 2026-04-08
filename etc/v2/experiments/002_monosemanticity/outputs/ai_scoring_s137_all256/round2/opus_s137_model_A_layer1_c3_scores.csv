@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	5	definite article	syntactic
+E151	6	sentence-initial adverbs	syntactic
+E152	3	non-English syllables	syntactic
+E153	4	prefixes/fragments	syntactic
+E154	7	evaluative adjectives	semantic
+E155	5	definite article	syntactic
+E156	8	adverbs (-ly)	syntactic
+E157	8	comitative prepositions	syntactic
+E158	7	instrumental prepositions	syntactic
+E159	8	evaluative adjectives	semantic
+E160	5	mixed/time+media	mixed
+E161	9	war/conflict	semantic
+E162	3	mixed/random nouns	mixed
+E163	7	quantity/extent words	syntactic
+E164	9	possessive determiners	syntactic
+E165	9	plural determiners/quantifiers	syntactic
+E166	9	sentence-ending periods	syntactic
+E167	4	abstract nouns	semantic
+E168	7	importance adjectives	semantic
+E169	6	military/spatial verbs	mixed
+E170	9	sentence-ending punctuation	syntactic
+E171	5	institutional nouns	semantic
+E172	6	media/entertainment formats	semantic
+E173	5	mixed action verbs	semantic
+E174	5	mixed/collective nouns	mixed
+E175	4	mixed/suffixes+nouns	mixed
+E176	8	opening brackets/quotes	syntactic
+E177	8	approximation prepositions	syntactic
+E178	7	quote punctuation/brackets	syntactic
+E179	5	mixed past-tense verbs	mixed
+E180	8	evaluative adjectives	semantic
+E181	8	locative prepositions	syntactic
+E182	7	possessive/connecting symbols	syntactic
+E183	6	abstract nouns/relation	semantic
+E184	7	discourse connectors	syntactic
+E185	9	three-digit numbers	syntactic
+E186	5	titles/units	mixed
+E187	4	mixed/determiners	mixed
+E188	3	verb suffixes/fragments	syntactic
+E189	4	mixed/punctuation	mixed
+E190	6	sentence-initial adverbs	syntactic
+E191	3	name-initial syllables	syntactic
+E192	2	mixed/subword+rare	mixed
+E193	7	infinitive/auxiliary	syntactic
+E194	5	function words	syntactic
+E195	5	definite article	syntactic
+E196	4	mixed/random nouns	mixed
+E197	10	royalty/nobility	semantic
+E198	3	mixed/random nouns	mixed
+E199	4	mixed/adjectives	mixed

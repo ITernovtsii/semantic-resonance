@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	modal/auxiliary verbs	syntactic
+E001	7	surnames	semantic
+E002	3	subword roots	syntactic
+E003	7	informal adverbs/negation	syntactic
+E004	7	auxiliary "have" verbs	syntactic
+E005	8	coordinating conjunctions	syntactic
+E006	6	definite articles	syntactic
+E007	7	comma/clause punctuation	syntactic
+E008	6	abstract nouns	mixed
+E009	6	institutional titles	mixed
+E010	7	people groups/plurals	mixed
+E011	9	sentence-end punctuation	syntactic
+E012	5	name subwords/suffixes	syntactic
+E013	5	determiners/articles	syntactic
+E014	8	prepositions	syntactic
+E015	5	"as"/comparison	syntactic
+E016	8	indefinite article	syntactic
+E017	8	past participles	syntactic
+E018	8	conflict/war events	semantic
+E019	6	transitive verbs	syntactic
+E020	5	mixed adjectives/roles	mixed
+E021	8	comma punctuation	syntactic
+E022	4	mixed verbs/roots	mixed
+E023	8	first names	semantic
+E024	7	determiners/possessives	syntactic
+E025	6	word prefixes	syntactic
+E026	4	opening punctuation	syntactic
+E027	3	mixed punctuation/time	mixed
+E028	6	relationship nouns	semantic
+E029	8	word prefixes	syntactic
+E030	7	"by"/agent preposition	syntactic
+E031	6	definite articles	syntactic
+E032	8	conditional/temporal conj	syntactic
+E033	6	punctuation/symbols	syntactic
+E034	2	unicode/rare subwords	mixed
+E035	5	period	syntactic
+E036	7	time periods/years	mixed
+E037	7	abstract nouns	semantic
+E038	6	"on"/preposition	syntactic
+E039	2	random name prefixes	mixed
+E040	7	predicative adjectives	syntactic
+E041	8	possessive determiners	syntactic
+E042	8	geography/landmarks	semantic
+E043	7	prepositions	syntactic
+E044	3	mixed subwords	mixed
+E045	3	subword fragments	syntactic
+E046	9	nature/biology	semantic
+E047	8	superlatives/adjectives	syntactic
+E048	8	demonstratives/determiners	syntactic
+E049	5	"of"/partitive	syntactic
+E050	7	positional adjectives	syntactic
+E051	8	modal verbs/adverbs	syntactic
+E052	7	demonstrative determiners	syntactic
+E053	8	spatial prepositions	syntactic
+E054	8	acronyms/abbreviations	syntactic
+E055	8	single letters/initials	syntactic
+E056	7	pronouns/subjects	syntactic
+E057	3	subword prefixes	syntactic
+E058	4	units/numbers mixed	mixed
+E059	7	abstract qualities	semantic
+E060	6	domain adjectives	mixed
+E061	9	temporal prepositions	syntactic
+E062	6	action verbs	syntactic
+E063	6	cognitive/speech verbs	syntactic
+E064	8	units/measurements	semantic
+E065	9	numbers	syntactic
+E066	7	accompaniment preps	syntactic
+E067	7	"among/at" prepositions	syntactic
+E068	4	mixed nouns/military	mixed
+E069	4	mixed location/adverbs	mixed
+E070	8	possessive determiners	syntactic
+E071	6	conjunctions/comitative	syntactic
+E072	2	rare subword prefixes	syntactic
+E073	9	years/dates	syntactic
+E074	8	historical periods/years	mixed
+E075	7	quotation marks	syntactic
+E076	7	ordinal determiners	syntactic
+E077	7	plural activity nouns	mixed
+E078	9	adverbs (-ly)	syntactic
+E079	7	clause punctuation	syntactic
+E080	6	prepositions	syntactic
+E081	7	hyphens/dashes	syntactic
+E082	9	numbers	syntactic
+E083	7	people groups plural	syntactic
+E084	6	sentence-initial words	syntactic
+E085	5	punctuation/quoting	syntactic
+E086	6	reporting/trying verbs	syntactic
+E087	3	mixed proper names	mixed
+E088	8	sports/competition	semantic
+E089	5	abstract plural nouns	mixed
+E090	4	countries/mixed	mixed
+E091	8	degree adverbs	syntactic
+E092	5	copula verbs	syntactic
+E093	7	spatial prepositions	syntactic
+E094	3	random mixed tokens	mixed
+E095	9	sentence-end punctuation	syntactic
+E096	8	media/entertainment	semantic
+E097	9	temporal adverbs	syntactic
+E098	7	attributive adjectives	syntactic
+E099	5	parenthetical punctuation	syntactic

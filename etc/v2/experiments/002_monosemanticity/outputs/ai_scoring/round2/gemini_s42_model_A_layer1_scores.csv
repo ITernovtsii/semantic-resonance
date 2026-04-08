@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	10	prepositions	syntactic
+E001	10	pronouns	syntactic
+E002	10	articles	syntactic
+E003	10	past verbs	syntactic
+E004	8	sports/rankings	semantic
+E005	9	adjectives	syntactic
+E006	8	professions/roles	semantic
+E007	9	action verbs	semantic
+E008	10	conjunctions	syntactic
+E009	9	verbs	syntactic
+E010	8	road notation	semantic
+E011	10	time/duration	semantic
+E012	8	ordinals/nationalities	semantic
+E013	4	mixed/unclear	mixed
+E014	10	adverbs	syntactic
+E015	7	media/research	semantic
+E016	2	year/punctuation	mixed
+E017	5	entities/mixed	semantic
+E018	3	mixed/unclear	mixed
+E019	9	titles/places	semantic
+E020	10	adjectives	syntactic
+E021	9	movement/verbs	semantic
+E022	10	prepositions	syntactic
+E023	10	determiners	syntactic
+E024	10	linking verbs	syntactic
+E025	10	prepositions	syntactic
+E026	10	conflict/history	semantic
+E027	9	articles/function	syntactic
+E028	10	locations	semantic
+E029	2	mixed/unclear	mixed
+E030	10	prepositions	syntactic
+E031	10	subword fragments	syntactic
+E032	10	prepositions	syntactic
+E033	10	conjunctions	syntactic
+E034	10	punctuation	syntactic
+E035	10	conjunctions	syntactic
+E036	9	reporting	semantic
+E037	10	years	semantic
+E038	10	punctuation	syntactic
+E039	9	causality	semantic
+E040	9	arabic components	semantic
+E041	9	symbols	syntactic
+E042	3	mixed/unclear	mixed
+E043	10	punctuation	syntactic
+E044	10	years/century	semantic
+E045	9	connectors	syntactic
+E046	6	abstract nouns	semantic
+E047	5	common starters	syntactic
+E048	10	measurements/military	semantic
+E049	9	maritime/military	semantic
+E050	10	prepositions	syntactic
+E051	10	prepositions	syntactic
+E052	10	conjunctions	syntactic
+E053	10	plural nouns	syntactic
+E054	8	music/culture	semantic
+E055	10	quantifiers	syntactic
+E056	3	mixed/unclear	mixed
+E057	8	organization words	semantic
+E058	9	verbs	syntactic
+E059	10	conjunctions	syntactic
+E060	9	prefixes/short-words	syntactic
+E061	10	auxiliary verbs	syntactic
+E062	8	military/society	semantic
+E063	7	people/roles	semantic
+E064	9	entertainment/awards	semantic
+E065	10	determiners	syntactic
+E066	10	punctuation	syntactic
+E067	10	quantifiers	syntactic
+E068	10	inclusion	semantic
+E069	10	capitalized numbers	semantic
+E070	10	nationalities/languages	semantic
+E071	10	superlatives/rankings	semantic
+E072	10	suffixes	syntactic
+E073	6	suffixes/adjectives	mixed
+E074	2	prepositions	syntactic
+E075	2	determiners	syntactic
+E076	6	prepositions/authorship	semantic
+E077	10	meteorology/weather	semantic
+E078	10	superlatives	semantic
+E079	10	punctuation	syntactic
+E080	10	communication verbs	semantic
+E081	10	prepositions	syntactic
+E082	9	film/inclusion	semantic
+E083	10	numbers	syntactic
+E084	4	mixed nouns	semantic
+E085	10	proper names	semantic
+E086	7	suffixes/adverbs	syntactic
+E087	10	punctuation	syntactic
+E088	10	conjunctions	syntactic
+E089	10	prepositions	syntactic
+E090	10	collective nouns	semantic
+E091	10	punctuation	syntactic
+E092	9	subword fragments	syntactic
+E093	9	measurements	semantic
+E094	4	mixed/functional	mixed
+E095	8	achievement verbs	semantic
+E096	10	movement/location	semantic
+E097	10	abstract nouns	semantic
+E098	10	quantifiers	syntactic
+E099	5	years/punctuation	mixed

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	9	prepositions	syntactic
+E051	10	directional prepositions	syntactic
+E052	9	state verbs	syntactic
+E053	9	inclusion/composition	semantic
+E054	8	transitions	syntactic
+E055	10	numbers	syntactic
+E056	10	punctuation	syntactic
+E057	10	articles	syntactic
+E058	10	naming/status	semantic
+E059	8	state/certainty	syntactic
+E060	10	cognition/speech acts	semantic
+E061	7	prepositions	syntactic
+E062	9	determiners	syntactic
+E063	9	politics/ethnicity	semantic
+E064	10	subword fragments	syntactic
+E065	9	punctuation	syntactic
+E066	10	subword fragments	syntactic
+E067	9	conjunctions	syntactic
+E068	5	mixed/unclear	mixed
+E069	9	proper nouns	semantic
+E070	9	modal verbs	syntactic
+E071	9	directional adverbs	syntactic
+E072	9	contrastive conjunctions	syntactic
+E073	10	logical connectors	syntactic
+E074	10	adjectives	semantic
+E075	9	proper nouns	semantic
+E076	6	abstract concepts	semantic
+E077	8	action verbs	semantic
+E078	10	numbers/measurements	syntactic
+E079	5	mixed nouns	semantic
+E080	10	demonstratives	syntactic
+E081	10	subword fragments	syntactic
+E082	10	spatial prepositions	syntactic
+E083	9	conjunctions	syntactic
+E084	9	epistemic modality	semantic
+E085	7	adverbs/pronouns	syntactic
+E086	10	subword fragments	syntactic
+E087	6	abstract nouns	semantic
+E088	4	mixed/unclear	mixed
+E089	4	mixed syntactic	syntactic
+E090	9	determiners	syntactic
+E091	9	technical fragments	syntactic
+E092	7	entities/attributes	semantic
+E093	6	mixed fragments	mixed
+E094	7	abstract verbs	semantic
+E095	6	punctuation/mixed	mixed
+E096	10	subword fragments	syntactic
+E097	8	participles	semantic
+E098	10	statistics	semantic
+E099	9	determiners	syntactic

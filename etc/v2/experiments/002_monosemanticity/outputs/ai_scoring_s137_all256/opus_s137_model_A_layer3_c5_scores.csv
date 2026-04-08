@@ -1,0 +1,5 @@
+expert_id	score	category	type
+E250	5	action/process verbs	mixed
+E251	2	single-token	syntactic
+E252	8	modal/auxiliary verbs	syntactic
+E253	2	rare fragments	mixed

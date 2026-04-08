@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	mixed/various	semantic
+E001	10	preposition	syntactic
+E002	10	names	semantic
+E003	5	grammar/temporal	syntactic
+E004	10	tasks/roles	semantic
+E005	3	various nouns	semantic
+E006	8	modals/auxiliaries	syntactic
+E007	10	punctuation	syntactic
+E008	10	article	syntactic
+E009	10	preposition/article	syntactic
+E010	7	function words	syntactic
+E011	10	word suffixes	syntactic
+E012	8	social concepts	semantic
+E013	9	geography/admin	semantic
+E014	9	verbs/auxiliaries	syntactic
+E015	6	punctuation/fragments	syntactic
+E016	10	connectives	syntactic
+E017	8	games/sports	semantic
+E018	9	numbers/tech	syntactic
+E019	9	verbs/modals	syntactic
+E020	10	conjunctions/preps	syntactic
+E021	8	work/production	semantic
+E022	10	relative pronoun	syntactic
+E023	7	prepositions	syntactic
+E024	7	music/organization	semantic
+E025	10	prepositions/article	syntactic
+E026	4	mixed/proper nouns	mixed
+E027	10	articles	syntactic
+E028	10	punctuation	syntactic
+E029	5	suffixes/nouns	mixed
+E030	10	preposition/article	syntactic
+E031	10	prepositions	syntactic
+E032	10	nationalities/culture	semantic
+E033	8	time/measure	semantic
+E034	8	word fragments	syntactic
+E035	9	verbs	syntactic
+E036	4	common words	syntactic
+E037	9	past participles	syntactic
+E038	6	common words	syntactic
+E039	6	descriptive terms	semantic
+E040	10	article	syntactic
+E041	10	punctuation	syntactic
+E042	10	feminine terms	semantic
+E043	7	modals/grammar	syntactic
+E044	7	ideology/concepts	semantic
+E045	9	prepositions	syntactic
+E046	6	legal/military	semantic
+E047	9	travel/places	semantic
+E048	4	various adjectives	semantic
+E049	2	random nouns	semantic
+E050	9	status/use	semantic
+E051	10	pronouns	syntactic
+E052	8	pronouns/nouns	syntactic
+E053	8	determiners	syntactic
+E054	5	history/titles	semantic
+E055	7	military/politics	semantic
+E056	10	preposition/article	syntactic
+E057	6	preposition/logic	syntactic
+E058	10	subword fragments	syntactic
+E059	7	punctuation/connectives	syntactic
+E060	10	superlatives	semantic
+E061	4	mixed/official	mixed
+E062	7	letters	syntactic
+E063	8	definitions	semantic
+E064	8	punctuation/grammar	syntactic
+E065	9	action/physical	semantic
+E066	7	quantifiers	syntactic
+E067	9	participles/action	syntactic
+E068	5	common words	syntactic
+E069	10	countries/dates	semantic
+E070	6	common words	syntactic
+E071	10	adjectives	semantic
+E072	6	subword fragments	syntactic
+E073	7	symbols/suffixes	syntactic
+E074	8	function words	syntactic
+E075	6	common words	syntactic
+E076	10	punctuation	syntactic
+E077	8	military/maritime	semantic
+E078	8	determiners/adverbs	syntactic
+E079	9	pronouns/position	semantic
+E080	10	preposition/article	syntactic
+E081	6	common words	syntactic
+E082	8	common words	syntactic
+E083	10	punctuation	syntactic
+E084	9	conjunctions	syntactic
+E085	8	prepositions	syntactic
+E086	4	various/names	semantic
+E087	10	article	syntactic
+E088	3	various nouns	semantic
+E089	10	composition	semantic
+E090	8	letters/fragments	syntactic
+E091	10	function words	syntactic
+E092	9	pronouns	syntactic
+E093	10	adverbs	syntactic
+E094	6	preposition/common	syntactic
+E095	10	prepositions/article	syntactic
+E096	9	directional	syntactic
+E097	5	common words	syntactic
+E098	10	determiners	syntactic
+E099	10	air force	semantic

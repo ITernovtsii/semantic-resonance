@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	5	general	semantic
+E201	4	pronouns/countries	mixed
+E202	4	political figures	semantic
+E203	9	place names	semantic
+E204	3	mixed/unclear	mixed
+E205	1	random	mixed
+E206	6	sentence starters	syntactic
+E207	9	pronouns	syntactic
+E208	6	structural parts	semantic
+E209	4	causal connectors	syntactic
+E210	2	mixed/unclear	mixed
+E211	3	articles	syntactic
+E212	5	conjunctions	syntactic
+E213	8	sentence-initial	syntactic
+E214	8	architecture	semantic
+E215	1	random	mixed
+E216	6	possessive pronouns	syntactic
+E217	2	mixed/unclear	mixed
+E218	3	function words	syntactic
+E219	1	random	mixed
+E220	3	mixed/unclear	mixed
+E221	6	frequency adverbs	syntactic
+E222	1	random	mixed
+E223	1	random	mixed
+E224	5	negation	syntactic
+E225	4	prepositions	syntactic
+E226	2	random	mixed
+E227	10	two-digit numbers	syntactic
+E228	1	random	mixed
+E229	4	question words	mixed
+E230	1	random	mixed
+E231	1	random	mixed
+E232	5	abstract nouns	semantic
+E233	7	continuity verbs	syntactic
+E234	4	geography/infra	mixed
+E235	1	random	mixed
+E236	5	person names	semantic
+E237	6	auxiliary verbs	syntactic
+E238	8	temporal references	semantic
+E239	9	three-digit numbers	syntactic
+E240	4	mixed adverbs	mixed
+E241	5	rare BPE prefixes	syntactic
+E242	2	mixed/unclear	mixed
+E243	3	punctuation/discourse	mixed
+E244	4	base verbs	syntactic
+E245	7	demonstratives	syntactic
+E246	1	random	mixed
+E247	1	random	mixed
+E248	4	line/path	mixed
+E249	6	US government	semantic

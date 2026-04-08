@@ -1,0 +1,6 @@
+E250	9	be-forms	syntactic
+E251	4	function words	syntactic
+E252	2	subword fragments	syntactic
+E253	9	conjunctions	syntactic
+E254	9	pronouns	syntactic
+E255	5	abstract nouns	syntactic

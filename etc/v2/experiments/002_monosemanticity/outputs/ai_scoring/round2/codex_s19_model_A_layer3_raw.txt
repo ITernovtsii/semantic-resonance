@@ -1,0 +1,100 @@
+E000	4	mixed/unclear	mixed
+E001	2	mixed/unclear	mixed
+E002	9	mushroom morphology	semantic
+E003	7	entertainment media	semantic
+E004	9	adverbs/auxiliaries	syntactic
+E005	8	punctuation/units	syntactic
+E006	8	discourse markers	syntactic
+E007	9	adverbs/auxiliaries	syntactic
+E008	10	punctuation	syntactic
+E009	9	quantifiers	syntactic
+E010	10	punctuation	syntactic
+E011	9	military	semantic
+E012	4	groups/organizations	mixed
+E013	9	spatial prepositions	syntactic
+E014	6	reporting verbs	mixed
+E015	8	numerals	syntactic
+E016	2	special tokens	mixed
+E017	6	review verbs	mixed
+E018	5	geopolitical names	mixed
+E019	9	calendar/time	semantic
+E020	9	calendar/time	semantic
+E021	8	abbreviations	syntactic
+E022	10	numbers/quantities	syntactic
+E023	7	weather/environment	semantic
+E024	2	mixed/unclear	mixed
+E025	10	punctuation	syntactic
+E026	9	articles	syntactic
+E027	2	mixed/unclear	mixed
+E028	7	legal/social states	semantic
+E029	4	mixed/unclear	mixed
+E030	8	prepositions	syntactic
+E031	7	action verbs	semantic
+E032	8	common verbs	syntactic
+E033	8	prepositions	syntactic
+E034	10	numerals	syntactic
+E035	4	mixed/unclear	mixed
+E036	7	measurements/stats	semantic
+E037	3	mixed/unclear	mixed
+E038	7	temporal/spatial markers	syntactic
+E039	6	industry	scale	semantic
+E040	10	articles	syntactic
+E041	10	punctuation	syntactic
+E042	7	film/media	semantic
+E043	10	punctuation	syntactic
+E044	9	conjunctions	syntactic
+E045	8	adjectives/modifiers	syntactic
+E046	8	performance metrics	semantic
+E047	8	name subwords	syntactic
+E048	6	action/spatial	mixed
+E049	9	name subwords	syntactic
+E050	9	subword prefixes	syntactic
+E051	10	modal verbs	syntactic
+E052	8	dialogue markers	syntactic
+E053	8	dates/durations	semantic
+E054	8	abstract issues	semantic
+E055	2	mixed/unclear	mixed
+E056	10	discourse markers	syntactic
+E057	7	measurement units	syntactic
+E058	9	prepositions	syntactic
+E059	10	historical dates	semantic
+E060	8	subword suffixes	syntactic
+E061	8	concept nouns	semantic
+E062	9	copula/hedges	syntactic
+E063	9	personal names	semantic
+E064	10	modal/help verbs	syntactic
+E065	5	abstract nouns	mixed
+E066	9	personal names	semantic
+E067	4	objects/locations	mixed
+E068	9	auxiliaries/adverbs	syntactic
+E069	7	military geography	semantic
+E070	7	pronouns/adverbs	syntactic
+E071	7	spatial/geography	semantic
+E072	4	title words	mixed
+E073	3	mixed/unclear	mixed
+E074	9	past participles	syntactic
+E075	8	copular change	syntactic
+E076	8	sports	semantic
+E077	7	units/military	mixed
+E078	9	adjectives	syntactic
+E079	10	modal verbs	syntactic
+E080	8	adjectives	syntactic
+E081	10	punctuation	syntactic
+E082	9	articles/determiners	syntactic
+E083	9	superlative adjectives	syntactic
+E084	10	punctuation	syntactic
+E085	7	colloquial sentiment	semantic
+E086	9	subword fragments	syntactic
+E087	8	geography descriptors	semantic
+E088	7	prepositions	syntactic
+E089	2	mixed/unclear	mixed
+E090	10	subword stems	syntactic
+E091	8	adjectives	syntactic
+E092	10	name prefixes	syntactic
+E093	6	evaluative adjectives	mixed
+E094	7	quantities/stats	mixed
+E095	10	have-auxiliary	syntactic
+E096	7	action verbs	semantic
+E097	10	discourse markers	syntactic
+E098	8	operations/actions	semantic
+E099	4	mixed/unclear	mixed

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	9	possessive pronouns	syntactic
+E201	8	negation markers	syntactic
+E202	5	names titles	semantic
+E203	8	honorific abbreviations	syntactic
+E204	7	apostrophe punctuation	syntactic
+E205	3	mixed fragments	mixed
+E206	7	function words	syntactic
+E207	9	quote punctuation	syntactic
+E208	10	measurement units	semantic
+E209	8	quantity words	semantic
+E210	9	military weapons	semantic
+E211	9	surnames	semantic
+E212	9	dates months	semantic
+E213	6	plural suffix words	syntactic
+E214	9	conjunctions	syntactic
+E215	5	years events	mixed
+E216	6	name components	mixed
+E217	8	media formats	semantic
+E218	2	single token	mixed
+E219	3	human terms	mixed
+E220	10	be verbs	syntactic
+E221	2	random fragments	mixed
+E222	5	special tokens	syntactic
+E223	7	abstract verbs	syntactic
+E224	8	subword fragments	syntactic
+E225	2	definite article	syntactic
+E226	6	proper noun parts	mixed
+E227	10	quantifiers	semantic
+E228	2	single verb	mixed
+E229	3	mixed abstract	mixed
+E230	2	mixed pair	mixed
+E231	6	quotes intensifiers	mixed
+E232	4	mixed topics	mixed
+E233	10	indefinite articles	syntactic
+E234	8	months dates	semantic
+E235	5	historical narrative	mixed
+E236	7	descriptive adjectives	syntactic
+E237	7	prepositions motion	syntactic
+E238	10	numbers	syntactic
+E239	4	event fragments	mixed
+E240	9	have verbs	syntactic
+E241	8	places structures	semantic
+E242	6	quote punctuation	mixed
+E243	8	governance economy	semantic
+E244	4	mixed morphology	mixed
+E245	7	awards tournaments	semantic
+E246	2	function pair	mixed
+E247	8	conversational language	semantic
+E248	8	discourse connectives	syntactic
+E249	7	relative punctuation	syntactic

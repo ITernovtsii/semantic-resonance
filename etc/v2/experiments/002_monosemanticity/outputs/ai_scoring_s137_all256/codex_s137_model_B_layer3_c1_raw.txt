@@ -1,0 +1,50 @@
+E050	3	mixed/unclear	mixed
+E051	8	name fragments	syntactic
+E052	4	mixed nouns	mixed
+E053	8	subword stems	syntactic
+E054	8	punctuation	syntactic
+E055	6	reporting words	mixed
+E056	7	abstract nouns	semantic
+E057	8	geopolitical terms	semantic
+E058	7	verb forms	syntactic
+E059	5	prepositions	mixed
+E060	10	punctuation	syntactic
+E061	3	mixed/unclear	mixed
+E062	8	logical connectives	syntactic
+E063	8	plural nouns	syntactic
+E064	10	numbers	syntactic
+E065	9	quantifiers	syntactic
+E066	7	geography	semantic
+E067	4	mixed/unclear	mixed
+E068	5	mixed descriptors	mixed
+E069	3	mixed/unclear	mixed
+E070	5	names/codenames	mixed
+E071	7	descriptive words	syntactic
+E072	9	past verbs	syntactic
+E073	9	conjunctions	syntactic
+E074	8	action verbs	syntactic
+E075	7	sports terms	semantic
+E076	8	articles	syntactic
+E077	9	subword stems	syntactic
+E078	10	subword fragments	syntactic
+E079	9	abbreviations	syntactic
+E080	9	temporal markers	syntactic
+E081	7	military organizations	semantic
+E082	4	mixed names	mixed
+E083	5	units/road terms	mixed
+E084	9	quantifiers/negation	syntactic
+E085	3	mixed/unclear	mixed
+E086	6	social topics	semantic
+E087	8	descriptive adjectives	semantic
+E088	8	punctuation	syntactic
+E089	8	transport terms	semantic
+E090	5	group nouns	mixed
+E091	10	initialisms	syntactic
+E092	9	adjectives	syntactic
+E093	8	discourse markers	syntactic
+E094	10	punctuation	syntactic
+E095	5	mixed/unclear	mixed
+E096	9	punctuation	syntactic
+E097	4	mixed/unclear	mixed
+E098	6	process words	mixed
+E099	6	abstract nouns	semantic

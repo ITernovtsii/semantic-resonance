@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	prepositions	syntactic
+E001	7	demonstratives	syntactic
+E002	5	adj/various	mixed
+E003	8	adverbs -ly	syntactic
+E004	4	mixed/unclear	mixed
+E005	7	quotation punct	syntactic
+E006	5	name prefixes	mixed
+E007	7	historical/career	semantic
+E008	7	media/awards	semantic
+E009	5	sentence starters	mixed
+E010	5	comma/punct	syntactic
+E011	5	emotive/mental	mixed
+E012	8	three-digit numbers	syntactic
+E013	6	prepositions	syntactic
+E014	7	leave/depart	semantic
+E015	7	approximation	syntactic
+E016	7	punctuation	syntactic
+E017	5	adj/various	mixed
+E018	7	number/quantity	syntactic
+E019	7	sentence-end punct	syntactic
+E020	4	abstract nouns	mixed
+E021	6	adj/various	mixed
+E022	7	corporate/company	semantic
+E023	4	abstract nouns	mixed
+E024	5	adj/various	mixed
+E025	4	large/immense	mixed
+E026	5	pronouns/another	syntactic
+E027	5	action verbs	mixed
+E028	3	mixed nouns	mixed
+E029	6	plural suffixes	syntactic
+E030	6	based/inspired	mixed
+E031	5	abbreviations	mixed
+E032	4	random/unicode	mixed
+E033	6	instead/rather	syntactic
+E034	5	action verbs	mixed
+E035	7	on/upon preps	syntactic
+E036	6	punctuation	syntactic
+E037	5	article a/an	syntactic
+E038	6	punctuation	syntactic
+E039	6	becoming verbs	syntactic
+E040	7	pronouns	syntactic
+E041	4	mixed nouns	mixed
+E042	5	BPE fragments	mixed
+E043	6	using/involving	syntactic
+E044	8	sentence-end punct	syntactic
+E045	6	conjunctions	syntactic
+E046	7	remains/survives	semantic
+E047	4	abstract nouns	mixed
+E048	7	adverbs -ly	syntactic
+E049	5	adverbs	mixed
+E050	6	adj suffixes	syntactic
+E051	8	verb suffixes	syntactic
+E052	6	being/passive	syntactic
+E053	5	action verbs	mixed
+E054	3	determiners	syntactic
+E055	4	proper names	mixed
+E056	6	occurred/settled	mixed
+E057	6	BPE prefixes	syntactic
+E058	5	past participles	mixed
+E059	5	appointed/young	mixed
+E060	7	body parts	semantic
+E061	5	punctuation	syntactic
+E062	5	BPE prefixes	mixed
+E063	7	punctuation	syntactic
+E064	5	adverbs	mixed
+E065	6	possessives	syntactic
+E066	5	ability/belong	mixed
+E067	3	apostrophes	syntactic
+E068	6	diacritics	syntactic
+E069	7	location/where	syntactic
+E070	4	determiners	syntactic
+E071	5	abstract nouns	mixed
+E072	5	all/than	syntactic
+E073	5	proper names	mixed
+E074	4	turn/article	mixed
+E075	4	species/fact	mixed
+E076	5	BPE prefixes	mixed
+E077	7	have/auxiliary	syntactic
+E078	4	mixed nouns	mixed
+E079	5	prepositions	syntactic
+E080	6	quotation punct	syntactic
+E081	6	verb/action	mixed
+E082	6	and/or/as	syntactic
+E083	6	prepositions	syntactic
+E084	6	sentence starters	syntactic
+E085	4	random nouns	mixed
+E086	8	weather/tropical	semantic
+E087	5	at/during preps	syntactic
+E088	5	school/sports	mixed
+E089	7	possessives	syntactic
+E090	4	mixed/unlike	mixed
+E091	6	temporal starters	syntactic
+E092	7	BPE/biology	mixed
+E093	6	modal/should	syntactic
+E094	4	random nouns	mixed
+E095	7	sports/football	semantic
+E096	5	prepositions	syntactic
+E097	5	BPE fragments	mixed
+E098	5	punctuation	mixed
+E099	4	name fragments	mixed

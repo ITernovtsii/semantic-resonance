@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	use/capability	mixed
+E001	4	BPE fragments	mixed
+E002	3	random nouns	mixed
+E003	5	people/person	mixed
+E004	3	random nouns	mixed
+E005	4	mixed/unclear	mixed
+E006	6	relative pronouns	syntactic
+E007	6	closing punct	syntactic
+E008	6	state/political	mixed
+E009	6	informal pronouns	mixed
+E010	2	single word	syntactic
+E011	2	random/unicode	mixed
+E012	4	till/until	syntactic
+E013	5	quantity/part	mixed
+E014	4	abstract nouns	mixed
+E015	5	number words	mixed
+E016	4	sentence adverbs	syntactic
+E017	4	BPE fragments	mixed
+E018	3	did/into	syntactic
+E019	5	adj/various	syntactic
+E020	4	comparison	syntactic
+E021	5	action verbs	mixed
+E022	5	period/punct	syntactic
+E023	4	for/preposition	syntactic
+E024	5	hyphens/dashes	syntactic
+E025	3	random	mixed
+E026	5	become/being	syntactic
+E027	4	an/state	mixed
+E028	5	media/awards	mixed
+E029	5	sports/mixed	mixed
+E030	5	adj quantity	mixed
+E031	3	mixed nouns	mixed
+E032	5	informal/true	mixed
+E033	4	prepositions	syntactic
+E034	3	side/as	mixed
+E035	2	single word	syntactic
+E036	4	abstract nouns	mixed
+E037	5	punctuation	syntactic
+E038	4	by/war	mixed
+E039	3	random	mixed
+E040	2	single word	syntactic
+E041	4	adj/short	mixed
+E042	4	proper nouns	mixed
+E043	4	had/did	syntactic
+E044	3	back/into	syntactic
+E045	5	ones/compared	mixed
+E046	4	of/portion	syntactic
+E047	5	group/war	mixed
+E048	4	numbers/leading	mixed
+E049	4	adj/situated	mixed
+E050	3	by/the	syntactic
+E051	7	masculine pronouns	syntactic
+E052	2	single word	syntactic
+E053	4	and/conjunctions	syntactic
+E054	3	goal/two	mixed
+E055	3	of/side	syntactic
+E056	5	units/symbols	syntactic
+E057	4	some/also	syntactic
+E058	3	comma/and	syntactic
+E059	4	then/Dr/City	mixed
+E060	4	BPE fragments	mixed
+E061	5	name prefixes	syntactic
+E062	5	route/back	mixed
+E063	4	mixed proper	mixed
+E064	5	reach/after	mixed
+E065	4	would/might	syntactic
+E066	4	random	mixed
+E067	3	random	mixed
+E068	5	half/over	syntactic
+E069	3	suffix/on	mixed
+E070	5	copular verbs	syntactic
+E071	2	single word	mixed
+E072	3	article a/an	syntactic
+E073	5	quantity/units	mixed
+E074	2	single suffix	syntactic
+E075	4	hyphens/out	syntactic
+E076	3	random	mixed
+E077	3	random	mixed
+E078	3	wire/through	mixed
+E079	8	colors	semantic
+E080	5	street/road	semantic
+E081	5	action verbs	mixed
+E082	5	comparison	syntactic
+E083	3	mixed nouns	mixed
+E084	5	BPE fragments	mixed
+E085	5	single letters	syntactic
+E086	5	evidence/many	mixed
+E087	3	adj/mixed	mixed
+E088	6	war/conflict	semantic
+E089	6	construction	semantic
+E090	3	mixed dates	mixed
+E091	3	BPE/random	mixed
+E092	7	time words	semantic
+E093	5	forms/named	mixed
+E094	4	adverbs	mixed
+E095	5	prepositions	syntactic
+E096	4	against/misc	mixed
+E097	2	single word	syntactic
+E098	5	quantifiers	syntactic
+E099	8	three-digit numbers	syntactic

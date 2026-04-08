@@ -1,0 +1,4 @@
+E250	5	function words	syntactic
+E251	8	suffix fragments	syntactic
+E252	2	mixed/unclear	mixed
+E253	9	capital initials	syntactic

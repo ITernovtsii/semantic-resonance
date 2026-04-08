@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	random nouns	mixed
+E001	6	quotation/want	mixed
+E002	4	adj/distant	mixed
+E003	6	told/prompted	syntactic
+E004	5	modal/helping	syntactic
+E005	5	or/relatively	syntactic
+E006	3	BPE/name frags	mixed
+E007	7	letter prefixes	syntactic
+E008	5	titled/website	mixed
+E009	5	proper/champion	mixed
+E010	4	mixed nouns	mixed
+E011	5	BPE/name frags	mixed
+E012	7	relative pronouns	syntactic
+E013	4	mixed nouns	mixed
+E014	7	sentence-end punct	syntactic
+E015	5	BPE/name frags	mixed
+E016	7	defeating/beat	semantic
+E017	7	modal verbs	syntactic
+E018	5	every/any	syntactic
+E019	4	capitalized/Up	mixed
+E020	5	past participles	mixed
+E021	5	adj/vast	mixed
+E022	6	adverbs -ly	syntactic
+E023	5	abstract nouns	mixed
+E024	6	title words	mixed
+E025	4	determiners	syntactic
+E026	4	function words	mixed
+E027	5	abstract nouns	mixed
+E028	5	proper adj	mixed
+E029	5	proper names	mixed
+E030	6	title/proper	mixed
+E031	5	spatial preps	syntactic
+E032	5	compound/proper	mixed
+E033	5	punctuation	syntactic
+E034	4	media/nouns	mixed
+E035	5	place/occurring	mixed
+E036	4	abstract nouns	mixed
+E037	6	punctuation	syntactic
+E038	4	action verbs	mixed
+E039	4	proper names	mixed
+E040	6	conjunctions	syntactic
+E041	5	conjunctions	syntactic
+E042	4	possessives	syntactic
+E043	3	mixed proper	mixed
+E044	5	adverbs	mixed
+E045	7	known/perceived	syntactic
+E046	5	BPE/proper	mixed
+E047	5	currency/numbers	syntactic
+E048	5	structure/nouns	mixed
+E049	6	sentence starters	syntactic
+E050	5	action verbs	mixed
+E051	4	proper nouns	mixed
+E052	6	using/comprising	syntactic
+E053	6	adverbs -ly	syntactic
+E054	5	hostile/mixed	mixed
+E055	5	praise/feature	mixed
+E056	5	temporal adj	syntactic
+E057	5	in/from/by	syntactic
+E058	5	versus/beating	mixed
+E059	5	scientific/adj	mixed
+E060	5	geography/nouns	mixed
+E061	5	adj/strategic	mixed
+E062	5	number words	mixed
+E063	6	three-digit numbers	syntactic
+E064	5	avoid/commit	mixed
+E065	5	groups/critics	mixed
+E066	6	proper/org	mixed
+E067	5	sports/misc	mixed
+E068	6	modal/helping	syntactic
+E069	6	discourse adverbs	syntactic
+E070	5	action verbs	mixed
+E071	6	creative adj	semantic
+E072	4	sports/mixed	mixed
+E073	6	demonstratives	syntactic
+E074	5	BPE fragments	syntactic
+E075	4	instead/memoir	mixed
+E076	5	adverbs/being	mixed
+E077	4	place/mixed	mixed
+E078	5	physical nouns	mixed
+E079	6	anyone/each	syntactic
+E080	5	mixed proper	mixed
+E081	5	possessives	syntactic
+E082	5	sentence starters	syntactic
+E083	4	abstract nouns	mixed
+E084	5	for/over preps	syntactic
+E085	5	place/nouns	mixed
+E086	6	media/creative	semantic
+E087	6	around/beneath	syntactic
+E088	6	BPE fragments	mixed
+E089	6	three-digit numbers	syntactic
+E090	3	determiners	syntactic
+E091	5	BPE fragments	mixed
+E092	6	informal/did	mixed
+E093	4	sentence-end punct	syntactic
+E094	6	under/beneath	syntactic
+E095	4	plural nouns	mixed
+E096	7	three-digit numbers	syntactic
+E097	7	possessives	syntactic
+E098	4	proper/mixed	mixed
+E099	6	among/both	syntactic

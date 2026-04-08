@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	5	mixed gerund/prepositions	mixed
+E251	3	proper names/misc	mixed
+E252	9	death/disappearance	semantic
+E253	3	name fragments/misc	mixed
+E254	10	social/cultural adjectives	semantic
+E255	7	opening brackets/symbols	syntactic

@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	10	verbs	syntactic
+E001	9	transitions	semantic
+E002	8	punctuation	syntactic
+E003	10	non-Latin scripts	syntactic
+E004	6	materials	semantic
+E005	9	quotes	syntactic
+E006	7	punctuation	syntactic
+E007	5	time/punctuation	mixed
+E008	4	mixed/unclear	semantic
+E009	8	pronouns	semantic
+E010	1	random	mixed
+E011	10	prepositions	syntactic
+E012	7	place fragments	semantic
+E013	8	prepositions	syntactic
+E014	7	articles	syntactic
+E015	9	pronouns	syntactic
+E016	9	organizations	semantic
+E017	2	random	mixed
+E018	4	roles/fragments	semantic
+E019	9	auxiliary verbs	syntactic
+E020	10	names	semantic
+E021	10	possessives	syntactic
+E022	9	determiners	syntactic
+E023	10	prepositions	syntactic
+E024	10	prepositions	syntactic
+E025	10	prepositions	syntactic
+E026	10	numbers	syntactic
+E027	8	word fragments	syntactic
+E028	2	random	mixed
+E029	6	functional	syntactic
+E030	9	subword fragments	syntactic
+E031	8	adverbs/verbs	semantic
+E032	9	prepositions	syntactic
+E033	8	names	semantic
+E034	5	mixed	mixed
+E035	7	word fragments	syntactic
+E036	1	random	mixed
+E037	10	time prepositions	semantic
+E038	9	conjunctions	syntactic
+E039	8	formal/legal	semantic
+E040	7	objects/measurement	semantic
+E041	10	articles	syntactic
+E042	7	name fragments	semantic
+E043	5	tech/places	semantic
+E044	5	common words	syntactic
+E045	9	abstract nouns	semantic
+E046	9	verbs	semantic
+E047	8	prepositions	syntactic
+E048	8	nouns	semantic
+E049	10	numbers	syntactic
+E050	10	roles/titles	semantic
+E051	6	quotes/functional	mixed
+E052	8	events/nouns	semantic
+E053	3	random	mixed
+E054	10	political adjectives	semantic
+E055	8	conjunctions	syntactic
+E056	10	media	semantic
+E057	9	determiners	syntactic
+E058	6	verbs/punctuation	mixed
+E059	10	nationalities	semantic
+E060	10	places	semantic
+E061	10	transitions	semantic
+E062	10	numbers/quantifiers	semantic
+E063	3	common words	syntactic
+E064	7	locatives/temporal	semantic
+E065	10	verbs	semantic
+E066	4	functional	syntactic
+E067	5	activities/objects	semantic
+E068	8	military	semantic
+E069	9	navigation/travel	semantic
+E070	3	common words	syntactic
+E071	10	prepositions	syntactic
+E072	10	relational words	syntactic
+E073	10	inclusion/possession	syntactic
+E074	10	punctuation	syntactic
+E075	8	science/nature	semantic
+E076	4	descriptors	semantic
+E077	10	names	semantic
+E078	8	weather/geography	semantic
+E079	10	relative pronouns	syntactic
+E080	9	abstract nouns	semantic
+E081	9	functional words	syntactic
+E082	9	punctuation	syntactic
+E083	8	punctuation	syntactic
+E084	10	numbers	syntactic
+E085	8	punctuation	syntactic
+E086	8	names	semantic
+E087	10	quantifiers	syntactic
+E088	8	transportation	semantic
+E089	10	history/war	semantic
+E090	9	short functional	syntactic
+E091	7	hyphens	syntactic
+E092	10	past tense	syntactic
+E093	10	articles	syntactic
+E094	10	prepositions	syntactic
+E095	10	punctuation	syntactic
+E096	2	random	mixed
+E097	10	sports	semantic
+E098	9	motion verbs	semantic
+E099	6	adjectives/verbs	semantic

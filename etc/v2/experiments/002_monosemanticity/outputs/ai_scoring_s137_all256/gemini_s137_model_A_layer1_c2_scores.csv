@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	2	common words	mixed
+E101	10	sports	semantic
+E102	9	prepositions	syntactic
+E103	6	location/transit	semantic
+E104	9	creation verbs	semantic
+E105	7	roles/entities	semantic
+E106	8	abstract nouns	semantic
+E107	3	mixed/unclear	mixed
+E108	9	transportation/geography	semantic
+E109	10	inclusion/composition	semantic
+E110	4	name fragments	mixed
+E111	2	mixed/unclear	mixed
+E112	9	quantifiers/adverbs	semantic
+E113	10	naval/maritime	semantic
+E114	7	participles	syntactic
+E115	3	common words	syntactic
+E116	9	cognition verbs	semantic
+E117	8	word fragments	syntactic
+E118	10	numbers	syntactic
+E119	5	descriptive verbs/adverbs	mixed
+E120	9	pronouns/determiners	syntactic
+E121	9	prepositions	syntactic
+E122	6	articles/letters	syntactic
+E123	9	prepositions	syntactic
+E124	1	single token	mixed
+E125	9	personal pronouns	syntactic
+E126	10	personal names	semantic
+E127	8	discourse markers	syntactic
+E128	8	technical symbols	syntactic
+E129	10	ordinals/superlatives	semantic
+E130	10	punctuation	syntactic
+E131	8	conjunctions	syntactic
+E132	9	prepositions	syntactic
+E133	8	question words	syntactic
+E134	3	verbs	mixed
+E135	9	possessives/determiners	syntactic
+E136	10	quantifiers	semantic
+E137	9	pronouns	syntactic
+E138	8	3rd-person verbs	syntactic
+E139	9	relative pronouns	syntactic
+E140	10	human roles	semantic
+E141	10	prepositions	syntactic
+E142	8	word fragments	syntactic
+E143	9	conflict/military	semantic
+E144	8	attribution/markers	semantic
+E145	10	logical quantifiers	semantic
+E146	9	punctuation/quotes	syntactic
+E147	10	spatial position	semantic
+E148	8	descriptive adjectives	semantic
+E149	9	punctuation/symbols	syntactic

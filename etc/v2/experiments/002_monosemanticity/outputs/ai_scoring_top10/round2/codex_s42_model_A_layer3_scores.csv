@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	discourse markers	syntactic
+E001	6	action events	semantic
+E002	3	mixed topics	mixed
+E003	7	past-tense verbs	syntactic
+E004	9	road infrastructure	semantic
+E005	5	action verbs	mixed
+E006	9	function words	syntactic
+E007	6	titles/abbrev	mixed
+E008	10	punctuation	syntactic
+E009	6	abstract nouns	semantic
+E010	7	past participles	syntactic
+E011	8	spatial parts	semantic
+E012	6	political conflict	mixed
+E013	6	dialogue style	mixed
+E014	5	formal prose	mixed
+E015	4	determiner/punct	mixed
+E016	8	auxiliary verbs	syntactic
+E017	7	geographic names	semantic
+E018	8	temporal terms	semantic
+E019	9	personal names	semantic
+E020	3	mixed nouns	mixed
+E021	7	abbreviations	syntactic
+E022	8	place modifiers	semantic
+E023	7	descriptive adjectives	syntactic
+E024	1	random fragments	mixed
+E025	1	random fragments	mixed
+E026	5	location descriptors	semantic
+E027	8	include/contain verbs	syntactic
+E028	5	roles/titles	mixed
+E029	2	random mixed	mixed
+E030	3	album/punct	mixed
+E031	2	random caps	mixed
+E032	8	emotion/cognition	semantic
+E033	4	mixed discourse	mixed
+E034	8	pronouns/wh-words	syntactic
+E035	4	mixed adjectives	mixed
+E036	7	plural nouns	syntactic
+E037	9	quantifiers	syntactic
+E038	9	conjunctions	syntactic
+E039	7	historical process	semantic
+E040	10	degree adverbs	syntactic
+E041	3	mixed proper nouns	mixed
+E042	7	media commentary	semantic
+E043	7	symbol connectors	mixed
+E044	8	military units	semantic
+E045	8	political governance	semantic
+E046	10	punctuation	syntactic
+E047	6	training	semantic
+E048	7	action verbs	syntactic
+E049	9	sports stats	semantic
+E050	4	years/the	mixed
+E051	6	months/punctuation	mixed
+E052	7	modal auxiliaries	syntactic
+E053	3	mixed descriptors	mixed
+E054	7	groups/officials	semantic
+E055	10	punctuation	syntactic
+E056	4	mixed plurals	mixed
+E057	8	transitional adverbs	syntactic
+E058	5	organization terms	mixed
+E059	9	professions/titles	semantic
+E060	7	articles	syntactic
+E061	7	nature/ecology	semantic
+E062	7	proper names	semantic
+E063	8	determiners/pronouns	syntactic
+E064	7	prepositions/connectors	syntactic
+E065	8	crime/violence	semantic
+E066	7	process adjectives	syntactic
+E067	8	stance adverbs	syntactic
+E068	8	sentiment adjectives	semantic
+E069	9	prepositions	syntactic
+E070	8	quantities/money	semantic
+E071	3	mixed topics	mixed
+E072	8	have-forms	syntactic
+E073	4	abbrev codes	mixed
+E074	10	measurement units	semantic
+E075	7	action/participle verbs	syntactic
+E076	3	mixed plurals	mixed
+E077	8	be/become verbs	syntactic
+E078	3	case/that	mixed
+E079	7	adverbial stance	syntactic
+E080	7	articles/that	syntactic
+E081	2	random mixed	mixed
+E082	10	punctuation	syntactic
+E083	2	random events	mixed
+E084	1	random fragment	mixed
+E085	2	random mixed	mixed
+E086	1	random fragments	mixed
+E087	6	groups/officials	semantic
+E088	7	descriptive adjectives	semantic
+E089	8	negation/quantifiers	syntactic
+E090	9	first names	semantic
+E091	10	meteorology	semantic
+E092	3	mixed media	mixed
+E093	7	event verbs	syntactic
+E094	4	mixed tech	mixed
+E095	9	passive participles	syntactic
+E096	1	random fragments	mixed
+E097	10	measurement units	semantic
+E098	8	punctuation patterns	syntactic
+E099	9	difficulty terms	semantic

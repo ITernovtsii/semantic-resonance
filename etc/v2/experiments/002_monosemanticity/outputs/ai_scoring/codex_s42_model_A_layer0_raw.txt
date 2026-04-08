@@ -1,0 +1,100 @@
+E000	7	past-tense verbs	syntactic
+E001	8	function words	syntactic
+E002	10	articles/determiners	syntactic
+E003	10	quantifiers/determiners	syntactic
+E004	4	mixed/unclear	mixed
+E005	9	relative pronouns	syntactic
+E006	9	sentence starters	syntactic
+E007	8	subword affixes	syntactic
+E008	3	random fragments	mixed
+E009	5	abstract nouns	mixed
+E010	6	subword endings	syntactic
+E011	9	capitalized function words	syntactic
+E012	9	conjunctions/punctuation	syntactic
+E013	9	male first names	semantic
+E014	8	plural auxiliaries	syntactic
+E015	10	quote punctuation	syntactic
+E016	9	quantifier adjectives	syntactic
+E017	5	land terms	mixed
+E018	4	mixed/unclear	mixed
+E019	6	suffix fragments	syntactic
+E020	8	action verbs	syntactic
+E021	10	punctuation marks	syntactic
+E022	10	tropical weather	semantic
+E023	9	female pronouns	syntactic
+E024	10	single letters	syntactic
+E025	10	conjunction	and	syntactic
+E026	8	function words	syntactic
+E027	6	year references	semantic
+E028	9	legal/political	semantic
+E029	9	articles/determiners	syntactic
+E030	1	random garbage	mixed
+E031	8	prepositions	syntactic
+E032	10	numbers	syntactic
+E033	5	mixed verbs	mixed
+E034	9	directional particles	syntactic
+E035	9	percent/numbers	syntactic
+E036	8	quotation tokens	syntactic
+E037	10	indefinite articles	syntactic
+E038	10	bracket punctuation	syntactic
+E039	8	past participles	syntactic
+E040	10	comma	syntactic
+E041	4	proper nouns	mixed
+E042	8	cardinal direction	semantic
+E043	9	path prepositions	syntactic
+E044	2	random entities	mixed
+E045	8	discourse adverbs	syntactic
+E046	4	mixed descriptors	mixed
+E047	8	direction prepositions	syntactic
+E048	9	pronouns/possessives	syntactic
+E049	10	motion prepositions	syntactic
+E050	5	years/abbrevs	mixed
+E051	7	conjunction markers	syntactic
+E052	6	punctuation+relative	syntactic
+E053	2	subword soup	mixed
+E054	10	comma	syntactic
+E055	8	modals/verbs	syntactic
+E056	8	it-pronouns	syntactic
+E057	5	quotes/mixed	mixed
+E058	10	preposition	of	syntactic
+E059	8	US/nationality	semantic
+E060	3	mixed/unclear	mixed
+E061	6	song quotation	mixed
+E062	7	pronouns+direction	syntactic
+E063	8	national adjectives	semantic
+E064	3	short fragments	syntactic
+E065	8	colors/directions	semantic
+E066	8	preposition	with	syntactic
+E067	9	locative adverbs	syntactic
+E068	9	discourse starters	syntactic
+E069	7	call-related terms	semantic
+E070	8	apostrophes	syntactic
+E071	10	and/or	syntactic
+E072	8	prepositions	syntactic
+E073	8	roman numerals	syntactic
+E074	8	measurements/specs	semantic
+E075	6	capital bigrams	syntactic
+E076	9	indefinite quantifiers	syntactic
+E077	8	abbreviations	syntactic
+E078	9	testimony/reporting	semantic
+E079	8	subword suffixes	syntactic
+E080	9	comma punctuation	syntactic
+E081	10	temporal conjunctions	syntactic
+E082	8	sentence punctuation	syntactic
+E083	8	capitalized starters	syntactic
+E084	9	comma/brackets	syntactic
+E085	2	random subwords	mixed
+E086	7	numeric tokens	syntactic
+E087	7	to/into particles	syntactic
+E088	9	for/that	syntactic
+E089	7	quantity terms	semantic
+E090	9	prepositions	syntactic
+E091	10	en dash	syntactic
+E092	3	subword fragments	syntactic
+E093	10	spatial prepositions	syntactic
+E094	10	sports terms	semantic
+E095	6	determiners+colors	mixed
+E096	8	quote+prepositions	syntactic
+E097	10	number token	syntactic
+E098	7	ranking terms	semantic
+E099	7	pronouns/auxiliaries	syntactic

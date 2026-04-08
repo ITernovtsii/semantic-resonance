@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	pronouns/contractions	syntactic
+E001	7	auxiliary verbs	syntactic
+E002	9	prepositions	syntactic
+E003	4	mixed/unclear	mixed
+E004	1	random fragments	mixed
+E005	8	action verbs	syntactic
+E006	9	connectives	syntactic
+E007	3	mixed nouns	mixed
+E008	10	prepositions	syntactic
+E009	3	name fragments	mixed
+E010	9	geography	semantic
+E011	9	first names	semantic
+E012	7	verb-preposition	syntactic
+E013	10	to/into	syntactic
+E014	8	reporting markers	syntactic
+E015	5	titles/roles	semantic
+E016	9	wh-connectives	syntactic
+E017	8	abstract events	semantic
+E018	8	motion prepositions	syntactic
+E019	7	plural nouns	syntactic
+E020	1	random fragments	mixed
+E021	7	abstract events	semantic
+E022	8	punctuation/connectives	syntactic
+E023	6	attributes	semantic
+E024	9	prepositions	syntactic
+E025	9	determiners	syntactic
+E026	5	names/fragments	mixed
+E027	8	abstract concepts	semantic
+E028	7	adjectival forms	syntactic
+E029	9	media/reviews	semantic
+E030	8	institutions	semantic
+E031	9	prepositions	syntactic
+E032	8	geo modifiers	semantic
+E033	10	punctuation	syntactic
+E034	6	media entities	semantic
+E035	7	state verbs	syntactic
+E036	7	nominalizations	syntactic
+E037	10	punctuation	syntactic
+E038	1	random fragments	mixed
+E039	7	verb-preposition	syntactic
+E040	10	conjunctions	syntactic
+E041	9	conjunctions	syntactic
+E042	9	possessives	syntactic
+E043	3	prefix mix	mixed
+E044	9	adverbs	syntactic
+E045	8	hedging markers	syntactic
+E046	2	random fragments	mixed
+E047	8	symbols/numbers	syntactic
+E048	9	structures/places	semantic
+E049	9	clause markers	syntactic
+E050	8	action verbs	syntactic
+E051	7	plural nouns	syntactic
+E052	7	function words	syntactic
+E053	2	random fragments	mixed
+E054	9	wh-connectives	syntactic
+E055	10	adverbs	syntactic
+E056	10	punctuation	syntactic
+E057	8	reporting verbs	syntactic
+E058	2	mixed/unclear	mixed
+E059	2	name fragments	mixed
+E060	9	institutions	semantic
+E061	3	mixed/unclear	mixed
+E062	9	connectives	syntactic
+E063	10	prefix fragments	syntactic
+E064	10	articles	syntactic
+E065	5	entity tails	mixed
+E066	10	prepositions	syntactic
+E067	10	punctuation	syntactic
+E068	9	on/onto	syntactic
+E069	9	temporal markers	syntactic
+E070	8	measurements	syntactic
+E071	3	names/fragments	mixed
+E072	7	geography/culture	semantic
+E073	10	punctuation	syntactic
+E074	10	surnames	semantic
+E075	8	adjectives	syntactic
+E076	1	random fragments	mixed
+E077	4	mixed entities	mixed
+E078	7	spatial objects	semantic
+E079	10	quantifiers	syntactic
+E080	4	mixed entities	mixed
+E081	8	determiners	syntactic
+E082	9	determiners	syntactic
+E083	7	abstract events	semantic
+E084	10	preposition for	syntactic
+E085	8	civic geography	semantic
+E086	9	media formats	semantic
+E087	9	spatial prepositions	syntactic
+E088	1	random stems	mixed
+E089	10	numbers/units	syntactic
+E090	9	articles	syntactic
+E091	1	random fragments	mixed
+E092	6	pronouns	syntactic
+E093	10	punctuation	syntactic
+E094	8	spatial prepositions	syntactic
+E095	8	people/groups	semantic
+E096	10	numbers	syntactic
+E097	10	possessives	syntactic
+E098	9	place names	semantic
+E099	9	quantifiers	syntactic

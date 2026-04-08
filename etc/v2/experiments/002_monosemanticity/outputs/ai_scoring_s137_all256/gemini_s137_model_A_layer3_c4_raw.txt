@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the requested scoring output.
+E200	10	possessive pronouns	syntactic
+E201	8	negation/modifiers	semantic
+E202	4	mixed/unclear	mixed
+E203	7	honorifics/abbreviations	semantic
+E204	8	punctuation/symbols	syntactic
+E205	3	mixed/unclear	mixed
+E206	2	random/functional	mixed
+E207	9	punctuation	syntactic
+E208	10	measurement units	semantic
+E209	8	quantifiers/numbers	semantic
+E210	10	military/weaponry	semantic
+E211	10	surnames	semantic
+E212	10	time/months	semantic
+E213	6	plural nouns	mixed
+E214	10	conjunctions	syntactic
+E215	5	history/events	semantic
+E216	7	descriptors/prefixes	semantic
+E217	8	media formats	semantic
+E218	1	single token	mixed
+E219	2	random/unclear	mixed
+E220	10	linking verbs	syntactic
+E221	4	mixed/unclear	mixed
+E222	2	punctuation/pad	syntactic
+E223	9	abstract verbs	semantic
+E224	5	subword fragments	syntactic
+E225	1	single token	mixed
+E226	5	mixed/descriptors	mixed
+E227	10	quantifiers	semantic
+E228	1	single token	mixed
+E229	3	mixed/unclear	mixed
+E230	1	random	mixed
+E231	7	quotes/intensifiers	mixed
+E232	6	pop culture/lifestyle	semantic
+E233	9	articles	syntactic
+E234	8	months/time	semantic
+E235	6	descriptors	semantic
+E236	8	adjectives/descriptors	semantic
+E237	5	prepositions/communication	mixed
+E238	10	numbers	syntactic
+E239	2	random	mixed
+E240	1	random/verbs	mixed
+E241	9	facilities/places	semantic
+E242	4	mixed/unclear	mixed
+E243	8	governance/economics	semantic
+E244	3	mixed/unclear	mixed
+E245	8	events/years	semantic
+E246	1	random	mixed
+E247	9	narrative/speech	semantic
+E248	8	logical connectors	semantic
+E249	1	random	mixed

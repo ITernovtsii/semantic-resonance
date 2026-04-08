@@ -1,0 +1,50 @@
+E150	9	articles	syntactic
+E151	8	connectives	syntactic
+E152	2	mixed unclear	mixed
+E153	4	mixed fragments	mixed
+E154	8	adjectives	syntactic
+E155	10	articles	syntactic
+E156	8	adverbs	syntactic
+E157	9	prepositions	syntactic
+E158	8	relational terms	syntactic
+E159	9	evaluative adjectives	semantic
+E160	3	mixed unclear	mixed
+E161	9	military conflict	semantic
+E162	2	mixed unclear	mixed
+E163	7	quantity descriptors	mixed
+E164	9	possessives	syntactic
+E165	10	determiners	syntactic
+E166	10	punctuation	syntactic
+E167	3	mixed nouns	mixed
+E168	7	general adjectives	mixed
+E169	8	spatial actions	semantic
+E170	10	punctuation	syntactic
+E171	7	governance terms	semantic
+E172	8	media culture	semantic
+E173	8	action verbs	syntactic
+E174	4	mixed unclear	mixed
+E175	5	crisis terms	mixed
+E176	9	quotes brackets	syntactic
+E177	9	prepositions	syntactic
+E178	10	punctuation	syntactic
+E179	9	past verbs	syntactic
+E180	8	descriptive adjectives	semantic
+E181	10	prepositions	syntactic
+E182	8	symbol fragments	syntactic
+E183	7	abstract nouns	semantic
+E184	8	conjunctions	syntactic
+E185	10	numbers	syntactic
+E186	5	units titles	mixed
+E187	7	function words	syntactic
+E188	10	subword suffixes	syntactic
+E189	2	mixed tokens	mixed
+E190	8	connectives	syntactic
+E191	4	name fragments	mixed
+E192	3	subword names	mixed
+E193	9	auxiliary verbs	syntactic
+E194	8	prepositions	syntactic
+E195	9	determiners	syntactic
+E196	3	mixed nouns	mixed
+E197	10	royalty titles	semantic
+E198	4	mixed topics	mixed
+E199	6	evaluative terms	mixed

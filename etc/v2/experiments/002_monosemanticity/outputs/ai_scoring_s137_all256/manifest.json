@@ -1,0 +1,386 @@
+[
+  {
+    "key": "s137_model_A_layer0_c0",
+    "source_csv": "seed137/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer0_c0_input.txt",
+    "n_experts": 50,
+    "chunk": 0,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer0_c1",
+    "source_csv": "seed137/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer0_c1_input.txt",
+    "n_experts": 50,
+    "chunk": 1,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer0_c2",
+    "source_csv": "seed137/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer0_c2_input.txt",
+    "n_experts": 50,
+    "chunk": 2,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer0_c3",
+    "source_csv": "seed137/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer0_c3_input.txt",
+    "n_experts": 50,
+    "chunk": 3,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer0_c4",
+    "source_csv": "seed137/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer0_c4_input.txt",
+    "n_experts": 50,
+    "chunk": 4,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer0_c5",
+    "source_csv": "seed137/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer0_c5_input.txt",
+    "n_experts": 4,
+    "chunk": 5,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer1_c0",
+    "source_csv": "seed137/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer1_c0_input.txt",
+    "n_experts": 50,
+    "chunk": 0,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer1_c1",
+    "source_csv": "seed137/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer1_c1_input.txt",
+    "n_experts": 50,
+    "chunk": 1,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer1_c2",
+    "source_csv": "seed137/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer1_c2_input.txt",
+    "n_experts": 50,
+    "chunk": 2,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer1_c3",
+    "source_csv": "seed137/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer1_c3_input.txt",
+    "n_experts": 50,
+    "chunk": 3,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer1_c4",
+    "source_csv": "seed137/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer1_c4_input.txt",
+    "n_experts": 50,
+    "chunk": 4,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer1_c5",
+    "source_csv": "seed137/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer1_c5_input.txt",
+    "n_experts": 6,
+    "chunk": 5,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer2_c0",
+    "source_csv": "seed137/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer2_c0_input.txt",
+    "n_experts": 50,
+    "chunk": 0,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer2_c1",
+    "source_csv": "seed137/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer2_c1_input.txt",
+    "n_experts": 50,
+    "chunk": 1,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer2_c2",
+    "source_csv": "seed137/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer2_c2_input.txt",
+    "n_experts": 50,
+    "chunk": 2,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer2_c3",
+    "source_csv": "seed137/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer2_c3_input.txt",
+    "n_experts": 50,
+    "chunk": 3,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer2_c4",
+    "source_csv": "seed137/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer2_c4_input.txt",
+    "n_experts": 50,
+    "chunk": 4,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer2_c5",
+    "source_csv": "seed137/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer2_c5_input.txt",
+    "n_experts": 6,
+    "chunk": 5,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer3_c0",
+    "source_csv": "seed137/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer3_c0_input.txt",
+    "n_experts": 50,
+    "chunk": 0,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer3_c1",
+    "source_csv": "seed137/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer3_c1_input.txt",
+    "n_experts": 50,
+    "chunk": 1,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer3_c2",
+    "source_csv": "seed137/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer3_c2_input.txt",
+    "n_experts": 50,
+    "chunk": 2,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer3_c3",
+    "source_csv": "seed137/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer3_c3_input.txt",
+    "n_experts": 50,
+    "chunk": 3,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer3_c4",
+    "source_csv": "seed137/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer3_c4_input.txt",
+    "n_experts": 50,
+    "chunk": 4,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_A_layer3_c5",
+    "source_csv": "seed137/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_A_layer3_c5_input.txt",
+    "n_experts": 4,
+    "chunk": 5,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer0_c0",
+    "source_csv": "seed137/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer0_c0_input.txt",
+    "n_experts": 50,
+    "chunk": 0,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer0_c1",
+    "source_csv": "seed137/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer0_c1_input.txt",
+    "n_experts": 50,
+    "chunk": 1,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer0_c2",
+    "source_csv": "seed137/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer0_c2_input.txt",
+    "n_experts": 50,
+    "chunk": 2,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer0_c3",
+    "source_csv": "seed137/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer0_c3_input.txt",
+    "n_experts": 50,
+    "chunk": 3,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer0_c4",
+    "source_csv": "seed137/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer0_c4_input.txt",
+    "n_experts": 50,
+    "chunk": 4,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer0_c5",
+    "source_csv": "seed137/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer0_c5_input.txt",
+    "n_experts": 3,
+    "chunk": 5,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer1_c0",
+    "source_csv": "seed137/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer1_c0_input.txt",
+    "n_experts": 50,
+    "chunk": 0,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer1_c1",
+    "source_csv": "seed137/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer1_c1_input.txt",
+    "n_experts": 50,
+    "chunk": 1,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer1_c2",
+    "source_csv": "seed137/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer1_c2_input.txt",
+    "n_experts": 50,
+    "chunk": 2,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer1_c3",
+    "source_csv": "seed137/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer1_c3_input.txt",
+    "n_experts": 50,
+    "chunk": 3,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer1_c4",
+    "source_csv": "seed137/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer1_c4_input.txt",
+    "n_experts": 50,
+    "chunk": 4,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer1_c5",
+    "source_csv": "seed137/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer1_c5_input.txt",
+    "n_experts": 6,
+    "chunk": 5,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer2_c0",
+    "source_csv": "seed137/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer2_c0_input.txt",
+    "n_experts": 50,
+    "chunk": 0,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer2_c1",
+    "source_csv": "seed137/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer2_c1_input.txt",
+    "n_experts": 50,
+    "chunk": 1,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer2_c2",
+    "source_csv": "seed137/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer2_c2_input.txt",
+    "n_experts": 50,
+    "chunk": 2,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer2_c3",
+    "source_csv": "seed137/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer2_c3_input.txt",
+    "n_experts": 50,
+    "chunk": 3,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer2_c4",
+    "source_csv": "seed137/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer2_c4_input.txt",
+    "n_experts": 50,
+    "chunk": 4,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer2_c5",
+    "source_csv": "seed137/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer2_c5_input.txt",
+    "n_experts": 6,
+    "chunk": 5,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer3_c0",
+    "source_csv": "seed137/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer3_c0_input.txt",
+    "n_experts": 50,
+    "chunk": 0,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer3_c1",
+    "source_csv": "seed137/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer3_c1_input.txt",
+    "n_experts": 50,
+    "chunk": 1,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer3_c2",
+    "source_csv": "seed137/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer3_c2_input.txt",
+    "n_experts": 50,
+    "chunk": 2,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer3_c3",
+    "source_csv": "seed137/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer3_c3_input.txt",
+    "n_experts": 50,
+    "chunk": 3,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer3_c4",
+    "source_csv": "seed137/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer3_c4_input.txt",
+    "n_experts": 50,
+    "chunk": 4,
+    "total_chunks": 6
+  },
+  {
+    "key": "s137_model_B_layer3_c5",
+    "source_csv": "seed137/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "ai_scoring_s137_all256/s137_model_B_layer3_c5_input.txt",
+    "n_experts": 6,
+    "chunk": 5,
+    "total_chunks": 6
+  }
+]

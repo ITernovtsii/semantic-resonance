@@ -1,0 +1,11 @@
+I will read the instructions and input data from `_tmp_s137_model_A_layer0_gemini.txt` to generate the requested scoring lines.
+E000	10	punctuation	syntactic
+E010	7	function words	syntactic
+E020	3	body/physical	mixed
+E030	9	prepositions	syntactic
+E040	4	quantifiers/time	mixed
+E050	8	narrative/events	semantic
+E060	9	past tense verbs	syntactic
+E070	3	mixed/family	mixed
+E080	2	random	mixed
+E090	10	punctuation	syntactic

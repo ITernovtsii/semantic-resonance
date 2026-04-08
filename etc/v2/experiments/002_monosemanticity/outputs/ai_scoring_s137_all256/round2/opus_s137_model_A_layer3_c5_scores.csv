@@ -1,0 +1,5 @@
+expert_id	score	category	type
+E250	5	purpose/reference_verbs	mixed
+E251	2	single_token	syntactic
+E252	8	modal_verbs	syntactic
+E253	2	rare_fragments	mixed

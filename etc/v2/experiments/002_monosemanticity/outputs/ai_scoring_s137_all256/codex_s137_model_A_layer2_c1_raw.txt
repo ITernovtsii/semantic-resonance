@@ -1,0 +1,50 @@
+E050	8	be-state verbs	syntactic
+E051	5	names/places	mixed
+E052	9	spatial prepositions	syntactic
+E053	2	random fragments	mixed
+E054	8	locative prepositions	syntactic
+E055	6	punctuation/connectives	mixed
+E056	6	action verbs	syntactic
+E057	8	roles/titles	semantic
+E058	10	wh-words	syntactic
+E059	10	determiners	syntactic
+E060	7	name initials	syntactic
+E061	4	name fragments	syntactic
+E062	2	units/unicode	mixed
+E063	5	descriptive terms	mixed
+E064	7	-ed forms	syntactic
+E065	3	mixed nouns	mixed
+E066	4	subword chunks	syntactic
+E067	9	brackets/punctuation	syntactic
+E068	8	civic conflict nouns	semantic
+E069	7	punctuation contrast	syntactic
+E070	8	symbol punctuation	syntactic
+E071	10	punctuation pairs	syntactic
+E072	3	article/punctuation	mixed
+E073	8	geographic names	semantic
+E074	9	comma/quote tokens	syntactic
+E075	8	quotes/apostrophes	syntactic
+E076	8	abstract concepts	semantic
+E077	8	prepositions	syntactic
+E078	9	ellipsis/quotes	syntactic
+E079	8	directional preps	syntactic
+E080	4	storm/title mix	mixed
+E081	3	topic miscellany	mixed
+E082	10	sentence-final punctuation	syntactic
+E083	10	punctuation	syntactic
+E084	4	acronyms/names	mixed
+E085	9	person names	semantic
+E086	9	place names	semantic
+E087	7	roads/places	semantic
+E088	8	political-ethnic terms	semantic
+E089	6	deictic words	mixed
+E090	5	plural forms	syntactic
+E091	4	abstract noun mix	mixed
+E092	9	articles/possessives	syntactic
+E093	3	subword stems	syntactic
+E094	10	quantifier determiners	syntactic
+E095	8	assertion verbs	semantic
+E096	8	composition verbs	semantic
+E097	8	to/into preps	syntactic
+E098	6	action/process verbs	semantic
+E099	1	random mix	mixed

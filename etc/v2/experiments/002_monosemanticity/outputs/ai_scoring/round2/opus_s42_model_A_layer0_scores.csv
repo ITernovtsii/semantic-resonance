@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	past tense verbs	syntactic
+E001	5	clause connectors	syntactic
+E002	7	determiners	syntactic
+E003	7	quantifiers	syntactic
+E004	3	mixed fragments	mixed
+E005	8	relative pronouns	syntactic
+E006	8	sentence starters	syntactic
+E007	5	BPE prefixes	syntactic
+E008	5	plural noun suffixes	syntactic
+E009	6	abstract nouns	semantic
+E010	5	BPE suffixes	syntactic
+E011	7	sentence starters	syntactic
+E012	6	conjunctions	syntactic
+E013	8	male first names	semantic
+E014	7	plural subject verbs	syntactic
+E015	8	sentence endings	syntactic
+E016	7	ordinals quantifiers	syntactic
+E017	3	mixed fragments	mixed
+E018	3	mixed fragments	mixed
+E019	4	BPE suffixes	syntactic
+E020	6	past tense actions	syntactic
+E021	5	punctuation marks	syntactic
+E022	9	weather hurricane	semantic
+E023	6	female pronouns	syntactic
+E024	7	single letters	syntactic
+E025	2	single word	syntactic
+E026	3	function words	syntactic
+E027	5	temporal relations	mixed
+E028	7	legal political	semantic
+E029	3	determiners	syntactic
+E030	4	rare BPE tokens	syntactic
+E031	4	prepositions	syntactic
+E032	8	numbers	syntactic
+E033	6	word parts	mixed
+E034	5	directional particles	syntactic
+E035	7	numbers percentages	syntactic
+E036	4	quotation marks	syntactic
+E037	5	articles	syntactic
+E038	7	punctuation brackets	syntactic
+E039	6	past tense verbs	syntactic
+E040	2	single comma	syntactic
+E041	5	proper nouns	semantic
+E042	2	single word	syntactic
+E043	5	spatial prepositions	syntactic
+E044	4	rare BPE tokens	syntactic
+E045	5	discourse markers	syntactic
+E046	6	adjectives states	mixed
+E047	6	directional preps	syntactic
+E048	6	pronouns possessives	syntactic
+E049	7	directional particles	syntactic
+E050	4	mixed codes dates	mixed
+E051	3	conjunction	syntactic
+E052	4	semicolon relative	syntactic
+E053	4	BPE subwords	syntactic
+E054	2	single comma	syntactic
+E055	5	modal production	mixed
+E056	5	possessive pronouns	syntactic
+E057	4	quotation marks	syntactic
+E058	3	single preposition	syntactic
+E059	6	country demonyms	semantic
+E060	5	abstract nouns	semantic
+E061	4	quotation song	mixed
+E062	5	directional pronouns	syntactic
+E063	6	nationality adjectives	mixed
+E064	5	BPE syllables	syntactic
+E065	7	colors directions	mixed
+E066	3	preposition	syntactic
+E067	6	locative adverbs	syntactic
+E068	7	sentence starters	syntactic
+E069	6	naming reference	mixed
+E070	3	apostrophe suffix	syntactic
+E071	2	conjunction	syntactic
+E072	4	preposition set	syntactic
+E073	5	roman letters	syntactic
+E074	5	technical measures	mixed
+E075	7	BPE name prefixes	syntactic
+E076	6	indefinite quantifiers	syntactic
+E077	4	abbreviations	syntactic
+E078	6	epistemic verbs	semantic
+E079	5	BPE word endings	syntactic
+E080	3	punctuation	syntactic
+E081	7	temporal conjunctions	syntactic
+E082	3	punctuation	syntactic
+E083	4	sentence starters	syntactic
+E084	2	punctuation	syntactic
+E085	5	BPE syllables	syntactic
+E086	5	numbers names	mixed
+E087	4	directional to	syntactic
+E088	4	for that	syntactic
+E089	5	partitive of	syntactic
+E090	6	prepositions	syntactic
+E091	2	single dash	syntactic
+E092	6	BPE syllables	syntactic
+E093	7	directional preps	syntactic
+E094	8	sports competition	semantic
+E095	6	quantifier det	syntactic
+E096	4	quotation comma	syntactic
+E097	2	single number	syntactic
+E098	3	mixed fragments	mixed
+E099	5	quotation dates	mixed

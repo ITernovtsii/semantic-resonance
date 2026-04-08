@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	hyphen early	syntactic
+E001	7	social concepts	semantic
+E002	7	geographic modifiers	semantic
+E003	5	comma punctuation	syntactic
+E004	6	institution nouns	semantic
+E005	5	person roles	mixed
+E006	7	possessives	syntactic
+E007	7	recognition words	syntactic
+E008	6	copula verbs	syntactic
+E009	3	BPE word roots	syntactic
+E010	5	adjective determiner	syntactic
+E011	7	spatial prepositions	syntactic
+E012	6	action verbs	syntactic
+E013	7	contrastive conj	syntactic
+E014	3	BPE syllables	syntactic
+E015	6	semicolon conj	syntactic
+E016	4	BPE consonants	syntactic
+E017	6	effort verbs	syntactic
+E018	6	adjectives formal	syntactic
+E019	7	temporal preps	syntactic
+E020	7	determiners	syntactic
+E021	4	capitalized titles	mixed
+E022	4	of preposition	syntactic
+E023	5	for preposition	syntactic
+E024	5	punctuation comma	syntactic
+E025	7	dates years	syntactic
+E026	8	measurement units	syntactic
+E027	3	period sentence	syntactic
+E028	8	sports statistics	semantic
+E029	3	BPE syllables	syntactic
+E030	6	articles	syntactic
+E031	4	the determiner	syntactic
+E032	2	the determiner	syntactic
+E033	7	quantifiers	syntactic
+E034	2	the determiner	syntactic
+E035	7	person roles	semantic
+E036	7	transport routes	semantic
+E037	5	articles a an	syntactic
+E038	6	dates months	syntactic
+E039	7	quantifiers	syntactic
+E040	5	punctuation	syntactic
+E041	6	abstract nouns	semantic
+E042	7	ordinal sequential	syntactic
+E043	6	parenthetical	syntactic
+E044	5	articles	syntactic
+E045	8	modal verbs	syntactic
+E046	6	speech act verbs	syntactic
+E047	3	possessive its	syntactic
+E048	7	departure verbs	syntactic
+E049	4	capitalized prefixes	mixed
+E050	3	sentence endings	syntactic
+E051	6	past tense verbs	syntactic
+E052	8	superlatives	syntactic
+E053	8	place names	semantic
+E054	6	prepositions	syntactic
+E055	6	to from preps	syntactic
+E056	6	conjunctions	syntactic
+E057	4	possessive marks	syntactic
+E058	3	mixed tokens	mixed
+E059	6	causative verbs	syntactic
+E060	6	origin verbs	syntactic
+E061	7	speech verbs	semantic
+E062	6	past tense verbs	syntactic
+E063	7	proper names	semantic
+E064	6	adverbs manner	syntactic
+E065	5	punctuation	syntactic
+E066	4	punctuation comma	syntactic
+E067	8	months dates	syntactic
+E068	5	sentence starters	syntactic
+E069	7	informal speech	semantic
+E070	2	the determiner	syntactic
+E071	6	quotation punct	syntactic
+E072	5	punctuation	syntactic
+E073	5	plural nouns	syntactic
+E074	7	negation adverbs	syntactic
+E075	6	hedging words	syntactic
+E076	3	BPE fragments	syntactic
+E077	7	temporal markers	syntactic
+E078	5	person nouns	mixed
+E079	7	temporal preps	syntactic
+E080	5	dates measures	mixed
+E081	5	ordinal adjectives	syntactic
+E082	6	base verbs	syntactic
+E083	7	first names	semantic
+E084	8	military hardware	semantic
+E085	5	sentence endings	syntactic
+E086	6	relative pronouns	syntactic
+E087	6	adjectives	syntactic
+E088	8	measurement units	syntactic
+E089	7	national adjectives	syntactic
+E090	6	comparison words	syntactic
+E091	5	mixed military	mixed
+E092	5	punctuation	syntactic
+E093	3	BPE suffixes	syntactic
+E094	3	BPE rare tokens	mixed
+E095	8	time periods	semantic
+E096	4	BPE fragments	syntactic
+E097	5	article prefix	syntactic
+E098	4	name suffixes	mixed
+E099	6	discourse markers	syntactic

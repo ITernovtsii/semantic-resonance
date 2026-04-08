@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	random	mixed
+E001	2	single word	syntactic
+E002	8	first names	semantic
+E003	4	since/for	syntactic
+E004	6	role/duty nouns	semantic
+E005	2	BPE/random	mixed
+E006	5	modal verbs	syntactic
+E007	4	punct/quotation	syntactic
+E008	2	single word	syntactic
+E009	3	function words	syntactic
+E010	4	function words	syntactic
+E011	7	verb suffixes	syntactic
+E012	6	social nouns	mixed
+E013	7	county/district	semantic
+E014	4	had/auxiliary	syntactic
+E015	5	contractions	syntactic
+E016	5	sentence adverbs	syntactic
+E017	7	play/gaming	semantic
+E018	7	two-digit numbers	syntactic
+E019	5	copular verbs	syntactic
+E020	5	function words	syntactic
+E021	6	work/project	mixed
+E022	2	single word	syntactic
+E023	4	prepositions	syntactic
+E024	4	mixed nouns	mixed
+E025	3	function words	syntactic
+E026	3	mixed nouns	mixed
+E027	5	articles	syntactic
+E028	5	punct/ending	syntactic
+E029	6	BPE fragments	syntactic
+E030	3	function words	syntactic
+E031	7	prepositions	syntactic
+E032	5	adj cultural	mixed
+E033	6	superlatives	syntactic
+E034	7	BPE fragments	syntactic
+E035	6	action verbs	mixed
+E036	5	function words	mixed
+E037	5	past participles	mixed
+E038	6	also/are/its	syntactic
+E039	3	mixed nouns	mixed
+E040	2	single word	syntactic
+E041	5	dashes/punct	syntactic
+E042	8	female/actress	semantic
+E043	5	modal verbs	mixed
+E044	3	mixed/unclear	mixed
+E045	4	prepositions	syntactic
+E046	5	martial/general	mixed
+E047	3	mixed nouns	mixed
+E048	3	random adj	mixed
+E049	3	random nouns	mixed
+E050	7	employment verbs	mixed
+E051	7	pronouns	syntactic
+E052	6	pronouns/determ	syntactic
+E053	4	sentence starters	syntactic
+E054	3	mixed nouns	mixed
+E055	3	random	mixed
+E056	3	function words	syntactic
+E057	5	both/for	syntactic
+E058	5	BPE fragments	syntactic
+E059	2	random	mixed
+E060	7	superlatives	syntactic
+E061	4	BPE/official	mixed
+E062	6	single letters	syntactic
+E063	7	meaning/forms	semantic
+E064	4	comma/punct	syntactic
+E065	4	physical nouns	mixed
+E066	5	all/on	syntactic
+E067	6	action verbs	mixed
+E068	3	sentence starters	syntactic
+E069	6	country/years	mixed
+E070	5	copular verbs	syntactic
+E071	5	adj colorful	mixed
+E072	6	BPE suffixes	syntactic
+E073	3	mixed/unclear	mixed
+E074	5	function words	syntactic
+E075	4	under/are	syntactic
+E076	4	comma/punct	syntactic
+E077	5	anchor/military	mixed
+E078	5	sentence starters	syntactic
+E079	7	possessive/team	syntactic
+E080	3	function words	syntactic
+E081	4	punctuation	syntactic
+E082	4	function words	syntactic
+E083	7	punctuation	syntactic
+E084	6	prepositions	syntactic
+E085	5	along/with	syntactic
+E086	2	random	mixed
+E087	2	single word	syntactic
+E088	3	random nouns	mixed
+E089	7	composition	mixed
+E090	7	single letters	syntactic
+E091	3	function words	syntactic
+E092	7	she/who pronouns	syntactic
+E093	6	adverbs	syntactic
+E094	3	without/the	syntactic
+E095	3	function words	syntactic
+E096	5	down/up/into	syntactic
+E097	4	on/she/misc	mixed
+E098	4	determiners	syntactic
+E099	7	air/force	semantic

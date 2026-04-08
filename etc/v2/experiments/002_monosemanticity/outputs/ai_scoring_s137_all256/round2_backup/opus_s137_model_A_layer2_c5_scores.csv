@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	8	word_prefixes	syntactic
+E251	2	proper_nouns_mixed	mixed
+E252	2	nouns_mixed	mixed
+E253	6	symbols_comparisons	syntactic
+E254	9	preposition_on/onto	syntactic
+E255	4	prepositions_punctuation	mixed

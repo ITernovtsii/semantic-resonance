@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	7	punctuation/mixed	mixed
+E051	3	mixed/unclear	mixed
+E052	4	mixed/unclear	mixed
+E053	9	media/gaming	semantic
+E054	8	names	semantic
+E055	5	professional/politics	semantic
+E056	9	creative works	semantic
+E057	10	possessive pronouns	syntactic
+E058	8	biology/description	semantic
+E059	2	mixed/unclear	mixed
+E060	6	common words	syntactic
+E061	8	verbs	syntactic
+E062	3	mixed/unclear	mixed
+E063	9	adjectives	syntactic
+E064	8	technical roots	semantic
+E065	5	directions/common	mixed
+E066	4	mixed/unclear	mixed
+E067	6	plural nouns	syntactic
+E068	7	titles/media	semantic
+E069	9	geography	semantic
+E070	10	linking verbs	syntactic
+E071	9	verbs	syntactic
+E072	10	punctuation	syntactic
+E073	9	academic adjectives	semantic
+E074	3	mixed/unclear	mixed
+E075	8	common verbs	syntactic
+E076	7	descriptive verbs	syntactic
+E077	8	transitions	syntactic
+E078	10	sports	semantic
+E079	10	biology/medical	semantic
+E080	2	mixed/unclear	mixed
+E081	7	geography/description	semantic
+E082	10	discourse markers	syntactic
+E083	9	cognitive verbs	semantic
+E084	8	superlatives/media	semantic
+E085	10	conjunctions	syntactic
+E086	9	auxiliary verbs	syntactic
+E087	5	mixed/unclear	mixed
+E088	10	relative pronouns	syntactic
+E089	8	archaeology/description	semantic
+E090	8	modal verbs	syntactic
+E091	9	place names	semantic
+E092	2	mixed/unclear	mixed
+E093	8	verbs	syntactic
+E094	8	auxiliary/adverbs	syntactic
+E095	9	prepositions	syntactic
+E096	8	history/military	semantic
+E097	8	names	semantic
+E098	10	numbers	syntactic
+E099	10	punctuation	syntactic

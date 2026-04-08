@@ -1,0 +1,51 @@
+I will read the instructions and data from `_tmp_s137_model_B_layer2_c1_gemini.txt` to generate the requested tab-separated scoring lines.
+E050	6	prepositions	syntactic
+E051	10	spatial prepositions	syntactic
+E052	9	state/transition verbs	syntactic
+E053	10	inclusion/composition	semantic
+E054	8	transition adverbs	syntactic
+E055	10	numbers	syntactic
+E056	10	punctuation	syntactic
+E057	10	articles	syntactic
+E058	10	naming/status verbs	semantic
+E059	8	state of being	syntactic
+E060	10	cognitive/speech verbs	semantic
+E061	6	relational terms	syntactic
+E062	10	determiners	syntactic
+E063	9	political/ethnic adjectives	semantic
+E064	10	word fragments	syntactic
+E065	8	punctuation/numbers	syntactic
+E066	3	fragments/mixed	mixed
+E067	8	conjunctions	syntactic
+E068	5	experience/mixed	semantic
+E069	10	proper nouns	semantic
+E070	8	modal verbs	syntactic
+E071	8	direction adverbs	syntactic
+E072	8	concessive conjunctions	syntactic
+E073	9	transitions	syntactic
+E074	10	adjectives	semantic
+E075	8	proper nouns	semantic
+E076	7	formal nouns	semantic
+E077	10	abstract verbs	semantic
+E078	10	numbers	syntactic
+E079	4	concrete nouns	semantic
+E080	10	demonstratives	syntactic
+E081	10	word prefixes	syntactic
+E082	10	spatial prepositions	syntactic
+E083	9	conjunctions/transitions	syntactic
+E084	10	epistemic terms	semantic
+E085	4	abstract/mixed	mixed
+E086	10	fragments	syntactic
+E087	8	abstract nouns	semantic
+E088	2	mixed/random	mixed
+E089	2	mixed/functional	syntactic
+E090	9	determiners	syntactic
+E091	10	scientific prefixes	semantic
+E092	7	person/category nouns	semantic
+E093	3	fragments/mixed	mixed
+E094	9	abstract verbs	semantic
+E095	6	punctuation/mixed	syntactic
+E096	8	capitalized fragments	syntactic
+E097	10	interaction verbs	semantic
+E098	10	metrics/statistics	semantic
+E099	9	determiners/pronouns	syntactic

@@ -1,0 +1,50 @@
+E000	2	mixed/unclear	mixed
+E001	10	possessive pronouns	syntactic
+E002	9	give verbs	syntactic
+E003	8	contrast markers	syntactic
+E004	9	prepositions	syntactic
+E005	4	mixed nouns	mixed
+E006	9	quantifiers	syntactic
+E007	7	possessives	syntactic
+E008	3	mixed nouns	mixed
+E009	9	articles	syntactic
+E010	8	comparison words	syntactic
+E011	6	name fragments	syntactic
+E012	7	abbreviations	syntactic
+E013	10	quote punctuation	syntactic
+E014	8	person roles	semantic
+E015	8	descriptive adjectives	semantic
+E016	10	months/dates	semantic
+E017	10	definite article	syntactic
+E018	6	verb forms	syntactic
+E019	10	conjunctions	syntactic
+E020	6	adverbs/verbs	mixed
+E021	10	time periods	semantic
+E022	4	title words	mixed
+E023	9	do forms	syntactic
+E024	3	subword mix	mixed
+E025	7	descriptive modifiers	semantic
+E026	10	verb suffixes	syntactic
+E027	8	demonstratives	syntactic
+E028	10	punctuation	syntactic
+E029	9	time markers	semantic
+E030	7	military terms	semantic
+E031	3	mixed topics	mixed
+E032	8	ordinals/dates	semantic
+E033	9	subword fragments	syntactic
+E034	8	measurement units	semantic
+E035	10	punctuation	syntactic
+E036	9	inclusion terms	semantic
+E037	6	action verbs	mixed
+E038	4	mixed nouns	mixed
+E039	5	title nouns	mixed
+E040	6	quant modifiers	mixed
+E041	9	combination terms	semantic
+E042	8	adverbials	syntactic
+E043	8	structures/places	semantic
+E044	4	mixed entities	mixed
+E045	7	media/culture	semantic
+E046	7	discourse markers	syntactic
+E047	10	letters	syntactic
+E048	7	abstract nouns	semantic
+E049	8	attribution markers	syntactic

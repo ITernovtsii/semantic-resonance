@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	4	pronouns/mixed	mixed
+E151	9	male first names	semantic
+E152	4	BPE prefixes	syntactic
+E153	7	numbers/quantities	syntactic
+E154	5	adverbs/manner	syntactic
+E155	7	containment verbs	semantic
+E156	4	plural nouns/mixed	mixed
+E157	4	pronouns/mixed	mixed
+E158	4	punctuation/mixed	syntactic
+E159	6	military adjectives	semantic
+E160	2	single-token	mixed
+E161	9	comma-punctuation	syntactic
+E162	9	modal verbs	syntactic
+E163	7	scientific adjectives	semantic
+E164	8	quantifier determiners	syntactic
+E165	7	political/governance	semantic
+E166	8	demonstrative pronouns	syntactic
+E167	4	place/structure nouns	semantic
+E168	8	usage/process verbs	semantic
+E169	4	BPE prefixes	syntactic
+E170	5	road/route terms	semantic
+E171	6	spatial/position nouns	semantic
+E172	5	organizations/media	semantic
+E173	5	action verbs	mixed
+E174	7	gerund/process verbs	syntactic
+E175	3	mixed/unclear	mixed
+E176	7	sentence-start adverbs	syntactic
+E177	7	punctuation/delimiters	syntactic
+E178	4	mixed adjectives	mixed
+E179	4	capitalized titles	mixed
+E180	8	music/audio terms	semantic
+E181	6	achievement/progress verbs	semantic
+E182	5	abbreviations/numbers	mixed
+E183	3	mixed/unclear	mixed
+E184	7	appointment/election	semantic
+E185	7	speech-act verbs	semantic
+E186	4	foreign name fragments	syntactic
+E187	7	first names	semantic
+E188	3	mixed/fragments	mixed
+E189	5	composition/structure	mixed
+E190	9	sentence-end punctuation	syntactic
+E191	9	sentence-end punctuation	syntactic
+E192	5	determiners/pronouns	syntactic
+E193	4	foreign name fragments	syntactic
+E194	7	copula/be-verbs	syntactic
+E195	6	comparison/manner	syntactic
+E196	7	reputation/reception	semantic
+E197	5	determiners/articles	syntactic
+E198	9	comma-punctuation	syntactic
+E199	8	numbers/measurements	syntactic

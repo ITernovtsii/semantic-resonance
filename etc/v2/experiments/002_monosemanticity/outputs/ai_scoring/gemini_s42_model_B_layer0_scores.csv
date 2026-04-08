@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	dialogue/media	semantic
+E001	10	preposition	syntactic
+E002	10	names	semantic
+E003	3	prepositions/punctuation	mixed
+E004	9	roles/tasks	semantic
+E005	2	mixed/unclear	mixed
+E006	8	modals/function words	syntactic
+E007	10	punctuation	syntactic
+E008	10	article	syntactic
+E009	10	function words	syntactic
+E010	10	conjunction/preposition	syntactic
+E011	10	suffixes	syntactic
+E012	8	society/education	semantic
+E013	7	administrative/geographic	semantic
+E014	9	auxiliary verbs	syntactic
+E015	2	mixed/unclear	mixed
+E016	10	transitions/adverbs	semantic
+E017	7	sports/games	semantic
+E018	10	numbers	syntactic
+E019	10	auxiliary verbs	syntactic
+E020	10	prepositions/conjunctions	syntactic
+E021	7	entertainment/work	semantic
+E022	10	relative pronoun	syntactic
+E023	7	prepositions/punctuation	syntactic
+E024	5	music/organization	semantic
+E025	10	function words	syntactic
+E026	2	mixed/unclear	mixed
+E027	10	articles	syntactic
+E028	8	punctuation/conjunctions	syntactic
+E029	9	subwords/fragments	syntactic
+E030	10	function words	syntactic
+E031	10	prepositions	syntactic
+E032	10	adjectives/categories	semantic
+E033	10	time/statistics	semantic
+E034	10	subwords/fragments	syntactic
+E035	9	verbs/events	semantic
+E036	2	mixed/unclear	mixed
+E037	9	past participles	syntactic
+E038	5	function words	syntactic
+E039	8	adjectives	semantic
+E040	10	article	syntactic
+E041	10	punctuation	syntactic
+E042	8	feminine/personal	semantic
+E043	7	modals/punctuation	syntactic
+E044	7	abstract nouns	semantic
+E045	10	prepositions	syntactic
+E046	6	legal/judicial	semantic
+E047	9	urban/transport	semantic
+E048	7	technical/descriptive	semantic
+E049	5	society/entities	semantic
+E050	7	usage/participation	semantic
+E051	9	pronouns	syntactic
+E052	6	descriptive/narrative	semantic
+E053	9	determiners	syntactic
+E054	6	titles/proper nouns	semantic
+E055	8	military/war	semantic
+E056	10	function words	syntactic
+E057	3	mixed/unclear	mixed
+E058	8	subwords/fragments	syntactic
+E059	7	transitions/punctuation	mixed
+E060	10	ordinal/qualitative	semantic
+E061	4	official/fragments	mixed
+E062	5	letters/fragments	syntactic
+E063	7	definition/form	semantic
+E064	9	punctuation/conjunctions	syntactic
+E065	8	sensory/descriptive	semantic
+E066	8	quantifiers	syntactic
+E067	9	action/position	semantic
+E068	3	mixed/unclear	mixed
+E069	10	geography/years	semantic
+E070	10	auxiliary verbs	syntactic
+E071	10	adjectives	semantic
+E072	2	mixed/unclear	mixed
+E073	9	adjectives/adverbs	semantic
+E074	10	prepositions/verbs	syntactic
+E075	7	function words	syntactic
+E076	10	punctuation	syntactic
+E077	9	military/naval	semantic
+E078	10	determiners/pronouns	syntactic
+E079	7	pronouns/positions	semantic
+E080	10	function words	syntactic
+E081	3	mixed/unclear	mixed
+E082	10	function words	syntactic
+E083	10	punctuation	syntactic
+E084	9	conjunctions/prepositions	syntactic
+E085	10	prepositions	syntactic
+E086	2	mixed/unclear	mixed
+E087	10	article	syntactic
+E088	7	domestic/property	semantic
+E089	7	composition/release	semantic
+E090	8	letters/fragments	syntactic
+E091	10	function words	syntactic
+E092	9	pronouns	syntactic
+E093	10	adverbs	semantic
+E094	7	prepositions	syntactic
+E095	10	function words	syntactic
+E096	9	directions	syntactic
+E097	3	mixed/unclear	mixed
+E098	10	determiners	syntactic
+E099	10	air force	semantic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	3	mixed/prefixes	mixed
+E051	6	punctuation/conjunctions	mixed
+E052	8	proper names	semantic
+E053	10	buildings/structures	semantic
+E054	7	punctuation/padding	syntactic
+E055	8	mixed descriptors	semantic
+E056	4	geographic fragments	mixed
+E057	9	function words	syntactic
+E058	10	prepositions	syntactic
+E059	9	-ing verbs	syntactic
+E060	6	descriptors	semantic
+E061	10	dates/seasons	semantic
+E062	10	articles	syntactic
+E063	8	conjunctions	syntactic
+E064	8	articles/quantifiers	syntactic
+E065	8	punctuation	syntactic
+E066	10	military/maritime	semantic
+E067	10	corporate/names	semantic
+E068	10	punctuation/quotes	syntactic
+E069	8	logical connectives	syntactic
+E070	9	abstract nouns	semantic
+E071	9	interrogatives/conditionals	syntactic
+E072	10	punctuation/symbols	syntactic
+E073	2	random fragments	mixed
+E074	10	years/dates	semantic
+E075	10	comma	syntactic
+E076	8	physical features	semantic
+E077	10	possessive pronouns	syntactic
+E078	10	inclusion/exemplification	syntactic
+E079	3	proper name fragments	mixed
+E080	7	measurements/symbols	mixed
+E081	10	punctuation/comma	syntactic
+E082	4	prefix fragments	syntactic
+E083	3	foreign fragments	mixed
+E084	8	opposition/prepositions	semantic
+E085	10	articles/numbers	syntactic
+E086	10	sports/football	semantic
+E087	9	titles/months	semantic
+E088	7	pronouns/suffixes	syntactic
+E089	10	indefinite articles/quantifiers	syntactic
+E090	10	conjunctions	syntactic
+E091	10	family/gender	semantic
+E092	10	number words	semantic
+E093	5	mixed common words	mixed
+E094	2	syllable fragments	syntactic
+E095	4	mixed fragments	mixed
+E096	9	prepositions	syntactic
+E097	10	prepositions	syntactic
+E098	10	definite article	syntactic
+E099	9	directional adverbs	semantic

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	past tense verbs	syntactic
+E001	5	conjunctions/prepositions	syntactic
+E002	8	determiners/articles	syntactic
+E003	8	determiners/quantifiers	syntactic
+E004	3	mixed/unclear	mixed
+E005	7	relative pronouns	syntactic
+E006	9	sentence starters	syntactic
+E007	6	single letters/prefixes	syntactic
+E008	2	random/plural nouns	mixed
+E009	2	mixed nouns	mixed
+E010	4	suffixes/subwords	syntactic
+E011	9	capitalized sentence starters	syntactic
+E012	7	conjunctions/punctuation	syntactic
+E013	8	male first names	semantic
+E014	8	plural/past verbs	syntactic
+E015	10	sentence-ending punctuation	syntactic
+E016	8	quantifiers/ordinals	syntactic
+E017	4	mixed/unclear	mixed
+E018	3	mixed/unclear	mixed
+E019	5	suffixes	syntactic
+E020	8	action verbs	syntactic
+E021	8	punctuation/separators	syntactic
+E022	9	weather/hurricanes	semantic
+E023	8	female pronouns	syntactic
+E024	9	single uppercase letters	syntactic
+E025	5	conjunction "and"	syntactic
+E026	3	determiners/mixed	mixed
+E027	5	years/dates	mixed
+E028	7	law/politics	semantic
+E029	6	definite articles	syntactic
+E030	1	random/unicode	mixed
+E031	4	prepositions	syntactic
+E032	9	numbers	syntactic
+E033	4	mixed common words	mixed
+E034	8	directional particles	syntactic
+E035	7	numbers/percentages	syntactic
+E036	5	quotation/naming	syntactic
+E037	7	indefinite articles	syntactic
+E038	9	brackets/punctuation	syntactic
+E039	8	past tense verbs	syntactic
+E040	7	comma	syntactic
+E041	2	random proper nouns	mixed
+E042	7	direction "north"	semantic
+E043	6	prepositions/movement	syntactic
+E044	1	random/mixed	mixed
+E045	8	sentence-initial adverbs	syntactic
+E046	3	mixed adjectives/verbs	mixed
+E047	7	directional prepositions	syntactic
+E048	6	pronouns/possessives	syntactic
+E049	9	directional particles	syntactic
+E050	3	years/codes mixed	mixed
+E051	4	conjunctions	syntactic
+E052	8	semicolon/relative	syntactic
+E053	2	random subwords	syntactic
+E054	7	comma	syntactic
+E055	4	mixed verbs	mixed
+E056	6	"its"/possessive	syntactic
+E057	4	quotation marks	syntactic
+E058	5	preposition "of"	syntactic
+E059	6	country demonyms	semantic
+E060	2	random/mixed	mixed
+E061	5	quotation/song	mixed
+E062	6	directional/pronouns	mixed
+E063	7	nationalities/geopolitical	semantic
+E064	8	lowercase subword prefixes	syntactic
+E065	6	colors/directions	mixed
+E066	4	preposition "with"	syntactic
+E067	7	adverbs/prepositions	syntactic
+E068	9	sentence-initial words	syntactic
+E069	5	naming/calling	mixed
+E070	4	apostrophes	syntactic
+E071	6	conjunctions "and/or"	syntactic
+E072	3	mixed/unclear	mixed
+E073	5	roman numerals/letters	syntactic
+E074	4	numbers/naval terms	mixed
+E075	9	capitalized bigram prefixes	syntactic
+E076	8	quantifiers/determiners	syntactic
+E077	4	abbreviations/mixed	mixed
+E078	7	belief/evidence	semantic
+E079	7	"-ine" suffixes	syntactic
+E080	7	comma punctuation	syntactic
+E081	8	temporal conjunctions	syntactic
+E082	3	mixed punctuation	mixed
+E083	5	sentence starters	syntactic
+E084	7	comma/parenthesis	syntactic
+E085	6	subword fragments	syntactic
+E086	3	numbers/names mixed	mixed
+E087	5	"to"/directional	syntactic
+E088	6	"for"/"that"	syntactic
+E089	7	quantity expressions	syntactic
+E090	5	prepositions/punctuation	syntactic
+E091	7	en-dash	syntactic
+E092	8	lowercase subword fragments	syntactic
+E093	9	spatial prepositions	syntactic
+E094	8	sports/competition	semantic
+E095	6	determiners/adjectives	syntactic
+E096	5	quotation comma/prepositions	syntactic
+E097	7	digit "6"	syntactic
+E098	5	"top"/mixed	mixed
+E099	5	pronouns "it/they"	syntactic

@@ -1,0 +1,51 @@
+I will read the instructions and data from `_tmp_s137_model_B_layer3_c2_gemini.txt` to generate the requested scores.
+E100	3	names/mixed	mixed
+E101	2	fragments/names	mixed
+E102	8	pronouns/identity	semantic
+E103	9	titles/roles	semantic
+E104	10	punctuation	syntactic
+E105	6	formal/competition	semantic
+E106	8	adjectives	syntactic
+E107	4	fragments	syntactic
+E108	5	roles/nouns	semantic
+E109	8	entertainment/media	semantic
+E110	4	punctuation/mixed	mixed
+E111	9	conjunctions/transitions	syntactic
+E112	9	process verbs	semantic
+E113	9	prefixes	syntactic
+E114	5	geography/mixed	mixed
+E115	9	state/location verbs	semantic
+E116	9	mental/preference	semantic
+E117	7	military/history	semantic
+E118	9	formal verbs	semantic
+E119	10	copula/adverbs	syntactic
+E120	8	state/adverbs	mixed
+E121	6	abstract nouns	semantic
+E122	9	quantifiers	syntactic
+E123	4	mixed/uncertainty	mixed
+E124	6	formal/pronouns	mixed
+E125	6	road/pronouns	mixed
+E126	3	mixed/names	mixed
+E127	9	history/geography	semantic
+E128	10	temporal/existential	syntactic
+E129	4	mixed/verbs	mixed
+E130	9	past verbs	syntactic
+E131	10	transitions	syntactic
+E132	10	quantifiers/pairs	syntactic
+E133	10	prepositions	syntactic
+E134	10	years/numbers	syntactic
+E135	3	mixed	semantic
+E136	9	attribution/cause	semantic
+E137	9	articles	syntactic
+E138	6	function words	syntactic
+E139	7	capitalized names	semantic
+E140	6	academic nouns	semantic
+E141	10	modal verbs	syntactic
+E142	8	Asian names/syllables	semantic
+E143	8	political/military	semantic
+E144	3	mixed	mixed
+E145	10	music/media	semantic
+E146	9	geography	semantic
+E147	6	transitions/mixed	mixed
+E148	10	measurements	semantic
+E149	6	fragments	syntactic

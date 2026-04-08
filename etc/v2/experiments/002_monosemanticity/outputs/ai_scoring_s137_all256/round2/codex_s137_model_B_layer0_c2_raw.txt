@@ -1,0 +1,50 @@
+E100	7	acting/performance	semantic
+E101	3	mixed/unclear	mixed
+E102	2	mixed/unclear	mixed
+E103	5	special tokens	syntactic
+E104	9	prepositions	syntactic
+E105	8	punctuation/quotes	syntactic
+E106	7	connectives	syntactic
+E107	4	action verb	semantic
+E108	8	discourse connectives	syntactic
+E109	3	mixed/unclear	mixed
+E110	10	numbers	syntactic
+E111	9	prepositions	syntactic
+E112	7	quantifiers/numbers	syntactic
+E113	5	material term	semantic
+E114	7	institutions	semantic
+E115	4	name fragments	mixed
+E116	7	military terms	semantic
+E117	6	subword prefixes	syntactic
+E118	7	proper names	semantic
+E119	8	music/media	semantic
+E120	3	mixed/unclear	mixed
+E121	6	geography	semantic
+E122	6	person name	semantic
+E123	4	mixed/unclear	mixed
+E124	6	person name	semantic
+E125	8	symbols/numbers	syntactic
+E126	10	dashes	syntactic
+E127	6	film/media	semantic
+E128	6	pronouns/modifiers	syntactic
+E129	6	body/directions	mixed
+E130	4	mixed/unclear	mixed
+E131	6	abstract terms	semantic
+E132	7	competition/politics	semantic
+E133	8	direction words	syntactic
+E134	8	honorifics	syntactic
+E135	5	subword fragments	syntactic
+E136	4	abbreviations	mixed
+E137	8	prepositions/connectives	syntactic
+E138	6	person name	semantic
+E139	3	mixed/unclear	mixed
+E140	6	person name	semantic
+E141	4	mixed/unclear	mixed
+E142	7	mycology	semantic
+E143	5	general noun	semantic
+E144	2	mixed/unclear	mixed
+E145	7	action verbs	semantic
+E146	8	apostrophes	syntactic
+E147	9	pronouns/determiners	syntactic
+E148	7	description terms	mixed
+E149	3	mixed/unclear	mixed

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	aging/demographics	semantic
+E001	4	historical narrative	semantic
+E002	10	mycology/fungi	semantic
+E003	9	media formats	semantic
+E004	10	adverbs	syntactic
+E005	4	units/symbols	mixed
+E006	7	punctuation/conjunctions	syntactic
+E007	5	auxiliaries/temporal	syntactic
+E008	10	punctuation	syntactic
+E009	6	quantifiers/general	mixed
+E010	10	punctuation	syntactic
+E011	8	military/geopolitical	semantic
+E012	8	professions/groups	semantic
+E013	10	prepositions	syntactic
+E014	5	descriptive narrative	mixed
+E015	7	numbers	syntactic
+E016	1	random	mixed
+E017	7	review/descriptive	semantic
+E018	6	locations/politics	semantic
+E019	10	temporal	syntactic
+E020	10	temporal	syntactic
+E021	2	noisy identifiers	mixed
+E022	7	numbers	syntactic
+E023	7	science/environment	semantic
+E024	2	mixed/unclear	mixed
+E025	10	punctuation/symbols	syntactic
+E026	6	articles	syntactic
+E027	2	mixed/unclear	mixed
+E028	5	mixed descriptors	semantic
+E029	7	approximation	semantic
+E030	6	prepositions	syntactic
+E031	8	formal verbs	semantic
+E032	8	common verbs	syntactic
+E033	7	prepositions/abstract	mixed
+E034	10	numbers	syntactic
+E035	4	mixed syntactic	syntactic
+E036	7	finance/technical	mixed
+E037	4	abstract nouns	semantic
+E038	7	temporal/spatial	mixed
+E039	4	manufacturing	semantic
+E040	10	articles	syntactic
+E041	10	punctuation	syntactic
+E042	8	film/entertainment	semantic
+E043	10	punctuation	syntactic
+E044	10	conjunctions	syntactic
+E045	7	art/culture	semantic
+E046	9	rankings/stats	semantic
+E047	5	name fragments	mixed
+E048	6	narrative verbs	semantic
+E049	9	Japanese terms	semantic
+E050	4	name fragments	syntactic
+E051	9	modals	syntactic
+E052	7	dialogue/questions	mixed
+E053	8	years	syntactic
+E054	4	abstract nouns	semantic
+E055	3	mixed/unclear	mixed
+E056	10	conjunctions	syntactic
+E057	6	Chinese/science	mixed
+E058	8	prepositions	syntactic
+E059	10	years	syntactic
+E060	3	fragments	syntactic
+E061	6	formal/governance	semantic
+E062	9	state/being	syntactic
+E063	10	personal names	semantic
+E064	9	help/assistance	mixed
+E065	4	abstract nouns	semantic
+E066	9	pop culture names	semantic
+E067	8	industrial/nautical	semantic
+E068	7	adverbs/auxiliaries	syntactic
+E069	9	military history	semantic
+E070	5	mixed/narrative	mixed
+E071	5	spatial/movement	mixed
+E072	5	titles/names	semantic
+E073	4	relations	semantic
+E074	8	formal verbs	semantic
+E075	9	status change	semantic
+E076	9	sports/competitions	semantic
+E077	8	measurements	mixed
+E078	6	adjectives	semantic
+E079	10	modals	syntactic
+E080	5	mixed/general	semantic
+E081	10	punctuation	syntactic
+E082	8	articles/negatives	syntactic
+E083	9	adjectives	semantic
+E084	10	punctuation	syntactic
+E085	7	positive sentiment	semantic
+E086	5	name fragments	syntactic
+E087	9	geography/land	semantic
+E088	7	prepositions	syntactic
+E089	4	mixed/unclear	mixed
+E090	6	fragments	syntactic
+E091	9	descriptive adjectives	semantic
+E092	10	name prefixes	syntactic
+E093	7	adjectives	semantic
+E094	8	quantitative	mixed
+E095	10	auxiliary have	syntactic
+E096	7	conflict/politics	semantic
+E097	10	transitions	syntactic
+E098	6	operational verbs	semantic
+E099	5	names/mixed	mixed

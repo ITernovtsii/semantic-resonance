@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	4	mixed/unclear	mixed
+E001	7	politics/governance	semantic
+E002	9	modals/auxiliaries	syntactic
+E003	6	abstract terms	semantic
+E004	10	prepositions	syntactic
+E005	6	participation/actions	mixed
+E006	9	first names	semantic
+E007	7	connectives	mixed
+E008	3	country	semantic
+E009	2	mixed/unclear	mixed
+E010	3	proper nouns	mixed
+E011	2	mixed/unclear	mixed
+E012	3	proper nouns	mixed
+E013	7	surnames	semantic
+E014	9	reviewers/critics	semantic
+E015	8	subword fragments	syntactic
+E016	8	occupations/titles	semantic
+E017	7	action verbs	syntactic
+E018	7	institutions/legal	semantic
+E019	8	adverbs	syntactic
+E020	10	special token	syntactic
+E021	7	spatial/movement	semantic
+E022	7	military/politics	semantic
+E023	8	sports	semantic
+E024	3	mixed/unclear	mixed
+E025	9	prepositions	syntactic
+E026	8	prefixes/symbols	syntactic
+E027	2	mixed/unclear	mixed
+E028	6	military terms	semantic
+E029	10	prepositions	syntactic
+E030	9	punctuation	syntactic
+E031	6	pop-culture names	mixed
+E032	7	determiners	syntactic
+E033	7	verb forms	syntactic
+E034	10	punctuation	syntactic
+E035	8	action verbs	syntactic
+E036	8	natural history	semantic
+E037	8	conflict actions	semantic
+E038	6	mixed actions	mixed
+E039	9	articles/determiners	syntactic
+E040	5	mixed/unclear	mixed
+E041	10	punctuation	syntactic
+E042	8	multilingual fragments	syntactic
+E043	6	name fragments	mixed
+E044	6	materials	mixed
+E045	8	modals/pronouns	syntactic
+E046	10	punctuation	syntactic
+E047	9	years/dates	syntactic
+E048	2	mixed/unclear	mixed
+E049	3	article	syntactic

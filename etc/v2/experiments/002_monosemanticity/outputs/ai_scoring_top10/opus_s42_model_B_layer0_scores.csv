@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	2	random/noise	mixed
+E001	3	single to	syntactic
+E002	8	first names	semantic
+E003	4	since/for/to	syntactic
+E004	7	role/duty nouns	semantic
+E005	2	random/noise	mixed
+E006	5	modal/auxiliary verbs	syntactic
+E007	5	quotation/punctuation	syntactic
+E008	3	single the	syntactic
+E009	3	the/to only	syntactic
+E010	3	that/function words	syntactic
+E011	7	verb suffix BPE	syntactic
+E012	4	nouns social groups	mixed
+E013	7	administrative/geo	semantic
+E014	5	had/auxiliary verbs	syntactic
+E015	4	contractions/BPE	syntactic
+E016	5	sentence-initial adverbs	syntactic
+E017	7	play/game verbs	semantic
+E018	7	two-digit numbers	syntactic
+E019	5	copular are/were	syntactic
+E020	5	function words	syntactic
+E021	6	work/project nouns	semantic
+E022	3	single which	syntactic
+E023	4	at/for prepositions	syntactic
+E024	4	orchestrated/mixed	mixed
+E025	4	with/to/the	syntactic
+E026	3	mixed random	mixed
+E027	5	articles a/an	syntactic
+E028	5	punctuation/sentence	syntactic
+E029	5	common BPE words	mixed
+E030	3	of/the only	syntactic
+E031	6	prepositions	syntactic
+E032	5	nationality/cultural adj	mixed
+E033	6	superlative/temporal	mixed
+E034	5	BPE subword fragments	syntactic
+E035	5	action/past verbs	mixed
+E036	4	right/more/function	mixed
+E037	5	been/passive verbs	syntactic
+E038	5	copula/included verbs	syntactic
+E039	3	mixed/random	mixed
+E040	3	single the	syntactic
+E041	4	dashes/comma	syntactic
+E042	7	female/gendered words	semantic
+E043	4	modal/could/would	syntactic
+E044	3	mixed nouns/suffix	mixed
+E045	4	preposition in	syntactic
+E046	4	legal/martial mixed	mixed
+E047	3	mixed geographic/verbs	mixed
+E048	3	mixed adjectives	mixed
+E049	3	mixed nouns	mixed
+E050	6	usage/employment	mixed
+E051	7	personal pronouns	syntactic
+E052	5	pronouns they/them	syntactic
+E053	5	sentence-initial caps	syntactic
+E054	3	mixed/unclear	mixed
+E055	3	random mixed	mixed
+E056	3	to/the only	syntactic
+E057	4	both/for only	syntactic
+E058	5	BPE French fragments	syntactic
+E059	3	mixed low-PMI	mixed
+E060	7	superlative adjectives	syntactic
+E061	4	mixed official/BPE	mixed
+E062	5	single cap letters	syntactic
+E063	6	equivalent/form words	syntactic
+E064	4	comma/punctuation	syntactic
+E065	4	physical action nouns	mixed
+E066	4	All/on/function	syntactic
+E067	4	action verbs physical	mixed
+E068	3	No/after/function	syntactic
+E069	5	countries/years	mixed
+E070	5	copula is/has	syntactic
+E071	5	adjectives colorful	mixed
+E072	5	BPE suffix patterns	syntactic
+E073	3	mixed suffixes/words	mixed
+E074	5	prepositions for/on	syntactic
+E075	4	are/under/As	syntactic
+E076	5	comma/punctuation	syntactic
+E077	4	military/mixed nouns	mixed
+E078	4	sentence-initial words	syntactic
+E079	7	possessive/group pronouns	syntactic
+E080	3	In/the only	syntactic
+E081	4	he/for/was	syntactic
+E082	4	were/with/to	syntactic
+E083	6	punctuation/separators	syntactic
+E084	5	after/because/preps	syntactic
+E085	4	along/which/preps	syntactic
+E086	2	random/noise	mixed
+E087	3	single the	syntactic
+E088	2	random nouns/places	mixed
+E089	7	composition/comprising	syntactic
+E090	5	single letters	syntactic
+E091	3	by/that/the	syntactic
+E092	7	who/she pronouns	syntactic
+E093	5	adverbs/degree	syntactic
+E094	3	without/the/comma	syntactic
+E095	4	with/to/of	syntactic
+E096	4	down/up/into	syntactic
+E097	3	on/top/mixed	mixed
+E098	4	its/an/the	syntactic
+E099	6	air force terms	semantic

@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	5	prefixes/subwords	syntactic
+E251	2	capitalized fragments	mixed
+E252	1	random	mixed
+E253	4	rankings/symbols	mixed
+E254	9	spatial prepositions	syntactic
+E255	8	prepositions/punctuation	syntactic

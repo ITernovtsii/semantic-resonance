@@ -1,0 +1,100 @@
+E000	10	prepositions	syntactic
+E001	10	pronouns	syntactic
+E002	7	articles	syntactic
+E003	8	past participles	syntactic
+E004	4	mixed/unclear	mixed
+E005	4	mixed adjectives	mixed
+E006	3	mixed nouns	mixed
+E007	8	action verbs	semantic
+E008	8	question words	syntactic
+E009	7	process verbs	semantic
+E010	6	symbols/punctuation	syntactic
+E011	9	time expressions	semantic
+E012	5	mixed proper	mixed
+E013	2	random	mixed
+E014	9	adverbs	syntactic
+E015	4	mixed abstract	mixed
+E016	2	random	mixed
+E017	2	random proper	mixed
+E018	2	random	mixed
+E019	3	proper nouns	mixed
+E020	7	adjectives	syntactic
+E021	8	entry/exit verbs	semantic
+E022	10	prepositions	syntactic
+E023	8	determiners	syntactic
+E024	9	be verbs	syntactic
+E025	8	function words	syntactic
+E026	9	conflict/history	semantic
+E027	8	articles	syntactic
+E028	8	geography	semantic
+E029	3	mixed pronouns	mixed
+E030	7	connectors	syntactic
+E031	9	subword stems	syntactic
+E032	10	prepositions	syntactic
+E033	10	concessive conjunctions	syntactic
+E034	10	punctuation pairs	syntactic
+E035	9	conjunction symbols	syntactic
+E036	7	reporting clauses	syntactic
+E037	10	years/dates	semantic
+E038	10	punctuation endings	syntactic
+E039	9	causation verbs	semantic
+E040	3	subword mix	mixed
+E041	9	separators/symbols	syntactic
+E042	4	mixed/unclear	mixed
+E043	10	punctuation	syntactic
+E044	10	historical dates	semantic
+E045	8	discourse adverbs	syntactic
+E046	3	random nouns	mixed
+E047	5	pronoun starters	mixed
+E048	9	measurements	semantic
+E049	7	military/naval	semantic
+E050	9	spatiotemporal preps	syntactic
+E051	10	spatial prepositions	syntactic
+E052	9	conjunctions	syntactic
+E053	2	random plurals	mixed
+E054	4	titlecase mix	mixed
+E055	9	quantifiers	syntactic
+E056	2	random	mixed
+E057	3	titlecase mix	mixed
+E058	8	auxiliary verbs	syntactic
+E059	8	subordinators	syntactic
+E060	10	prefix fragments	syntactic
+E061	9	modals/auxiliaries	syntactic
+E062	5	infrastructure/military	mixed
+E063	3	random roles	mixed
+E064	8	media/awards	semantic
+E065	10	determiners	syntactic
+E066	8	brackets/quotes	syntactic
+E067	9	quantifiers	syntactic
+E068	8	inclusion verbs	semantic
+E069	6	number words	mixed
+E070	9	languages/nationalities	semantic
+E071	9	superlatives	syntactic
+E072	10	suffix fragments	syntactic
+E073	4	mixed adjectives	mixed
+E074	3	function words	syntactic
+E075	8	determiners	syntactic
+E076	7	prepositions	syntactic
+E077	8	weather terms	semantic
+E078	9	superlatives	syntactic
+E079	10	punctuation patterns	syntactic
+E080	9	communication verbs	semantic
+E081	9	locative preps	syntactic
+E082	8	media inclusion	semantic
+E083	10	numbers	syntactic
+E084	3	random titlecase	mixed
+E085	4	proper names	mixed
+E086	3	subword mix	mixed
+E087	10	punctuation pairs	syntactic
+E088	6	discourse markers	mixed
+E089	9	spatial prepositions	syntactic
+E090	2	random nouns	mixed
+E091	8	punctuation	syntactic
+E092	3	name fragments	mixed
+E093	6	measurement mix	mixed
+E094	7	punctuation/connectors	syntactic
+E095	7	past verbs	semantic
+E096	9	entry/spatial	semantic
+E097	6	abstract nouns	mixed
+E098	8	distributive determiners	syntactic
+E099	5	punctuation+years	mixed

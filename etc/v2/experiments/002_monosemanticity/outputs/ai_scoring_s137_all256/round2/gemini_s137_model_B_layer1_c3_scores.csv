@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	8	legal/psychological	semantic
+E151	7	locations/buildings	semantic
+E152	10	names	semantic
+E153	10	prepositions	syntactic
+E154	6	structures/geography	semantic
+E155	3	mixed/unclear	mixed
+E156	10	conjunctions	syntactic
+E157	9	state/inclusion verbs	syntactic
+E158	7	punctuation/inclusion	mixed
+E159	10	punctuation	syntactic
+E160	9	game design/media	semantic
+E161	9	prepositions	syntactic
+E162	10	articles	syntactic
+E163	6	pronouns/ordinals	syntactic
+E164	10	sports	semantic
+E165	4	alphanumeric fragments	syntactic
+E166	9	determiners	syntactic
+E167	10	punctuation	syntactic
+E168	10	indefinite pronouns	syntactic
+E169	8	ordinals	semantic
+E170	3	mixed	mixed
+E171	5	name fragments	mixed
+E172	10	prepositions	syntactic
+E173	9	proper nouns	semantic
+E174	8	prepositions	syntactic
+E175	6	common tokens	syntactic
+E176	10	punctuation	syntactic
+E177	10	prepositions	syntactic
+E178	8	subword fragments	syntactic
+E179	8	buildings/events	semantic
+E180	4	mixed fragments	mixed
+E181	5	name fragments	mixed
+E182	8	plural nouns	syntactic
+E183	8	people/roles	semantic
+E184	7	attributes/numbers	semantic
+E185	9	prepositions	syntactic
+E186	8	prepositions	syntactic
+E187	8	statistics/attributes	semantic
+E188	9	locations/entities	semantic
+E189	9	verbs	syntactic
+E190	9	function words	syntactic
+E191	10	determiners	syntactic
+E192	10	verbs	syntactic
+E193	9	verbs	syntactic
+E194	8	suffixes	syntactic
+E195	10	names	semantic
+E196	10	prepositions	syntactic
+E197	7	temporal/state	semantic
+E198	4	character fragments	syntactic
+E199	5	mixed nouns	semantic

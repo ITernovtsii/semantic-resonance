@@ -1,0 +1,101 @@
+I will read the instructions and data from `_tmp_s19_model_B_layer2_gemini.txt` to generate the requested scores.
+E000	4	mixed/pronouns	mixed
+E001	9	existence verbs	semantic
+E002	10	prepositions	syntactic
+E003	5	listing/descriptive	mixed
+E004	8	word fragments	syntactic
+E005	10	action verbs	semantic
+E006	9	conjunctions	syntactic
+E007	7	technical nouns	semantic
+E008	10	prepositions	syntactic
+E009	6	subwords/japanese	syntactic
+E010	10	geography	semantic
+E011	9	names	semantic
+E012	10	participles	syntactic
+E013	10	prepositions	syntactic
+E014	9	clausal verbs	semantic
+E015	7	titles/roles	semantic
+E016	9	connectives	syntactic
+E017	9	abstract nouns	semantic
+E018	9	entry/transition	semantic
+E019	7	plural nouns	syntactic
+E020	9	subwords	syntactic
+E021	8	abstract nouns	semantic
+E022	10	punctuation/conjunctions	syntactic
+E023	8	plural nouns	syntactic
+E024	10	prepositions	syntactic
+E025	10	possessives	syntactic
+E026	8	surnames	semantic
+E027	10	abstract nouns	semantic
+E028	9	official terms	semantic
+E029	10	media/critics	semantic
+E030	9	organizations	semantic
+E031	8	prepositions/verbs	mixed
+E032	9	proper modifiers	semantic
+E033	10	punctuation	syntactic
+E034	7	media/military	semantic
+E035	8	event verbs	semantic
+E036	10	abstract nouns	semantic
+E037	10	punctuation	syntactic
+E038	6	verbs	semantic
+E039	8	action verbs	semantic
+E040	10	conjunctions	syntactic
+E041	10	conjunctions	syntactic
+E042	9	possessives	syntactic
+E043	6	title words	semantic
+E044	10	adverbs	syntactic
+E045	8	referential terms	mixed
+E046	9	proper subwords	syntactic
+E047	9	finance/numbers	syntactic
+E048	9	structures/objects	semantic
+E049	10	clausal starters	syntactic
+E050	9	experiential verbs	semantic
+E051	10	plural nouns	semantic
+E052	9	prepositions/participles	syntactic
+E053	8	name fragments	syntactic
+E054	9	connectives	syntactic
+E055	10	adverbs	syntactic
+E056	10	punctuation	syntactic
+E057	9	communication verbs	semantic
+E058	2	mixed/random	mixed
+E059	9	subwords	syntactic
+E060	10	organizations	semantic
+E061	3	mixed	mixed
+E062	10	conjunctions	syntactic
+E063	9	capitalized subwords	syntactic
+E064	5	determiners	syntactic
+E065	7	plural nouns	semantic
+E066	10	prepositions	syntactic
+E067	9	punctuation	syntactic
+E068	10	prepositions	syntactic
+E069	10	temporal terms	semantic
+E070	5	mixed scripts/units	mixed
+E071	6	subwords/names	mixed
+E072	9	geography/orgs	semantic
+E073	10	punctuation	syntactic
+E074	10	surnames	semantic
+E075	8	adjectives	semantic
+E076	9	subwords	syntactic
+E077	7	proper nouns	semantic
+E078	8	part nouns	semantic
+E079	10	quantifiers	syntactic
+E080	8	culture/brands	semantic
+E081	10	possessives/articles	syntactic
+E082	10	determiners	syntactic
+E083	9	abstract nouns	semantic
+E084	10	prepositions	syntactic
+E085	9	government/geo	semantic
+E086	10	media terms	semantic
+E087	9	location/quantity	mixed
+E088	9	subwords	syntactic
+E089	10	numbers/units	syntactic
+E090	10	determiners	syntactic
+E091	9	subwords	syntactic
+E092	8	characters/pronouns	semantic
+E093	10	punctuation	syntactic
+E094	10	prepositions	syntactic
+E095	8	plural nouns/conflict	semantic
+E096	10	numbers	syntactic
+E097	10	possessives	syntactic
+E098	10	geography	semantic
+E099	10	quantifiers	syntactic

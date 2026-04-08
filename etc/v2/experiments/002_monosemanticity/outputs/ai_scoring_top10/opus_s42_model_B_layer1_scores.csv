@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	awarded/determiners	mixed
+E001	6	military/weapons terms	semantic
+E002	4	to/about/into	syntactic
+E003	4	mixed verbs	mixed
+E004	7	conjunctions nor/or	syntactic
+E005	6	naming/designation verbs	syntactic
+E006	5	adjectives mixed	mixed
+E007	6	comma/punctuation	syntactic
+E008	5	articles an/a	syntactic
+E009	4	action/result verbs	mixed
+E010	5	and/or/but conjunctions	syntactic
+E011	6	opening brackets	syntactic
+E012	7	first names	semantic
+E013	4	nationalist/political adj	mixed
+E014	6	hyphens/dashes/brackets	syntactic
+E015	4	sentence-initial/mixed	mixed
+E016	4	event/progression nouns	mixed
+E017	5	name-initial BPE	syntactic
+E018	4	political/legal nouns	mixed
+E019	7	relative pronouns	syntactic
+E020	5	numbers/ordinals	syntactic
+E021	3	mixed nouns	mixed
+E022	6	past participle verbs	syntactic
+E023	5	sentence starters	syntactic
+E024	4	this/the/determiners	syntactic
+E025	5	quantity/degree words	mixed
+E026	4	BPE word fragments	syntactic
+E027	7	number determiners	syntactic
+E028	5	comma/punctuation	syntactic
+E029	5	abstract nouns	semantic
+E030	5	name-initial BPE	syntactic
+E031	5	question/any words	syntactic
+E032	4	sentence-initial/mixed	mixed
+E033	4	BPE fragments/mixed	mixed
+E034	7	plural noun suffixes	syntactic
+E035	5	plural nouns mixed	mixed
+E036	5	place names	semantic
+E037	7	locative on/upon	syntactic
+E038	4	determiners/articles	syntactic
+E039	5	directional prepositions	syntactic
+E040	6	approximately/about	syntactic
+E041	5	past participle mixed	mixed
+E042	5	place names/geo	semantic
+E043	5	BPE word fragments	syntactic
+E044	4	place names mixed	mixed
+E045	6	preposition via/through	syntactic
+E046	4	countries/regions	mixed
+E047	5	prepositions of/via	syntactic
+E048	6	possessive/initial det	syntactic
+E049	4	mixed words/codes	mixed
+E050	6	have/received verbs	syntactic
+E051	6	size adjectives	syntactic
+E052	7	degree adverbs	syntactic
+E053	3	the/up only	syntactic
+E054	4	adjective/mixed	mixed
+E055	5	name-initial BPE	syntactic
+E056	4	mixed findings/nouns	mixed
+E057	4	adjectives mixed	mixed
+E058	7	personal pronouns	syntactic
+E059	5	action verbs mixed	mixed
+E060	7	large numbers	syntactic
+E061	7	sentence-end punctuation	syntactic
+E062	7	verb suffix BPE	syntactic
+E063	5	action verbs	mixed
+E064	6	conjunctions and/but/or	syntactic
+E065	3	the/its determiners	syntactic
+E066	4	sentence-initial mixed	mixed
+E067	5	abstract/threat nouns	semantic
+E068	5	past participle verbs	mixed
+E069	7	directional particles	syntactic
+E070	6	temporal prepositions	syntactic
+E071	5	among/with prepositions	syntactic
+E072	4	media/awards names	mixed
+E073	5	name-initial BPE	syntactic
+E074	5	comma/however	syntactic
+E075	7	adjectives criminal/intl	semantic
+E076	7	sentence-initial discourse	syntactic
+E077	7	number words	syntactic
+E078	6	nationality adjectives	semantic
+E079	7	sports statistics	semantic
+E080	7	BPE syllable fragments	syntactic
+E081	7	BPE syllable fragments	syntactic
+E082	5	discourse adverbs/mixed	mixed
+E083	4	geographic/road nouns	mixed
+E084	7	personal pronouns	syntactic
+E085	5	person role nouns	semantic
+E086	4	surnames	semantic
+E087	3	mixed biology/nouns	mixed
+E088	4	articles/determiners	syntactic
+E089	4	group nouns	mixed
+E090	6	comprising/containing	syntactic
+E091	5	population/people nouns	semantic
+E092	4	mixed adjectives	mixed
+E093	6	punctuation/operators	syntactic
+E094	7	temporal prepositions	syntactic
+E095	4	the/determiners	syntactic
+E096	7	under/below prepositions	syntactic
+E097	4	BPE mixed/adverbs	mixed
+E098	7	years 1800s	syntactic
+E099	6	special punctuation	syntactic

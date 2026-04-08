@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	transitions/years	syntactic
+E001	9	military/combat	semantic
+E002	8	socio-political	semantic
+E003	9	actions/achievements	syntactic
+E004	10	transportation/roads	semantic
+E005	4	general verbs	syntactic
+E006	10	function words	syntactic
+E007	9	names/initials	syntactic
+E008	10	punctuation	syntactic
+E009	5	abstract nouns	semantic
+E010	8	passive verbs	syntactic
+E011	10	spatial/location	semantic
+E012	7	relational/prepositions	syntactic
+E013	9	conversational/pronouns	semantic
+E014	6	formal/transitional	syntactic
+E015	2	single word	syntactic
+E016	9	modal verbs/help	syntactic
+E017	9	geography/locations	semantic
+E018	8	temporal adjectives	semantic
+E019	10	names	semantic
+E020	9	abstract nouns	semantic
+E021	8	abbreviations/fragments	syntactic
+E022	9	place modifiers	semantic
+E023	8	media/culture adjectives	semantic
+E024	5	names/mixed	mixed
+E025	9	surnames	semantic
+E026	8	property/location	semantic
+E027	7	inclusion/conjunctions	syntactic
+E028	8	titles/interactions	semantic
+E029	1	random	mixed
+E030	1	random	mixed
+E031	6	short capitalized words	syntactic
+E032	9	psychological/abstract	semantic
+E033	6	adverbs/names	mixed
+E034	8	pronouns/discourse	syntactic
+E035	10	descriptive adjectives	semantic
+E036	10	plural nouns	syntactic
+E037	10	quantifiers/numbers	syntactic
+E038	8	conjunctions/transitions	syntactic
+E039	9	history/construction	semantic
+E040	10	adverbs/degree	syntactic
+E041	8	organization/military	semantic
+E042	7	media reception	semantic
+E043	5	symbols/conjunctions	syntactic
+E044	9	military units	semantic
+E045	8	political/admin	semantic
+E046	1	random	mixed
+E047	1	single word	semantic
+E048	9	operational verbs	semantic
+E049	10	football stats	semantic
+E050	5	years/mixed	mixed
+E051	10	months/time	semantic
+E052	7	modal verbs/mixed	syntactic
+E053	10	music/film	semantic
+E054	9	group nouns	semantic
+E055	10	punctuation	syntactic
+E056	10	plural nouns	syntactic
+E057	8	adverbs/years	syntactic
+E058	9	title components	semantic
+E059	10	occupations	semantic
+E060	7	articles/descriptors	syntactic
+E061	6	biology/nature	semantic
+E062	8	European fragments	syntactic
+E063	3	function words	syntactic
+E064	1	random	mixed
+E065	2	random	mixed
+E066	9	operational adjectives	semantic
+E067	8	adverbs/transitions	syntactic
+E068	8	descriptive adjectives	semantic
+E069	10	prepositions/temporal	syntactic
+E070	10	approximations/quantity	semantic
+E071	10	media artifacts	semantic
+E072	9	possession/inclusion	syntactic
+E073	10	2-letter abbreviations	syntactic
+E074	10	units of measure	semantic
+E075	8	action/relational	semantic
+E076	10	plural nouns	syntactic
+E077	5	state verbs/pronouns	syntactic
+E078	1	random	mixed
+E079	10	adverbs/frequency	syntactic
+E080	1	random	mixed
+E081	7	activity categories	semantic
+E082	1	single word	syntactic
+E083	4	mixed verbs/places	semantic
+E084	1	random	mixed
+E085	1	random	mixed
+E086	5	technical/negative	semantic
+E087	10	group nouns	semantic
+E088	10	social adjectives	semantic
+E089	9	quantifiers/restrictive	syntactic
+E090	10	names	semantic
+E091	10	meteorology/hurricanes	semantic
+E092	9	creative works	semantic
+E093	8	status/life events	semantic
+E094	3	general descriptors	semantic
+E095	8	passive verbs	syntactic
+E096	6	conversational/media	semantic
+E097	10	technical measures	semantic
+E098	8	punctuation/concessive	syntactic
+E099	9	difficulty/experience	semantic

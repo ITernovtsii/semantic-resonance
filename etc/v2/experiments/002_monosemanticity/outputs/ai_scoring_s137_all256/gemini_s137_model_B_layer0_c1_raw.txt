@@ -1,0 +1,51 @@
+I will read the instructions and content from the specified file to perform the scoring.
+E050	3	name fragments	syntactic
+E051	2	mixed/unclear	mixed
+E052	4	mixed/unclear	semantic
+E053	4	suffixes/verbs	syntactic
+E054	10	prepositions	syntactic
+E055	10	geography	semantic
+E056	9	pronouns	syntactic
+E057	9	historical transitions	semantic
+E058	10	auxiliary verbs	syntactic
+E059	9	measurements	semantic
+E060	8	punctuation	syntactic
+E061	3	mixed/unclear	mixed
+E062	2	mixed/unclear	mixed
+E063	10	relative pronouns	syntactic
+E064	2	mixed/unclear	mixed
+E065	9	release/production	semantic
+E066	5	character fragments	syntactic
+E067	3	titles/nouns	semantic
+E068	8	common verbs	syntactic
+E069	7	determiners/pronouns	syntactic
+E070	10	punctuation	syntactic
+E071	8	military/accidents	semantic
+E072	10	imperial history	semantic
+E073	10	past tense verbs	syntactic
+E074	3	mixed/unclear	mixed
+E075	10	geography	semantic
+E076	8	auxiliary verbs	syntactic
+E077	7	punctuation/conjunctions	syntactic
+E078	1	random	mixed
+E079	9	prepositions	syntactic
+E080	1	random	mixed
+E081	7	public institutions	semantic
+E082	3	determiners	syntactic
+E083	10	entertainment	semantic
+E084	2	character fragments	syntactic
+E085	9	adverbs/transitions	syntactic
+E086	6	formal openers	syntactic
+E087	9	movement/crossing	semantic
+E088	7	personal life	semantic
+E089	10	temporal verbs	semantic
+E090	10	linking verbs	syntactic
+E091	7	articles/punctuation	syntactic
+E092	4	records/history	semantic
+E093	9	auxiliary verbs	syntactic
+E094	6	comparison terms	semantic
+E095	10	prepositions	syntactic
+E096	6	technology/software	semantic
+E097	2	mixed/unclear	mixed
+E098	8	abstract nouns	syntactic
+E099	1	random	mixed

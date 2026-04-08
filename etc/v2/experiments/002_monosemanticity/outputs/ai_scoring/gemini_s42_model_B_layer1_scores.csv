@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	pronouns/articles	syntactic
+E001	10	military/naval	semantic
+E002	9	prepositions	syntactic
+E003	5	verbs/suffixes	mixed
+E004	6	conjunctions	syntactic
+E005	8	naming/identifying	semantic
+E006	9	adjectives	syntactic
+E007	10	punctuation	syntactic
+E008	9	articles	syntactic
+E009	8	action verbs	semantic
+E010	9	conjunctions	syntactic
+E011	10	punctuation/brackets	syntactic
+E012	10	first names	semantic
+E013	9	national/political	semantic
+E014	8	symbols/punctuation	syntactic
+E015	4	capitalized words	mixed
+E016	9	media/production	semantic
+E017	2	word fragments	syntactic
+E018	10	government/legal	semantic
+E019	9	relative pronouns	syntactic
+E020	10	numbers/ordinals	syntactic
+E021	7	competition/conflict	semantic
+E022	8	past tense/suffixes	syntactic
+E023	7	sentence starters	syntactic
+E024	4	function words	mixed
+E025	10	quantifiers	semantic
+E026	5	word roots	syntactic
+E027	9	determiners/numbers	syntactic
+E028	10	punctuation	syntactic
+E029	10	spatial/parts	semantic
+E030	2	word fragments	syntactic
+E031	7	quantifiers/pronouns	syntactic
+E032	4	capitalized names/titles	mixed
+E033	9	abstract nouns	semantic
+E034	10	plural suffixes	syntactic
+E035	9	plural nouns	semantic
+E036	9	names/places	semantic
+E037	10	prepositions	syntactic
+E038	8	determiners/pronouns	syntactic
+E039	7	prepositions/modals	syntactic
+E040	10	spatial/quantity	semantic
+E041	9	past participles	semantic
+E042	10	geographic names	semantic
+E043	5	word roots	syntactic
+E044	7	name fragments	semantic
+E045	9	prepositions	syntactic
+E046	10	countries/entities	semantic
+E047	8	function words	syntactic
+E048	9	determiners	syntactic
+E049	3	mixed nouns/suffixes	mixed
+E050	9	verbs/auxiliaries	syntactic
+E051	9	size/quantity	semantic
+E052	10	adverbs	syntactic
+E053	2	function words	syntactic
+E054	7	adjectives	semantic
+E055	4	name fragments	semantic
+E056	6	history/conflict	semantic
+E057	10	sensory/materials	semantic
+E058	10	pronouns	syntactic
+E059	10	construction/placement	semantic
+E060	10	numbers	syntactic
+E061	9	punctuation	syntactic
+E062	10	suffixes	syntactic
+E063	9	stative verbs	semantic
+E064	10	conjunctions	syntactic
+E065	3	determiners	syntactic
+E066	8	sentence starters	syntactic
+E067	10	abstract nouns	semantic
+E068	9	passive participles	semantic
+E069	10	adverbial particles	syntactic
+E070	10	prepositions	syntactic
+E071	10	prepositions	syntactic
+E072	9	media companies	semantic
+E073	2	word fragments	syntactic
+E074	3	comma/however	mixed
+E075	10	administrative/national	semantic
+E076	8	sentence starters	syntactic
+E077	10	numbers/quantity	semantic
+E078	10	ethnicities/nations	semantic
+E079	10	sports	semantic
+E080	2	word fragments	syntactic
+E081	3	suffixes/fragments	syntactic
+E082	8	transitions/years	mixed
+E083	9	locations/landmarks	semantic
+E084	9	pronouns/people	syntactic
+E085	10	occupations/roles	semantic
+E086	9	proper names	semantic
+E087	5	mixed nouns	semantic
+E088	7	determiners	syntactic
+E089	9	plural nouns	semantic
+E090	10	composition/inclusion	semantic
+E091	10	population/society	semantic
+E092	6	technical/descriptive	semantic
+E093	10	punctuation/conjunctions	syntactic
+E094	10	temporal/logical	syntactic
+E095	4	determiners	syntactic
+E096	9	spatial prepositions	syntactic
+E097	4	prefixes	syntactic
+E098	10	years	syntactic
+E099	8	punctuation/symbols	syntactic

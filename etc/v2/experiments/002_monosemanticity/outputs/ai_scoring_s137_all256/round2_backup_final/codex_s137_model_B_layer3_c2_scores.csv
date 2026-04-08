@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	5	proper names	mixed
+E101	2	subword fragments	syntactic
+E102	6	pronouns/identity	mixed
+E103	7	titles/ranks	semantic
+E104	9	punctuation	syntactic
+E105	2	mixed/unclear	mixed
+E106	8	adjectives	syntactic
+E107	3	subword fragments	syntactic
+E108	3	mixed nouns	mixed
+E109	6	entertainment/media	semantic
+E110	4	punctuation/mixed	mixed
+E111	8	conjunctions	syntactic
+E112	7	process verbs	mixed
+E113	9	prefix fragments	syntactic
+E114	4	geography/mixed	mixed
+E115	6	status verbs	semantic
+E116	6	cognition verbs	semantic
+E117	7	military/history	semantic
+E118	7	action verbs	semantic
+E119	8	be-forms	syntactic
+E120	6	state verbs	mixed
+E121	3	mixed abstract	mixed
+E122	8	quantifiers	syntactic
+E123	3	mixed/unclear	mixed
+E124	4	institutions	mixed
+E125	4	abbreviations	mixed
+E126	4	names/fragments	mixed
+E127	7	history records	semantic
+E128	8	temporal adverbs	syntactic
+E129	4	mixed/unclear	mixed
+E130	7	event verbs	semantic
+E131	9	discourse markers	syntactic
+E132	9	determiners	syntactic
+E133	8	prepositions	syntactic
+E134	10	numbers	syntactic
+E135	2	random nouns	mixed
+E136	8	reporting verbs	mixed
+E137	9	articles	syntactic
+E138	7	function words	syntactic
+E139	5	proper nouns	mixed
+E140	3	mixed nouns	mixed
+E141	9	modal verbs	syntactic
+E142	8	name fragments	syntactic
+E143	7	political/military	semantic
+E144	3	mixed/unclear	mixed
+E145	8	music/media	semantic
+E146	7	geography	semantic
+E147	7	discourse markers	syntactic
+E148	10	weights/numbers	syntactic
+E149	8	subword fragments	syntactic

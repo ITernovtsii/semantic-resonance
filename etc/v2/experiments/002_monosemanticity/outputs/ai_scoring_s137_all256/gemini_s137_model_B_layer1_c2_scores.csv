@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	9	interrogative/relative	syntactic
+E101	9	locations/names	semantic
+E102	7	conjunctions/punctuation	mixed
+E103	10	determiners	syntactic
+E104	8	formal documents	semantic
+E105	10	spatial prepositions	semantic
+E106	6	social/political	semantic
+E107	10	quantifiers	semantic
+E108	6	punctuation/noise	mixed
+E109	8	adjectives	syntactic
+E110	7	verbs/actions	semantic
+E111	7	adjectives/prefixes	mixed
+E112	5	symbols/fragments	mixed
+E113	10	punctuation pairs	syntactic
+E114	10	ending punctuation	syntactic
+E115	6	punctuation/determiners	mixed
+E116	10	media formats	semantic
+E117	8	punctuation/noise	mixed
+E118	9	verbs	semantic
+E119	7	descriptive/materials	semantic
+E120	9	years/dates	semantic
+E121	10	temporal prepositions	semantic
+E122	10	pronouns	syntactic
+E123	10	special symbols	syntactic
+E124	9	descriptive verbs	semantic
+E125	10	definite article	syntactic
+E126	9	modification verbs	semantic
+E127	7	comparative prepositions	syntactic
+E128	10	military/naval	semantic
+E129	9	movement/direction	semantic
+E130	4	mixed fragments	mixed
+E131	10	phonetic fragments	syntactic
+E132	8	comparative prepositions	syntactic
+E133	6	dynamic actions	semantic
+E134	9	auxiliary verbs	syntactic
+E135	6	abstract nouns	semantic
+E136	9	evaluative adjectives	semantic
+E137	5	subword fragments	syntactic
+E138	8	past participles	semantic
+E139	9	modal/evidentiary	semantic
+E140	5	symbols/prepositions	mixed
+E141	9	suffix fragments	syntactic
+E142	10	numbers	semantic
+E143	9	name fragments	syntactic
+E144	10	relative pronouns	syntactic
+E145	10	conjunctions	syntactic
+E146	9	highway/transportation	semantic
+E147	10	ordinals/superlatives	semantic
+E148	7	numbers/attributes	semantic
+E149	7	accented/fragments	syntactic

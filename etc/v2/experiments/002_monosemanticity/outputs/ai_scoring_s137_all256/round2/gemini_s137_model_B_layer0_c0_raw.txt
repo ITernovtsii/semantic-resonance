@@ -1,0 +1,51 @@
+I will read the instructions and data from `_tmp_s137_model_B_layer0_c0_gemini.txt` to generate the requested scores.
+E000	7	technical/military	semantic
+E001	3	mixed/unclear	mixed
+E002	8	identification verbs	semantic
+E003	5	subword fragments	syntactic
+E004	6	names/titles	semantic
+E005	9	punctuation/stop words	syntactic
+E006	4	mixed/unclear	mixed
+E007	7	position/movement	semantic
+E008	10	pronouns/determiners	syntactic
+E009	4	suffixes/mixed	mixed
+E010	6	academic/history	semantic
+E011	8	function words	syntactic
+E012	5	special chars/fragments	syntactic
+E013	7	logical connectors	syntactic
+E014	9	sports stats	semantic
+E015	2	suffix fragment	syntactic
+E016	3	mixed/punctuation	mixed
+E017	10	adverbs/transitions	syntactic
+E018	5	adjectives/roots	semantic
+E019	1	random	mixed
+E020	10	prepositions	syntactic
+E021	7	auxiliaries/numbers	mixed
+E022	4	mixed/historical	mixed
+E023	8	structure/composition	semantic
+E024	9	temporal sequence	semantic
+E025	9	past participles	syntactic
+E026	7	state/setting	semantic
+E027	7	proper names	semantic
+E028	9	biology/geology	semantic
+E029	2	single name	semantic
+E030	9	prefixes	syntactic
+E031	6	war	semantic
+E032	3	mixed/unclear	mixed
+E033	7	verbs of impact	semantic
+E034	3	mixed/unclear	mixed
+E035	5	leadership/significance	semantic
+E036	2	mixed	mixed
+E037	9	modals/auxiliaries	syntactic
+E038	10	completion	semantic
+E039	4	punctuation/mixed	mixed
+E040	9	pronouns/determiners	syntactic
+E041	7	percentages/modals	mixed
+E042	9	punctuation	syntactic
+E043	6	temporal/auxiliary	syntactic
+E044	2	mixed/unclear	mixed
+E045	6	adverbs/qualifiers	syntactic
+E046	3	mixed/finance	mixed
+E047	7	US geography	semantic
+E048	10	stop words	syntactic
+E049	6	conjunctions/adverbs	syntactic

@@ -1,0 +1,50 @@
+E200	9	determiners/quantifiers	syntactic
+E201	2	random nouns	mixed
+E202	3	name fragments	mixed
+E203	2	subword fragments	syntactic
+E204	4	connectors+names	mixed
+E205	8	roles/titles	semantic
+E206	7	verb participles	syntactic
+E207	8	spatial prepositions	syntactic
+E208	8	articles/possessives	syntactic
+E209	6	descriptive adjectives	syntactic
+E210	4	mixed descriptors	mixed
+E211	7	evaluative adjectives	semantic
+E212	8	degree adverbs	syntactic
+E213	9	-manner adverbs	syntactic
+E214	4	plural nouns	mixed
+E215	2	mixed nouns	mixed
+E216	6	functional modifiers	syntactic
+E217	8	suffix fragments	syntactic
+E218	9	prepositions/time	syntactic
+E219	7	biography terms	semantic
+E220	7	proper names	semantic
+E221	9	from/between prep	syntactic
+E222	10	articles	syntactic
+E223	3	proper fragments	mixed
+E224	8	gerunds	syntactic
+E225	9	prefixes	syntactic
+E226	9	conjunctions	syntactic
+E227	10	numbers	numeric/syntactic
+E228	8	place names	semantic
+E229	1	random/malformed	mixed
+E230	6	months/time	semantic
+E231	4	abstract events	mixed
+E232	8	conjunction+punct	syntactic
+E233	2	random nouns	mixed
+E234	8	time descriptors	semantic
+E235	4	title-like words	mixed
+E236	2	random titlecase	mixed
+E237	9	first names	semantic
+E238	10	punctuation	syntactic
+E239	7	action verbs	semantic
+E240	3	name fragments	mixed
+E241	6	discourse words	syntactic
+E242	7	verb lexicon	syntactic
+E243	9	possessives/apostrophe	syntactic
+E244	10	number words	syntactic
+E245	3	name fragments	mixed
+E246	2	random titlecase	mixed
+E247	7	prep/participles	syntactic
+E248	7	geopolitical places	semantic
+E249	8	stats/measurements	semantic

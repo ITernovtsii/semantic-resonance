@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	3	mixed/unclear	mixed
+E151	9	first names	semantic
+E152	9	subword fragments	syntactic
+E153	9	numbers/quantities	syntactic
+E154	5	adverbs/descriptors	mixed
+E155	8	composition verbs	semantic
+E156	6	plural nouns	syntactic
+E157	3	mixed pronouns	mixed
+E158	8	quotation tokens	syntactic
+E159	8	military conflict	semantic
+E160	2	deictic word	syntactic
+E161	10	punctuation	syntactic
+E162	10	modal auxiliaries	syntactic
+E163	6	science descriptors	mixed
+E164	9	determiners/quantifiers	syntactic
+E165	8	political-military	semantic
+E166	9	demonstratives	syntactic
+E167	5	structures/forts	mixed
+E168	7	usage/process verbs	semantic
+E169	8	subword fragments	syntactic
+E170	4	mixed infrastructure	mixed
+E171	7	spatial terms	semantic
+E172	6	organization names	semantic
+E173	7	action verbs	semantic
+E174	8	verb forms	syntactic
+E175	4	air/department	semantic
+E176	10	discourse markers	syntactic
+E177	10	punctuation	syntactic
+E178	4	mixed attributes	mixed
+E179	3	title words	mixed
+E180	9	music/aesthetic	semantic
+E181	7	progress verbs	semantic
+E182	8	symbols/abbrev	syntactic
+E183	3	mixed/unclear	mixed
+E184	8	appointments/offices	semantic
+E185	8	reporting verbs	semantic
+E186	7	name fragments	syntactic
+E187	7	personal names	semantic
+E188	3	mixed fragments	mixed
+E189	5	composition/military	mixed
+E190	10	punctuation	syntactic
+E191	10	punctuation	syntactic
+E192	8	articles/possessives	syntactic
+E193	7	subword fragments	syntactic
+E194	9	be-forms	syntactic
+E195	7	comparison/connectives	syntactic
+E196	8	celebrity reception	semantic
+E197	7	function words	syntactic
+E198	10	punctuation	syntactic
+E199	9	numbers/units	syntactic

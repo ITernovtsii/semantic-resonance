@@ -1,0 +1,11 @@
+I will read the instructions and data from `_tmp_s137_model_A_layer3_gemini.txt` to generate the requested scoring lines.
+E000	8	logical connectors	syntactic
+E010	7	geographic/descriptive	semantic
+E020	6	temporal/descriptive	semantic
+E030	3	mixed/unclear	mixed
+E040	9	general verbs	syntactic
+E050	8	active verbs	syntactic
+E060	8	common modifiers	syntactic
+E070	9	modal verbs	syntactic
+E080	9	general verbs	syntactic
+E090	9	proper names	semantic

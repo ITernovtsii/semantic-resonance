@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	5	prepositions	syntactic
+E151	2	random	mixed
+E152	5	proper names	semantic
+E153	7	determiners/possessives	syntactic
+E154	1	rare tokens/UNK	mixed
+E155	7	institutional/formal	semantic
+E156	5	proper nouns/titles	mixed
+E157	6	arts/publishing	semantic
+E158	3	numbers/mixed	mixed
+E159	5	event/narrative nouns	semantic
+E160	5	communication/events	semantic
+E161	9	copular/state verbs	syntactic
+E162	4	BPE fragments	syntactic
+E163	3	fragments	mixed
+E164	7	gerunds/participles	syntactic
+E165	6	determiners	syntactic
+E166	4	organizations/mixed	mixed
+E167	8	sentence-final punct	syntactic
+E168	5	comma/punctuation	syntactic
+E169	7	description verbs	semantic
+E170	4	preposition/mixed	mixed
+E171	7	quotation marks	syntactic
+E172	6	auxiliary/plural verbs	syntactic
+E173	6	syllable prefixes	syntactic
+E174	8	three-digit numbers	syntactic
+E175	4	sports/mixed	mixed
+E176	4	mixed capitals	mixed
+E177	4	function words	syntactic
+E178	4	suffixes/mixed	mixed
+E179	4	person-related nouns	mixed
+E180	7	meeting/encounter	semantic
+E181	2	random	mixed
+E182	5	person words/suffixes	mixed
+E183	4	numbers/mixed	mixed
+E184	10	female/gender	semantic
+E185	7	special punctuation	syntactic
+E186	5	quantifiers/pronouns	mixed
+E187	7	reflexive/directional	syntactic
+E188	3	single word	syntactic
+E189	3	fragments	mixed
+E190	8	open/close verbs	semantic
+E191	2	random verbs	mixed
+E192	5	sentence starters	syntactic
+E193	9	number words	syntactic
+E194	1	random	mixed
+E195	5	togetherness	semantic
+E196	6	quotation/music	mixed
+E197	7	determiners/pronouns	syntactic
+E198	5	quotation marks	syntactic
+E199	3	single letters	mixed

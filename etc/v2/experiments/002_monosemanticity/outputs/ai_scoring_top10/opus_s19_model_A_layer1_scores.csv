@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	prepositions for/in	syntactic
+E001	7	demonstratives this/that	syntactic
+E002	4	adj gubernatorial/colonial	mixed
+E003	7	adverbs -ly manner	syntactic
+E004	3	mixed random	mixed
+E005	5	quotation marks/brackets	syntactic
+E006	4	name-initial syllables	syntactic
+E007	5	historical/career nouns	mixed
+E008	5	media/entertainment	mixed
+E009	4	sentence-end/numbers	mixed
+E010	4	comma/time punct	syntactic
+E011	4	emotion/sentiment nouns	mixed
+E012	7	large numbers	syntactic
+E013	6	directional prepositions	syntactic
+E014	6	movement/departure verbs	semantic
+E015	7	approximation adverbs	syntactic
+E016	7	closing quotation punct	syntactic
+E017	5	adj operatic/ensuing	mixed
+E018	6	number words/quantity	syntactic
+E019	7	sentence-end punctuation	syntactic
+E020	4	abstract nouns mixed	mixed
+E021	5	adj new/strong/heavy	mixed
+E022	7	company/business nouns	semantic
+E023	4	abstract nouns list	mixed
+E024	5	adj sheer/extraordinary	mixed
+E025	3	unique high-PMI words	mixed
+E026	5	pronoun it/she/another	syntactic
+E027	4	action/exaggeration verbs	mixed
+E028	3	mixed proper/fragments	mixed
+E029	5	BPE plural suffixes	syntactic
+E030	6	influenced/based verbs	syntactic
+E031	4	abbreviation symbols	syntactic
+E032	3	non-latin/rare chars	mixed
+E033	6	instead/rather adverbs	syntactic
+E034	4	action verbs/ran	mixed
+E035	7	onto/upon prepositions	syntactic
+E036	5	comma/episode/punct	syntactic
+E037	5	articles a/an/old	syntactic
+E038	5	punctuation mixed	syntactic
+E039	5	becoming/copula verbs	syntactic
+E040	6	it/she/you pronouns	syntactic
+E041	3	mixed places/random	mixed
+E042	4	BPE foreign syllables	mixed
+E043	6	including/with preps	syntactic
+E044	7	sentence-end punctuation	syntactic
+E045	5	conjunctions and/or	syntactic
+E046	7	remains/survives verbs	semantic
+E047	3	mixed random nouns	mixed
+E048	7	comparative adverbs	syntactic
+E049	5	adverbs mixed	mixed
+E050	5	adj suffix -ive/-ian	syntactic
+E051	8	verb suffix BPE	syntactic
+E052	5	being/be/passive	syntactic
+E053	4	action verbs mixed	mixed
+E054	3	the/The determiners	syntactic
+E055	3	BPE/proper names	mixed
+E056	6	revol/occurred/verbs	mixed
+E057	6	prefix pro/pre/real	syntactic
+E058	5	past participle verbs	mixed
+E059	5	nominated/appointed	mixed
+E060	5	body part nouns	semantic
+E061	5	comma/punctuation	syntactic
+E062	5	BPE word-start fragments	syntactic
+E063	5	closing quotation punct	syntactic
+E064	5	adverbs allegedly/partly	syntactic
+E065	6	punctuation/brackets	syntactic
+E066	5	unfit/unsure adjectives	mixed
+E067	4	apostrophe only	syntactic
+E068	5	diacritical/non-latin	syntactic
+E069	6	location adverbs	syntactic
+E070	3	the/The determiners	syntactic
+E071	5	media/creative nouns	semantic
+E072	4	all/than/the	syntactic
+E073	5	surnames/names	semantic
+E074	3	single comma	syntactic
+E075	4	species/fact/ones	mixed
+E076	4	codes/abbreviations	mixed
+E077	7	have/had auxiliary	syntactic
+E078	4	entertainment/mixed	mixed
+E079	3	to/into only	syntactic
+E080	6	quotation marks	syntactic
+E081	5	action verbs mixed	mixed
+E082	5	conjunctions and/or	syntactic
+E083	6	directional prepositions	syntactic
+E084	5	sentence-initial/temporal	syntactic
+E085	3	mixed nouns random	mixed
+E086	7	tropical weather	semantic
+E087	5	at/during/location	syntactic
+E088	5	school/sports/activity	mixed
+E089	6	possessive pronouns	syntactic
+E090	3	mixed/random	mixed
+E091	6	temporal prepositions	syntactic
+E092	5	BPE/biology terms	mixed
+E093	6	modal/should verbs	syntactic
+E094	3	mixed/random	mixed
+E095	7	sports statistics	semantic
+E096	5	preposition in/during	syntactic
+E097	4	BPE syllable fragments	syntactic
+E098	5	comma/time/punct	syntactic
+E099	4	BPE name/place patterns	mixed

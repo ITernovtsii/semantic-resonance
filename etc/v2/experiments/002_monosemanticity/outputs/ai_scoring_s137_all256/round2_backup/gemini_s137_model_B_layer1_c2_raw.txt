@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the required scoring output.
+E100	9	interrogatives	syntactic
+E101	10	proper names	semantic
+E102	8	conjunctions	syntactic
+E103	10	determiners	syntactic
+E104	9	reports/documents	semantic
+E105	10	spatial prepositions	syntactic
+E106	8	governance/policy	semantic
+E107	10	quantifiers	syntactic
+E108	8	punctuation	syntactic
+E109	9	evaluative adjectives	semantic
+E110	6	verbs	syntactic
+E111	7	dimensions/prefixes	mixed
+E112	5	fragments	syntactic
+E113	10	punctuation	syntactic
+E114	10	punctuation	syntactic
+E115	8	quotes/pronouns	syntactic
+E116	10	media formats	semantic
+E117	8	punctuation	syntactic
+E118	9	verbs	syntactic
+E119	8	materials/attributes	semantic
+E120	9	years/history	semantic
+E121	10	temporal prepositions	syntactic
+E122	10	pronouns	syntactic
+E123	10	special characters	syntactic
+E124	10	media/verbs	semantic
+E125	10	article the	syntactic
+E126	9	action verbs	semantic
+E127	9	conjunctions	syntactic
+E128	10	military/naval	semantic
+E129	10	movement/direction	semantic
+E130	4	fragments/adverbs	mixed
+E131	10	consonant clusters	syntactic
+E132	9	prepositions	syntactic
+E133	7	change/conflict	semantic
+E134	8	auxiliary verbs	syntactic
+E135	8	abstract nouns	semantic
+E136	10	evaluative adjectives	semantic
+E137	2	fragments	syntactic
+E138	9	verbs	syntactic
+E139	10	evaluative/modal	semantic
+E140	6	punctuation/prepositions	syntactic
+E141	7	suffixes/fragments	syntactic
+E142	10	numbers	syntactic
+E143	8	suffixes/fragments	syntactic
+E144	10	relative/interrogative	syntactic
+E145	10	conjunctions	syntactic
+E146	10	transportation	semantic
+E147	10	ordinals/superlatives	semantic
+E148	6	numbers/adjectives	mixed
+E149	6	diacritics/fragments	mixed

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	human behavior	mixed
+E001	4	mixed locations	mixed
+E002	8	mycology fungi	semantic
+E003	6	media formats	semantic
+E004	7	adverbs degree	syntactic
+E005	5	parentheses units	syntactic
+E006	5	temporal clauses	syntactic
+E007	7	perfective aspect	syntactic
+E008	1	period only	syntactic
+E009	6	multiple several	syntactic
+E010	1	period only	syntactic
+E011	7	military adjectives	semantic
+E012	5	mixed organizations	mixed
+E013	7	spatial prepositions	syntactic
+E014	6	result adverbs	syntactic
+E015	5	counting few	syntactic
+E016	1	PAD token	mixed
+E017	5	evaluation verbs	mixed
+E018	4	mixed tokens	mixed
+E019	8	temporal preps	syntactic
+E020	7	temporal preps	syntactic
+E021	4	uppercase letters	syntactic
+E022	8	numbers	syntactic
+E023	8	environment weather	semantic
+E024	3	mixed tokens	mixed
+E025	5	punctuation	syntactic
+E026	5	article an	syntactic
+E027	2	singing period	mixed
+E028	6	participation words	mixed
+E029	5	approximation	syntactic
+E030	6	prepositions	syntactic
+E031	7	causative verbs	syntactic
+E032	6	state change	syntactic
+E033	6	prepositions about	syntactic
+E034	8	counting numbers	syntactic
+E035	5	mixed tokens	mixed
+E036	6	numbers routes	mixed
+E037	5	concept nouns	mixed
+E038	5	temporal since	syntactic
+E039	2	manufacturing	mixed
+E040	2	the determiner	syntactic
+E041	5	punctuation	syntactic
+E042	5	media adjectives	mixed
+E043	1	period only	syntactic
+E044	6	conjunctions	syntactic
+E045	6	adjectives various	mixed
+E046	8	sports statistics	semantic
+E047	4	non-Latin names	syntactic
+E048	6	action verbs	syntactic
+E049	4	non-Latin names	syntactic
+E050	3	BPE prefixes	syntactic
+E051	7	modal verbs	syntactic
+E052	6	informal speech	semantic
+E053	5	dates temporal	mixed
+E054	7	social concepts	semantic
+E055	2	mixed tokens	mixed
+E056	7	subordinators	syntactic
+E057	7	measurement units	syntactic
+E058	4	in preposition	syntactic
+E059	7	dates years	syntactic
+E060	4	BPE fragments	syntactic
+E061	7	naming nouns	semantic
+E062	6	state change	syntactic
+E063	8	first names	semantic
+E064	7	modal verbs	syntactic
+E065	6	abstract nouns	semantic
+E066	7	first names	semantic
+E067	6	physical objects	mixed
+E068	6	state verbs	syntactic
+E069	5	geographic adj	mixed
+E070	6	agent subjects	syntactic
+E071	5	geographic in	mixed
+E072	5	capitalized titles	mixed
+E073	2	mixed tokens	mixed
+E074	7	past participles	syntactic
+E075	7	becoming role	syntactic
+E076	6	sports titles	semantic
+E077	4	measurement units	mixed
+E078	6	social adjectives	mixed
+E079	8	modal verbs	syntactic
+E080	6	social adjectives	mixed
+E081	1	period only	syntactic
+E082	4	article a	syntactic
+E083	7	superlative adj	syntactic
+E084	1	mixed tokens	mixed
+E085	7	informal positive	semantic
+E086	4	BPE fragments	mixed
+E087	5	geographic adj	mixed
+E088	6	prepositions	syntactic
+E089	2	mixed tokens	mixed
+E090	3	BPE word roots	syntactic
+E091	3	adjectives general	mixed
+E092	7	uppercase clusters	syntactic
+E093	5	adjective article	mixed
+E094	6	numbers percent	syntactic
+E095	8	perfective have	syntactic
+E096	6	action verbs	syntactic
+E097	7	discourse markers	syntactic
+E098	6	action verbs	syntactic
+E099	4	mixed tokens	mixed

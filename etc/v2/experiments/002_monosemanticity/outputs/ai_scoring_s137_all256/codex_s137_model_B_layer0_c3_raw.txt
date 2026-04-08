@@ -1,0 +1,50 @@
+E150	2	mixed/unclear	mixed
+E151	10	prepositions	syntactic
+E152	8	determiners	syntactic
+E153	9	suffix fragments	syntactic
+E154	1	random	mixed
+E155	2	mixed/unclear	mixed
+E156	3	mixed/unclear	mixed
+E157	2	subword fragments	syntactic
+E158	9	determiners	syntactic
+E159	10	punctuation	syntactic
+E160	4	proper noun	semantic
+E161	3	mixed/unclear	mixed
+E162	8	maritime/ship	semantic
+E163	4	mixed/unclear	mixed
+E164	2	mixed/unclear	mixed
+E165	8	function words	syntactic
+E166	7	particles	syntactic
+E167	6	adjectival modifiers	syntactic
+E168	3	mixed/unclear	mixed
+E169	1	random	mixed
+E170	2	mixed/unclear	mixed
+E171	9	pronouns	syntactic
+E172	6	human/life	semantic
+E173	7	geo-descriptors	semantic
+E174	2	mixed/unclear	mixed
+E175	8	sentence starters	syntactic
+E176	6	place terms	semantic
+E177	7	verb forms	syntactic
+E178	9	legal/politics	semantic
+E179	7	action verbs	semantic
+E180	5	academic/dates	mixed
+E181	8	function tokens	syntactic
+E182	7	performing arts	semantic
+E183	9	US states	semantic
+E184	7	discourse words	syntactic
+E185	3	suffix/unit	mixed
+E186	8	punctuation	syntactic
+E187	4	mixed/unclear	mixed
+E188	8	prepositions	syntactic
+E189	4	mixed/unclear	mixed
+E190	6	legal/justice	semantic
+E191	10	hurricane weather	semantic
+E192	3	mixed/unclear	mixed
+E193	6	common verbs	mixed
+E194	8	abstract nouns	semantic
+E195	6	numbers/quantities	semantic
+E196	4	conjunctions	syntactic
+E197	6	negation	semantic
+E198	2	mixed/unclear	mixed
+E199	5	measurement/body	mixed

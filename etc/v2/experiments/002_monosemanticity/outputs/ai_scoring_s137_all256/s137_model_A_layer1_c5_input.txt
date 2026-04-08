@@ -1,0 +1,6 @@
+E250	endured(6.59); Afterwards(6.59); prompting(6.59); underwent(6.59); beneath(6.59); attending(6.59); bearing(6.59); prompted(6.59); completing(6.59); regarding(6.59)
+E251	Beckham(6.49); Rudd(6.49); Slater(6.49); Rhino(6.49); Radcliffe(6.49); Oka(6.49); Mama(6.49); Sakura(6.49); Travers(6.49); Steele(6.49)
+E252	drowning(6.13); deceased(6.13); disappeared(6.13); fallen(6.13); missing(6.13); injured(6.13); buried(6.13); gone(6.13); dead(6.13); died(6.13)
+E253	ork(5.70); arty(5.70); Goebbels(5.70); Stephens(5.70); angs(5.70); MCA(5.70); Walters(5.70); angelo(5.70); Stacy(5.70); Bowen(5.70)
+E254	racial(10.75); Social(10.75); cultural(10.75); sexual(10.75); economic(10.75); social(10.75); musical(9.75); political(9.17); self(9.17); financial(8.88)
+E255	($(8.06); ("(8.06); ((8.06); %(6.48); —(5.03); [(4.69); :(2.41); (1.72); "(-0.64)

@@ -1,0 +1,101 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E000	10	prepositions	syntactic
+E001	10	demonstratives	syntactic
+E002	8	formal adjectives	semantic
+E003	10	adverbs	syntactic
+E004	4	mixed/unclear	mixed
+E005	10	punctuation	syntactic
+E006	3	names/fragments	mixed
+E007	5	history/sports	semantic
+E008	9	media/entertainment	semantic
+E009	6	numbers/punctuation	mixed
+E010	4	punctuation	syntactic
+E011	9	mental states	semantic
+E012	8	numbers	syntactic
+E013	10	spatial prepositions	syntactic
+E014	9	movement verbs	semantic
+E015	10	approximation	semantic
+E016	10	punctuation clusters	syntactic
+E017	9	formal adjectives	syntactic
+E018	10	number words	semantic
+E019	10	punctuation/period	syntactic
+E020	5	abstract concepts	semantic
+E021	9	general adjectives	syntactic
+E022	10	corporate/business	semantic
+E023	4	abstract nouns	semantic
+E024	8	descriptive adjectives	semantic
+E025	6	importance/scale	semantic
+E026	10	pronouns/articles	syntactic
+E027	8	action verbs	semantic
+E028	5	proper nouns	semantic
+E029	9	plural endings	syntactic
+E030	10	relational descriptors	semantic
+E031	6	initials/symbols	syntactic
+E032	3	symbols/mixed	mixed
+E033	7	comparative adverbs	syntactic
+E034	9	motion verbs	semantic
+E035	10	spatial prepositions	syntactic
+E036	6	punctuation	syntactic
+E037	7	articles/noise	syntactic
+E038	10	punctuation	syntactic
+E039	10	copular verbs	syntactic
+E040	10	pronouns	syntactic
+E041	8	locations	semantic
+E042	4	mixed/unclear	mixed
+E043	10	inclusion verbs	semantic
+E044	10	terminal punctuation	syntactic
+E045	10	conjunctions	syntactic
+E046	9	existence verbs	semantic
+E047	4	social/abstract	semantic
+E048	9	degree adverbs	syntactic
+E049	6	adverbs/years	mixed
+E050	10	adjective endings	syntactic
+E051	10	verb suffixes	syntactic
+E052	9	auxiliary verbs	syntactic
+E053	8	military/action	semantic
+E054	10	definite article	syntactic
+E055	6	proper names	semantic
+E056	7	history/narrative	semantic
+E057	9	prefixes	syntactic
+E058	9	past participles	syntactic
+E059	8	process verbs	semantic
+E060	6	body parts	semantic
+E061	10	punctuation	syntactic
+E062	4	subwords	syntactic
+E063	10	punctuation	syntactic
+E064	9	formal adverbs	syntactic
+E065	10	possessives	syntactic
+E066	4	mixed/unclear	semantic
+E067	10	apostrophes	syntactic
+E068	9	foreign characters	syntactic
+E069	10	locatives	syntactic
+E070	7	common words	syntactic
+E071	9	music/media	semantic
+E072	3	common words	syntactic
+E073	9	proper names	semantic
+E074	10	transitions	syntactic
+E075	2	mixed/random	mixed
+E076	7	abbreviations	syntactic
+E077	10	perfective verbs	syntactic
+E078	9	sports/gaming	semantic
+E079	10	prepositions	syntactic
+E080	10	quotes/brackets	syntactic
+E081	8	event verbs	semantic
+E082	10	conjunctions	syntactic
+E083	10	prepositions	syntactic
+E084	9	introductory adverbs	syntactic
+E085	4	mixed nouns	semantic
+E086	10	meteorology	semantic
+E087	8	locative words	syntactic
+E088	8	school/sports	semantic
+E089	10	possessive pronouns	syntactic
+E090	7	comparative/punctuation	mixed
+E091	10	temporal/spatial	syntactic
+E092	10	mycology/biology	semantic
+E093	10	modal verbs	syntactic
+E094	5	geography/nature	semantic
+E095	10	sports	semantic
+E096	10	prepositions	syntactic
+E097	3	mixed/fragments	syntactic
+E098	6	punctuation/noise	syntactic
+E099	6	proper names	semantic

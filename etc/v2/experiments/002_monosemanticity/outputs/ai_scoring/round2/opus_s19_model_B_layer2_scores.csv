@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	informal pronouns	syntactic
+E001	7	existence verbs	syntactic
+E002	5	prepositions loc	syntactic
+E003	5	listing markers	syntactic
+E004	3	BPE fragments	syntactic
+E005	7	action verbs	syntactic
+E006	6	concessive conj	syntactic
+E007	5	mixed nouns	mixed
+E008	6	prepositions at	syntactic
+E009	3	BPE name parts	syntactic
+E010	8	place names	semantic
+E011	8	first names	semantic
+E012	7	spatial preps	syntactic
+E013	6	to direction	syntactic
+E014	6	subordinators	syntactic
+E015	3	title prefixes	mixed
+E016	7	discourse that	syntactic
+E017	7	abstract nouns	semantic
+E018	7	entering verbs	syntactic
+E019	7	plural nouns	mixed
+E020	3	BPE diacritics	syntactic
+E021	6	abstract nouns	semantic
+E022	5	contrast punct	syntactic
+E023	7	possession nouns	semantic
+E024	5	prepositions	syntactic
+E025	5	possessives	syntactic
+E026	4	mixed surnames	mixed
+E027	7	abstract nouns	semantic
+E028	5	mixed referents	mixed
+E029	7	media critics	semantic
+E030	7	proper org names	semantic
+E031	6	prepositions	syntactic
+E032	5	geographic adj	mixed
+E033	5	punctuation	syntactic
+E034	6	singular nouns	mixed
+E035	7	location verbs	syntactic
+E036	6	abstract nouns	semantic
+E037	5	punctuation pct	syntactic
+E038	4	verb stems	syntactic
+E039	6	action verbs	syntactic
+E040	6	conjunction coord	syntactic
+E041	6	conjunction but	syntactic
+E042	4	possessive suffix	syntactic
+E043	3	proper compound	mixed
+E044	6	discourse adverbs	syntactic
+E045	7	description words	syntactic
+E046	2	BPE prefixes	syntactic
+E047	5	currency numbers	syntactic
+E048	7	physical objects	semantic
+E049	6	sentence starters	syntactic
+E050	7	action verbs	syntactic
+E051	6	plural nouns	mixed
+E052	6	purpose preps	syntactic
+E053	3	BPE prefixes	syntactic
+E054	7	question words	syntactic
+E055	7	discourse adverbs	syntactic
+E056	5	punctuation comma	syntactic
+E057	7	result verbs	syntactic
+E058	3	mixed tokens	mixed
+E059	3	BPE fragments	mixed
+E060	7	org name parts	semantic
+E061	4	mixed numbers	mixed
+E062	6	subordinators	syntactic
+E063	3	BPE prefixes	syntactic
+E064	1	the single	syntactic
+E065	6	proper noun parts	mixed
+E066	7	prepositions from	syntactic
+E067	5	punctuation comma	syntactic
+E068	7	modal verbs	syntactic
+E069	7	temporal preps	syntactic
+E070	7	numbers measures	syntactic
+E071	3	BPE name parts	mixed
+E072	6	place names	semantic
+E073	5	punctuation	syntactic
+E074	7	surnames	semantic
+E075	6	adjectives scale	syntactic
+E076	3	BPE prefixes	syntactic
+E077	5	proper titles	mixed
+E078	6	physical nouns	mixed
+E079	8	quantifiers	syntactic
+E080	5	mixed pop culture	mixed
+E081	5	possessives	syntactic
+E082	7	determiners	syntactic
+E083	6	singular nouns	mixed
+E084	7	preposition for	syntactic
+E085	7	geographic nouns	semantic
+E086	8	media adjectives	semantic
+E087	7	spatial preps	syntactic
+E088	3	BPE roots	syntactic
+E089	8	numbers	syntactic
+E090	2	the entire	syntactic
+E091	3	BPE roots	syntactic
+E092	4	pronoun person	syntactic
+E093	3	sentence endings	syntactic
+E094	6	subordinators	syntactic
+E095	6	plural people	mixed
+E096	8	counting numbers	syntactic
+E097	7	possessives	syntactic
+E098	8	place names	semantic
+E099	7	quantifiers among	syntactic

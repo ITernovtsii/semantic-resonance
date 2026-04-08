@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	9	approximation	semantic
+E201	2	mixed	mixed
+E202	1	random	mixed
+E203	8	prepositions	syntactic
+E204	8	temporal/relative	semantic
+E205	2	suffixes	syntactic
+E206	10	punctuation	syntactic
+E207	7	person/roles	semantic
+E208	7	conjunctions/punctuation	syntactic
+E209	9	sentence connectors	syntactic
+E210	6	verbs	semantic
+E211	1	random	mixed
+E212	8	articles/pronouns	syntactic
+E213	10	reporting/result	semantic
+E214	9	prepositions	syntactic
+E215	7	pronouns/conjunctions	syntactic
+E216	9	spatial/agency	semantic
+E217	6	measurement/properties	semantic
+E218	8	abstract properties	semantic
+E219	7	adverbs	semantic
+E220	6	past verbs	syntactic
+E221	10	intensifiers	semantic
+E222	8	prepositions	syntactic
+E223	3	unclear	mixed
+E224	8	determiners/pronouns	syntactic
+E225	5	nouns/objects	semantic
+E226	8	navigation/spatial	semantic
+E227	7	biological/structural	semantic
+E228	3	proper nouns/mixed	mixed
+E229	6	objects/roles	semantic
+E230	8	adjectives/national	semantic
+E231	7	prepositions/verbs	syntactic
+E232	9	conjunctions	syntactic
+E233	4	numbers/symbols	syntactic
+E234	9	auxiliary verbs	syntactic
+E235	8	passive adjectives	semantic
+E236	7	prepositions/auxiliary	syntactic
+E237	8	temporal/prepositional	semantic
+E238	6	history/information	semantic
+E239	9	copula/existence	syntactic
+E240	5	nouns/transport	semantic
+E241	9	quantifiers/demonstratives	syntactic
+E242	8	groups of people	semantic
+E243	10	demonstratives/pronouns	syntactic
+E244	9	past tense verbs	semantic
+E245	3	capitalized prefixes	syntactic
+E246	7	abstract nouns	semantic
+E247	8	prepositions	syntactic
+E248	5	possessive/punctuation	syntactic
+E249	10	adverbs of frequency/modal	semantic

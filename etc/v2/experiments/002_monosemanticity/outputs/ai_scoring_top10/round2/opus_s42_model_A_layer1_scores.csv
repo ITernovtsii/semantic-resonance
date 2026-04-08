@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	directional preps	syntactic
+E001	8	object pronouns	syntactic
+E002	5	articles	syntactic
+E003	7	past participles	syntactic
+E004	5	misc adjectives	mixed
+E005	4	misc adjectives	mixed
+E006	1	random nouns	mixed
+E007	6	action verbs	mixed
+E008	8	question words	syntactic
+E009	6	action verbs	mixed
+E010	6	separators/punct	syntactic
+E011	7	time expressions	semantic
+E012	4	ordinal/regional	mixed
+E013	3	BPE fragments	mixed
+E014	8	adverbs -ly	syntactic
+E015	4	abstract nouns	mixed
+E016	3	year/parenthesis	mixed
+E017	2	random	mixed
+E018	3	random nouns	mixed
+E019	5	title words	mixed
+E020	7	adjectives	syntactic
+E021	8	entry/exit verbs	semantic
+E022	5	prepositions	syntactic
+E023	6	determiners/poss	syntactic
+E024	7	copular verbs	syntactic
+E025	6	comparative preps	syntactic
+E026	8	historical events	semantic
+E027	5	articles	syntactic
+E028	7	place names	semantic
+E029	5	mixed/unclear	mixed
+E030	7	causal/purpose	syntactic
+E031	8	BPE prefixes	syntactic
+E032	7	prepositions	syntactic
+E033	8	concessive conj	syntactic
+E034	8	closing punct	syntactic
+E035	7	conjunctions	syntactic
+E036	7	reported speech	syntactic
+E037	9	years 1800s	semantic
+E038	9	sentence-end punct	syntactic
+E039	8	causation verbs	semantic
+E040	4	BPE/ethnic frags	mixed
+E041	6	separators/punct	syntactic
+E042	4	function words	syntactic
+E043	6	comma variants	syntactic
+E044	8	years late 1800s	semantic
+E045	6	adverbs	syntactic
+E046	4	abstract nouns	mixed
+E047	5	sentence starters	syntactic
+E048	8	military/measure	semantic
+E049	5	military/naval	mixed
+E050	7	temporal preps	syntactic
+E051	6	directional preps	syntactic
+E052	5	conjunctions	syntactic
+E053	3	plural nouns	mixed
+E054	5	title words	mixed
+E055	7	quantifier det	syntactic
+E056	3	random nouns	mixed
+E057	4	title/institution	mixed
+E058	7	copular/passive	syntactic
+E059	7	temporal conj	syntactic
+E060	7	prefix morphemes	syntactic
+E061	8	modal negation	syntactic
+E062	5	military terms	mixed
+E063	3	random nouns	mixed
+E064	6	media/awards	semantic
+E065	7	demonstratives	syntactic
+E066	3	quotation marks	syntactic
+E067	8	quantity words	syntactic
+E068	7	with/feature	syntactic
+E069	8	capitalized starters	syntactic
+E070	8	language/ethnicity	semantic
+E071	8	superlatives	syntactic
+E072	8	verb suffixes	syntactic
+E073	4	mixed adj	mixed
+E074	3	function words	syntactic
+E075	5	determiners	syntactic
+E076	7	by/agent preps	syntactic
+E077	8	weather/tropical	semantic
+E078	8	superlatives	syntactic
+E079	9	sentence-end punct	syntactic
+E080	8	communication verbs	semantic
+E081	7	locative preps	syntactic
+E082	7	featured/included	syntactic
+E083	9	three-digit numbers	syntactic
+E084	4	mixed words	mixed
+E085	8	proper names	semantic
+E086	5	BPE prefixes	mixed
+E087	7	punctuation	syntactic
+E088	4	connectives	mixed
+E089	7	positional preps	syntactic
+E090	4	random nouns	mixed
+E091	6	punctuation	syntactic
+E092	7	name prefixes	syntactic
+E093	4	measure/compound	mixed
+E094	5	comma variants	syntactic
+E095	5	past participles	mixed
+E096	7	movement preps	syntactic
+E097	5	abstract nouns	mixed
+E098	7	determiners each	syntactic
+E099	4	punctuation/years	mixed

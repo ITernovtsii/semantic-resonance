@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	8	connectives	syntactic
+E051	4	proper names	mixed
+E052	8	reporting verbs	semantic
+E053	8	descriptive adjectives	semantic
+E054	9	naval military	semantic
+E055	10	pronouns	syntactic
+E056	9	inclusion terms	syntactic
+E057	8	conjunctions	syntactic
+E058	8	determiners	syntactic
+E059	8	punctuation	syntactic
+E060	10	letters	syntactic
+E061	10	prepositions	syntactic
+E062	9	discourse markers	syntactic
+E063	3	random names	mixed
+E064	6	punctuation mix	mixed
+E065	2	random fragments	mixed
+E066	10	punctuation	syntactic
+E067	3	name fragments	mixed
+E068	10	conjunctions	syntactic
+E069	9	military terms	semantic
+E070	5	descriptors	mixed
+E071	6	places landmarks	semantic
+E072	9	brackets punctuation	syntactic
+E073	9	pronouns	syntactic
+E074	9	articles quantifiers	syntactic
+E075	9	determiners	syntactic
+E076	10	years	mixed
+E077	9	prepositions	syntactic
+E078	9	contractions	syntactic
+E079	10	definite article	syntactic
+E080	8	past verbs	syntactic
+E081	7	conflict movement	semantic
+E082	6	function words	mixed
+E083	10	years	mixed
+E084	7	proper names	semantic
+E085	8	surnames	semantic
+E086	10	punctuation	syntactic
+E087	10	numbers	syntactic
+E088	8	demonyms	semantic
+E089	2	random mixed	mixed
+E090	4	function words	mixed
+E091	8	subword fragments	syntactic
+E092	10	articles	syntactic
+E093	10	be-forms	syntactic
+E094	6	historic landmarks	semantic
+E095	3	mixed terms	mixed
+E096	8	ethnic national	semantic
+E097	9	prefixes	syntactic
+E098	2	random nouns	mixed
+E099	8	abstract nouns	semantic

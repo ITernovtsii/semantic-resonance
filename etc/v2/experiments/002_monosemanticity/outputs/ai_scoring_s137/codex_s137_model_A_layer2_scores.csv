@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	8	people roles	semantic
+E010	3	mixed/unclear	mixed
+E020	4	mixed/unclear	mixed
+E030	8	person roles	semantic
+E040	7	adverbs	syntactic
+E050	4	mixed nouns	mixed
+E060	9	spatial prepositions	syntactic
+E070	9	temporal connectives	syntactic
+E080	7	artillery calibers	semantic
+E090	8	function words	syntactic

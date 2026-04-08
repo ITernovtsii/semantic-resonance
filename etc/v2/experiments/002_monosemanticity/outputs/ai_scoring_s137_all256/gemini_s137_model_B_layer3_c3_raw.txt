@@ -1,0 +1,51 @@
+I will read the instructions in the specified file to generate the scoring lines as requested.
+E150	9	possessive pronouns	syntactic
+E151	9	film critics	semantic
+E152	3	fragments	mixed
+E153	7	abstract nouns	semantic
+E154	9	reporting verbs	semantic
+E155	7	verbs	semantic
+E156	7	verbs/activities	semantic
+E157	10	punctuation	syntactic
+E158	4	mixed	mixed
+E159	8	adjectives	semantic
+E160	8	subword starts	syntactic
+E161	6	functional words	syntactic
+E162	6	environmental adjectives	semantic
+E163	9	measurements	semantic
+E164	10	time prepositions	semantic
+E165	4	mixed	semantic
+E166	10	punctuation	syntactic
+E167	2	common words	mixed
+E168	3	name fragments	semantic
+E169	6	years/numbers	semantic
+E170	9	reporting verbs	semantic
+E171	8	prepositions	syntactic
+E172	8	media/entertainment	semantic
+E173	4	mixed	mixed
+E174	8	auxiliary verbs	syntactic
+E175	5	adjectives/determiners	mixed
+E176	7	proper nouns	semantic
+E177	9	word starts	syntactic
+E178	3	common words	mixed
+E179	7	geography/directions	semantic
+E180	10	punctuation	syntactic
+E181	10	infrastructure/geography	semantic
+E182	4	mixed	mixed
+E183	9	including/comprising verbs	semantic
+E184	8	arrival/position	semantic
+E185	7	verbs	semantic
+E186	9	spatial relations	semantic
+E187	9	adjectives	semantic
+E188	5	mixed adverbs/verbs	semantic
+E189	4	function words	syntactic
+E190	10	first names	semantic
+E191	7	currency/approximation	semantic
+E192	8	people/names	semantic
+E193	7	adverbs/auxiliaries	syntactic
+E194	8	determiners/adjectives	syntactic
+E195	8	verbs/adverbs	syntactic
+E196	10	sports	semantic
+E197	10	geography	semantic
+E198	8	name starts	syntactic
+E199	9	temporal/spatial prepositions	semantic

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	mixed informal words	mixed
+E001	4	"to" preposition	syntactic
+E002	8	first names	semantic
+E003	5	"since"/"for"	syntactic
+E004	6	roles/orders	mixed
+E005	1	random mixed tokens	mixed
+E006	6	modal verbs	syntactic
+E007	6	quotation/punctuation	syntactic
+E008	4	definite article	syntactic
+E009	4	"to"/"the"	syntactic
+E010	4	"that" conjunction	syntactic
+E011	8	word suffixes	syntactic
+E012	7	society/institution nouns	semantic
+E013	5	geographic/administrative	mixed
+E014	6	auxiliary "had"	syntactic
+E015	3	mixed subwords/punct	mixed
+E016	8	sentence-initial adverbs	syntactic
+E017	6	"play"/sports	mixed
+E018	9	two-digit numbers	syntactic
+E019	6	copula/auxiliary verbs	syntactic
+E020	5	function words/preps	syntactic
+E021	5	work/project terms	mixed
+E022	6	"which" relative	syntactic
+E023	5	"at" preposition	syntactic
+E024	3	mixed/unclear	mixed
+E025	4	"with"/"to"/"the"	syntactic
+E026	2	random mixed tokens	mixed
+E027	7	indefinite article	syntactic
+E028	7	sentence-end punctuation	syntactic
+E029	7	subword suffixes	syntactic
+E030	4	"of"/"the"	syntactic
+E031	9	prepositions	syntactic
+E032	7	adjectives/nationalities	mixed
+E033	7	time/superlatives	mixed
+E034	6	subword fragments	syntactic
+E035	7	achievement verbs	syntactic
+E036	4	function words	syntactic
+E037	6	past participles	syntactic
+E038	4	function words	syntactic
+E039	3	mixed adjectives	mixed
+E040	4	definite article	syntactic
+E041	6	dash/comma punctuation	syntactic
+E042	6	female/gender terms	mixed
+E043	5	modal verbs	syntactic
+E044	4	plural abstract nouns	mixed
+E045	4	"in" preposition	syntactic
+E046	3	mixed/unclear	mixed
+E047	3	mixed verbs/places	mixed
+E048	5	domain adjectives	mixed
+E049	3	mixed nouns	mixed
+E050	7	usage/employment	semantic
+E051	6	pronouns/determiners	syntactic
+E052	4	mixed determiners	mixed
+E053	5	sentence starters	syntactic
+E054	3	capitalized mixed words	mixed
+E055	2	random mixed tokens	mixed
+E056	4	"to"/"the"	syntactic
+E057	4	"both"/punctuation	syntactic
+E058	6	subword fragments	syntactic
+E059	2	random function words	mixed
+E060	8	ordinals/determiners	syntactic
+E061	5	subword prefixes	syntactic
+E062	4	single letters/mixed	syntactic
+E063	5	meaning/form nouns	mixed
+E064	5	comma/parenthesis	syntactic
+E065	4	physical objects/time	mixed
+E066	4	"all"/"on"	syntactic
+E067	5	action participles	syntactic
+E068	4	"No"/function words	syntactic
+E069	5	countries/years	mixed
+E070	5	copula "is"/"has"	syntactic
+E071	7	descriptive adjectives	syntactic
+E072	4	subwords/suffixes	syntactic
+E073	6	predicative adjectives	mixed
+E074	4	function words	syntactic
+E075	4	"are"/"under"/"as"	syntactic
+E076	5	comma punctuation	syntactic
+E077	4	mixed nouns/military	mixed
+E078	6	sentence-initial words	syntactic
+E079	5	possessives/group	mixed
+E080	4	"In"/"the"	syntactic
+E081	4	function words	syntactic
+E082	4	"were"/"with"	syntactic
+E083	7	punctuation/symbols	syntactic
+E084	5	"after"/prepositions	syntactic
+E085	5	"along"/"which"	syntactic
+E086	1	random mixed tokens	mixed
+E087	4	definite article	syntactic
+E088	2	random mixed nouns	mixed
+E089	5	composition verbs	mixed
+E090	6	initial consonants	syntactic
+E091	4	"by"/"that"/"the"	syntactic
+E092	7	relative/subject pron	syntactic
+E093	9	adverbs (-ly)	syntactic
+E094	5	"without"	syntactic
+E095	4	function words	syntactic
+E096	5	directional particles	syntactic
+E097	4	"on"/mixed	syntactic
+E098	5	determiners/articles	syntactic
+E099	7	"air"/"force"	semantic

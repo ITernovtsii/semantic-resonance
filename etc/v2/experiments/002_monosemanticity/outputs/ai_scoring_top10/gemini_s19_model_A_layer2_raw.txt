@@ -1,0 +1,101 @@
+I will read the instructions and data in `_tmp_s19_model_A_layer2_gemini.txt` to generate the requested tab-separated scoring lines.
+E000	2	mixed/random	mixed
+E001	9	world affairs	semantic
+E002	8	geography/descriptors	semantic
+E003	10	punctuation	syntactic
+E004	8	formal/historical	semantic
+E005	9	roles/occupations	semantic
+E006	10	possessives	syntactic
+E007	9	formal descriptors	semantic
+E008	10	copula verbs	syntactic
+E009	9	subwords	syntactic
+E010	6	determiners/descriptors	syntactic
+E011	10	prepositions	syntactic
+E012	9	verbs/gerunds	syntactic
+E013	10	conjunctions	syntactic
+E014	10	subwords	syntactic
+E015	8	punctuation/conjunctions	syntactic
+E016	7	fragments/names	syntactic
+E017	10	past tense verbs	syntactic
+E018	6	formal descriptors	semantic
+E019	10	prepositions	syntactic
+E020	10	determiners	syntactic
+E021	8	titles/proper nouns	semantic
+E022	8	function words	syntactic
+E023	9	prepositions	syntactic
+E024	10	punctuation	syntactic
+E025	10	years	semantic
+E026	10	measurements	semantic
+E027	7	punctuation	syntactic
+E028	10	sports	semantic
+E029	9	foreign syllables	syntactic
+E030	9	determiners	syntactic
+E031	6	articles/descriptors	syntactic
+E032	8	articles	syntactic
+E033	10	quantifiers/adverbs	syntactic
+E034	8	articles	syntactic
+E035	10	groups of people	semantic
+E036	8	infrastructure/military	semantic
+E037	10	articles	syntactic
+E038	9	years	semantic
+E039	10	quantifiers	syntactic
+E040	10	punctuation	syntactic
+E041	10	abstract nouns	semantic
+E042	10	numbers/ordinals	semantic
+E043	8	punctuation/descriptors	mixed
+E044	9	determiners	syntactic
+E045	10	modal verbs	syntactic
+E046	9	verbs	syntactic
+E047	10	possessives	syntactic
+E048	10	movement/location	semantic
+E049	6	subwords/fragments	syntactic
+E050	7	padding/punctuation	syntactic
+E051	9	past tense verbs	syntactic
+E052	10	superlatives	syntactic
+E053	10	locations	semantic
+E054	9	prepositions	syntactic
+E055	10	function words	syntactic
+E056	10	conjunctions	syntactic
+E057	5	symbols	syntactic
+E058	6	formal nouns	semantic
+E059	9	verbs	syntactic
+E060	9	movement/processes	semantic
+E061	9	cognitive/legal	semantic
+E062	9	verbs	syntactic
+E063	10	names/titles	semantic
+E064	10	epistemic adverbs	syntactic
+E065	10	punctuation	syntactic
+E066	9	punctuation	syntactic
+E067	10	time/calendar	semantic
+E068	8	sentence starters	syntactic
+E069	10	indefinite pronouns	syntactic
+E070	10	articles	syntactic
+E071	9	punctuation	syntactic
+E072	8	punctuation	syntactic
+E073	7	plural nouns	syntactic
+E074	10	adverbs	syntactic
+E075	10	adverbs	syntactic
+E076	6	fragments/symbols	syntactic
+E077	10	temporal connectives	semantic
+E078	4	nouns	semantic
+E079	10	temporal prepositions	syntactic
+E080	9	years/units	semantic
+E081	10	sequential adjectives	semantic
+E082	10	gerunds	syntactic
+E083	9	names	semantic
+E084	10	maritime/military	semantic
+E085	9	punctuation	syntactic
+E086	10	pronouns	syntactic
+E087	9	adjectives	syntactic
+E088	10	measurements	semantic
+E089	9	formal adjectives	semantic
+E090	9	comparatives	syntactic
+E091	8	military/history	semantic
+E092	8	conjunctions/punctuation	syntactic
+E093	9	subwords/suffixes	syntactic
+E094	6	fragments	syntactic
+E095	10	time durations	semantic
+E096	4	symbols/letters	syntactic
+E097	5	function words/fragments	syntactic
+E098	10	names	semantic
+E099	8	punctuation/markers	syntactic

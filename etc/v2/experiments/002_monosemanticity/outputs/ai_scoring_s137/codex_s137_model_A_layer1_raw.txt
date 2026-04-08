@@ -1,0 +1,10 @@
+E000	1	mixed/unclear	mixed
+E010	8	governance/legal	semantic
+E020	1	mixed/unclear	mixed
+E030	10	punctuation	syntactic
+E040	8	plural suffixes	syntactic
+E050	3	mixed/unclear	mixed
+E060	9	prepositions	syntactic
+E070	3	mixed fragments	mixed
+E080	4	function tokens	mixed
+E090	10	quotes/brackets	syntactic

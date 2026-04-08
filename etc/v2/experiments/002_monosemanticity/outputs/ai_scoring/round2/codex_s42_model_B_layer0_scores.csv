@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	dialogue names	mixed
+E001	10	preposition	syntactic
+E002	9	first names	semantic
+E003	8	time prepositions	syntactic
+E004	8	roles duties	semantic
+E005	1	random	mixed
+E006	9	modal auxiliaries	syntactic
+E007	9	quotes punctuation	syntactic
+E008	10	article	syntactic
+E009	9	function words	syntactic
+E010	8	complementizer mix	syntactic
+E011	10	suffix fragments	syntactic
+E012	8	society education	semantic
+E013	7	county geography	semantic
+E014	9	auxiliary verbs	syntactic
+E015	6	token fragments	syntactic
+E016	9	discourse markers	syntactic
+E017	8	play terms	semantic
+E018	10	numbers	syntactic
+E019	9	auxiliary verbs	syntactic
+E020	9	connectors prepositions	syntactic
+E021	8	work projects	semantic
+E022	10	relative pronoun	syntactic
+E023	8	prepositions	syntactic
+E024	7	music production	semantic
+E025	9	function words	syntactic
+E026	3	mixed entities	mixed
+E027	10	articles	syntactic
+E028	9	punctuation patterns	syntactic
+E029	9	subword chunks	syntactic
+E030	10	function words	syntactic
+E031	10	prepositions	syntactic
+E032	8	adjectives	mixed
+E033	9	time metrics	semantic
+E034	9	subword fragments	syntactic
+E035	7	action verbs	syntactic
+E036	6	mixed modifiers	syntactic
+E037	8	participle verbs	syntactic
+E038	7	function words	syntactic
+E039	4	mixed adjectives	mixed
+E040	10	article	syntactic
+E041	10	punctuation	syntactic
+E042	9	female references	semantic
+E043	8	modal verbs	syntactic
+E044	6	abstract nouns	mixed
+E045	9	prepositions	syntactic
+E046	7	legal military	semantic
+E047	8	urban infrastructure	semantic
+E048	3	mixed descriptors	mixed
+E049	2	random nouns	mixed
+E050	8	usage status	semantic
+E051	10	pronouns	syntactic
+E052	7	deictic terms	syntactic
+E053	9	demonstratives	syntactic
+E054	2	random titlecase	mixed
+E055	8	military operations	semantic
+E056	10	function words	syntactic
+E057	7	function mix	syntactic
+E058	8	subword fragments	syntactic
+E059	7	punctuation connectors	syntactic
+E060	9	quantifier adjectives	syntactic
+E061	8	subword bigrams	syntactic
+E062	2	random fragments	mixed
+E063	9	definition terms	semantic
+E064	8	punctuation conjunctions	syntactic
+E065	6	narrative objects	semantic
+E066	8	determiners	syntactic
+E067	8	motion actions	semantic
+E068	8	function words	syntactic
+E069	8	places years	semantic
+E070	9	copula auxiliaries	syntactic
+E071	9	descriptive adjectives	syntactic
+E072	4	mixed fragments	mixed
+E073	8	descriptive modifiers	syntactic
+E074	9	function words	syntactic
+E075	8	function words	syntactic
+E076	10	punctuation	syntactic
+E077	8	military logistics	semantic
+E078	8	sentence starters	syntactic
+E079	7	spatial pronouns	semantic
+E080	10	function words	syntactic
+E081	8	function words	syntactic
+E082	9	function words	syntactic
+E083	10	punctuation symbols	syntactic
+E084	8	connectors	syntactic
+E085	7	preposition mix	syntactic
+E086	2	random entities	mixed
+E087	10	article	syntactic
+E088	7	housing places	semantic
+E089	8	composition process	semantic
+E090	9	letter chunks	syntactic
+E091	9	function words	syntactic
+E092	9	pronouns female	syntactic
+E093	10	adverbs	syntactic
+E094	9	preposition	syntactic
+E095	10	prepositions	syntactic
+E096	9	directional preps	syntactic
+E097	5	mixed syntax	mixed
+E098	8	determiners	mixed
+E099	9	air force	semantic

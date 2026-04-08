@@ -1,0 +1,101 @@
+I will read the instructions in the specified file to understand the scoring task.
+E000	4	common words	mixed
+E001	10	military	semantic
+E002	10	prepositions	syntactic
+E003	7	verbs	syntactic
+E004	5	conjunctions	mixed
+E005	10	naming	semantic
+E006	9	adjectives	syntactic
+E007	10	punctuation	syntactic
+E008	9	articles	syntactic
+E009	8	transitive verbs	syntactic
+E010	10	conjunctions	syntactic
+E011	9	brackets	syntactic
+E012	10	names	semantic
+E013	8	political/ethnic	semantic
+E014	10	punctuation	syntactic
+E015	6	administrative	semantic
+E016	7	events/data	semantic
+E017	8	uppercase fragments	syntactic
+E018	10	governance	semantic
+E019	9	relative pronouns	syntactic
+E020	10	numbers	syntactic
+E021	5	mixed nouns	mixed
+E022	9	past tense	syntactic
+E023	7	sentence starters	syntactic
+E024	3	mixed	mixed
+E025	9	quantifiers	syntactic
+E026	8	technical prefixes	syntactic
+E027	10	count words	syntactic
+E028	10	punctuation	syntactic
+E029	6	abstract nouns	semantic
+E030	7	name fragments	syntactic
+E031	9	determiners	syntactic
+E032	3	mixed	mixed
+E033	6	noun suffixes	syntactic
+E034	10	plural suffixes	syntactic
+E035	9	plural nouns	syntactic
+E036	9	names/places	semantic
+E037	10	prepositions	syntactic
+E038	9	pronouns	syntactic
+E039	8	function words	syntactic
+E040	10	approximation	semantic
+E041	9	past participles	syntactic
+E042	9	locations	semantic
+E043	6	technical fragments	syntactic
+E044	8	places/names	semantic
+E045	10	relations	syntactic
+E046	10	countries	semantic
+E047	8	prepositions	syntactic
+E048	10	determiners	syntactic
+E049	3	mixed	mixed
+E050	9	verbs of state	semantic
+E051	10	size adjectives	semantic
+E052	10	degree adverbs	semantic
+E053	2	random	mixed
+E054	6	adjectives	syntactic
+E055	7	name fragments	syntactic
+E056	3	mixed nouns	mixed
+E057	7	sensory terms	semantic
+E058	10	personal pronouns	syntactic
+E059	7	action verbs	semantic
+E060	10	numbers	syntactic
+E061	10	punctuation	syntactic
+E062	10	verb suffixes	syntactic
+E063	9	verbs of process	semantic
+E064	10	conjunctions	syntactic
+E065	2	random	mixed
+E066	8	sentence starters	syntactic
+E067	9	formal nouns	semantic
+E068	7	past participles	syntactic
+E069	10	directional particles	syntactic
+E070	10	prepositions	syntactic
+E071	10	relations	syntactic
+E072	8	media/names	semantic
+E073	7	uppercase fragments	syntactic
+E074	7	punctuation	syntactic
+E075	8	formal adjectives	semantic
+E076	10	discourse markers	syntactic
+E077	10	number words	syntactic
+E078	9	nationalities	semantic
+E079	10	sports/football	semantic
+E080	8	lowercase fragments	syntactic
+E081	2	random	syntactic
+E082	8	transitions	syntactic
+E083	5	place nouns	semantic
+E084	10	pronouns	syntactic
+E085	10	human roles	semantic
+E086	8	names/countries	semantic
+E087	3	mixed nouns	mixed
+E088	6	determiners	syntactic
+E089	8	plural humans	semantic
+E090	10	inclusion verbs	semantic
+E091	10	demographics	semantic
+E092	5	directional adjectives	semantic
+E093	8	grammar/symbols	syntactic
+E094	10	prepositions	syntactic
+E095	3	mixed	mixed
+E096	9	location prepositions	syntactic
+E097	4	mixed	mixed
+E098	10	years	semantic
+E099	10	punctuation	syntactic

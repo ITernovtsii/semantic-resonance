@@ -1,0 +1,50 @@
+E200	9	articles/quantifiers	syntactic
+E201	2	mixed nouns	mixed
+E202	6	name fragments	syntactic
+E203	3	subword fragments	syntactic
+E204	4	function-word mix	mixed
+E205	8	social roles	semantic
+E206	7	verb forms	syntactic
+E207	8	spatial prepositions	syntactic
+E208	9	articles/possessives	syntactic
+E209	6	descriptive adjectives	semantic
+E210	3	mixed descriptors	mixed
+E211	8	evaluative adjectives	semantic
+E212	8	adverbs/degree	syntactic
+E213	9	-ly adverbs	syntactic
+E214	4	plural nouns	mixed
+E215	3	mixed nouns	mixed
+E216	7	grammar adverbs	syntactic
+E217	7	suffix fragments	syntactic
+E218	9	prepositions/time	syntactic
+E219	7	biography terms	semantic
+E220	6	proper names	semantic
+E221	10	prepositions	syntactic
+E222	10	indefinite articles	syntactic
+E223	2	mixed fragments	mixed
+E224	8	gerunds	syntactic
+E225	9	prefixes	syntactic
+E226	9	conjunctions	syntactic
+E227	10	numbers	syntactic
+E228	8	place names	semantic
+E229	2	random mix	mixed
+E230	5	months/time	semantic
+E231	5	abstract nouns	mixed
+E232	8	punctuation/connectors	syntactic
+E233	2	random nouns	mixed
+E234	7	temporal descriptors	semantic
+E235	4	title words	mixed
+E236	2	random titlecase	mixed
+E237	10	first names	semantic
+E238	10	punctuation	syntactic
+E239	7	common verbs	syntactic
+E240	2	name fragments	mixed
+E241	7	discourse markers	syntactic
+E242	7	verbs	syntactic
+E243	8	possessives/pronouns	syntactic
+E244	10	numbers/quantifiers	syntactic
+E245	3	name fragments	mixed
+E246	2	random titlecase	mixed
+E247	8	prepositions/concessives	syntactic
+E248	7	administrative geography	semantic
+E249	8	stats/measurements	semantic

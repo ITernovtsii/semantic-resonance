@@ -1,0 +1,10 @@
+E000	7	discourse connectives	syntactic
+E010	6	descriptive adjectives	syntactic
+E020	5	time/function mix	mixed
+E030	3	capitalized words	syntactic
+E040	8	past-tense verbs	syntactic
+E050	7	action verbs	syntactic
+E060	7	determiners/adjectives	syntactic
+E070	9	modal verbs	syntactic
+E080	6	verb forms	syntactic
+E090	8	proper names	semantic

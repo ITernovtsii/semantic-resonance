@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	4	name fragments	syntactic
+E101	9	process verbs	syntactic
+E102	2	mixed/unclear	mixed
+E103	10	prepositions	syntactic
+E104	8	determiners	syntactic
+E105	7	suffix fragments	syntactic
+E106	6	pronouns/modals	syntactic
+E107	9	possessives/articles	syntactic
+E108	9	pronouns	syntactic
+E109	8	adverbs	syntactic
+E110	10	ordinals	syntactic
+E111	8	media/review	semantic
+E112	9	determiners	syntactic
+E113	9	dates/months	semantic
+E114	3	mixed nouns	mixed
+E115	8	punctuation	syntactic
+E116	7	relational words	syntactic
+E117	7	determiners	syntactic
+E118	10	temporal order	semantic
+E119	8	articles/punctuation	syntactic
+E120	6	military logistics	semantic
+E121	6	military/naval	semantic
+E122	4	mixed roles	mixed
+E123	4	mixed/unclear	mixed
+E124	7	measurements	mixed
+E125	9	entry/motion	syntactic
+E126	6	equipment parts	semantic
+E127	8	prepositions	syntactic
+E128	5	units/symbols	mixed
+E129	10	prepositions	syntactic
+E130	10	punctuation	syntactic
+E131	7	person roles	semantic
+E132	10	modals	syntactic
+E133	9	be-verbs	syntactic
+E134	4	mixed/unclear	mixed
+E135	7	action verbs	semantic
+E136	9	determiners	syntactic
+E137	4	mixed proper	mixed
+E138	8	state verbs	syntactic
+E139	9	male names	semantic
+E140	8	participles	syntactic
+E141	10	conjunctions	syntactic
+E142	4	mixed/unclear	mixed
+E143	5	descriptors	mixed
+E144	8	adjectives	syntactic
+E145	4	mixed groups	mixed
+E146	10	clause markers	syntactic
+E147	8	adjectives	syntactic
+E148	10	geographic places	semantic
+E149	7	action verbs	semantic

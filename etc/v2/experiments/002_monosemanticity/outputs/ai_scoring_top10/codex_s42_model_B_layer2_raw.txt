@@ -1,0 +1,100 @@
+E000	6	people/roles	semantic
+E001	2	subword fragments	mixed
+E002	8	verb forms	syntactic
+E003	9	adverbs	syntactic
+E004	8	person names	semantic
+E005	10	articles	syntactic
+E006	9	quantifiers	semantic
+E007	9	conjunctions	syntactic
+E008	8	punctuation	syntactic
+E009	7	place names	semantic
+E010	4	mixed/unclear	mixed
+E011	2	subword fragments	mixed
+E012	5	brackets/quotes	syntactic
+E013	10	punctuation	syntactic
+E014	10	quotation marks	syntactic
+E015	8	adjectives	semantic
+E016	7	adjectives	semantic
+E017	8	determiners	syntactic
+E018	7	change verbs	semantic
+E019	3	mixed/unclear	mixed
+E020	7	naval/military	semantic
+E021	7	sequence terms	semantic
+E022	8	testimony verbs	semantic
+E023	3	mixed/unclear	mixed
+E024	10	measurement units	semantic
+E025	8	superlatives	syntactic
+E026	9	prepositions	syntactic
+E027	9	adverbs	syntactic
+E028	2	subword fragments	mixed
+E029	1	random fragments	mixed
+E030	9	location preps	syntactic
+E031	9	articles	syntactic
+E032	8	numbers/codes	syntactic
+E033	6	composition terms	mixed
+E034	8	spatial preps	syntactic
+E035	2	subword fragments	mixed
+E036	9	pronouns	syntactic
+E037	8	determiners	syntactic
+E038	5	mixed/unclear	mixed
+E039	6	descriptors	semantic
+E040	8	descriptive adjectives	semantic
+E041	6	ordinals/directions	mixed
+E042	5	quote syntax	mixed
+E043	6	quote markers	syntactic
+E044	8	media terms	semantic
+E045	4	title words	mixed
+E046	6	function words	mixed
+E047	7	plural nouns	semantic
+E048	7	agent nouns	syntactic
+E049	9	discourse connectives	syntactic
+E050	9	articles	syntactic
+E051	2	mixed fragments	mixed
+E052	9	inclusion verbs	semantic
+E053	2	mixed/unclear	mixed
+E054	7	cognition verbs	semantic
+E055	10	apostrophes	syntactic
+E056	8	person names	semantic
+E057	5	adjectives	mixed
+E058	9	demonyms/regions	semantic
+E059	10	punctuation	syntactic
+E060	1	random fragments	mixed
+E061	8	comparison words	syntactic
+E062	6	clause markers	syntactic
+E063	1	random fragments	mixed
+E064	9	quantifiers	semantic
+E065	6	verb+prep mix	mixed
+E066	9	demonstratives	syntactic
+E067	4	mixed nouns	mixed
+E068	7	movement/change	semantic
+E069	7	descriptive adjectives	semantic
+E070	7	descriptive adjectives	semantic
+E071	5	mixed/unclear	mixed
+E072	8	hyphen/units	syntactic
+E073	8	conflict terms	semantic
+E074	8	surnames	semantic
+E075	10	punctuation	syntactic
+E076	9	prepositions	syntactic
+E077	9	demonstratives	syntactic
+E078	8	prepositions	syntactic
+E079	10	punctuation	syntactic
+E080	10	given names	semantic
+E081	9	demonstratives	syntactic
+E082	3	abbrev fragments	mixed
+E083	6	sequence terms	mixed
+E084	10	punctuation	syntactic
+E085	6	group titles	semantic
+E086	6	subword stems	syntactic
+E087	6	conjunction+years	mixed
+E088	10	months/dates	semantic
+E089	7	abstract nouns	semantic
+E090	10	articles	syntactic
+E091	7	action verbs	semantic
+E092	9	approximation terms	semantic
+E093	2	name fragments	mixed
+E094	8	action gerunds	semantic
+E095	8	prepositions	syntactic
+E096	9	narrative/media	semantic
+E097	9	punctuation	syntactic
+E098	10	modal verbs	syntactic
+E099	9	wh-words	syntactic

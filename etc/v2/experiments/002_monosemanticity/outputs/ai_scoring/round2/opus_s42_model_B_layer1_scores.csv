@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	awarded the	syntactic
+E001	9	military naval	semantic
+E002	3	to preposition	syntactic
+E003	3	mixed verbs BPE	mixed
+E004	6	disjunctive conjunctions	syntactic
+E005	7	naming verbs	syntactic
+E006	6	pre-nominal adjectives	syntactic
+E007	4	punctuation marks	syntactic
+E008	6	indefinite article	syntactic
+E009	6	causative verbs	syntactic
+E010	5	coordinating conj	syntactic
+E011	5	opening brackets	syntactic
+E012	8	first names	semantic
+E013	6	domain adjectives	mixed
+E014	5	punctuation symbols	syntactic
+E015	4	sentence starters	syntactic
+E016	6	media creative nouns	semantic
+E017	5	BPE name prefixes	syntactic
+E018	7	government legal	semantic
+E019	7	relative pronouns	syntactic
+E020	7	ordinals numbers	syntactic
+E021	5	abstract event nouns	mixed
+E022	5	BPE verb suffixes	syntactic
+E023	6	sentence starters	syntactic
+E024	4	determiners	syntactic
+E025	7	quantifiers	syntactic
+E026	5	BPE word stems	syntactic
+E027	7	numeric determiners	syntactic
+E028	3	punctuation comma	syntactic
+E029	6	spatial location nouns	mixed
+E030	5	BPE name prefixes	syntactic
+E031	6	determiners quantifiers	syntactic
+E032	3	mixed proper nouns	mixed
+E033	5	abstract process nouns	mixed
+E034	7	BPE plural suffixes	syntactic
+E035	5	plural nouns	syntactic
+E036	5	proper nouns places	mixed
+E037	5	on preposition	syntactic
+E038	3	the determiners	syntactic
+E039	5	prepositions	syntactic
+E040	7	approximation preps	syntactic
+E041	6	past participles	syntactic
+E042	5	geographic places	semantic
+E043	5	BPE word stems	syntactic
+E044	5	proper nouns places	mixed
+E045	6	prepositions	syntactic
+E046	8	countries	semantic
+E047	4	prepositions	syntactic
+E048	5	determiners possessive	syntactic
+E049	4	mixed BPE nouns	mixed
+E050	5	auxiliary stative verbs	syntactic
+E051	5	size adjectives	syntactic
+E052	7	degree adverbs	syntactic
+E053	2	single the	syntactic
+E054	5	mixed adjectives	mixed
+E055	5	BPE name prefixes	syntactic
+E056	6	abstract nouns	mixed
+E057	7	materials colors	semantic
+E058	8	subject pronouns	syntactic
+E059	6	construction verbs	syntactic
+E060	6	numbers	syntactic
+E061	4	sentence endings	syntactic
+E062	7	BPE verb suffixes	syntactic
+E063	6	stative verbs	syntactic
+E064	5	coordinating conj	syntactic
+E065	2	single the	syntactic
+E066	5	sentence starters	syntactic
+E067	6	abstract nouns	semantic
+E068	7	passive participles	syntactic
+E069	8	directional particles	syntactic
+E070	6	prepositions	syntactic
+E071	5	prepositions	syntactic
+E072	5	proper noun parts	mixed
+E073	5	BPE name prefixes	syntactic
+E074	2	comma punctuation	syntactic
+E075	7	domain adjectives	mixed
+E076	7	discourse connectives	syntactic
+E077	7	numbers quantifiers	syntactic
+E078	6	nationality adjectives	mixed
+E079	8	sports statistics	semantic
+E080	5	BPE consonant stems	syntactic
+E081	5	BPE word parts	syntactic
+E082	6	discourse adverbs	syntactic
+E083	5	place compound nouns	mixed
+E084	6	pronouns	syntactic
+E085	7	occupation nouns	semantic
+E086	6	surnames	semantic
+E087	5	mixed nouns	mixed
+E088	3	determiners	syntactic
+E089	5	plural nouns	syntactic
+E090	7	inclusion verbs	syntactic
+E091	7	population demographics	semantic
+E092	5	domain adjectives	mixed
+E093	4	punctuation conj	syntactic
+E094	7	temporal prepositions	syntactic
+E095	2	the determiners	syntactic
+E096	7	spatial under	syntactic
+E097	5	BPE prefixes	syntactic
+E098	8	historical years	semantic
+E099	5	punctuation marks	syntactic

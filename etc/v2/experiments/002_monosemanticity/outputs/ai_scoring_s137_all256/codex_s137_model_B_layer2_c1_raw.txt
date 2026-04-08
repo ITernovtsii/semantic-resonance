@@ -1,0 +1,50 @@
+E050	8	prepositions	syntactic
+E051	10	spatial prepositions	syntactic
+E052	8	be-verb forms	syntactic
+E053	8	inclusion terms	semantic
+E054	7	transitions	syntactic
+E055	10	numbers	syntactic
+E056	10	punctuation	syntactic
+E057	9	articles	syntactic
+E058	9	naming verbs	semantic
+E059	7	copula forms	syntactic
+E060	8	assertion verbs	semantic
+E061	8	prepositions	syntactic
+E062	9	determiners	syntactic
+E063	5	mixed adjectives	mixed
+E064	2	subword fragments	syntactic
+E065	9	punctuation	syntactic
+E066	1	random fragments	mixed
+E067	8	conjunctions	syntactic
+E068	7	impact verbs	semantic
+E069	4	proper names	mixed
+E070	8	modal verbs	syntactic
+E071	7	directional adverbs	syntactic
+E072	8	clause connectives	syntactic
+E073	8	discourse connectives	syntactic
+E074	8	adjectives	syntactic
+E075	3	mixed names	mixed
+E076	8	abstract nouns	semantic
+E077	6	action verbs	syntactic
+E078	9	numbers	syntactic
+E079	2	random nouns	mixed
+E080	9	demonstratives	syntactic
+E081	2	subword fragments	syntactic
+E082	10	spatial prepositions	syntactic
+E083	9	conjunctions	syntactic
+E084	8	uncertainty terms	semantic
+E085	6	discourse mix	mixed
+E086	2	subword fragments	syntactic
+E087	6	abstract concepts	semantic
+E088	3	mixed tokens	mixed
+E089	6	function mix	syntactic
+E090	8	determiners	syntactic
+E091	9	morpheme fragments	syntactic
+E092	3	mixed nouns	mixed
+E093	2	random fragments	mixed
+E094	7	formal verbs	semantic
+E095	7	punctuation mix	syntactic
+E096	2	subword fragments	syntactic
+E097	7	gerund verbs	syntactic
+E098	8	demographic metrics	semantic
+E099	9	determiners	syntactic

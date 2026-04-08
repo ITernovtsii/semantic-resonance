@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the scoring lines.
+E150	8	quantifiers/numbers	semantic
+E151	9	temporal/relational	semantic
+E152	2	fragments	syntactic
+E153	7	military/places	semantic
+E154	10	transitions/temporal	syntactic
+E155	9	prepositions	syntactic
+E156	4	mixed/nouns	mixed
+E157	5	name fragments	syntactic
+E158	8	military/historical	semantic
+E159	9	determiners	syntactic
+E160	10	quotes/apostrophes	syntactic
+E161	6	measurements/symbols	mixed
+E162	7	abstract nouns	semantic
+E163	6	measurements/descriptors	semantic
+E164	8	dialogue/contractions	syntactic
+E165	8	grammar/punctuation	syntactic
+E166	2	fragments/common	mixed
+E167	7	attribution/transitions	mixed
+E168	4	mixed/common	mixed
+E169	6	collective/technical	semantic
+E170	9	measurements	semantic
+E171	10	prepositions	syntactic
+E172	10	numbers	syntactic
+E173	10	quantifiers	syntactic
+E174	10	possessives/determiners	syntactic
+E175	3	mixed	mixed
+E176	5	verbs/fragments	mixed
+E177	7	entities/names	semantic
+E178	5	mixed/military	semantic
+E179	4	mixed	semantic
+E180	8	plural nouns	syntactic
+E181	10	years	semantic
+E182	8	history/geopolitics	semantic
+E183	10	spatial/navigation	semantic
+E184	9	temporal/spatial	syntactic
+E185	8	verbs	syntactic
+E186	9	grammar/punctuation	syntactic
+E187	9	auxiliary verbs	syntactic
+E188	10	punctuation	syntactic
+E189	9	logical connectors	syntactic
+E190	7	measurable nouns	semantic
+E191	9	pronouns/determiners	syntactic
+E192	10	conjunctions	syntactic
+E193	6	name fragments	syntactic
+E194	6	symbols/measurements	mixed
+E195	9	prepositions	syntactic
+E196	9	military/institutional	semantic
+E197	9	determiners/numbers	syntactic
+E198	10	punctuation	syntactic
+E199	5	mixed/abstract	semantic

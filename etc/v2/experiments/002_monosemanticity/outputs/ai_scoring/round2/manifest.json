@@ -1,0 +1,98 @@
+[
+  {
+    "key": "s42_model_A_layer0",
+    "source_csv": "experiments/002_monosemanticity/outputs/seed42/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s42_model_A_layer0_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s42_model_A_layer1",
+    "source_csv": "experiments/002_monosemanticity/outputs/seed42/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s42_model_A_layer1_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s42_model_A_layer2",
+    "source_csv": "experiments/002_monosemanticity/outputs/seed42/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s42_model_A_layer2_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s42_model_A_layer3",
+    "source_csv": "experiments/002_monosemanticity/outputs/seed42/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s42_model_A_layer3_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s42_model_B_layer0",
+    "source_csv": "experiments/002_monosemanticity/outputs/seed42/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s42_model_B_layer0_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s42_model_B_layer1",
+    "source_csv": "experiments/002_monosemanticity/outputs/seed42/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s42_model_B_layer1_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s42_model_B_layer2",
+    "source_csv": "experiments/002_monosemanticity/outputs/seed42/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s42_model_B_layer2_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s42_model_B_layer3",
+    "source_csv": "experiments/002_monosemanticity/outputs/seed42/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s42_model_B_layer3_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s19_model_A_layer0",
+    "source_csv": "experiments/002_monosemanticity/outputs/subexp_a/model_A_layer0_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s19_model_A_layer0_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s19_model_A_layer1",
+    "source_csv": "experiments/002_monosemanticity/outputs/subexp_a/model_A_layer1_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s19_model_A_layer1_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s19_model_A_layer2",
+    "source_csv": "experiments/002_monosemanticity/outputs/subexp_a/model_A_layer2_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s19_model_A_layer2_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s19_model_A_layer3",
+    "source_csv": "experiments/002_monosemanticity/outputs/subexp_a/model_A_layer3_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s19_model_A_layer3_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s19_model_B_layer0",
+    "source_csv": "experiments/002_monosemanticity/outputs/subexp_a/model_B_layer0_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s19_model_B_layer0_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s19_model_B_layer1",
+    "source_csv": "experiments/002_monosemanticity/outputs/subexp_a/model_B_layer1_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s19_model_B_layer1_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s19_model_B_layer2",
+    "source_csv": "experiments/002_monosemanticity/outputs/subexp_a/model_B_layer2_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s19_model_B_layer2_input.txt",
+    "n_experts": 100
+  },
+  {
+    "key": "s19_model_B_layer3",
+    "source_csv": "experiments/002_monosemanticity/outputs/subexp_a/model_B_layer3_blind.csv",
+    "input_file": "experiments/002_monosemanticity/outputs/ai_scoring/s19_model_B_layer3_input.txt",
+    "n_experts": 100
+  }
+]

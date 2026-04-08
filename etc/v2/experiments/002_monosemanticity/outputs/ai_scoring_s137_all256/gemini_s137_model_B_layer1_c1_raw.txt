@@ -1,0 +1,51 @@
+I will read the instructions and data from the specified file to generate the required scoring lines.
+E050	8	connectors	syntactic
+E051	7	proper names	semantic
+E052	10	cognitive verbs	semantic
+E053	10	adjectives	semantic
+E054	10	naval/maritime	semantic
+E055	10	pronouns	syntactic
+E056	10	listing/inclusion	syntactic
+E057	9	conjunctions	syntactic
+E058	9	determiners	syntactic
+E059	8	symbols	syntactic
+E060	10	single letters	syntactic
+E061	10	sentence-initial prepositions	syntactic
+E062	10	transitions	syntactic
+E063	8	proper names	semantic
+E064	8	punctuation/sentence starts	syntactic
+E065	4	subwords/names	mixed
+E066	10	comma	syntactic
+E067	3	subwords	syntactic
+E068	10	conjunctions	syntactic
+E069	10	military	semantic
+E070	5	adjectives	semantic
+E071	9	locations	semantic
+E072	9	punctuation	syntactic
+E073	10	pronouns/determiners	syntactic
+E074	10	articles	syntactic
+E075	10	articles/possessives	syntactic
+E076	10	years	semantic
+E077	10	prepositions	syntactic
+E078	10	contractions	syntactic
+E079	10	definite article	syntactic
+E080	10	past participles	syntactic
+E081	8	movement/conflict	semantic
+E082	4	mixed	mixed
+E083	10	years	semantic
+E084	7	proper names	semantic
+E085	10	proper names	semantic
+E086	10	punctuation	syntactic
+E087	10	numbers	semantic
+E088	10	nationalities	semantic
+E089	3	mixed	mixed
+E090	5	prepositions	syntactic
+E091	6	subwords	syntactic
+E092	10	articles	syntactic
+E093	10	verbs	syntactic
+E094	7	historical/monuments	semantic
+E095	5	adjectives	semantic
+E096	10	national/ethnic	semantic
+E097	9	prefixes	syntactic
+E098	2	mixed	mixed
+E099	10	abstract nouns	semantic

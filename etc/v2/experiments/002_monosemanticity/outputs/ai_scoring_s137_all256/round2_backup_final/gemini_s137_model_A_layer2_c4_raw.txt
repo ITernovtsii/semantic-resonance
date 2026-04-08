@@ -1,0 +1,51 @@
+I will read the instructions and data from `_tmp_s137_model_A_layer2_c4_gemini.txt` to generate the requested scores.
+E200	8	determiners	syntactic
+E201	6	intro/punctuation	mixed
+E202	9	conjunctions	syntactic
+E203	7	common/determiners	syntactic
+E204	8	verbs	syntactic
+E205	8	quotes/punctuation	syntactic
+E206	10	ordinals/superlatives	syntactic
+E207	10	punctuation	syntactic
+E208	10	numbers	syntactic
+E209	2	fragments	mixed
+E210	9	auxiliary verbs	syntactic
+E211	10	punctuation	syntactic
+E212	4	mixed nouns	semantic
+E213	9	pronouns/auxiliaries	syntactic
+E214	7	name fragments	semantic
+E215	5	capitalized words	semantic
+E216	9	conjunctions/transitions	syntactic
+E217	10	possessives	syntactic
+E218	10	punctuation	syntactic
+E219	6	awards/suffixes	mixed
+E220	9	determiners	syntactic
+E221	6	materials/nature	semantic
+E222	10	temporal	semantic
+E223	8	articles	syntactic
+E224	7	existence verbs	semantic
+E225	10	prepositions	syntactic
+E226	9	adjectives	syntactic
+E227	8	providing verbs	semantic
+E228	9	military hardware	semantic
+E229	7	plural nouns	syntactic
+E230	5	word stems	mixed
+E231	8	abstract nouns	semantic
+E232	7	directions/dates	mixed
+E233	7	negation/to	syntactic
+E234	10	surnames	semantic
+E235	8	event verbs	semantic
+E236	8	descriptors	syntactic
+E237	3	fragments	mixed
+E238	5	mixed intro	mixed
+E239	6	suffixes	syntactic
+E240	9	punctuation	syntactic
+E241	10	punctuation	syntactic
+E242	7	surnames	semantic
+E243	9	adjectives	syntactic
+E244	10	names	semantic
+E245	10	conjunctions	syntactic
+E246	8	social verbs	semantic
+E247	10	time/events	semantic
+E248	9	punctuation	syntactic
+E249	8	verbs	syntactic

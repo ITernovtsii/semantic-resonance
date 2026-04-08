@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	2	mixed/unclear	mixed
+E001	9	society/politics/history	semantic
+E002	10	geographic directions/regions	semantic
+E003	10	punctuation/comma	syntactic
+E004	9	military/government/landmarks	semantic
+E005	8	roles/people	semantic
+E006	10	possessive pronouns	syntactic
+E007	9	descriptive participles	semantic
+E008	10	copular verbs/auxiliaries	syntactic
+E009	3	subword fragments	syntactic
+E010	7	determiners/possessives	syntactic
+E011	10	prepositions	syntactic
+E012	9	action verbs/gerunds	semantic
+E013	10	conjunctions	syntactic
+E014	2	subword fragments	syntactic
+E015	8	conjunctions/punctuation	syntactic
+E016	2	subword fragments	syntactic
+E017	8	verbs/actions	semantic
+E018	9	adjectives	semantic
+E019	10	prepositions	syntactic
+E020	9	determiners/pronouns	syntactic
+E021	7	title words/nouns	semantic
+E022	3	function words	syntactic
+E023	7	prepositions	syntactic
+E024	10	punctuation/symbols	syntactic
+E025	10	years	syntactic
+E026	10	units of measurement	semantic
+E027	10	sentence endings/punctuation	syntactic
+E028	9	sports/competition stats	semantic
+E029	2	subword fragments	syntactic
+E030	9	determiners/articles	syntactic
+E031	5	article/time adjectives	mixed
+E032	4	function words	syntactic
+E033	9	quantifiers/modifiers	semantic
+E034	3	function words/punctuation	syntactic
+E035	10	people/roles/family	semantic
+E036	9	transportation/infrastructure	semantic
+E037	10	indefinite articles	syntactic
+E038	8	dates/months/years	semantic
+E039	9	quantifiers/determiners	semantic
+E040	10	punctuation/symbols	syntactic
+E041	10	abstract nouns	semantic
+E042	10	numbers/ordering/sequence	semantic
+E043	6	punctuation/modifiers	mixed
+E044	8	determiners	syntactic
+E045	10	modal verbs/auxiliaries	syntactic
+E046	9	reporting/attributive verbs	semantic
+E047	8	possessive pronouns	syntactic
+E048	9	movement/prepositions	semantic
+E049	4	sentence-start fragments	mixed
+E050	6	punctuation/padding	syntactic
+E051	9	past tense verbs	semantic
+E052	10	superlative adjectives	semantic
+E053	10	geographic locations	semantic
+E054	9	relational prepositions	syntactic
+E055	8	prepositions	syntactic
+E056	9	conjunctions/comparison	syntactic
+E057	3	mixed punctuation/symbols	mixed
+E058	6	mixed abbreviations/names	mixed
+E059	9	transitive verbs	semantic
+E060	10	verbs of movement/separation	semantic
+E061	10	communication/cognition verbs	semantic
+E062	9	verbs of state/beginning/location	semantic
+E063	10	names/titles	semantic
+E064	10	modal adverbs	semantic
+E065	6	punctuation/mixed	mixed
+E066	10	punctuation combinations	syntactic
+E067	10	dates/times/numbers	semantic
+E068	9	discourse markers/adverbs	semantic
+E069	8	pronouns/common verbs	semantic
+E070	10	definite articles	syntactic
+E071	7	punctuation/reporting	mixed
+E072	7	punctuation	syntactic
+E073	8	plural nouns	semantic
+E074	10	adverbs	semantic
+E075	9	modal/degree adverbs	semantic
+E076	3	subword fragments	syntactic
+E077	10	time expressions/dates	semantic
+E078	8	roles/events/nouns	semantic
+E079	10	prepositions/time/space	syntactic
+E080	9	years/units	semantic
+E081	9	sequential/status adjectives	semantic
+E082	9	abstract/action verbs	semantic
+E083	10	names	semantic
+E084	10	military/naval/mechanical	semantic
+E085	8	punctuation	syntactic
+E086	9	pronouns/modals	syntactic
+E087	10	adjectives	semantic
+E088	10	measurements/quantities	semantic
+E089	10	adjectives	semantic
+E090	10	comparative prepositions	syntactic
+E091	7	mixed military/history/animals	semantic
+E092	8	conjunctions/punctuation	syntactic
+E093	2	subword fragments	syntactic
+E094	2	subword fragments	syntactic
+E095	10	time units/periods	semantic
+E096	2	characters/short fragments	syntactic
+E097	4	function words/fragments	mixed
+E098	10	names	semantic
+E099	8	punctuation/conjunctions	syntactic

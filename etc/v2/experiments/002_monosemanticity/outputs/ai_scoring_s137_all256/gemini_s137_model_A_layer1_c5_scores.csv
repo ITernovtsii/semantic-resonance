@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	8	narrative verbs	syntactic
+E251	9	proper names	semantic
+E252	10	death/tragedy	semantic
+E253	4	name fragments	mixed
+E254	10	societal domains	semantic
+E255	10	punctuation	syntactic

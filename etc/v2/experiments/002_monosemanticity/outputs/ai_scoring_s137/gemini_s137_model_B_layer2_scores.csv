@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	1	random	mixed
+E010	3	technical/units	mixed
+E020	8	prefixes	syntactic
+E030	10	determiners	syntactic
+E040	7	mechanical/equipment	semantic
+E050	7	to be" verbs	syntactic
+E060	6	abstract nouns	mixed
+E070	10	roles/titles	semantic
+E080	10	possessives	syntactic
+E090	9	quantifiers	syntactic

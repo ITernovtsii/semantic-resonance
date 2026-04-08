@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	describing/visiting verbs	mixed
+E001	5	sentence-initial adverbs	syntactic
+E002	6	closing quotation punct	syntactic
+E003	5	non-latin characters	syntactic
+E004	5	nature/material nouns	semantic
+E005	5	quotation marks/brackets	syntactic
+E006	5	comma/closing punct	syntactic
+E007	5	temporal then/now/dashes	syntactic
+E008	3	informal adj/nouns	mixed
+E009	6	reflexive pronouns	semantic
+E010	3	single the	syntactic
+E011	5	prepositions from/for	syntactic
+E012	4	mixed compound/BPE	mixed
+E013	5	spatial prepositions	syntactic
+E014	5	articles an/a/or	syntactic
+E015	6	personal pronoun it/he	syntactic
+E016	4	nouns company/club	mixed
+E017	4	period/if/route	syntactic
+E018	5	BPE word fragments	syntactic
+E019	7	have/had auxiliary	syntactic
+E020	7	first names	semantic
+E021	5	possessive/apostrophe	syntactic
+E022	6	sentence-initial/det	syntactic
+E023	6	among/than prepositions	syntactic
+E024	6	location at/on/to preps	syntactic
+E025	6	directional prepositions	syntactic
+E026	7	large numbers	syntactic
+E027	5	BPE word fragments	syntactic
+E028	4	mixed proper/names	mixed
+E029	6	conjunctions nor/or/are	syntactic
+E030	5	BPE syllable fragments	syntactic
+E031	5	reporting/eventually	mixed
+E032	6	with/without/alongside	syntactic
+E033	5	names/places mixed	semantic
+E034	6	dashes/discourse punct	syntactic
+E035	5	BPE word fragments	syntactic
+E036	3	the/The only	syntactic
+E037	6	temporal before/after	syntactic
+E038	6	conjunctions nor/or/and	syntactic
+E039	5	adj/violation/Article	mixed
+E040	6	scale/class/stage nouns	mixed
+E041	4	articles an/a	syntactic
+E042	4	BPE foreign syllables	mixed
+E043	3	mixed/random	mixed
+E044	4	determiners the/same	syntactic
+E045	4	training/relationship	mixed
+E046	5	action/establish verbs	mixed
+E047	5	directional to/towards	syntactic
+E048	5	biology/stumps/vents	mixed
+E049	7	large numbers	syntactic
+E050	6	person role/vassal	semantic
+E051	5	quotation marks/former	syntactic
+E052	5	mixed confrontation/nouns	mixed
+E053	5	BPE word fragments	syntactic
+E054	5	adj nationalist/interim	mixed
+E055	6	conjunctions and/or/nor	syntactic
+E056	5	media format nouns	semantic
+E057	6	whole/entire/previous det	syntactic
+E058	4	movement/exist verbs	mixed
+E059	6	nationality adjectives	semantic
+E060	5	geographic places	semantic
+E061	4	discourse connectors	syntactic
+E062	5	number words/quantity	syntactic
+E063	3	the/The/him	syntactic
+E064	5	sentence-initial/temporal	mixed
+E065	4	action/induced verbs	mixed
+E066	4	another/whom/largest	syntactic
+E067	4	sports/dance nouns	mixed
+E068	4	mixed military/nouns	mixed
+E069	4	route/place nouns	mixed
+E070	3	the/The only	syntactic
+E071	6	prepositions toward/for	syntactic
+E072	5	using/meets/between	syntactic
+E073	6	including/comprising	syntactic
+E074	5	quotation/ellipsis punct	syntactic
+E075	6	nature/biology terms	semantic
+E076	3	vinyl/mixed random	mixed
+E077	5	first/proper names	semantic
+E078	6	tropical/weather terms	semantic
+E079	6	relative/question words	syntactic
+E080	4	mentor/essay/mixed	mixed
+E081	5	relative/being/having	syntactic
+E082	6	sentence-end punctuation	syntactic
+E083	3	mixed/PAD	mixed
+E084	3	low-PMI numbers	mixed
+E085	5	comma/who/closing	syntactic
+E086	4	BPE name/foreign	mixed
+E087	7	both/between/neither	syntactic
+E088	3	mixed BPE/names	mixed
+E089	5	historical events	semantic
+E090	4	apostrophe/articles	syntactic
+E091	5	hyphens/mid-prefix	syntactic
+E092	6	verb suffix -ed/-ised	syntactic
+E093	4	articles a/A	syntactic
+E094	7	temporal during/at/by	syntactic
+E095	5	comma/closing punct	syntactic
+E096	3	the/same/it	syntactic
+E097	7	sports statistics	semantic
+E098	4	BPE name fragments	mixed
+E099	5	plural nouns/documents	mixed

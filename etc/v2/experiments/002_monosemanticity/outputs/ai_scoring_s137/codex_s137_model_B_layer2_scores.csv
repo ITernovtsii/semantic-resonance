@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	2	mixed/unclear	mixed
+E010	2	units/symbols	mixed
+E020	7	prefix fragments	syntactic
+E030	10	function words	syntactic
+E040	6	accident gear	semantic
+E050	9	be-verb forms	syntactic
+E060	4	abstract plurals	mixed
+E070	8	roles/titles	semantic
+E080	9	possessives	syntactic
+E090	9	quantifiers	syntactic

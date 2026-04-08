@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	abstract event nouns	semantic
+E001	4	punctuation/abbreviations	mixed
+E002	4	mixed title words/subwords	mixed
+E003	5	proper nouns/titles	mixed
+E004	8	motion/movement verbs	syntactic
+E005	7	comma/clause punctuation	syntactic
+E006	5	plural agents/modals	mixed
+E007	9	titles/roles	semantic
+E008	7	coordinating conjunctions	syntactic
+E009	5	definite articles	syntactic
+E010	8	modal verbs	syntactic
+E011	7	achievement/earning verbs	syntactic
+E012	4	initial consonant clusters	syntactic
+E013	6	subordinate clause starters	syntactic
+E014	6	attributive adjectives	syntactic
+E015	7	operational/movement verbs	syntactic
+E016	7	purposive action verbs	syntactic
+E017	9	degree adverbs	syntactic
+E018	4	mixed nouns/years	mixed
+E019	5	capitalized org/event words	mixed
+E020	6	quotation/discourse markers	syntactic
+E021	6	spatial prepositions	syntactic
+E022	8	charts/rankings	semantic
+E023	7	copula/state verbs	syntactic
+E024	7	plural count nouns	syntactic
+E025	5	prepositions/mixed	syntactic
+E026	5	ordinal/number determiners	syntactic
+E027	5	"New"/"said"/mixed	mixed
+E028	5	definite articles	syntactic
+E029	7	participial/past tense verbs	syntactic
+E030	2	random subword stems	mixed
+E031	7	contrastive conjunctions	syntactic
+E032	7	domain adjectives	syntactic
+E033	9	temporal prepositions	syntactic
+E034	6	hyphens/dashes	syntactic
+E035	7	attributive adjectives	syntactic
+E036	3	capitalized syllable stems	mixed
+E037	6	manner adverbs	syntactic
+E038	9	numbers/quantities	syntactic
+E039	6	temporal/ordinal determ	syntactic
+E040	2	random mixed tokens	mixed
+E041	4	mixed determiners/proper	mixed
+E042	7	domain adjectives	syntactic
+E043	8	plural concrete nouns	syntactic
+E044	7	materials/colors	semantic
+E045	7	geographic compound nouns	semantic
+E046	6	competition/versus verbs	mixed
+E047	7	degree/manner adverbs	syntactic
+E048	2	random subword stems	mixed
+E049	7	geographic places	semantic
+E050	6	singular concrete nouns	syntactic
+E051	8	media/entertainment nouns	semantic
+E052	4	mixed military/national	mixed
+E053	5	initial consonant clusters	syntactic
+E054	7	discourse adverbs/years	mixed
+E055	4	abbreviations/route codes	mixed
+E056	6	pronouns/adverbs	syntactic
+E057	5	geographic/institution nouns	mixed
+E058	5	mixed proper nouns	mixed
+E059	3	subword fragments	mixed
+E060	6	plural concrete nouns	syntactic
+E061	5	determiners/articles	syntactic
+E062	4	mixed proper nouns/suffixes	mixed
+E063	5	titles/punctuation mixed	mixed
+E064	4	comma punctuation	syntactic
+E065	5	proper nouns/titles	mixed
+E066	8	single capital letters	syntactic
+E067	8	entertainment/arts adj	semantic
+E068	3	capitalized syllable stems	mixed
+E069	3	random mixed tokens	mixed
+E070	6	singular place/event nouns	semantic
+E071	6	event/participation verbs	syntactic
+E072	3	capitalized syllable stems	mixed
+E073	3	mixed capitalized words	mixed
+E074	7	comma/clause punctuation	syntactic
+E075	9	numbers	syntactic
+E076	4	mixed proper nouns/suffixes	mixed
+E077	7	cognition/perception verbs	syntactic
+E078	6	conjunctions/connectors	syntactic
+E079	6	modal verbs/plural nouns	mixed
+E080	7	plural agent nouns	syntactic
+E081	6	partitive/containment	syntactic
+E082	3	subword stems	mixed
+E083	8	sentence-end punctuation	syntactic
+E084	4	mixed punctuation/numbers	mixed
+E085	7	abstract event nouns	semantic
+E086	4	mixed proper nouns/groups	mixed
+E087	7	capitalized era/period adj	mixed
+E088	3	subword stems/roots	mixed
+E089	5	possessive determiners	syntactic
+E090	7	coordinating conjunctions	syntactic
+E091	5	currency/punctuation	syntactic
+E092	6	ordinal/sequential determ	syntactic
+E093	7	sentence-end punctuation	syntactic
+E094	5	demonstratives/nouns	mixed
+E095	3	subword fragments	mixed
+E096	8	"on"/surface prepositions	syntactic
+E097	7	attributive adjectives	syntactic
+E098	7	ordinal determiners	syntactic
+E099	6	concrete physical nouns	semantic

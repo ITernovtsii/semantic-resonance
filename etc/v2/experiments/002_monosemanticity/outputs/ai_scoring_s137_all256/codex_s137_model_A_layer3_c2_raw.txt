@@ -1,0 +1,50 @@
+E100	8	discourse markers	syntactic
+E101	4	mixed/unclear	mixed
+E102	6	action verbs	syntactic
+E103	9	modals	syntactic
+E104	5	verbs	mixed
+E105	3	mixed/unclear	mixed
+E106	6	violence/conflict	semantic
+E107	4	storm/mixed	mixed
+E108	7	reporting words	syntactic
+E109	5	historical terms	mixed
+E110	9	connectives	syntactic
+E111	9	function words	syntactic
+E112	8	abbreviations	syntactic
+E113	5	abstract terms	mixed
+E114	7	prepositions	syntactic
+E115	10	letters/symbols	syntactic
+E116	10	punctuation	syntactic
+E117	8	publication/media	semantic
+E118	8	auxiliaries	syntactic
+E119	3	mixed/unclear	mixed
+E120	5	descriptors	mixed
+E121	10	time prepositions	syntactic
+E122	10	articles/prep	syntactic
+E123	7	prepositions	syntactic
+E124	7	gerunds/verbs	syntactic
+E125	10	numbers	syntactic
+E126	8	injury/suffering	semantic
+E127	8	cultural descriptors	semantic
+E128	9	numeric symbols	syntactic
+E129	10	subword stems	syntactic
+E130	4	mixed/unclear	mixed
+E131	10	prepositions	syntactic
+E132	8	adjectives	syntactic
+E133	7	physical properties	semantic
+E134	9	titles/roles	semantic
+E135	6	spatial relations	mixed
+E136	2	random	mixed
+E137	5	national/local terms	mixed
+E138	8	motion verbs	syntactic
+E139	8	ordinals/time	syntactic
+E140	10	punctuation	syntactic
+E141	8	articles/subwords	syntactic
+E142	8	institutional nouns	semantic
+E143	7	temporal modifiers	syntactic
+E144	8	places/nationalities	semantic
+E145	7	name particles	syntactic
+E146	8	sports	semantic
+E147	7	start-stop actions	semantic
+E148	3	random nouns	mixed
+E149	4	names/fragments	mixed

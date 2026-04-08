@@ -1,0 +1,100 @@
+E000	4	mixed/unclear	mixed
+E001	3	mixed/unclear	mixed
+E002	9	mushroom morphology	semantic
+E003	7	entertainment media	semantic
+E004	9	adverbs/copula	syntactic
+E005	6	symbols/units	syntactic
+E006	8	connectives/punctuation	syntactic
+E007	9	auxiliary/adverbs	syntactic
+E008	10	punctuation	syntactic
+E009	8	quantifiers	syntactic
+E010	10	punctuation	syntactic
+E011	9	military terms	semantic
+E012	4	group nouns	mixed
+E013	8	spatial prepositions	syntactic
+E014	4	generic predicates	mixed
+E015	9	number words	syntactic
+E016	1	random	mixed
+E017	6	reporting verbs	mixed
+E018	5	geography/entities	mixed
+E019	9	time markers	syntactic
+E020	9	time markers	syntactic
+E021	3	abbreviations	syntactic
+E022	10	numbers/quantities	syntactic
+E023	7	weather/nature	semantic
+E024	2	random	mixed
+E025	10	punctuation	syntactic
+E026	10	articles	syntactic
+E027	4	singing	mixed
+E028	5	event adjectives	mixed
+E029	7	approximation terms	syntactic
+E030	8	prepositions	syntactic
+E031	7	process verbs	syntactic
+E032	8	get/go verbs	syntactic
+E033	9	prepositions	syntactic
+E034	10	number words	syntactic
+E035	5	mixed function	mixed
+E036	8	measure/routes	syntactic
+E037	2	random nouns	mixed
+E038	7	temporal/spatial	syntactic
+E039	9	industry scale	semantic
+E040	10	articles	syntactic
+E041	10	punctuation	syntactic
+E042	7	film/media	semantic
+E043	10	punctuation	syntactic
+E044	10	conjunctions	syntactic
+E045	8	adjectives	syntactic
+E046	8	performance metrics	semantic
+E047	2	name fragments	syntactic
+E048	6	action/spatial	mixed
+E049	3	name fragments	syntactic
+E050	2	subword prefixes	syntactic
+E051	10	modal verbs	syntactic
+E052	7	conversational markers	syntactic
+E053	9	years/durations	syntactic
+E054	8	policy issues	semantic
+E055	2	random	mixed
+E056	9	discourse markers	syntactic
+E057	7	units/multiscript	syntactic
+E058	10	preposition	syntactic
+E059	10	years/decades	syntactic
+E060	3	subword fragments	syntactic
+E061	6	abstract nouns	semantic
+E062	8	hedging/copula	syntactic
+E063	9	personal names	semantic
+E064	9	modals/helping	syntactic
+E065	5	abstract topics	mixed
+E066	8	character names	semantic
+E067	5	physical objects	mixed
+E068	8	copula/adverbs	syntactic
+E069	7	military geography	semantic
+E070	7	pronouns/adverbs	syntactic
+E071	8	spatial direction	syntactic
+E072	3	title words	mixed
+E073	2	random	mixed
+E074	9	past participles	syntactic
+E075	8	status-change verbs	syntactic
+E076	8	sports terms	semantic
+E077	7	measurements	syntactic
+E078	7	adjectives	syntactic
+E079	10	modal verbs	syntactic
+E080	7	domain adjectives	syntactic
+E081	10	punctuation	syntactic
+E082	9	articles/determiners	syntactic
+E083	9	descriptive adjectives	syntactic
+E084	10	punctuation	syntactic
+E085	7	colloquial sentiment	semantic
+E086	2	subword fragments	syntactic
+E087	7	geographic descriptors	semantic
+E088	8	prepositions/connectors	syntactic
+E089	2	random	mixed
+E090	10	subword stems	syntactic
+E091	8	adjectives	syntactic
+E092	9	initial clusters	syntactic
+E093	6	evaluative adjectives	mixed
+E094	7	quantitative terms	syntactic
+E095	10	have-auxiliary	syntactic
+E096	7	action verbs	syntactic
+E097	10	discourse connectives	syntactic
+E098	7	process verbs	syntactic
+E099	4	names/units	mixed

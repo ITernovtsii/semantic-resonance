@@ -1,0 +1,4 @@
+expert_id	score	category	type
+E250	5	online medical	semantic
+E251	2	religious title	semantic
+E252	8	non-English characters	syntactic

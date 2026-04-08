@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	10	determiner/the	syntactic
+E010	10	sentence structure	syntactic
+E020	10	proper names	semantic
+E030	7	estimation	semantic
+E040	8	verbs of doing	semantic
+E050	1	random fragments	mixed
+E060	10	movement/direction	semantic
+E070	10	verbs	syntactic
+E080	5	comparisons	syntactic
+E090	6	media/tech	semantic

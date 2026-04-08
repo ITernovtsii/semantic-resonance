@@ -1,0 +1,100 @@
+E000	3	articles/symbols	syntactic
+E001	7	society/ethnicity	semantic
+E002	6	geographic modifiers	semantic
+E003	10	punctuation	syntactic
+E004	7	history/governance	semantic
+E005	6	person roles	semantic
+E006	9	possessives	syntactic
+E007	8	descriptive predicates	syntactic
+E008	9	be/auxiliaries	syntactic
+E009	1	subword fragments	mixed
+E010	7	determiners	syntactic
+E011	9	prepositions	syntactic
+E012	8	action verbs	syntactic
+E013	9	conjunctions	syntactic
+E014	1	subword fragments	mixed
+E015	8	connectives/punctuation	syntactic
+E016	2	name fragments	mixed
+E017	7	event verbs	syntactic
+E018	7	adjectives	syntactic
+E019	9	temporal preps	syntactic
+E020	8	quantifier determiners	syntactic
+E021	6	song/title words	semantic
+E022	6	prepositions	syntactic
+E023	8	for-preposition	syntactic
+E024	10	punctuation	syntactic
+E025	9	years/dates	syntactic
+E026	9	measure units	syntactic
+E027	9	sentence endings	syntactic
+E028	8	sports stats	semantic
+E029	2	subword syllables	mixed
+E030	8	indefinite articles	syntactic
+E031	7	definite articles	syntactic
+E032	10	definite article	syntactic
+E033	9	quantifiers	syntactic
+E034	8	definite articles	syntactic
+E035	8	people roles	semantic
+E036	7	transport infrastructure	semantic
+E037	10	indefinite articles	syntactic
+E038	8	dates/months	syntactic
+E039	9	quantifiers	syntactic
+E040	10	punctuation	syntactic
+E041	7	abstract nouns	semantic
+E042	9	ordinals/numbers	syntactic
+E043	7	dashes/connectives	syntactic
+E044	8	articles/determiners	syntactic
+E045	9	modals/auxiliaries	syntactic
+E046	8	reporting verbs	semantic
+E047	9	possessives	syntactic
+E048	7	directional terms	syntactic
+E049	2	short fragments	mixed
+E050	6	punctuation endings	syntactic
+E051	7	action verbs	syntactic
+E052	9	superlatives	syntactic
+E053	9	place names	semantic
+E054	8	relational preps	syntactic
+E055	7	prepositions	syntactic
+E056	9	conjunctions	syntactic
+E057	7	apostrophe forms	syntactic
+E058	3	mixed entities	mixed
+E059	7	process verbs	syntactic
+E060	7	transition verbs	semantic
+E061	9	speech/cognition	semantic
+E062	7	event verbs	syntactic
+E063	8	personal names	semantic
+E064	8	hedge adverbs	syntactic
+E065	9	quote punctuation	syntactic
+E066	10	punctuation	syntactic
+E067	9	calendar time	semantic
+E068	8	discourse markers	syntactic
+E069	6	indefinite pronouns	mixed
+E070	10	definite article	syntactic
+E071	9	quote punctuation	syntactic
+E072	8	quote punctuation	syntactic
+E073	4	plural nouns	mixed
+E074	8	adverbs/negation	syntactic
+E075	8	hedging adverbs	syntactic
+E076	1	subword fragments	mixed
+E077	9	temporal markers	semantic
+E078	4	mixed nouns	mixed
+E079	8	temporal preps	syntactic
+E080	8	years/units	mixed
+E081	8	sequence adjectives	syntactic
+E082	8	action verbs	syntactic
+E083	8	personal names	semantic
+E084	9	military hardware	semantic
+E085	9	punctuation endings	syntactic
+E086	8	relative pronouns	syntactic
+E087	7	adjectives	syntactic
+E088	9	measure units	semantic
+E089	7	classifier adjectives	syntactic
+E090	8	comparatives	syntactic
+E091	6	military terms	semantic
+E092	8	concessives/punctuation	syntactic
+E093	1	subword fragments	mixed
+E094	1	subword fragments	mixed
+E095	9	time durations	semantic
+E096	1	char fragments	mixed
+E097	5	articles/connectors	syntactic
+E098	6	personal names	semantic
+E099	9	ellipsis/punctuation	syntactic

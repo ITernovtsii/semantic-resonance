@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	9	legal/mental state	semantic
+E151	7	places/facilities	semantic
+E152	10	names	semantic
+E153	10	prepositions	syntactic
+E154	7	infrastructure/geography	semantic
+E155	4	mixed/brands	mixed
+E156	10	conjunctions	syntactic
+E157	9	existence/inclusion	syntactic
+E158	6	punctuation/inclusion	mixed
+E159	10	punctuation	syntactic
+E160	9	game/story elements	semantic
+E161	9	direction	syntactic
+E162	10	articles	syntactic
+E163	5	possessives/ordinals	mixed
+E164	9	sports	semantic
+E165	3	mixed/symbols	mixed
+E166	9	determiners	syntactic
+E167	10	punctuation	syntactic
+E168	10	indefinite pronouns	syntactic
+E169	9	ordinals/age	semantic
+E170	2	mixed/noise	mixed
+E171	4	name fragments	semantic
+E172	10	prepositions	syntactic
+E173	8	proper nouns	semantic
+E174	9	prepositions	syntactic
+E175	5	mixed	mixed
+E176	10	punctuation	syntactic
+E177	10	prepositions	syntactic
+E178	10	suffixes	syntactic
+E179	8	events/facilities	semantic
+E180	3	mixed/fragments	mixed
+E181	4	proper noun fragments	semantic
+E182	9	plural nouns	syntactic
+E183	8	people/roles	semantic
+E184	7	superlatives/numbers	semantic
+E185	9	prepositions	syntactic
+E186	8	prepositions	syntactic
+E187	7	statistics/descriptors	semantic
+E188	9	locations	semantic
+E189	8	verbs	syntactic
+E190	8	determiners/prepositions	syntactic
+E191	10	determiners	syntactic
+E192	10	verbs	syntactic
+E193	9	verbs	syntactic
+E194	9	suffixes	syntactic
+E195	10	names	semantic
+E196	10	prepositions	syntactic
+E197	7	events/states	semantic
+E198	1	random/fragments	mixed
+E199	5	proper nouns/misc	semantic

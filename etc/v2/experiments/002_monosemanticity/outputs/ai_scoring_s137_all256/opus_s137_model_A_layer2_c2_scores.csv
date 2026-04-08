@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	7	perfective aspect/have	syntactic
+E101	8	non-English name fragments	syntactic
+E102	6	tropical/geographic	semantic
+E103	9	first names	semantic
+E104	10	possessive pronouns	syntactic
+E105	6	closing punctuation	syntactic
+E106	3	plural nouns	mixed
+E107	10	modal verbs	syntactic
+E108	3	mixed nouns	mixed
+E109	8	BPE syllable fragments	syntactic
+E110	5	determiners/articles	syntactic
+E111	9	subject pronouns	syntactic
+E112	4	people/agent nouns	mixed
+E113	4	abstract nouns	mixed
+E114	8	demonstrative/anaphoric	syntactic
+E115	7	single-letter/BPE	syntactic
+E116	5	concrete nouns	semantic
+E117	9	among/comparison	syntactic
+E118	10	measurement units	semantic
+E119	4	past-tense verbs	mixed
+E120	5	speech-act verbs	mixed
+E121	4	capitalized words	mixed
+E122	7	roles/occupations	semantic
+E123	9	comparison/as	syntactic
+E124	9	sentence adverbs	syntactic
+E125	10	possessive pronouns	syntactic
+E126	3	mixed fragments	mixed
+E127	6	adjectives/modifiers	mixed
+E128	10	three-digit numbers	syntactic
+E129	8	arrival/location	mixed
+E130	3	mixed nouns	mixed
+E131	5	capitalized modifiers	mixed
+E132	4	concrete nouns	mixed
+E133	4	cultural/social events	mixed
+E134	5	past-participle verbs	syntactic
+E135	5	general verbs	mixed
+E136	10	contrastive conjunctions	syntactic
+E137	8	coordinating conjunctions	syntactic
+E138	7	helping/purpose verbs	semantic
+E139	5	articles/determiners	syntactic
+E140	8	comparison/degree	syntactic
+E141	10	reflexive pronouns	syntactic
+E142	9	by-preposition/quantity	syntactic
+E143	9	spatial prepositions	syntactic
+E144	4	concrete nouns	mixed
+E145	7	articles/period	syntactic
+E146	9	consonant-cluster BPE	syntactic
+E147	7	adverbs/manner	syntactic
+E148	9	temporal prepositions	syntactic
+E149	7	naming/titling	semantic

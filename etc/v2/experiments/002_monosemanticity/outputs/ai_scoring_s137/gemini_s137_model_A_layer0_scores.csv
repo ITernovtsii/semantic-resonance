@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	10	punctuation	syntactic
+E010	7	function words	syntactic
+E020	3	body/physical	mixed
+E030	9	prepositions	syntactic
+E040	4	quantifiers/time	mixed
+E050	8	narrative/events	semantic
+E060	9	past tense verbs	syntactic
+E070	3	mixed/family	mixed
+E080	2	random	mixed
+E090	10	punctuation	syntactic

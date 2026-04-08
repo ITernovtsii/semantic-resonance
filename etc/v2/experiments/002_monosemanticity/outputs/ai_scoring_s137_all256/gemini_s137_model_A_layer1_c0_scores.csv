@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	8	functional words	syntactic
+E001	10	sports	semantic
+E002	10	comma	syntactic
+E003	9	punctuation	syntactic
+E004	10	symbols	syntactic
+E005	3	mixed/unclear	mixed
+E006	10	2-letter codes	syntactic
+E007	10	prepositions	syntactic
+E008	10	copular verbs	syntactic
+E009	7	adjectives	semantic
+E010	10	time/events	semantic
+E011	10	modal verbs	syntactic
+E012	8	action verbs	semantic
+E013	4	proper nouns	semantic
+E014	9	punctuation	syntactic
+E015	8	suffix fragments	syntactic
+E016	8	abstract nouns	semantic
+E017	6	locations	semantic
+E018	10	The	syntactic
+E019	10	punctuation	syntactic
+E020	5	prepositions	syntactic
+E021	10	numbers/quantity	semantic
+E022	5	mixed/media	semantic
+E023	10	governance/policy	semantic
+E024	10	conjunctions	syntactic
+E025	9	academic roots	semantic
+E026	9	naval ships	semantic
+E027	10	pronouns	syntactic
+E028	10	determiners	syntactic
+E029	10	media release	semantic
+E030	9	apostrophe	syntactic
+E031	9	plural nouns	syntactic
+E032	2	mixed/unclear	mixed
+E033	10	prepositions	syntactic
+E034	10	locations	semantic
+E035	2	mixed/unclear	mixed
+E036	10	recognition/naming	semantic
+E037	9	name fragments	semantic
+E038	9	time/periods	semantic
+E039	10	superlatives	semantic
+E040	10	adverbs	syntactic
+E041	9	wh-words	syntactic
+E042	10	adverbs	syntactic
+E043	3	mixed	mixed
+E044	9	prefixes	syntactic
+E045	7	quantities	semantic
+E046	9	evaluation verbs	semantic
+E047	10	prepositions	syntactic
+E048	10	punctuation	syntactic
+E049	10	conjunctions	syntactic

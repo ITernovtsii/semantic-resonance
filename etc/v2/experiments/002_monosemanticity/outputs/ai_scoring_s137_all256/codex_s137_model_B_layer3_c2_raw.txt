@@ -1,0 +1,50 @@
+E100	4	names/people	mixed
+E101	2	mixed/unclear	mixed
+E102	6	pronouns/identity	mixed
+E103	8	leadership titles	semantic
+E104	9	punctuation	syntactic
+E105	3	mixed/unclear	mixed
+E106	8	descriptive adjectives	syntactic
+E107	2	subword fragments	syntactic
+E108	3	mixed/unclear	mixed
+E109	6	entertainment/media	semantic
+E110	5	hyphen tokens	mixed
+E111	9	conjunctions	syntactic
+E112	8	process verbs	semantic
+E113	9	subword prefixes	syntactic
+E114	3	mixed/unclear	mixed
+E115	7	status verbs	semantic
+E116	7	cognition verbs	semantic
+E117	6	military/history	semantic
+E118	7	control actions	semantic
+E119	8	be-forms	syntactic
+E120	6	verb forms	syntactic
+E121	4	abstract nouns	mixed
+E122	8	quantifiers	syntactic
+E123	3	mixed/unclear	mixed
+E124	4	mixed/unclear	mixed
+E125	3	mixed/unclear	mixed
+E126	3	mixed/unclear	mixed
+E127	8	historical military	semantic
+E128	8	temporal adverbs	syntactic
+E129	3	mixed/unclear	mixed
+E130	7	event verbs	semantic
+E131	9	discourse markers	syntactic
+E132	9	distributive quantifiers	syntactic
+E133	9	prepositions	syntactic
+E134	10	numbers/dates	syntactic
+E135	2	mixed/unclear	mixed
+E136	8	reporting markers	syntactic
+E137	10	articles/determiners	syntactic
+E138	8	function words	syntactic
+E139	5	proper names	mixed
+E140	5	general nouns	mixed
+E141	9	modal verbs	syntactic
+E142	3	name fragments	syntactic
+E143	7	political/military	semantic
+E144	3	mixed/unclear	mixed
+E145	8	pop media	semantic
+E146	7	geography/places	semantic
+E147	8	discourse markers	syntactic
+E148	10	measurements	syntactic
+E149	8	subword fragments	syntactic

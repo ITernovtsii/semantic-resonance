@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	ability/usage	semantic
+E001	2	fragments	syntactic
+E002	8	military/conflict	semantic
+E003	4	person/generic	mixed
+E004	6	formal/legal	semantic
+E005	4	sports/mixed	mixed
+E006	7	relative pronouns	syntactic
+E007	8	punctuation	syntactic
+E008	6	prefixes/state	mixed
+E009	9	indefinite pronouns	syntactic
+E010	10	single word	syntactic
+E011	2	diverse/random	mixed
+E012	10	temporal conjunctions	syntactic
+E013	4	quantifiers/mixed	mixed
+E014	8	planning/notion	semantic
+E015	10	numbers/order	syntactic
+E016	9	capitalized connectors	syntactic
+E017	2	fragments	syntactic
+E018	10	function words	syntactic
+E019	8	determiners/adjectives	syntactic
+E020	5	comparison/mixed	mixed
+E021	10	creative production	semantic
+E022	10	punctuation/ends	syntactic
+E023	10	prepositions	syntactic
+E024	10	dashes/hyphens	syntactic
+E025	8	WWII/military	semantic
+E026	7	existential/determiners	syntactic
+E027	6	determiners	syntactic
+E028	10	media/entertainment	semantic
+E029	10	sports	semantic
+E030	9	scale/intensity	semantic
+E031	5	suffixes/nouns	mixed
+E032	8	subjective/expressive	semantic
+E033	9	prepositions	syntactic
+E034	6	side/mixed	mixed
+E035	10	definite article	syntactic
+E036	7	abstract nouns	semantic
+E037	8	connectors/prepositions	syntactic
+E038	6	agent/temporal	mixed
+E039	7	formal discourse	semantic
+E040	10	proper name	semantic
+E041	10	descriptive adjectives	semantic
+E042	6	capitalized words	syntactic
+E043	10	auxiliary verbs	syntactic
+E044	7	direction/mixed	mixed
+E045	6	identity/comparison	syntactic
+E046	7	partitive	syntactic
+E047	6	collective/general	semantic
+E048	7	numbers/mixed	mixed
+E049	10	physical description	semantic
+E050	4	common words	syntactic
+E051	8	pronouns/particles	syntactic
+E052	10	single word	semantic
+E053	9	conjunctions	syntactic
+E054	4	mixed/unclear	mixed
+E055	5	of/side	mixed
+E056	9	measurements/units	semantic
+E057	5	determiners	syntactic
+E058	10	connectors	syntactic
+E059	4	mixed/unclear	mixed
+E060	8	comparison/relation	syntactic
+E061	4	name fragments	syntactic
+E062	5	travel/path	mixed
+E063	8	institutional/military	semantic
+E064	7	arrival/succession	mixed
+E065	10	modal verbs	syntactic
+E066	10	biography/life events	semantic
+E067	8	discourse markers	syntactic
+E068	8	proportions	semantic
+E069	6	suffix/on	syntactic
+E070	6	being/plural	mixed
+E071	10	single word	semantic
+E072	10	indefinite articles	syntactic
+E073	6	magnitude/numbers	mixed
+E074	10	suffix ia	syntactic
+E075	8	hyphens/dashes	syntactic
+E076	5	mixed proper nouns	semantic
+E077	9	spatial/temporal relations	syntactic
+E078	9	prepositions of extent	syntactic
+E079	7	colors/prefixes	mixed
+E080	6	location/sides	semantic
+E081	10	narrative verbs	syntactic
+E082	7	frequency/relation	syntactic
+E083	7	institutional/social	semantic
+E084	4	fragments	syntactic
+E085	9	initials/honorifics	syntactic
+E086	8	evidence/quantification	semantic
+E087	10	descriptive adjectives	syntactic
+E088	8	war	semantic
+E089	8	construction	semantic
+E090	9	dates/geography	semantic
+E091	7	plural nouns	syntactic
+E092	10	time units	semantic
+E093	8	form/structure	semantic
+E094	10	adverbs	syntactic
+E095	10	relational connectors	syntactic
+E096	6	competition/results	mixed
+E097	10	definite article	syntactic
+E098	10	determiners/quantifiers	syntactic
+E099	10	integers	syntactic

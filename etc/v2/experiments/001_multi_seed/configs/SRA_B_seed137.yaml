@@ -1,0 +1,61 @@
+project:
+  name: SR-Research-WT103
+  experiment_name: Exp001 SRA_B_seed137
+  output_dir: /workspace/research_sra/experiments/001_multi_seed/outputs/SRA_B_seed137
+  seed: 137
+hardware:
+  use_amp: true
+  amp_dtype: bf16
+data:
+  dataset_name: wikitext-103
+  data_dir: /workspace/research_sra/data/raw/wikitext-103
+  processed_dir: /workspace/research_sra/data/processed/wikitext-103
+  tokenizer_path: /workspace/research_sra/data/tokenizers/sra_bpe_32k_wt103.json
+  vocab_size: 32000
+  max_seq_length: 256
+model:
+  d_model: 512
+  n_layers: 4
+  n_heads: 8
+  d_ff: 256
+  dropout: 0.1
+  gradient_checkpointing: true
+  activation: gelu
+  max_seq_length: 256
+  csr:
+    enabled: true
+    num_experts: 256
+    top_k: 1
+    anchor_init: batch
+    routing_type: cosine
+    temperature_scaling: true
+    temperature_init: 10.0
+    progressive_top_k:
+      enabled: true
+      schedule:
+      - epoch: 1
+        top_k: 1
+      - epoch: 3
+        top_k: 4
+losses:
+  balance_weight: 0.4
+  loss_type: bandpass
+  bandpass_min_pct: 0.0005
+  bandpass_max_pct: 0.004
+training:
+  batch_size_per_gpu: 128
+  gradient_accumulation_steps: 1
+  epochs: 8
+  learning_rate: 0.0003
+  max_grad_norm: 1.0
+  optimizer: AdamW
+  weight_decay: 0.01
+  adam_beta1: 0.9
+  adam_beta2: 0.95
+  adam_epsilon: 1.0e-08
+  scheduler: cosine
+  warmup_steps: 4000
+logging:
+  use_wandb: true
+  log_interval: 100
+  eval_interval: 2000

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	10	discourse markers	syntactic
+E001	10	BPE fragments	syntactic
+E002	7	pronouns/determiners	syntactic
+E003	10	prepositions	syntactic
+E004	10	stative verbs	semantic
+E005	8	functional/punctuation	syntactic
+E006	1	single token	mixed
+E007	3	mixed/unclear	mixed
+E008	9	quotations/punctuation	syntactic
+E009	9	temporal/pronouns	mixed
+E010	9	BPE starts	syntactic
+E011	4	mixed fragments	syntactic
+E012	9	noun suffixes	syntactic
+E013	10	adjectives	semantic
+E014	2	mixed/noise	mixed
+E015	1	single token	mixed
+E016	6	news/politics	semantic
+E017	8	punctuation/mixed	syntactic
+E018	1	single token	mixed
+E019	10	logical connectors	syntactic
+E020	9	participles/adverbs	syntactic
+E021	10	determiners	syntactic
+E022	10	punctuation	syntactic
+E023	7	USA	semantic
+E024	1	unclear	mixed
+E025	1	unclear	mixed
+E026	10	common suffixes	syntactic
+E027	10	numbers/currency	semantic
+E028	3	mixed	mixed
+E029	8	descriptive/colors	semantic
+E030	3	mixed	mixed
+E031	8	adventure/diving	semantic
+E032	4	mixed nouns	semantic
+E033	10	conjunctions	syntactic
+E034	1	single token	mixed
+E035	9	technical/science	semantic
+E036	8	auxiliaries/functional	syntactic
+E037	3	mixed	mixed
+E038	2	fragments/noise	mixed
+E039	1	single token	mixed
+E040	7	capitalized fragments	syntactic
+E041	1	single token	mixed
+E042	10	quantifiers/adj	semantic
+E043	8	sequence/completion	semantic
+E044	2	mixed	mixed
+E045	2	mixed	mixed
+E046	6	death/fragments	mixed
+E047	10	action verbs	semantic
+E048	6	functional/quotes	syntactic
+E049	4	mixed proper	semantic
+E050	1	unclear	mixed
+E051	8	history/society	semantic
+E052	7	transitions/mixed	syntactic
+E053	9	music/performance	semantic
+E054	2	mixed	mixed
+E055	10	word endings	syntactic
+E056	1	unclear	mixed
+E057	10	prepositions/conj	syntactic
+E058	3	mixed	mixed
+E059	6	dashes/functional	syntactic
+E060	1	single token	mixed
+E061	9	prepositions/func	syntactic
+E062	8	BPE fragments	syntactic
+E063	9	pronouns/quantifiers	syntactic
+E064	9	infrastructure	semantic
+E065	8	temporal	semantic
+E066	9	directions/particles	syntactic
+E067	8	feminine pronouns	syntactic
+E068	4	mixed/formal	mixed
+E069	9	suffixes	syntactic
+E070	2	mixed	mixed
+E071	7	capitalized starts	syntactic
+E072	7	proper fragments	syntactic
+E073	9	articles/functional	syntactic
+E074	2	mixed	mixed
+E075	8	academic/technical	semantic
+E076	9	numbers/years	semantic
+E077	6	mixed functional	syntactic
+E078	9	masculine pronouns	syntactic
+E079	1	unclear	mixed
+E080	7	possessive/func	syntactic
+E081	10	sports	semantic
+E082	9	nationalities	semantic
+E083	9	medical/research	semantic
+E084	7	locations/units	semantic
+E085	10	maritime/engineering	semantic
+E086	10	verbs	syntactic
+E087	8	legal/conflict	semantic
+E088	10	complex punctuation	syntactic
+E089	1	unclear	mixed
+E090	2	mixed	mixed
+E091	7	quotes/functional	syntactic
+E092	10	past verbs	syntactic
+E093	7	infrastructure/legal	semantic
+E094	6	mixed verbs	semantic
+E095	3	mixed	mixed
+E096	9	technical adjectives	semantic
+E097	2	mixed	mixed
+E098	9	particles/prep	syntactic
+E099	9	parentheses/punctuation	syntactic

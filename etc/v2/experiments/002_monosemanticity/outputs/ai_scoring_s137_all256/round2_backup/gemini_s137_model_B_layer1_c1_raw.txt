@@ -1,0 +1,51 @@
+I will read the instructions in `_tmp_s137_model_B_layer1_c1_gemini.txt` to determine the required scoring output.
+E050	9	connectors/adverbs	semantic
+E051	7	names/surnames	semantic
+E052	9	speech/thought verbs	semantic
+E053	10	evaluative adjectives	semantic
+E054	10	naval/maritime	semantic
+E055	10	pronouns	syntactic
+E056	10	inclusion/exclusion	semantic
+E057	8	conjunctions/links	syntactic
+E058	9	determiners	syntactic
+E059	7	symbols/punctuation	syntactic
+E060	10	single letters	syntactic
+E061	10	prepositions	syntactic
+E062	10	transitions	semantic
+E063	6	proper nouns	semantic
+E064	8	punctuation/deictics	syntactic
+E065	2	fragments	mixed
+E066	10	punctuation	syntactic
+E067	3	fragments	mixed
+E068	10	conjunctions	syntactic
+E069	10	military	semantic
+E070	3	mixed	mixed
+E071	9	places/structures	semantic
+E072	9	punctuation/brackets	syntactic
+E073	9	determiners/relatives	syntactic
+E074	9	indefinite determiners	syntactic
+E075	10	determiners	syntactic
+E076	10	years	semantic
+E077	9	prepositions	syntactic
+E078	10	contractions	syntactic
+E079	10	definite article	syntactic
+E080	9	past participles	syntactic
+E081	8	movement/conflict	semantic
+E082	3	mixed/unclear	mixed
+E083	10	years/centuries	semantic
+E084	6	names	semantic
+E085	8	surnames	semantic
+E086	9	punctuation+comma	syntactic
+E087	10	numbers	syntactic
+E088	10	nationalities/history	semantic
+E089	2	mixed	mixed
+E090	3	mixed/frequent	mixed
+E091	4	word fragments	syntactic
+E092	10	indefinite articles	syntactic
+E093	10	copular verbs	syntactic
+E094	6	historical/cultural	semantic
+E095	4	adjectives	semantic
+E096	10	ethnonyms/political	semantic
+E097	9	prefixes	syntactic
+E098	4	mixed nouns	semantic
+E099	9	abstract nouns	semantic

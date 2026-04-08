@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	8	verb forms	syntactic
+E251	8	proper names	syntactic
+E252	10	death/loss	semantic
+E253	4	mixed/unclear	mixed
+E254	9	social descriptors	semantic
+E255	10	punctuation	syntactic

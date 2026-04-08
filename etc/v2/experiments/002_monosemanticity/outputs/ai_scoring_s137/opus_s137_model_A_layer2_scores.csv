@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	8	people/agents	semantic
+E010	3	title words/mixed	mixed
+E020	3	mixed/unclear	mixed
+E030	7	person/roles	semantic
+E040	7	adverbs/modifiers	syntactic
+E050	3	singular nouns/mixed	mixed
+E060	9	spatial prepositions	syntactic
+E070	10	temporal prepositions	syntactic
+E080	7	numbers/ordnance	semantic
+E090	8	prepositions	syntactic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	7	biology/nature	semantic
+E051	6	name fragments	mixed
+E052	3	mixed/unclear	mixed
+E053	6	proper fragments	syntactic
+E054	7	punctuation/vessels	mixed
+E055	6	connectors	syntactic
+E056	8	business/science	semantic
+E057	9	history/military	semantic
+E058	8	verbs/prepositions	syntactic
+E059	7	common words	syntactic
+E060	10	punctuation	syntactic
+E061	3	mixed/unclear	mixed
+E062	9	verbs/connectors	syntactic
+E063	8	plural nouns	semantic
+E064	10	numbers	syntactic
+E065	10	quantifiers	semantic
+E066	7	geography/history	semantic
+E067	6	abstract/personal	semantic
+E068	4	mixed/unclear	mixed
+E069	5	mixed/unclear	mixed
+E070	8	military/vessels	semantic
+E071	9	descriptive adjectives	semantic
+E072	9	past verbs	syntactic
+E073	9	conjunctions	syntactic
+E074	9	action verbs	semantic
+E075	8	sports/geography	semantic
+E076	6	articles/common	syntactic
+E077	9	word stems	syntactic
+E078	8	word fragments	syntactic
+E079	8	abbreviations	syntactic
+E080	10	temporal	semantic
+E081	9	groups/military	semantic
+E082	7	names/titles	semantic
+E083	5	measurement/mixed	mixed
+E084	9	negation/quantity	semantic
+E085	5	mixed/unclear	mixed
+E086	8	social/technical	semantic
+E087	9	adjectives	semantic
+E088	8	punctuation	syntactic
+E089	9	transport/technical	semantic
+E090	8	groups/professions	semantic
+E091	9	capitalized starts	syntactic
+E092	9	adjectives	semantic
+E093	8	connectors/punct	syntactic
+E094	10	punctuation	syntactic
+E095	5	mixed/unclear	mixed
+E096	10	punctuation	syntactic
+E097	6	mixed topics	semantic
+E098	8	verbs/prepositions	syntactic
+E099	8	abstract nouns	semantic

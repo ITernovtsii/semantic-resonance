@@ -1,0 +1,6 @@
+E250	4	prefix fragments	syntactic
+E251	2	name fragments	mixed
+E252	2	mixed tokens	mixed
+E253	8	symbol connectors	syntactic
+E254	9	prepositions	syntactic
+E255	6	prep punctuation	mixed

@@ -1,0 +1,51 @@
+I will read the content of the specified file to understand the instructions and the data to be scored.
+E150	3	common words	mixed
+E151	10	male names	semantic
+E152	4	word fragments	mixed
+E153	9	numbers/quantities	semantic
+E154	7	adverbs	syntactic
+E155	8	composition verbs	semantic
+E156	8	plural groups	semantic
+E157	4	pronouns/nouns	mixed
+E158	1	random	mixed
+E159	7	historical adjectives	semantic
+E160	1	random	mixed
+E161	10	punctuation	syntactic
+E162	10	modal verbs	syntactic
+E163	7	scientific descriptors	semantic
+E164	9	determiners	syntactic
+E165	10	politics/conflict	semantic
+E166	8	referential words	syntactic
+E167	8	structures/locations	semantic
+E168	8	usage/requirements	semantic
+E169	4	word fragments	mixed
+E170	7	transport/geography	semantic
+E171	8	positional terms	semantic
+E172	8	organizations	semantic
+E173	6	verbs	syntactic
+E174	7	-ing verbs	syntactic
+E175	1	random	mixed
+E176	10	transition words	syntactic
+E177	10	punctuation	syntactic
+E178	5	descriptive terms	semantic
+E179	5	capitalized labels	semantic
+E180	10	music/entertainment	semantic
+E181	8	achievement/action	semantic
+E182	8	symbols/references	mixed
+E183	2	mixed/random	mixed
+E184	9	official roles	semantic
+E185	10	reporting verbs	semantic
+E186	8	transliterated names	semantic
+E187	9	names	semantic
+E188	5	proper fragments	semantic
+E189	6	composition/military	semantic
+E190	10	terminal punctuation	syntactic
+E191	10	terminal punctuation	syntactic
+E192	8	function words	syntactic
+E193	4	foreign fragments	mixed
+E194	9	be-verbs/adverbs	syntactic
+E195	6	referential words	syntactic
+E196	10	public reception	semantic
+E197	7	function words	syntactic
+E198	10	punctuation	syntactic
+E199	9	measurements/numbers	semantic

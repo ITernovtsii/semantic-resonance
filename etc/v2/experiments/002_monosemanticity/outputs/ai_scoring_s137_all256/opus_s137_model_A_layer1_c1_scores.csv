@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E050	3	name-start fragments	mixed
+E051	6	sentence-start punctuation	syntactic
+E052	8	personal names	semantic
+E053	9	buildings/structures	semantic
+E054	5	sentence-ending punctuation	syntactic
+E055	3	mixed/physical descriptors	mixed
+E056	3	place name fragments	mixed
+E057	5	modal/function words	syntactic
+E058	9	prepositions "by/under"	syntactic
+E059	5	gerund/ing-suffixes	syntactic
+E060	4	mixed adjective suffixes	mixed
+E061	9	months/calendar	semantic
+E062	10	indefinite article	syntactic
+E063	7	subordinating conjunctions	syntactic
+E064	8	indefinite article/determiners	syntactic
+E065	7	separator punctuation	syntactic
+E066	10	military/armed forces	semantic
+E067	7	companies/brands	semantic
+E068	8	opening punctuation/quotes	syntactic
+E069	7	disjunction/alternatives	syntactic
+E070	7	abstract nouns/concepts	semantic
+E071	9	interrogative/conditional	syntactic
+E072	9	terminal punctuation	syntactic
+E073	2	BPE subword fragments	syntactic
+E074	9	historical dates/years	semantic
+E075	9	comma	syntactic
+E076	6	physical spaces/surfaces	semantic
+E077	10	possessive determiners	syntactic
+E078	9	inclusion/specification	syntactic
+E079	2	name-start fragments	mixed
+E080	5	units/measurements	mixed
+E081	7	separator punctuation	syntactic
+E082	2	name-start fragments	syntactic
+E083	2	rare name fragments	mixed
+E084	7	opposition/prevention	semantic
+E085	8	indefinite article/number	syntactic
+E086	9	American football	semantic
+E087	7	months/calendar	semantic
+E088	6	possessive markers	syntactic
+E089	8	indefinite article/number	syntactic
+E090	9	coordinating conjunctions	syntactic
+E091	9	family/kinship	semantic
+E092	8	number words	syntactic
+E093	7	determiners/emphasis	syntactic
+E094	2	foreign BPE fragments	syntactic
+E095	2	rare mixed fragments	mixed
+E096	8	preposition "from"	syntactic
+E097	8	prepositions	syntactic
+E098	5	definite article	syntactic
+E099	8	directional particles	syntactic

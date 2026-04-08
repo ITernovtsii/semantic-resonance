@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	3	academic/mixed	mixed
+E001	9	conjunctions/adverbs	syntactic
+E002	4	unclear titles	mixed
+E003	10	adverbs	syntactic
+E004	7	geography/culture	semantic
+E005	8	name fragments	syntactic
+E006	8	awards/elections	semantic
+E007	7	punctuation	syntactic
+E008	6	nationalities/ordinals	mixed
+E009	7	punctuation	syntactic
+E010	10	past participles	syntactic
+E011	7	surnames	semantic
+E012	4	capitalized words	mixed
+E013	1	random	mixed
+E014	9	verbs	syntactic
+E015	2	common words	syntactic
+E016	9	modals/infinitives	syntactic
+E017	10	roads/transportation	semantic
+E018	9	name fragments	syntactic
+E019	10	punctuation	syntactic
+E020	6	names/places	semantic
+E021	5	transitions/common	syntactic
+E022	10	plural nouns	syntactic
+E023	10	possessive pronouns	syntactic
+E024	10	prepositions	syntactic
+E025	8	gerunds	syntactic
+E026	2	random	mixed
+E027	6	names/fragments	mixed
+E028	10	acronyms	syntactic
+E029	9	punctuation	syntactic
+E030	6	pronouns/roads	mixed
+E031	8	adjectives	syntactic
+E032	10	verbs	syntactic
+E033	5	suffixes	syntactic
+E034	3	fragments	syntactic
+E035	9	achievement verbs	semantic
+E036	8	process verbs	semantic
+E037	8	history/politics	semantic
+E038	7	punctuation	syntactic
+E039	10	past participles	syntactic
+E040	9	determiners/ordinals	syntactic
+E041	10	temporal/conditional	syntactic
+E042	6	institutions/titles	mixed
+E043	8	punctuation	syntactic
+E044	10	symbols	syntactic
+E045	8	symbols/functional	syntactic
+E046	9	determiners	syntactic
+E047	1	random	mixed
+E048	10	locations/dates	semantic
+E049	3	mixed/unclear	mixed

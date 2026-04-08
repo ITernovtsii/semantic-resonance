@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	5	definite article	syntactic
+E151	6	sentence-start adverbs	syntactic
+E152	2	foreign BPE fragments	syntactic
+E153	4	prefix/morpheme fragments	syntactic
+E154	7	adjectives/degree	semantic
+E155	5	definite article	syntactic
+E156	8	adverbs (-ly)	syntactic
+E157	8	comitative prepositions	syntactic
+E158	8	instrumental prepositions	syntactic
+E159	8	evaluative adjectives	semantic
+E160	5	mixed temporal/media	mixed
+E161	9	war/conflict	semantic
+E162	3	mixed nouns	mixed
+E163	7	quantity/extent words	syntactic
+E164	9	possessive determiners	syntactic
+E165	9	quantifier determiners	syntactic
+E166	9	sentence-ending period	syntactic
+E167	4	abstract nouns	mixed
+E168	7	evaluative adjectives	semantic
+E169	7	spatial/military verbs	mixed
+E170	9	sentence-ending period	syntactic
+E171	5	governance/group nouns	semantic
+E172	6	media/entertainment	semantic
+E173	5	past tense action verbs	mixed
+E174	5	collective nouns	mixed
+E175	4	mixed suffixes/crises	mixed
+E176	8	opening brackets/quotes	syntactic
+E177	8	approximation/about	syntactic
+E178	7	closing punctuation	syntactic
+E179	5	past participle verbs	mixed
+E180	8	evaluative adjectives	semantic
+E181	8	locative prepositions	syntactic
+E182	7	possessive/symbols	syntactic
+E183	6	abstract nouns	semantic
+E184	7	concessive conjunctions	syntactic
+E185	8	three-digit numbers	syntactic
+E186	5	titles/units mixed	mixed
+E187	5	determiners/possessives	syntactic
+E188	2	BPE verb suffixes	syntactic
+E189	4	mixed punctuation	mixed
+E190	6	sentence-start adverbs	syntactic
+E191	2	name-start fragments	mixed
+E192	2	BPE fragments/misc	mixed
+E193	7	infinitive "to be"	syntactic
+E194	6	preposition "of/for"	syntactic
+E195	5	definite article	syntactic
+E196	3	random nouns	mixed
+E197	10	royalty/nobility	semantic
+E198	3	random nouns	mixed
+E199	4	mixed adjectives	mixed

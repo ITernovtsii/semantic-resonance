@@ -1,0 +1,100 @@
+E000	4	pronouns/contractions	syntactic
+E001	8	auxiliary verbs	syntactic
+E002	9	prepositions	syntactic
+E003	4	mixed/unclear	mixed
+E004	3	subword fragments	syntactic
+E005	8	action verbs	syntactic
+E006	9	clause connectors	syntactic
+E007	3	mixed nouns	mixed
+E008	10	prepositions	syntactic
+E009	3	name fragments	syntactic
+E010	9	geography	semantic
+E011	9	first names	semantic
+E012	7	verb+spatial	syntactic
+E013	10	to/into	syntactic
+E014	8	reporting connectives	syntactic
+E015	4	mixed titles	mixed
+E016	9	wh-clauses	syntactic
+E017	7	events/abstracts	semantic
+E018	8	motion prepositions	syntactic
+E019	6	plural collectives	semantic
+E020	3	char fragments	syntactic
+E021	7	abstract events	semantic
+E022	9	punctuation/connectors	syntactic
+E023	6	attributes	semantic
+E024	9	prepositions	syntactic
+E025	9	possessives	syntactic
+E026	4	names+fragments	mixed
+E027	8	abstract nouns	semantic
+E028	5	title fragments	mixed
+E029	9	media/reviews	semantic
+E030	7	institutions	semantic
+E031	9	prepositions	syntactic
+E032	8	geo descriptors	semantic
+E033	10	punctuation	syntactic
+E034	5	mixed entities	mixed
+E035	7	state/change verbs	syntactic
+E036	7	nominalizations	syntactic
+E037	10	punctuation	syntactic
+E038	2	random fragments	mixed
+E039	7	verb transitions	syntactic
+E040	9	coordinators	syntactic
+E041	9	conjunctions	syntactic
+E042	9	possessive markers	syntactic
+E043	2	random fragments	mixed
+E044	9	adverbs	syntactic
+E045	8	hedging/reporting	syntactic
+E046	3	name fragments	syntactic
+E047	9	symbols/numbers	syntactic
+E048	8	structures/places	semantic
+E049	9	discourse preps	syntactic
+E050	8	verb forms	syntactic
+E051	6	plural outcomes	semantic
+E052	7	prep+verbing	syntactic
+E053	3	name fragments	syntactic
+E054	9	wh/connectives	syntactic
+E055	9	adverbs/discourse	syntactic
+E056	9	punctuation	syntactic
+E057	8	reporting verbs	syntactic
+E058	1	random	mixed
+E059	3	name fragments	syntactic
+E060	8	institutions	semantic
+E061	3	mixed/unclear	mixed
+E062	9	clause connectors	syntactic
+E063	4	capitalized subwords	syntactic
+E064	8	definite article	syntactic
+E065	6	groups/units	semantic
+E066	10	prepositions	syntactic
+E067	10	punctuation	syntactic
+E068	10	on/onto	syntactic
+E069	10	temporal preps	syntactic
+E070	8	numbers/units	syntactic
+E071	3	names+acronyms	mixed
+E072	7	geography	semantic
+E073	10	punctuation	syntactic
+E074	9	surnames	semantic
+E075	7	adjectives	syntactic
+E076	2	subword fragments	syntactic
+E077	4	mixed titles	mixed
+E078	7	physical objects	semantic
+E079	10	quantifiers	syntactic
+E080	3	mixed proper nouns	mixed
+E081	8	possessives/articles	syntactic
+E082	9	determiners	syntactic
+E083	7	abstract events	semantic
+E084	10	for-preposition	syntactic
+E085	8	civics/geography	semantic
+E086	9	media formats	semantic
+E087	10	spatial preps	syntactic
+E088	2	subword fragments	syntactic
+E089	10	numbers/measure	syntactic
+E090	8	articles	syntactic
+E091	2	subword fragments	syntactic
+E092	6	pronouns	mixed
+E093	10	punctuation	syntactic
+E094	9	spatial preps	syntactic
+E095	8	people/groups	semantic
+E096	10	numbers	syntactic
+E097	10	possessives	syntactic
+E098	9	place names	semantic
+E099	9	quantifiers	syntactic

@@ -1,0 +1,10 @@
+E000	10	definite article	syntactic
+E010	7	sentence markers	syntactic
+E020	6	name fragments	syntactic
+E030	8	approximation terms	semantic
+E040	8	doing/actions	semantic
+E050	2	subword fragments	syntactic
+E060	9	movement/retreat	semantic
+E070	6	action verbs	semantic
+E080	8	comparatives/connectors	syntactic
+E090	2	mixed/unclear	mixed

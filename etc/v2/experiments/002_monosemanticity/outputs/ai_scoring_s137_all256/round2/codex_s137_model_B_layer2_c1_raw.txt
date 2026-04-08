@@ -1,0 +1,50 @@
+E050	8	prepositions	syntactic
+E051	10	spatial prepositions	syntactic
+E052	8	be-forms	syntactic
+E053	9	inclusion terms	semantic
+E054	7	discourse markers	mixed
+E055	10	numbers	syntactic
+E056	10	punctuation	syntactic
+E057	9	articles	syntactic
+E058	9	naming verbs	semantic
+E059	8	copula forms	syntactic
+E060	8	reporting verbs	semantic
+E061	8	prepositions	syntactic
+E062	8	function words	syntactic
+E063	7	political adjectives	semantic
+E064	2	subword fragments	syntactic
+E065	9	punctuation	syntactic
+E066	2	subword fragments	mixed
+E067	8	coordinators	syntactic
+E068	7	process verbs	semantic
+E069	3	proper nouns	mixed
+E070	9	modal verbs	syntactic
+E071	7	particles	mixed
+E072	8	subordinators	syntactic
+E073	8	temporal connectives	syntactic
+E074	9	adjectives	syntactic
+E075	3	names	mixed
+E076	7	abstract nouns	semantic
+E077	7	verbs	syntactic
+E078	10	numbers	syntactic
+E079	2	random nouns	mixed
+E080	10	demonstratives	syntactic
+E081	2	subword fragments	syntactic
+E082	10	spatial prepositions	syntactic
+E083	9	conjunctions	syntactic
+E084	8	epistemic verbs	semantic
+E085	5	discourse mix	mixed
+E086	2	subword fragments	syntactic
+E087	6	abstract concepts	semantic
+E088	3	mixed fragments	mixed
+E089	6	function mix	mixed
+E090	9	determiners	syntactic
+E091	7	morpheme stems	syntactic
+E092	4	person nouns	mixed
+E093	2	subword fragments	mixed
+E094	6	verb participles	syntactic
+E095	8	punctuation	syntactic
+E096	2	subword fragments	mixed
+E097	8	action participles	syntactic
+E098	7	quant metrics	semantic
+E099	8	pronouns determiners	syntactic

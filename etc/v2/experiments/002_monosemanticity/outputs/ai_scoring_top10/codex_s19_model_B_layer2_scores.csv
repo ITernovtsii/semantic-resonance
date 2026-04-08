@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	4	pronouns/dialogue	mixed
+E001	8	auxiliary verbs	syntactic
+E002	10	prepositions	syntactic
+E003	4	mixed/unclear	mixed
+E004	3	subword fragments	syntactic
+E005	7	action verbs	semantic
+E006	9	conjunctions	syntactic
+E007	2	random nouns	mixed
+E008	9	locative prepositions	syntactic
+E009	3	name fragments	mixed
+E010	8	geography	semantic
+E011	6	personal names	semantic
+E012	7	participle verbs	syntactic
+E013	10	prepositions	syntactic
+E014	7	reporting markers	syntactic
+E015	4	mixed titles	mixed
+E016	8	clause markers	syntactic
+E017	6	abstract nouns	semantic
+E018	9	entry/motion	semantic
+E019	2	mixed/unclear	mixed
+E020	2	subword fragments	syntactic
+E021	2	random nouns	mixed
+E022	8	punctuation/connectors	syntactic
+E023	3	mixed nouns	mixed
+E024	10	prepositions	syntactic
+E025	8	possessive determiners	syntactic
+E026	4	name fragments	mixed
+E027	8	abstract concepts	semantic
+E028	7	institutions/military	semantic
+E029	8	names/media	semantic
+E030	5	proper nouns	mixed
+E031	8	spatial preps	syntactic
+E032	4	mixed proper	mixed
+E033	10	punctuation	syntactic
+E034	6	entertainment terms	semantic
+E035	7	event timing	semantic
+E036	8	abstract nouns	semantic
+E037	9	punctuation	syntactic
+E038	3	mixed actions	mixed
+E039	6	progress actions	semantic
+E040	9	coordinators	syntactic
+E041	9	conjunctions	syntactic
+E042	9	possessives	syntactic
+E043	2	random fragments	mixed
+E044	9	discourse adverbs	syntactic
+E045	7	determiners/stance	syntactic
+E046	2	random fragments	mixed
+E047	9	currency/numbers	syntactic
+E048	6	physical objects	semantic
+E049	8	sentence openers	syntactic
+E050	7	verb forms	syntactic
+E051	5	general nouns	mixed
+E052	7	function words	syntactic
+E053	3	name fragments	mixed
+E054	8	wh/connectives	syntactic
+E055	9	stance adverbs	semantic
+E056	8	punctuation	syntactic
+E057	7	verb forms	syntactic
+E058	4	token artifacts	mixed
+E059	4	name fragments	semantic
+E060	6	institution terms	semantic
+E061	2	mixed/unclear	mixed
+E062	9	subordinators	syntactic
+E063	3	capitalized fragments	mixed
+E064	9	articles	syntactic
+E065	7	group names	semantic
+E066	9	prepositions	syntactic
+E067	9	punctuation	syntactic
+E068	9	on-prepositions	syntactic
+E069	10	temporal markers	syntactic
+E070	3	script mix	mixed
+E071	6	names/fragments	semantic
+E072	6	places/entities	semantic
+E073	10	punctuation	syntactic
+E074	5	proper names	mixed
+E075	6	descriptors	semantic
+E076	2	subword fragments	mixed
+E077	4	mixed proper	mixed
+E078	6	structural nouns	semantic
+E079	10	indefinite pronouns	syntactic
+E080	4	mixed proper	mixed
+E081	9	pronouns/determiners	syntactic
+E082	9	determiners	syntactic
+E083	4	mixed nouns	mixed
+E084	10	prepositions	syntactic
+E085	6	institutions/places	semantic
+E086	7	media formats	semantic
+E087	10	spatial prepositions	syntactic
+E088	2	random fragments	mixed
+E089	10	numbers	syntactic
+E090	9	articles	syntactic
+E091	2	subword fragments	mixed
+E092	6	pronouns	mixed
+E093	10	punctuation patterns	syntactic
+E094	9	spatial prepositions	syntactic
+E095	5	human groups	semantic
+E096	10	number words	syntactic
+E097	10	possessive pronouns	syntactic
+E098	9	place names	semantic
+E099	8	quantifiers	syntactic

@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	2	mixed/unclear	mixed
+E001	10	possessive pronouns	syntactic
+E002	8	verb forms	syntactic
+E003	8	conjunction/punctuation	syntactic
+E004	9	prepositions	syntactic
+E005	2	mixed/unclear	mixed
+E006	8	quantifiers	syntactic
+E007	7	possessives	syntactic
+E008	2	mixed/unclear	mixed
+E009	7	articles/determiners	syntactic
+E010	8	comparison words	syntactic
+E011	6	name fragments	syntactic
+E012	7	abbreviations	syntactic
+E013	9	quotation marks	syntactic
+E014	8	person roles	semantic
+E015	7	adjectives	syntactic
+E016	10	months/dates	semantic
+E017	10	articles	syntactic
+E018	7	verb forms	syntactic
+E019	9	conjunctions	syntactic
+E020	5	mixed modifiers	mixed
+E021	9	time terms	semantic
+E022	4	mixed/unclear	mixed
+E023	8	do forms	syntactic
+E024	2	subword fragments	mixed
+E025	6	modifiers	syntactic
+E026	10	suffix fragments	syntactic
+E027	7	demonstratives	syntactic
+E028	10	punctuation	syntactic
+E029	9	temporal sequence	semantic
+E030	8	military/combat	semantic
+E031	2	mixed/unclear	mixed
+E032	7	dates/ordinals	semantic
+E033	3	subword fragments	syntactic
+E034	8	measurement units	syntactic
+E035	9	punctuation	syntactic
+E036	9	inclusion/composition	semantic
+E037	7	verb forms	syntactic
+E038	2	mixed/unclear	mixed
+E039	4	generic nouns	mixed
+E040	4	mixed/unclear	mixed
+E041	9	combination terms	semantic
+E042	8	adverbs	syntactic
+E043	7	structures/places	semantic
+E044	3	mixed/unclear	mixed
+E045	6	media/arts	semantic
+E046	6	discourse markers	syntactic
+E047	10	single letters	syntactic
+E048	7	parts/quantities	semantic
+E049	8	attribution markers	syntactic

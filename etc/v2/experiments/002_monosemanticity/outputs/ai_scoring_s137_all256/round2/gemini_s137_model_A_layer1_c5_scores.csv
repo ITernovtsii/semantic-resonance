@@ -1,0 +1,7 @@
+expert_id	score	category	type
+E250	8	narrative verbs	semantic
+E251	10	surnames	semantic
+E252	10	death/injury	semantic
+E253	4	proper nouns/fragments	mixed
+E254	10	societal/political	semantic
+E255	10	punctuation	syntactic

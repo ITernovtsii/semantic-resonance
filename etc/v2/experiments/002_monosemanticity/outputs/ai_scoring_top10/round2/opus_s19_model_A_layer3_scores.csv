@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	5	sentence starters	syntactic
+E001	5	single letters	syntactic
+E002	4	sentence starters	syntactic
+E003	5	function words	syntactic
+E004	6	has/does/is	syntactic
+E005	5	conjunctions	syntactic
+E006	2	single word	syntactic
+E007	3	mixed/unclear	mixed
+E008	5	quotation punct	syntactic
+E009	5	then/later	syntactic
+E010	5	name prefixes	syntactic
+E011	5	anti/prefix	syntactic
+E012	7	BPE suffixes	syntactic
+E013	5	adj/enduring	mixed
+E014	3	random/unicode	mixed
+E015	2	single word	syntactic
+E016	4	practices/nouns	mixed
+E017	4	pinned/versus	mixed
+E018	2	single word	syntactic
+E019	5	adverbs	mixed
+E020	4	involving/misc	mixed
+E021	5	article a/an	syntactic
+E022	5	punctuation	syntactic
+E023	3	United/US	mixed
+E024	4	had/the	syntactic
+E025	3	a/er/the	syntactic
+E026	7	BPE suffixes	syntactic
+E027	7	number words	syntactic
+E028	4	working/the	mixed
+E029	5	adj/misc	mixed
+E030	4	used/had	syntactic
+E031	6	nature/diving	mixed
+E032	4	contained nouns	mixed
+E033	7	adverbs conj	syntactic
+E034	2	single word	syntactic
+E035	5	struct nouns	mixed
+E036	5	would/could	syntactic
+E037	3	mixed/unclear	mixed
+E038	4	BPE fragments	mixed
+E039	2	single word	syntactic
+E040	5	name prefixes	mixed
+E041	2	single word	syntactic
+E042	5	adj/modest	mixed
+E043	6	following/after	syntactic
+E044	4	gave/all	mixed
+E045	5	that/which	syntactic
+E046	5	killed/units	mixed
+E047	4	action verbs	mixed
+E048	4	article/misc	mixed
+E049	5	proper nouns	mixed
+E050	4	one/a/the	syntactic
+E051	5	common nouns	mixed
+E052	5	instead/through	mixed
+E053	5	music/creative	mixed
+E054	4	came/tries	mixed
+E055	6	BPE suffixes	syntactic
+E056	3	a/the	syntactic
+E057	5	because/despite	syntactic
+E058	3	misc/random	mixed
+E059	5	hyphens/dashes	syntactic
+E060	2	single word	syntactic
+E061	4	at/by/as	syntactic
+E062	5	BPE fragments	syntactic
+E063	5	mixed starters	syntactic
+E064	4	route/geographic	mixed
+E065	4	past/since	syntactic
+E066	7	directional adv	syntactic
+E067	5	pronouns her/she	syntactic
+E068	5	guilty/reference	mixed
+E069	5	BPE/misc	mixed
+E070	5	living/pro	mixed
+E071	5	title/compound	mixed
+E072	5	BPE fragments	mixed
+E073	4	articles	syntactic
+E074	3	turn/article	mixed
+E075	4	species/fact	mixed
+E076	4	numbers/misc	mixed
+E077	3	period/punct	syntactic
+E078	5	possessives	syntactic
+E079	4	function words	syntactic
+E080	3	apostrophe/from	syntactic
+E081	6	sports terms	semantic
+E082	5	English/American	mixed
+E083	5	research/nouns	mixed
+E084	4	proper nouns	mixed
+E085	6	naval/velocity	mixed
+E086	5	action verbs	mixed
+E087	4	adj/various	mixed
+E088	6	quotation punct	syntactic
+E089	3	had/to/the	syntactic
+E090	3	BPE prefix	mixed
+E091	3	quotation mark	syntactic
+E092	5	action verbs	mixed
+E093	4	road/proper	mixed
+E094	4	adj/giving	mixed
+E095	5	semi/kind/number	mixed
+E096	5	adj/various	mixed
+E097	3	high/X/the	mixed
+E098	3	off/back/out	syntactic
+E099	4	mixed/unclear	mixed

@@ -1,0 +1,50 @@
+E000	3	mixed	mixed
+E001	7	hedging words	syntactic
+E002	2	mixed	mixed
+E003	9	adverbs	syntactic
+E004	6	regional terms	semantic
+E005	4	name fragments	syntactic
+E006	6	awards media	semantic
+E007	8	quotes punctuation	syntactic
+E008	6	nationality ordinals	mixed
+E009	8	punctuation artifacts	syntactic
+E010	8	past participles	syntactic
+E011	8	surnames	semantic
+E012	5	institution terms	mixed
+E013	2	mixed	mixed
+E014	8	past tense verbs	syntactic
+E015	9	function words	syntactic
+E016	8	modal verbs	syntactic
+E017	9	road network	semantic
+E018	5	name prefixes	syntactic
+E019	10	punctuation	syntactic
+E020	5	proper nouns	mixed
+E021	8	discourse words	syntactic
+E022	7	plural nouns	syntactic
+E023	10	possessive pronouns	syntactic
+E024	10	prepositions	syntactic
+E025	7	verb forms	syntactic
+E026	4	mixed	mixed
+E027	6	name tokens	semantic
+E028	9	abbreviations	syntactic
+E029	9	comma punctuation	syntactic
+E030	7	pronouns	syntactic
+E031	7	negative adjectives	semantic
+E032	9	verb forms	syntactic
+E033	3	mixed	mixed
+E034	8	subword stems	syntactic
+E035	8	achievement verbs	semantic
+E036	8	verb forms	syntactic
+E037	8	political history	semantic
+E038	9	hyphenation	syntactic
+E039	8	past participles	syntactic
+E040	8	determiners ordinals	syntactic
+E041	10	temporal prepositions	syntactic
+E042	6	institutions places	semantic
+E043	8	punctuation	syntactic
+E044	10	brackets punctuation	syntactic
+E045	8	symbol tokens	syntactic
+E046	8	determiners	syntactic
+E047	1	random	mixed
+E048	8	places years	semantic
+E049	6	punctuation numbers	mixed

@@ -1,0 +1,51 @@
+I will read the instructions and data from `_tmp_s137_model_B_layer0_c2_gemini.txt` to generate the requested scoring lines.
+E100	8	acting/performance	semantic
+E101	3	functional words	syntactic
+E102	2	mixed/unclear	mixed
+E103	4	punctuation/special	syntactic
+E104	6	prepositions/articles	syntactic
+E105	5	punctuation/mixed	mixed
+E106	4	functional/mixed	mixed
+E107	1	single word	mixed
+E108	7	transition words	semantic
+E109	2	mixed/unclear	mixed
+E110	1	numbers	mixed
+E111	8	prepositions	syntactic
+E112	8	numbers/ordinal	semantic
+E113	1	single word	mixed
+E114	9	groups/organizations	semantic
+E115	3	names/mixed	mixed
+E116	7	military/titles	semantic
+E117	4	subword fragments	syntactic
+E118	6	name fragments	semantic
+E119	9	music/film	semantic
+E120	2	mixed/unclear	mixed
+E121	1	location	mixed
+E122	1	name	mixed
+E123	3	mixed/unclear	mixed
+E124	1	name	mixed
+E125	4	punctuation/mixed	syntactic
+E126	10	dashes	syntactic
+E127	6	entertainment/mixed	semantic
+E128	3	mixed/unclear	mixed
+E129	7	body/parts	semantic
+E130	6	units/measurements	semantic
+E131	5	general/abstract	semantic
+E132	8	achievement/competition	semantic
+E133	4	direction/adverbs	syntactic
+E134	7	honorifics/titles	semantic
+E135	4	subword fragments	syntactic
+E136	2	mixed/unclear	mixed
+E137	8	relational words	syntactic
+E138	1	name	mixed
+E139	2	fragments	mixed
+E140	1	name	mixed
+E141	2	mixed/unclear	mixed
+E142	8	biology/mycology	semantic
+E143	1	single word	mixed
+E144	2	mixed/unclear	mixed
+E145	8	verbs	syntactic
+E146	3	punctuation/mixed	syntactic
+E147	8	pronouns/determiners	syntactic
+E148	8	descriptive/adverbs	semantic
+E149	4	numbers/pronouns	mixed

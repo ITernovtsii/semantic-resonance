@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	3	mixed/unclear	mixed
+E201	8	superlatives/ordinals	syntactic
+E202	1	random/fragments	syntactic
+E203	9	modal verbs	syntactic
+E204	7	articles	syntactic
+E205	7	buildings/facilities	semantic
+E206	4	plural nouns	syntactic
+E207	2	mixed/unclear	mixed
+E208	8	functional verbs	semantic
+E209	6	common verbs	syntactic
+E210	5	prefixes/numbers	syntactic
+E211	8	conjunctions	syntactic
+E212	10	titles/occupations	semantic
+E213	6	adverbs/possessives	syntactic
+E214	8	movement/military	semantic
+E215	10	spatial/navigation	semantic
+E216	2	mixed/unclear	mixed
+E217	4	miscellaneous nouns	semantic
+E218	5	proper nouns	semantic
+E219	4	articles/common adjectives	syntactic
+E220	7	abstract nouns	semantic
+E221	9	prepositions	syntactic
+E222	8	abstract nouns	semantic
+E223	7	pronouns/connectors	syntactic
+E224	4	mixed/competition	mixed
+E225	8	historical/geographical adjectives	semantic
+E226	9	conjunctions/transitions	syntactic
+E227	10	letters/symbols	syntactic
+E228	10	time units	semantic
+E229	7	collective nouns	semantic
+E230	5	formal word fragments	syntactic
+E231	8	surnames	semantic
+E232	9	quantifiers	syntactic
+E233	6	administration/records	semantic
+E234	7	official actions	semantic
+E235	10	possessives	syntactic
+E236	8	determiners	syntactic
+E237	8	anatomical/structural	semantic
+E238	8	articles	syntactic
+E239	9	auxiliary/modal verbs	syntactic
+E240	3	mixed/measurement	mixed
+E241	10	past tense verbs	syntactic
+E242	6	punctuation/prepositions	syntactic
+E243	4	pronouns/to-be	syntactic
+E244	8	present participles	syntactic
+E245	9	have/adverbs	syntactic
+E246	9	verbs	syntactic
+E247	9	modal verbs	syntactic
+E248	7	articles/punctuation	syntactic
+E249	9	social topics	semantic

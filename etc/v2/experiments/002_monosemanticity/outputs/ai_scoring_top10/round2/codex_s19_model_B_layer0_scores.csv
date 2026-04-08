@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	8	demonstratives	syntactic
+E001	3	subword fragments	syntactic
+E002	6	pronouns/determiners	syntactic
+E003	9	prepositions	syntactic
+E004	8	auxiliary verbs	syntactic
+E005	7	conjunction punctuation	syntactic
+E006	5	temporal conjunction	syntactic
+E007	2	mixed/unclear	mixed
+E008	9	quotation punctuation	syntactic
+E009	7	temporal discourse	mixed
+E010	5	prefix fragments	syntactic
+E011	7	prefix tokens	syntactic
+E012	10	suffixes	syntactic
+E013	8	descriptive adjectives	semantic
+E014	2	mixed/unclear	mixed
+E015	6	definite article	syntactic
+E016	4	mixed topics	mixed
+E017	4	punctuation mix	mixed
+E018	5	preposition	syntactic
+E019	8	logical connectives	syntactic
+E020	7	adverbial forms	syntactic
+E021	8	determiners	syntactic
+E022	9	punctuation	syntactic
+E023	6	US references	semantic
+E024	5	auxiliary/article	syntactic
+E025	7	suffix er	syntactic
+E026	10	word suffixes	syntactic
+E027	9	numbers/currency	syntactic
+E028	3	mixed/unclear	mixed
+E029	4	colors objects	mixed
+E030	6	auxiliary usage	syntactic
+E031	5	outdoor actions	semantic
+E032	2	mixed nouns	mixed
+E033	9	connectives	syntactic
+E034	6	definite article	syntactic
+E035	7	measurement terms	semantic
+E036	8	modal auxiliaries	syntactic
+E037	2	mixed/unclear	mixed
+E038	2	subword noise	mixed
+E039	6	definite article	syntactic
+E040	2	mixed fragments	mixed
+E041	6	definite article	syntactic
+E042	7	gradability adjectives	semantic
+E043	7	sequence/completion	semantic
+E044	4	common verbs	mixed
+E045	5	relative markers	syntactic
+E046	6	death/injury terms	semantic
+E047	7	action verbs	syntactic
+E048	7	articles/quotes	syntactic
+E049	2	proper-name mix	mixed
+E050	7	articles/number	syntactic
+E051	5	people nouns	semantic
+E052	8	discourse markers	syntactic
+E053	7	music/performance	semantic
+E054	5	general verbs	mixed
+E055	9	subword endings	syntactic
+E056	7	articles	syntactic
+E057	9	prepositions/connectives	syntactic
+E058	2	mixed/unclear	mixed
+E059	8	dashes/apostrophe	syntactic
+E060	6	definite article	syntactic
+E061	8	prepositions	syntactic
+E062	3	subword fragments	syntactic
+E063	8	pronouns/determiners	syntactic
+E064	7	transport geography	semantic
+E065	8	past-time words	semantic
+E066	8	spatial direction	semantic
+E067	8	female pronouns	syntactic
+E068	4	mixed abstract	mixed
+E069	8	subword fragments	syntactic
+E070	3	mixed/unclear	mixed
+E071	4	title words	mixed
+E072	2	proper-name mix	mixed
+E073	8	articles	syntactic
+E074	5	turn phrase	mixed
+E075	6	adverbial vocabulary	semantic
+E076	5	numbers/places	mixed
+E077	7	punctuation/function	syntactic
+E078	9	male pronouns	syntactic
+E079	6	function words	syntactic
+E080	8	apostrophe forms	syntactic
+E081	9	sports terms	semantic
+E082	8	nationalities	semantic
+E083	8	medical/research	semantic
+E084	7	place names	semantic
+E085	8	naval engineering	semantic
+E086	5	generic verbs	mixed
+E087	7	legal/crime terms	semantic
+E088	10	quote punctuation	syntactic
+E089	6	auxiliary phrase	syntactic
+E090	3	mixed/unclear	mixed
+E091	7	quote/article	syntactic
+E092	7	past-tense verbs	syntactic
+E093	6	infrastructure places	semantic
+E094	5	general actions	mixed
+E095	7	quantifier adjectives	semantic
+E096	7	descriptive modifiers	semantic
+E097	4	mixed/unclear	mixed
+E098	7	particles/prepositions	syntactic
+E099	7	bracket punctuation	syntactic

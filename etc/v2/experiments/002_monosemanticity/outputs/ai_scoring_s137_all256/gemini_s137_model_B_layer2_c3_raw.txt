@@ -1,0 +1,51 @@
+I will read the instructions and content from the specified file and then provide the tab-separated scoring lines.
+E150	5	mixed/unclear	mixed
+E151	10	punctuation	syntactic
+E152	4	abstract nouns	mixed
+E153	5	activities/professions	semantic
+E154	4	mixed/unclear	mixed
+E155	9	prepositions	syntactic
+E156	4	mixed/unclear	mixed
+E157	3	mixed/noise	mixed
+E158	9	names	semantic
+E159	1	random/articles	mixed
+E160	9	relative pronouns/adverbs	syntactic
+E161	10	punctuation/brackets	syntactic
+E162	9	quantifiers/prepositions	syntactic
+E163	5	verbs	mixed
+E164	10	terminal punctuation	syntactic
+E165	4	mixed/unclear	mixed
+E166	10	punctuation	syntactic
+E167	2	subword fragments	syntactic
+E168	6	connectives/verbs	syntactic
+E169	10	possessive pronouns	syntactic
+E170	8	adjectives/comparatives	semantic
+E171	3	mixed/units	mixed
+E172	5	temporal/abstract	mixed
+E173	5	quantifiers/nouns	mixed
+E174	8	punctuation/conjunction	syntactic
+E175	10	possessives	syntactic
+E176	9	conjunctions	syntactic
+E177	2	subword fragments	syntactic
+E178	5	verbs	mixed
+E179	2	articles/pronouns	syntactic
+E180	4	verbs/participles	syntactic
+E181	10	quantifiers/pronouns	syntactic
+E182	8	conjunctions/prepositions	syntactic
+E183	8	punctuation/conjunction	syntactic
+E184	3	mixed/proper nouns	mixed
+E185	10	adverbs	syntactic
+E186	3	subword fragments	syntactic
+E187	7	adjectives	semantic
+E188	4	mixed/nouns	mixed
+E189	2	subword fragments	syntactic
+E190	4	mixed/unclear	mixed
+E191	9	auxiliary verbs	syntactic
+E192	2	subword fragments	syntactic
+E193	10	temporal prepositions	syntactic
+E194	4	mixed/connectives	syntactic
+E195	10	quantifiers	syntactic
+E196	3	mixed/years	mixed
+E197	8	prepositions	syntactic
+E198	8	conjunctions/verbs	syntactic
+E199	3	mixed/verbs	mixed

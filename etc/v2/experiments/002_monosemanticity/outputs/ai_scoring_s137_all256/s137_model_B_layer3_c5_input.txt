@@ -1,0 +1,6 @@
+E250	Adolf(6.59); Evan(6.59); wasn(6.59); didn(6.59); Brun(6.59); Kim(6.59); Cho(6.59); Tom(6.59); Don(6.59); Fred(6.59)
+E251	moved(6.28); flown(6.28); retreated(6.28); transformed(6.28); omed(6.28); rushed(6.28); flee(6.28); pushing(6.28); slowed(6.28); develops(6.28)
+E252	...(6.39); [(5.37); —(5.13); "...(5.13); [...](5.13); ,(4.58); ),(4.31); ((4.27); –(4.07); ",(3.99)
+E253	non(6.15); has(5.81); Their(5.61); ve(5.36); His(4.77); Her(4.70); her(4.54); features(4.52); most(4.48); its(4.48)
+E254	ologically(6.85); widely(6.85); newly(6.85); extremely(6.85); highly(6.71); similarly(6.59); Un(6.53); heavily(6.40); un(6.39); increasingly(6.36)
+E255	mined(5.52); anywhere(5.52); touchdowns(5.52); directions(5.52); charts(5.52); entirely(5.52); engagements(5.52); nominations(5.52); 1893(5.52); duties(5.52)

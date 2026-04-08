@@ -1,0 +1,4 @@
+E250	6	verbs/relations	syntactic
+E251	10	slash punctuation	syntactic
+E252	8	auxiliary/modals	syntactic
+E253	1	random	mixed

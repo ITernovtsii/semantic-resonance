@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	4	numbers/mixed	mixed
+E151	10	prepositions	syntactic
+E152	8	articles/pronouns	syntactic
+E153	9	suffixes	syntactic
+E154	1	single token	mixed
+E155	2	fragments	mixed
+E156	5	entertainment	semantic
+E157	1	random	mixed
+E158	10	determiners	syntactic
+E159	10	punctuation	syntactic
+E160	1	single token	mixed
+E161	1	random	mixed
+E162	6	engineering/nautical	semantic
+E163	5	descriptors	semantic
+E164	7	political/military	semantic
+E165	8	auxiliary verbs	syntactic
+E166	8	spatial adverbs	syntactic
+E167	7	descriptive labels	semantic
+E168	4	mixed nouns	mixed
+E169	1	random	mixed
+E170	3	mixed	mixed
+E171	10	pronouns	syntactic
+E172	6	general nouns	semantic
+E173	9	geography/superlatives	semantic
+E174	2	mixed	mixed
+E175	8	capitalized function	syntactic
+E176	2	mixed	mixed
+E177	8	existence verbs	semantic
+E178	10	legal/political	semantic
+E179	8	general verbs	semantic
+E180	3	academic/dates	mixed
+E181	6	punctuation/prepositions	syntactic
+E182	8	arts/performance	semantic
+E183	10	US states	semantic
+E184	5	functional descriptors	syntactic
+E185	1	fragments	mixed
+E186	6	punctuation	syntactic
+E187	1	random	mixed
+E188	10	prepositions/articles	syntactic
+E189	2	mixed	mixed
+E190	2	mixed	mixed
+E191	10	meteorology	semantic
+E192	5	literary/historical	semantic
+E193	6	common verbs	syntactic
+E194	8	abstract nouns	semantic
+E195	7	numbers/adjectives	semantic
+E196	1	random	mixed
+E197	5	negation	semantic
+E198	1	random	mixed
+E199	4	mixed	mixed

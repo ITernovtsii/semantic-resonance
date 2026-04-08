@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	8	sentence-start adverbs	syntactic
+E101	3	mixed/unclear	mixed
+E102	6	speech/reporting verbs	semantic
+E103	8	modal verbs	syntactic
+E104	7	action verbs	syntactic
+E105	3	mixed/unclear	mixed
+E106	5	conflict/serious nouns	semantic
+E107	3	mixed/unclear	mixed
+E108	3	single-token	mixed
+E109	6	proper nouns/titles	mixed
+E110	7	subordinate conjunctions	syntactic
+E111	5	articles/determiners	syntactic
+E112	4	abbreviations/codes	syntactic
+E113	5	entertainment/quality	semantic
+E114	7	function words/prepositions	syntactic
+E115	6	single-letter/initials	syntactic
+E116	6	sentence-end punctuation	syntactic
+E117	7	media/publication terms	semantic
+E118	2	padding/negative-PMI	mixed
+E119	2	single-token	mixed
+E120	6	articles/descriptors	syntactic
+E121	9	temporal prepositions	syntactic
+E122	3	articles	syntactic
+E123	6	prepositions/connective	syntactic
+E124	7	feature/creation verbs	semantic
+E125	8	numbers/quantities	syntactic
+E126	8	suffering/injury	semantic
+E127	8	demographic adjectives	semantic
+E128	6	numbers/parentheses	syntactic
+E129	5	BPE prefixes	syntactic
+E130	3	mixed/unclear	mixed
+E131	6	function words	syntactic
+E132	7	degree adjectives	syntactic
+E133	7	measurement/natural	semantic
+E134	8	titles/honorifics	semantic
+E135	6	spatial/route terms	semantic
+E136	3	mixed/unclear	mixed
+E137	4	determiners/geography	mixed
+E138	7	motion/arrival verbs	syntactic
+E139	7	ordinal/temporal	syntactic
+E140	7	punctuation/brackets	syntactic
+E141	5	articles/prefixes	syntactic
+E142	6	abstract -ment/-tion nouns	syntactic
+E143	4	temporal adjectives	mixed
+E144	7	European geography	semantic
+E145	7	foreign particles/names	syntactic
+E146	5	sports/rankings	semantic
+E147	8	start/stop verbs	semantic
+E148	3	monosyllabic nouns	mixed
+E149	3	proper nouns/fragments	mixed

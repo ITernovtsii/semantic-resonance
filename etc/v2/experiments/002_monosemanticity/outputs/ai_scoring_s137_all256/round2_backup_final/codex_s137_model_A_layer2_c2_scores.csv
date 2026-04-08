@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	6	auxiliary verbs	syntactic
+E101	5	subword fragments	syntactic
+E102	4	tropical/mixed	mixed
+E103	10	given names	semantic
+E104	10	possessive pronouns	syntactic
+E105	7	punctuation/quotes	syntactic
+E106	8	plural nouns	syntactic
+E107	9	modal verbs	syntactic
+E108	2	mixed/unclear	mixed
+E109	9	subword fragments	syntactic
+E110	8	determiners	syntactic
+E111	8	personal pronouns	syntactic
+E112	9	people roles	semantic
+E113	5	abstract nouns	mixed
+E114	10	demonstratives	syntactic
+E115	9	letters/fragments	syntactic
+E116	3	mixed nouns	mixed
+E117	8	function words	syntactic
+E118	10	measurement units	semantic
+E119	8	verb forms	syntactic
+E120	5	mixed verbs	mixed
+E121	4	mixed/unclear	mixed
+E122	9	person roles	semantic
+E123	9	comparison words	syntactic
+E124	10	adverbs	syntactic
+E125	10	possessive pronouns	syntactic
+E126	3	fragments+mixed	mixed
+E127	7	adjectives	syntactic
+E128	10	numbers	syntactic
+E129	7	location/arrival	mixed
+E130	2	mixed/unclear	mixed
+E131	4	proper-word mix	mixed
+E132	2	mixed nouns	mixed
+E133	7	history/politics	semantic
+E134	8	past participles	syntactic
+E135	7	verb forms	syntactic
+E136	10	contrast conjunctions	syntactic
+E137	9	conjunctions	syntactic
+E138	8	help/action verbs	syntactic
+E139	7	function words	syntactic
+E140	8	comparatives	syntactic
+E141	9	pronouns/reflexives	syntactic
+E142	9	prepositions	syntactic
+E143	10	spatial prepositions	syntactic
+E144	3	mixed nouns	mixed
+E145	9	article+period	syntactic
+E146	8	abbreviations	syntactic
+E147	7	adverbs/manner	mixed
+E148	9	prepositions	syntactic
+E149	8	titling terms	semantic

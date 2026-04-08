@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	8	quantifiers/numerals	syntactic
+E151	7	sequential determiners	syntactic
+E152	2	BPE fragments	mixed
+E153	4	capitalized compound nouns	mixed
+E154	8	temporal/discourse transitions	syntactic
+E155	8	spatial prepositions	syntactic
+E156	5	general nouns/places	mixed
+E157	8	name-prefix BPE	syntactic
+E158	3	proper nouns/groups	mixed
+E159	8	articles/determiners	syntactic
+E160	9	apostrophe/possessive	syntactic
+E161	9	hyphens/dashes	syntactic
+E162	6	abstract nouns	semantic
+E163	5	measurement/sizing	mixed
+E164	6	contractions/quotation	syntactic
+E165	7	possessive/prepositions	syntactic
+E166	4	articles/mixed	syntactic
+E167	5	discourse/quotation	mixed
+E168	5	articles/proper nouns	mixed
+E169	4	concrete nouns	mixed
+E170	9	measurement/distances	semantic
+E171	8	of-preposition	syntactic
+E172	10	three-digit numbers	syntactic
+E173	9	quantifier determiners	syntactic
+E174	9	possessive determiners	syntactic
+E175	3	mixed nouns/pronouns	mixed
+E176	3	BPE fragments/verbs	mixed
+E177	3	proper nouns/groups	mixed
+E178	3	proper nouns/BPE	mixed
+E179	4	mixed nouns	mixed
+E180	4	plural nouns	mixed
+E181	10	historical dates	semantic
+E182	3	mixed nouns/dates	mixed
+E183	9	spatial/geographic terms	semantic
+E184	9	temporal prepositions	syntactic
+E185	5	action verbs	mixed
+E186	7	parenthetical punctuation	syntactic
+E187	10	have-verbs/perfective	syntactic
+E188	9	sentence-final punctuation	syntactic
+E189	9	coordinating conjunctions	syntactic
+E190	4	abstract nouns	mixed
+E191	8	determiner/quantifiers	syntactic
+E192	9	coordinating conjunctions	syntactic
+E193	3	name-prefix BPE	mixed
+E194	5	units/punctuation	mixed
+E195	6	of/for prepositions	syntactic
+E196	7	military/institutional	semantic
+E197	7	articles/numerals	syntactic
+E198	9	mid-sentence punctuation	syntactic
+E199	3	mixed nouns	mixed

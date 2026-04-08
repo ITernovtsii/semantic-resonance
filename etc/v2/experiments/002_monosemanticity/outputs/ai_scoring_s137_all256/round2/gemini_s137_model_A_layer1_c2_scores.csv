@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E100	2	determiners	syntactic
+E101	10	sports/football	semantic
+E102	10	prepositions	syntactic
+E103	7	travel/locations	semantic
+E104	10	action verbs	semantic
+E105	8	roles/groups	semantic
+E106	7	abstract nouns	semantic
+E107	3	mixed/fragments	mixed
+E108	10	transportation/geography	semantic
+E109	10	connective verbs	syntactic
+E110	2	fragments/names	mixed
+E111	2	fragments/pronouns	mixed
+E112	10	adverbs/quantifiers	syntactic
+E113	10	naval/maritime	semantic
+E114	4	verbs	syntactic
+E115	6	conjunctions/modals	syntactic
+E116	10	mental verbs	semantic
+E117	1	fragments	syntactic
+E118	10	numbers	syntactic
+E119	5	descriptive verbs	syntactic
+E120	10	pronouns/determiners	syntactic
+E121	10	location prepositions	syntactic
+E122	6	articles/letters	syntactic
+E123	10	prepositions	syntactic
+E124	1	preposition	syntactic
+E125	10	pronouns/names	syntactic
+E126	10	names	semantic
+E127	6	punctuation/conjunctions	syntactic
+E128	8	punctuation/symbols	syntactic
+E129	10	ordinals/superlatives	syntactic
+E130	10	punctuation	syntactic
+E131	6	conjunctions	syntactic
+E132	9	capitalized prepositions	syntactic
+E133	9	question words	syntactic
+E134	4	verbs	semantic
+E135	10	possessives/determiners	syntactic
+E136	10	quantifiers	syntactic
+E137	10	pronouns	syntactic
+E138	6	verbs	syntactic
+E139	10	relative pronouns	syntactic
+E140	10	person roles	semantic
+E141	10	prepositions	syntactic
+E142	2	fragments	syntactic
+E143	9	military/conflict	semantic
+E144	8	attribution	syntactic
+E145	10	quantifiers/negation	syntactic
+E146	10	punctuation/quotes	syntactic
+E147	10	spatial	semantic
+E148	9	adjectives	semantic
+E149	9	punctuation	syntactic

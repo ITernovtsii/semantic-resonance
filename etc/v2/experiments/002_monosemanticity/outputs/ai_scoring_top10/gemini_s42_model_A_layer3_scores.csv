@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	transitions/years	semantic
+E001	8	combat/events	semantic
+E002	6	various topics	semantic
+E003	9	action verbs	syntactic
+E004	10	highways/infrastructure	semantic
+E005	7	verbs	syntactic
+E006	10	function words	syntactic
+E007	10	names/honorifics	syntactic
+E008	10	punctuation	syntactic
+E009	5	abstract nouns	semantic
+E010	8	past participles	syntactic
+E011	8	spatial/components	semantic
+E012	6	relational verbs	semantic
+E013	8	dialogue markers	mixed
+E014	7	formal vocabulary	semantic
+E015	2	mixed/unclear	mixed
+E016	10	auxiliary/infinitives	syntactic
+E017	9	geography	semantic
+E018	10	time periods	semantic
+E019	10	personal names	semantic
+E020	4	mixed/unclear	mixed
+E021	9	abbreviations	syntactic
+E022	10	place adjectives	semantic
+E023	8	arts/descriptions	semantic
+E024	4	multilingual	mixed
+E025	3	subword fragments	mixed
+E026	8	property/geography	semantic
+E027	9	inclusion verbs	syntactic
+E028	10	titles/media	semantic
+E029	2	random	mixed
+E030	3	mixed/unclear	mixed
+E031	5	name fragments	mixed
+E032	10	mental states	semantic
+E033	4	mixed/unclear	mixed
+E034	10	pronouns/determiners	syntactic
+E035	7	biological traits	semantic
+E036	9	plural nouns	syntactic
+E037	10	quantifiers	syntactic
+E038	10	conjunctions	syntactic
+E039	7	history/cataloging	semantic
+E040	10	adverbs of degree	syntactic
+E041	7	organizations/titles	semantic
+E042	8	media reception	semantic
+E043	6	symbols/connectives	mixed
+E044	10	military/regiments	semantic
+E045	10	political/admin	semantic
+E046	10	punctuation	syntactic
+E047	1	single word	semantic
+E048	8	action verbs	semantic
+E049	10	sports stats	semantic
+E050	4	years/mixed	mixed
+E051	10	dates/symbols	semantic
+E052	9	modal verbs	syntactic
+E053	8	genres/aesthetics	semantic
+E054	9	plural roles/groups	semantic
+E055	10	end punctuation	syntactic
+E056	6	various nouns	semantic
+E057	9	formal transitions	semantic
+E058	7	organizations	semantic
+E059	10	occupations/titles	semantic
+E060	8	articles/adjectives	syntactic
+E061	8	biological taxonomy	semantic
+E062	9	Germanic names	semantic
+E063	10	pronouns/articles	syntactic
+E064	4	common words	mixed
+E065	4	negative semantic	semantic
+E066	8	temporal adjectives	semantic
+E067	7	adverbs/states	mixed
+E068	9	trait adjectives	semantic
+E069	10	prepositions	syntactic
+E070	10	numerical descriptors	semantic
+E071	6	various topics	semantic
+E072	9	auxiliary verbs	syntactic
+E073	8	acronyms/codes	syntactic
+E074	10	measurements	semantic
+E075	8	strategic verbs	semantic
+E076	6	plural nouns	mixed
+E077	9	stative verbs	syntactic
+E078	2	mixed/unclear	mixed
+E079	9	qualifiers/states	semantic
+E080	4	mixed/unclear	mixed
+E081	6	social/sports	semantic
+E082	1	punctuation	syntactic
+E083	5	historical events	semantic
+E084	2	mixed/unclear	mixed
+E085	3	mixed/unclear	mixed
+E086	7	noun roots	semantic
+E087	9	plural nouns	semantic
+E088	8	abstract adjectives	semantic
+E089	8	quantifiers/adj	semantic
+E090	10	first names	semantic
+E091	10	meteorology	semantic
+E092	7	media/arts	semantic
+E093	9	relational verbs	semantic
+E094	6	technology/lifestyle	semantic
+E095	10	past participles	syntactic
+E096	4	mixed/unclear	mixed
+E097	10	measurements	semantic
+E098	8	punctuation/transitions	mixed
+E099	10	problem/experience	semantic

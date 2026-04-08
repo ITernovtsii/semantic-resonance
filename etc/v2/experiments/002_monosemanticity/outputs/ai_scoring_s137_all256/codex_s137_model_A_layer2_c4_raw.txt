@@ -1,0 +1,50 @@
+E200	8	determiners	syntactic
+E201	6	quote punctuation	mixed
+E202	8	conjunctions	syntactic
+E203	4	mixed/unclear	mixed
+E204	7	verb forms	syntactic
+E205	8	quotation marks	syntactic
+E206	9	ordinals	syntactic
+E207	10	punctuation	syntactic
+E208	10	numbers	syntactic
+E209	1	random	mixed
+E210	9	be verbs	syntactic
+E211	10	punctuation	syntactic
+E212	4	mixed nouns	mixed
+E213	8	pronouns/modals	syntactic
+E214	3	name fragments	mixed
+E215	3	proper names	mixed
+E216	9	conjunctions	syntactic
+E217	10	possessives	syntactic
+E218	10	punctuation	syntactic
+E219	6	awards/stats	mixed
+E220	7	articles	syntactic
+E221	3	mixed nouns	mixed
+E222	10	temporal markers	syntactic
+E223	9	articles	syntactic
+E224	7	state verbs	mixed
+E225	10	prepositions	syntactic
+E226	8	adjectives	syntactic
+E227	8	verbs	syntactic
+E228	7	artillery terms	semantic
+E229	4	mixed/unclear	mixed
+E230	2	fragments	mixed
+E231	8	abstract nouns	semantic
+E232	7	geography/ordinals	mixed
+E233	8	negation/modals	syntactic
+E234	6	name fragments	semantic
+E235	8	event verbs	semantic
+E236	7	discourse words	syntactic
+E237	2	fragments	mixed
+E238	5	articles/mixed	mixed
+E239	6	suffix fragments	syntactic
+E240	9	punctuation	syntactic
+E241	10	punctuation	syntactic
+E242	5	names/fragments	mixed
+E243	7	adjectives	syntactic
+E244	9	person names	semantic
+E245	10	question words	syntactic
+E246	8	verbs	syntactic
+E247	9	temporal terms	semantic
+E248	10	punctuation	syntactic
+E249	9	verbs	syntactic

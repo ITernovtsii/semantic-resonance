@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	8	military titles	semantic
+E001	3	mixed/unclear	mixed
+E002	4	geography/time	semantic
+E003	9	narrative verbs	semantic
+E004	4	mixed nouns	semantic
+E005	8	conversational	semantic
+E006	9	frequency adverbs	semantic
+E007	8	descriptive adjectives	semantic
+E008	6	inclusion/relation	semantic
+E009	3	word fragments	mixed
+E010	7	locations/infrastructure	semantic
+E011	10	prepositions	syntactic
+E012	4	punctuation/Chinese	mixed
+E013	8	surnames/fragments	semantic
+E014	9	temporal/conditional	semantic
+E015	8	sources/authorities	semantic
+E016	9	punctuation	syntactic
+E017	9	surname fragments	semantic
+E018	10	historical years	semantic
+E019	7	proper nouns	semantic
+E020	7	connectors/punctuation	mixed
+E021	10	place names	semantic
+E022	3	mixed nouns	semantic
+E023	10	measurement units	semantic
+E024	6	name fragments	semantic
+E025	10	transition adverbs	semantic
+E026	8	social/political verbs	semantic
+E027	6	social/political/sports	semantic
+E028	9	personal names	semantic
+E029	10	months	semantic
+E030	9	prepositions	syntactic
+E031	10	possessives	syntactic
+E032	5	common capitalized	semantic
+E033	7	word fragments	semantic
+E034	7	determiners	syntactic
+E035	3	mixed/unclear	mixed
+E036	10	movement status	semantic
+E037	5	plural nouns	semantic
+E038	9	approximation adverbs	semantic
+E039	10	conjunctions	syntactic
+E040	7	simple verbs	semantic
+E041	8	relational words	semantic
+E042	6	plural nouns	semantic
+E043	4	mixed nouns	semantic
+E044	9	degree adverbs	semantic
+E045	6	active verbs	semantic
+E046	10	rankings/awards	semantic
+E047	10	descriptors	semantic
+E048	8	legal/negative	semantic
+E049	8	temporal prepositions	syntactic

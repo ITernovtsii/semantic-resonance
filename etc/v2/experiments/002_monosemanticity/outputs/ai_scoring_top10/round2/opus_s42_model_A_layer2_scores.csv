@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	7	modal/auxiliary	syntactic
+E001	7	surnames	semantic
+E002	6	BPE fragments	syntactic
+E003	7	adverbs -ly	syntactic
+E004	7	have/auxiliary	syntactic
+E005	7	conjunctions	syntactic
+E006	4	determiners	syntactic
+E007	6	comma/punct	syntactic
+E008	4	abstract nouns	mixed
+E009	3	mixed nouns	mixed
+E010	5	people groups	mixed
+E011	8	sentence-end punct	syntactic
+E012	6	BPE fragments	syntactic
+E013	5	determiners/misc	syntactic
+E014	6	prepositions	syntactic
+E015	6	comparison words	syntactic
+E016	3	article a	syntactic
+E017	5	past participles	mixed
+E018	3	mixed nouns	mixed
+E019	5	action verbs	mixed
+E020	5	mixed nouns	mixed
+E021	7	punctuation	syntactic
+E022	5	action verbs	mixed
+E023	7	first names	semantic
+E024	6	determiners	syntactic
+E025	6	BPE prefixes	syntactic
+E026	4	punct/quotation	syntactic
+E027	5	punctuation	mixed
+E028	5	conflict/contest	mixed
+E029	5	BPE prefixes	mixed
+E030	6	by/attribution	syntactic
+E031	4	determiners	syntactic
+E032	6	conditional conj	syntactic
+E033	7	punctuation/symb	syntactic
+E034	5	BPE fragments	mixed
+E035	2	single period	syntactic
+E036	6	years/dates	semantic
+E037	5	abstract nouns	mixed
+E038	5	on/upon preps	syntactic
+E039	3	BPE fragments	mixed
+E040	5	negative adj	mixed
+E041	6	possessives	syntactic
+E042	5	infrastructure	mixed
+E043	6	purpose preps	syntactic
+E044	3	BPE/mixed	mixed
+E045	5	BPE suffixes	syntactic
+E046	8	nature/biology	semantic
+E047	7	superlatives	syntactic
+E048	7	demonstratives	syntactic
+E049	5	determiners	syntactic
+E050	5	geographic adj	mixed
+E051	6	helping/ability	syntactic
+E052	7	demonstratives	syntactic
+E053	6	spatial preps	syntactic
+E054	4	acronyms	mixed
+E055	7	single letters	syntactic
+E056	7	pronouns rel	syntactic
+E057	6	BPE fragments	syntactic
+E058	5	units/measure	mixed
+E059	5	abstract nouns	mixed
+E060	7	adj social/econ	semantic
+E061	7	temporal starters	syntactic
+E062	4	action verbs	mixed
+E063	4	action verbs	mixed
+E064	6	measurements	mixed
+E065	8	three-digit numbers	syntactic
+E066	6	with/preposition	syntactic
+E067	7	among/at preps	syntactic
+E068	5	military/misc	mixed
+E069	4	mixed nouns	mixed
+E070	7	possessives	syntactic
+E071	6	conjunctions	syntactic
+E072	6	BPE fragments	syntactic
+E073	7	years historical	semantic
+E074	7	years 1800s	semantic
+E075	6	quotation punct	syntactic
+E076	7	each/one determ	syntactic
+E077	4	mixed nouns	mixed
+E078	8	adverbs -ly	syntactic
+E079	7	punctuation	syntactic
+E080	6	among/with preps	syntactic
+E081	7	hyphens/dashes	syntactic
+E082	8	three-digit numbers	syntactic
+E083	5	plural nouns	mixed
+E084	6	sentence starters	syntactic
+E085	5	punctuation	mixed
+E086	5	action verbs	mixed
+E087	5	name prefixes	mixed
+E088	8	sports terms	semantic
+E089	4	abstract nouns	mixed
+E090	3	mixed nouns	mixed
+E091	7	adverbs -ly	syntactic
+E092	6	copular verbs	syntactic
+E093	6	prepositions	syntactic
+E094	3	mixed nouns	mixed
+E095	8	sentence-end punct	syntactic
+E096	7	media/entertain	semantic
+E097	7	adverbs	syntactic
+E098	6	adj temporal	syntactic
+E099	6	parenthetical	syntactic

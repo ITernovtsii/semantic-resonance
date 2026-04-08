@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	quantifiers	syntactic
+E001	6	conversation	mixed
+E002	3	mixed/unclear	mixed
+E003	8	reporting verbs	semantic
+E004	9	modals	syntactic
+E005	8	function words	syntactic
+E006	7	name fragments	syntactic
+E007	10	initial clusters	syntactic
+E008	5	naming metadata	mixed
+E009	3	mixed/unclear	mixed
+E010	2	random	mixed
+E011	9	subword onsets	syntactic
+E012	8	wh words	syntactic
+E013	4	event verbs	mixed
+E014	10	punctuation	syntactic
+E015	7	subword fragments	syntactic
+E016	7	combat verbs	semantic
+E017	10	modals	syntactic
+E018	9	determiners	syntactic
+E019	2	random	mixed
+E020	8	military actions	semantic
+E021	7	quantifier adjectives	syntactic
+E022	8	adverbs/copula	syntactic
+E023	4	mixed nouns	mixed
+E024	5	pop titles	semantic
+E025	6	years	syntactic
+E026	10	prepositions	syntactic
+E027	9	cognition verbs	semantic
+E028	4	mixed/unclear	mixed
+E029	9	verb forms	syntactic
+E030	3	mixed/unclear	mixed
+E031	3	mixed/unclear	mixed
+E032	10	quotation punctuation	syntactic
+E033	7	policy actions	semantic
+E034	9	nominalizations	syntactic
+E035	6	articles	syntactic
+E036	8	possessives	syntactic
+E037	8	adjectives	syntactic
+E038	8	punctuation	syntactic
+E039	7	place names	semantic
+E040	7	nationalities	semantic
+E041	9	apostrophes/hyphens	syntactic
+E042	5	infrastructure	mixed
+E043	10	demonyms	semantic
+E044	4	proper names	mixed
+E045	8	surnames	semantic
+E046	2	subword fragments	syntactic
+E047	4	mixed/unclear	mixed
+E048	6	historical periods	semantic
+E049	1	random fragments	mixed
+E050	6	determiners	syntactic
+E051	8	geography	semantic
+E052	9	composition verbs	semantic
+E053	10	adverbs	syntactic
+E054	4	mixed states	mixed
+E055	8	media verbs	semantic
+E056	8	time periods	semantic
+E057	9	time prepositions	syntactic
+E058	8	competition	semantic
+E059	5	possessive adjectives	mixed
+E060	8	abbreviations	syntactic
+E061	9	domain adjectives	semantic
+E062	10	numbers	syntactic
+E063	10	numeric measures	syntactic
+E064	6	relation verbs	mixed
+E065	7	group plurals	semantic
+E066	5	title modifiers	mixed
+E067	10	ordinals	syntactic
+E068	9	modals	syntactic
+E069	8	discourse markers	syntactic
+E070	8	action verbs	syntactic
+E071	7	arts descriptors	semantic
+E072	6	sports stats	semantic
+E073	9	determiners	syntactic
+E074	2	random fragments	mixed
+E075	4	mixed narrative	mixed
+E076	9	adverbs/copula	syntactic
+E077	8	places	semantic
+E078	9	conjunctions	syntactic
+E079	6	plural nouns	mixed
+E080	6	decision verbs	semantic
+E081	5	units/labels	mixed
+E082	9	punctuation	syntactic
+E083	7	abstract quantities	semantic
+E084	8	time descriptors	semantic
+E085	8	verb forms	syntactic
+E086	9	symbols	syntactic
+E087	10	punctuation	syntactic
+E088	7	road terms	semantic
+E089	10	reporting verbs	semantic
+E090	4	mixed nouns	mixed
+E091	10	prepositions	syntactic
+E092	10	articles	syntactic
+E093	9	temporal adverbs	syntactic
+E094	8	punctuation/title	syntactic
+E095	3	mixed/unclear	mixed
+E096	2	random fragments	mixed
+E097	3	mixed/unclear	mixed
+E098	10	naval armament	semantic
+E099	6	indefinite pronouns	semantic

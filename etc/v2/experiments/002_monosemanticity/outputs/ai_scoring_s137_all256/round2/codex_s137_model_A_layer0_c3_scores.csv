@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E150	8	prepositions	syntactic
+E151	4	mixed/unclear	mixed
+E152	6	historical names	semantic
+E153	9	pronouns/articles	syntactic
+E154	2	mixed/unclear	mixed
+E155	7	economics/legal	semantic
+E156	5	mixed/history	mixed
+E157	6	arts/publishing	semantic
+E158	8	numbers/measure	syntactic
+E159	7	conflict narrative	semantic
+E160	5	mixed/unclear	mixed
+E161	10	linking verbs	syntactic
+E162	6	subword fragments	syntactic
+E163	3	mixed/unclear	mixed
+E164	8	verb forms	syntactic
+E165	8	function words	syntactic
+E166	6	sports/organizations	semantic
+E167	10	punctuation	syntactic
+E168	9	punctuation	syntactic
+E169	8	description/writing	semantic
+E170	6	prepositions	syntactic
+E171	9	quotation marks	syntactic
+E172	8	function words	syntactic
+E173	7	subword chunks	syntactic
+E174	10	numbers	syntactic
+E175	7	sports actions	semantic
+E176	6	historical/legal	semantic
+E177	8	function words	syntactic
+E178	4	mixed/unclear	mixed
+E179	6	legal/biographical	semantic
+E180	8	meet forms	syntactic
+E181	3	mixed/unclear	mixed
+E182	4	mixed fragments	mixed
+E183	4	mixed/unclear	mixed
+E184	9	female gender	semantic
+E185	10	punctuation	syntactic
+E186	8	quantifiers	syntactic
+E187	8	prepositions/reflexives	syntactic
+E188	2	mixed/unclear	mixed
+E189	2	mixed/unclear	mixed
+E190	7	open/close	semantic
+E191	6	transformation terms	semantic
+E192	7	discourse markers	syntactic
+E193	9	number words	syntactic
+E194	3	mixed/unclear	mixed
+E195	8	prepositions/connectives	syntactic
+E196	7	song quotes	semantic
+E197	9	determiners	syntactic
+E198	8	quotation marks	syntactic
+E199	3	subword fragments	syntactic

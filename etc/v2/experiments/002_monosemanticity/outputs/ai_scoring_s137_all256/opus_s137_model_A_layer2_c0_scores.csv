@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E000	10	geography/directions	semantic
+E001	8	adverbs/transitions	syntactic
+E002	8	adverbs	syntactic
+E003	3	plural nouns	mixed
+E004	5	verbs/change	mixed
+E005	6	determiners/articles	syntactic
+E006	10	copula/be-verbs	syntactic
+E007	10	prepositions/location	syntactic
+E008	9	accompaniment/with	syntactic
+E009	7	action verbs	semantic
+E010	9	do-verbs/auxiliaries	syntactic
+E011	3	capitalized nouns	mixed
+E012	2	BPE fragments	mixed
+E013	10	pronouns	syntactic
+E014	3	capitalized words	mixed
+E015	8	articles/determiners	syntactic
+E016	9	sentence-initial prepositions	syntactic
+E017	6	punctuation/prepositions	syntactic
+E018	6	past-participle verbs	syntactic
+E019	3	capitalized nouns	mixed
+E020	3	proper nouns/misc	mixed
+E021	9	weather/meteorology	semantic
+E022	6	quantifiers/determiners	syntactic
+E023	9	advocacy verbs	semantic
+E024	7	possession/containment	mixed
+E025	7	ownership/identity	semantic
+E026	2	capitalized nouns	mixed
+E027	10	prefixes	syntactic
+E028	7	ordinal numbers	syntactic
+E029	2	proper names	mixed
+E030	9	prefixes/hyphens	syntactic
+E031	3	people/groups	mixed
+E032	7	demonstratives	syntactic
+E033	7	determiners/articles	syntactic
+E034	8	determiners/pronouns	syntactic
+E035	5	punctuation/consequence	mixed
+E036	2	BPE fragments	mixed
+E037	9	becoming/change-of-state	semantic
+E038	2	proper nouns/misc	mixed
+E039	9	end-of-sentence punctuation	syntactic
+E040	8	non-English characters	syntactic
+E041	8	parenthetical punctuation	syntactic
+E042	7	action/military verbs	semantic
+E043	9	numeric/measurement punctuation	syntactic
+E044	8	quantifiers/determiners	syntactic
+E045	3	mixed nouns	mixed
+E046	6	adverbs/-ly	syntactic
+E047	8	charts/rankings	semantic
+E048	7	determiners/modifiers	syntactic
+E049	7	degree adverbs/adjectives	mixed

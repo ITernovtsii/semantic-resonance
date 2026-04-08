@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	10	prepositions	syntactic
+E001	9	pronouns	syntactic
+E002	10	articles	syntactic
+E003	8	past-tense verbs	syntactic
+E004	7	ordinals/comparatives	syntactic
+E005	7	adjectives	syntactic
+E006	6	people/roles	semantic
+E007	8	action verbs	syntactic
+E008	7	question words	syntactic
+E009	8	verbs	syntactic
+E010	6	punctuation/symbols	mixed
+E011	8	time terms	semantic
+E012	5	demonyms/ordinals	mixed
+E013	2	mixed fragments	mixed
+E014	9	adverbs	syntactic
+E015	6	media/discourse	semantic
+E016	1	random	mixed
+E017	3	mixed entities	mixed
+E018	2	random	mixed
+E019	5	proper-name parts	mixed
+E020	8	adjectives	syntactic
+E021	7	event transitions	syntactic
+E022	8	prepositions	syntactic
+E023	8	determiners	syntactic
+E024	10	be-verbs	syntactic
+E025	7	function words	syntactic
+E026	8	war/history	semantic
+E027	10	articles	syntactic
+E028	6	proper nouns	semantic
+E029	3	mixed pronouns	mixed
+E030	7	connectives	syntactic
+E031	10	subword prefixes	syntactic
+E032	8	prepositions	syntactic
+E033	9	conjunctions	syntactic
+E034	10	punctuation	syntactic
+E035	9	coordinators	syntactic
+E036	7	reporting syntax	syntactic
+E037	9	years/dates	syntactic
+E038	10	punctuation	syntactic
+E039	8	causation verbs	semantic
+E040	9	name fragments	syntactic
+E041	8	symbols/connectors	syntactic
+E042	3	mixed/unclear	mixed
+E043	10	punctuation	syntactic
+E044	9	years/dates	semantic
+E045	5	discourse+demonyms	mixed
+E046	5	abstract nouns	semantic
+E047	6	pronouns/punctuation	syntactic
+E048	9	measurements	syntactic
+E049	8	naval/military	semantic
+E050	9	prepositions	syntactic
+E051	9	prepositions	syntactic
+E052	10	conjunctions	syntactic
+E053	7	plural nouns	syntactic
+E054	4	mixed labels	mixed
+E055	8	quantifiers	syntactic
+E056	4	mixed events	mixed
+E057	6	institutional nouns	semantic
+E058	7	auxiliary verbs	syntactic
+E059	9	subordinators	syntactic
+E060	9	prefixes/particles	syntactic
+E061	9	modals/auxiliaries	syntactic
+E062	2	random topics	mixed
+E063	4	mixed entities	mixed
+E064	6	media/sports	semantic
+E065	9	determiners	syntactic
+E066	9	brackets/quotes	syntactic
+E067	8	quantifiers	syntactic
+E068	8	include/with verbs	syntactic
+E069	9	capitalized determiners	syntactic
+E070	8	languages/demonyms	semantic
+E071	9	superlatives/ordinals	syntactic
+E072	10	suffix fragments	syntactic
+E073	9	adverb/adjective suffixes	syntactic
+E074	10	prepositions	syntactic
+E075	8	determiners	syntactic
+E076	7	prepositions	syntactic
+E077	10	weather/storms	semantic
+E078	9	superlatives	syntactic
+E079	10	punctuation	syntactic
+E080	9	speech-report verbs	semantic
+E081	9	location prepositions	syntactic
+E082	8	casting/inclusion	semantic
+E083	10	numbers	syntactic
+E084	3	name fragments	mixed
+E085	6	proper nouns	semantic
+E086	7	subword fragments	syntactic
+E087	9	punctuation	syntactic
+E088	8	discourse connectives	syntactic
+E089	9	prepositions	syntactic
+E090	7	roles/groups	semantic
+E091	8	punctuation+connectives	mixed
+E092	8	name fragments	syntactic
+E093	5	units/numbers	mixed
+E094	9	punctuation	syntactic
+E095	7	past/action verbs	syntactic
+E096	8	motion prepositions	syntactic
+E097	6	abstract nouns	mixed
+E098	9	determiners	syntactic
+E099	5	dates/punctuation	mixed

@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	6	possessives/roles	mixed
+E001	3	capitalized word stems	mixed
+E002	7	copula/state verbs	syntactic
+E003	8	adverbs/modals	syntactic
+E004	9	surnames	semantic
+E005	5	definite articles	syntactic
+E006	9	quantifiers/numbers	syntactic
+E007	8	coordinating conjunctions	syntactic
+E008	7	comma/clause punctuation	syntactic
+E009	9	geographic landmarks	semantic
+E010	6	temporal/conditional clauses	mixed
+E011	3	mixed subwords/units	mixed
+E012	5	opening punctuation	syntactic
+E013	8	opening parenthesis	syntactic
+E014	7	quotation marks	syntactic
+E015	7	predicative adjectives	syntactic
+E016	8	attributive adjectives	syntactic
+E017	5	indefinite articles	syntactic
+E018	8	aspectual/process verbs	syntactic
+E019	5	capitalized org/cultural	mixed
+E020	5	prepositions/relational	syntactic
+E021	6	ordinal/sequential determ	syntactic
+E022	9	speech/cognition verbs	syntactic
+E023	8	domain/activity nouns	semantic
+E024	7	units/measurements	semantic
+E025	9	superlatives/ordinals	syntactic
+E026	6	"of"/partitive	syntactic
+E027	9	adverbs (-ly)	syntactic
+E028	3	subword fragments	mixed
+E029	2	random subword stems	mixed
+E030	8	proximity prepositions	syntactic
+E031	6	indefinite article	syntactic
+E032	9	numbers	syntactic
+E033	6	parenthetical/listing	syntactic
+E034	8	spatial prepositions	syntactic
+E035	2	random subword stems	mixed
+E036	8	personal pronouns	syntactic
+E037	5	definite articles	syntactic
+E038	4	mixed determiners/hyphens	mixed
+E039	7	attributive adjectives	syntactic
+E040	8	evaluative adjectives	syntactic
+E041	6	ordinal/directional	mixed
+E042	7	clause-ending punctuation	syntactic
+E043	4	quotation/brackets	syntactic
+E044	9	media/entertainment	semantic
+E045	7	capitalized title words	mixed
+E046	6	copula/state verbs	syntactic
+E047	8	plural count nouns	syntactic
+E048	7	singular count nouns	syntactic
+E049	9	sentence-initial words	syntactic
+E050	4	definite articles	syntactic
+E051	3	capitalized compound words	mixed
+E052	8	inclusion/listing verbs	syntactic
+E053	6	proper noun compounds	mixed
+E054	8	cognition/perception verbs	syntactic
+E055	6	apostrophe/possessive	syntactic
+E056	7	proper names/surnames	semantic
+E057	7	attributive adjectives	syntactic
+E058	8	nationalities/geopolitical	mixed
+E059	8	sentence-end punctuation	syntactic
+E060	6	initial consonants/letters	syntactic
+E061	7	comparison "as"/"like"	syntactic
+E062	6	subordinate clause starters	syntactic
+E063	3	subword fragments	mixed
+E064	7	quantifiers/determiners	syntactic
+E065	7	prepositions	syntactic
+E066	6	demonstratives/determiners	syntactic
+E067	6	singular common nouns	syntactic
+E068	7	transition/change verbs	syntactic
+E069	8	domain adjectives	syntactic
+E070	7	predicative adjectives	syntactic
+E071	4	function words/prepositions	syntactic
+E072	7	hyphens/connectors	syntactic
+E073	7	conflict/event nouns	semantic
+E074	4	mixed proper nouns/subwords	mixed
+E075	7	sentence-end punctuation	syntactic
+E076	7	"for"/purpose preposition	syntactic
+E077	7	demonstratives/referential	syntactic
+E078	7	directional prepositions	syntactic
+E079	7	comma punctuation	syntactic
+E080	10	first names	semantic
+E081	9	demonstrative determiners	syntactic
+E082	5	initial consonant clusters	syntactic
+E083	5	determiners/articles	syntactic
+E084	7	sentence-end punctuation	syntactic
+E085	5	capitalized org nouns	mixed
+E086	7	Latin/Greek roots	syntactic
+E087	5	conjunctions/years	mixed
+E088	8	dates/months	syntactic
+E089	7	abstract event nouns	semantic
+E090	4	definite articles	syntactic
+E091	7	causative/directive verbs	syntactic
+E092	8	approximation/comparison	syntactic
+E093	3	capitalized syllable stems	mixed
+E094	7	transitive action verbs	syntactic
+E095	7	accompaniment prepositions	syntactic
+E096	8	creative/media nouns	semantic
+E097	5	punctuation/ellipsis	syntactic
+E098	8	modal verbs	syntactic
+E099	8	complement clauses	syntactic

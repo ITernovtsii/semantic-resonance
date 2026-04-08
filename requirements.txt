@@ -1,7 +1,7 @@
-# ACG Requirements
+# SRA — Semantic Resonance Architecture
 # Python 3.8+ required
 
-# Core dependencies
+# Core
 torch>=2.0.0
 transformers>=4.30.0
 datasets>=2.12.0
@@ -17,18 +17,17 @@ pyarrow
 
 # Logging and tracking
 tensorboard>=2.13.0
-wandb>=0.15.3  # Optional but recommended
+wandb>=0.15.3
 
-# Testing
-pytest>=7.3.1
-
-# Optional performance enhancements
+# Distributed training
 accelerate>=0.20.3
-deepspeed>=0.9.5
 
-# Optional visualization
-umap-learn
+# Visualization and analysis
+matplotlib>=3.7.0
+scikit-learn>=1.2.0
 seaborn
+umap-learn
+sentence-transformers>=2.2.0
 
-# wikitext 103 detokenizer
+# WikiText-103 detokenizer
 sacremoses

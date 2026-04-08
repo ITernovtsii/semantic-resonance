@@ -1,0 +1,101 @@
+expert_id	score	category	type
+E000	3	functional/awarded	mixed
+E001	10	military/war	semantic
+E002	10	prepositions	syntactic
+E003	6	verbs/suffixes	mixed
+E004	6	conjunctions/logical	mixed
+E005	10	naming/designating	semantic
+E006	9	adjectives	syntactic
+E007	10	punctuation	syntactic
+E008	9	indefinite articles	syntactic
+E009	8	causative verbs	semantic
+E010	9	conjunctions	syntactic
+E011	9	opening symbols	syntactic
+E012	10	first names	semantic
+E013	8	political/identity adj	semantic
+E014	10	punctuation/symbols	syntactic
+E015	5	law/history/mixed	mixed
+E016	6	event/record nouns	semantic
+E017	4	capitalized fragments	syntactic
+E018	10	governance/legal	semantic
+E019	9	relative pronouns	syntactic
+E020	10	numbers/ordinals	syntactic
+E021	7	conflict/competition	semantic
+E022	6	past verbs/fragments	mixed
+E023	7	sentence starters	syntactic
+E024	3	mixed/unclear	mixed
+E025	8	quantifiers/indefinite	semantic
+E026	6	science/history fragments	mixed
+E027	10	determiners/numbers	syntactic
+E028	10	punctuation	syntactic
+E029	7	boundary/ending nouns	semantic
+E030	5	capitalized fragments	syntactic
+E031	8	functional/pronouns	syntactic
+E032	3	mixed/capitalized	mixed
+E033	6	suffixes/nouns	mixed
+E034	10	plural suffixes	syntactic
+E035	10	plural nouns	syntactic
+E036	9	proper names/places	semantic
+E037	10	prepositions	syntactic
+E038	9	pronouns/determiners	syntactic
+E039	9	prepositions/modals	syntactic
+E040	10	approximation/direction	semantic
+E041	9	past participles	syntactic
+E042	10	places/proper names	semantic
+E043	6	word fragments	syntactic
+E044	7	proper noun/places	semantic
+E045	10	relational prepositions	syntactic
+E046	10	countries/regions	semantic
+E047	9	prepositions/connectors	syntactic
+E048	10	possessives/determiners	syntactic
+E049	4	mixed/unclear	mixed
+E050	9	state/possession verbs	semantic
+E051	9	size/quantity adj	semantic
+E052	10	degree/frequency adverbs	semantic
+E053	2	functional/mixed	mixed
+E054	7	adjectives/mixed	mixed
+E055	7	foreign/subword fragments	syntactic
+E056	5	mixed nouns	mixed
+E057	7	sensory/descriptive	semantic
+E058	10	personal pronouns	syntactic
+E059	8	action verbs	semantic
+E060	10	numbers	syntactic
+E061	9	punctuation/sentence ends	syntactic
+E062	10	verb suffixes	syntactic
+E063	9	state/duration verbs	semantic
+E064	10	conjunctions/connectors	syntactic
+E065	2	functional/mixed	mixed
+E066	8	sentence starters	syntactic
+E067	8	official/abstract nouns	semantic
+E068	10	past participles	syntactic
+E069	10	direction/state adverbs	semantic
+E070	9	prepositions	syntactic
+E071	10	relational prepositions	syntactic
+E072	8	entertainment/media	semantic
+E073	6	capitalized fragments	syntactic
+E074	5	comma/however	syntactic
+E075	8	legal/administrative	semantic
+E076	10	transitional adverbs	syntactic
+E077	10	numbers/quantifiers	semantic
+E078	8	nationalities/adjectives	semantic
+E079	10	football/sports	semantic
+E080	8	subword fragments	syntactic
+E081	8	subword fragments	syntactic
+E082	8	transitional adverbs	syntactic
+E083	6	places/features	semantic
+E084	10	pronouns	syntactic
+E085	9	roles/people	semantic
+E086	9	names/places	semantic
+E087	4	mixed nouns	mixed
+E088	7	determiners/adjectives	syntactic
+E089	9	plural people nouns	semantic
+E090	10	inclusion/composition	semantic
+E091	10	population/groups	semantic
+E092	6	directional/descriptive	mixed
+E093	8	symbols/conjunctions	syntactic
+E094	10	prepositions	syntactic
+E095	5	functional/mixed	mixed
+E096	8	spatial prepositions	semantic
+E097	5	fragments/adverbs	mixed
+E098	10	years	semantic
+E099	10	punctuation	syntactic

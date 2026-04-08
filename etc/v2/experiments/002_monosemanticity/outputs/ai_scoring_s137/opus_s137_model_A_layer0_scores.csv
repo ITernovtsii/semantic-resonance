@@ -1,0 +1,11 @@
+expert_id	score	category	type
+E000	10	punctuation/quotes	syntactic
+E010	7	prepositions/function words	syntactic
+E020	3	concrete nouns	mixed
+E030	9	prepositions	syntactic
+E040	4	adverbs/quantifiers	mixed
+E050	5	conflict/narrative	semantic
+E060	8	past-tense verbs	syntactic
+E070	6	romance language	semantic
+E080	2	function words	mixed
+E090	10	punctuation/brackets	syntactic

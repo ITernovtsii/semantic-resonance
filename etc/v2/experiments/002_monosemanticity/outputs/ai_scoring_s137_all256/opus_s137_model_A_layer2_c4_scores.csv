@@ -1,0 +1,51 @@
+expert_id	score	category	type
+E200	7	articles/determiners	syntactic
+E201	6	punctuation/inclusion	syntactic
+E202	9	coordinating conjunctions	syntactic
+E203	5	articles/determiners	syntactic
+E204	5	general verbs	mixed
+E205	7	quotation marks	syntactic
+E206	10	ordinal numbers	syntactic
+E207	8	sentence-final punctuation	syntactic
+E208	10	three-digit numbers	syntactic
+E209	7	BPE syllable fragments	syntactic
+E210	9	copula/be-verbs	syntactic
+E211	10	sentence-final punctuation	syntactic
+E212	3	concrete nouns/places	mixed
+E213	8	auxiliary/modal verbs	syntactic
+E214	8	name-prefix BPE	syntactic
+E215	3	proper nouns/names	mixed
+E216	8	coordinating conjunctions	syntactic
+E217	10	possessive pronouns	syntactic
+E218	8	mid-sentence punctuation	syntactic
+E219	6	awards/suffixes	mixed
+E220	5	articles	syntactic
+E221	4	material/substance nouns	semantic
+E222	10	temporal prepositions	syntactic
+E223	7	articles/determiners	syntactic
+E224	4	existence/state verbs	mixed
+E225	10	from/between prepositions	syntactic
+E226	5	adjectives/modifiers	mixed
+E227	7	providing/earning verbs	semantic
+E228	5	numbers/military specs	mixed
+E229	4	plural nouns	mixed
+E230	2	BPE fragments	mixed
+E231	6	abstract nouns	semantic
+E232	8	directional/ordinal	semantic
+E233	8	negation/infinitive	syntactic
+E234	8	name-prefix BPE	syntactic
+E235	4	past-tense verbs	mixed
+E236	9	degree/intensifiers	syntactic
+E237	5	BPE/consonant clusters	syntactic
+E238	4	articles/proper nouns	mixed
+E239	8	agent-suffix BPE	syntactic
+E240	9	sentence-final punctuation	syntactic
+E241	9	mid-sentence punctuation	syntactic
+E242	4	name-suffix BPE	mixed
+E243	6	adjectives/suffixes	syntactic
+E244	9	personal names	semantic
+E245	10	subordinating conjunctions	syntactic
+E246	4	speech-act verbs	mixed
+E247	8	time/occasion nouns	semantic
+E248	8	mid-sentence punctuation	syntactic
+E249	6	purposive verbs	mixed

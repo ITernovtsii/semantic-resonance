@@ -1,0 +1,101 @@
+I will read the instructions in the specified file and then output the scoring lines.
+E000	3	mixed/unclear	mixed
+E001	1	random	mixed
+E002	10	proper names	semantic
+E003	4	conjunctions/prepositions	syntactic
+E004	9	duty/role	semantic
+E005	2	weakly related	mixed
+E006	7	modal verbs	syntactic
+E007	8	punctuation	syntactic
+E008	1	single token	mixed
+E009	1	random	mixed
+E010	1	random	mixed
+E011	7	common suffixes	syntactic
+E012	6	abstract nouns	semantic
+E013	9	administrative regions	semantic
+E014	6	auxiliary verbs	syntactic
+E015	4	mixed/unclear	mixed
+E016	9	sentence connectors	syntactic
+E017	9	play/sports	semantic
+E018	10	numbers/HD	syntactic
+E019	6	auxiliary verbs	syntactic
+E020	8	conjunctions/prepositions	syntactic
+E021	9	work/project	semantic
+E022	1	single token	mixed
+E023	1	random	mixed
+E024	8	music/organization	semantic
+E025	1	random	mixed
+E026	3	mixed/unclear	mixed
+E027	8	articles	syntactic
+E028	10	punctuation/enclosures	syntactic
+E029	4	mixed/unclear	mixed
+E030	1	random	mixed
+E031	10	spatial prepositions	syntactic
+E032	10	cultural/national adjectives	semantic
+E033	9	time/measurement	semantic
+E034	4	subword fragments	syntactic
+E035	9	verbs/actions	semantic
+E036	4	mixed/unclear	mixed
+E037	9	past participles	syntactic
+E038	4	mixed/unclear	mixed
+E039	4	mixed/unclear	mixed
+E040	1	single token	mixed
+E041	10	dashes/commas	syntactic
+E042	10	female/feminine	semantic
+E043	6	modal verbs	syntactic
+E044	8	ideology/teachings	semantic
+E045	1	random	mixed
+E046	6	legal/mixed	semantic
+E047	9	travel/scenery	semantic
+E048	5	mixed descriptors	semantic
+E049	3	mixed/unclear	mixed
+E100	9	association/usage	semantic
+E051	9	pronouns	syntactic
+E052	9	pronouns/quantifiers	syntactic
+E053	7	determiners/pronouns	syntactic
+E054	4	mixed/unclear	mixed
+E055	6	resistance/military	semantic
+E056	1	random	mixed
+E057	4	mixed/unclear	mixed
+E058	7	subword fragments	syntactic
+E059	4	punctuation/connectors	syntactic
+E060	10	superlative/core adjectives	semantic
+E061	4	mixed/unclear	mixed
+E062	9	single characters	syntactic
+E063	8	form/meaning	semantic
+E064	4	punctuation/conjunctions	syntactic
+E065	10	physical actions/darkness	semantic
+E066	6	determiners/punctuation	syntactic
+E067	9	motion/location verbs	semantic
+E068	4	mixed/unclear	mixed
+E069	10	nations/years	semantic
+E070	6	auxiliary verbs	syntactic
+E071	10	qualitative adjectives	semantic
+E072	4	subword fragments	syntactic
+E073	4	subword fragments	syntactic
+E074	6	prepositions/verbs	syntactic
+E075	6	prepositions/verbs	syntactic
+E076	5	punctuation	syntactic
+E077	9	military/maritime	semantic
+E078	9	discourse markers	syntactic
+E079	10	possessives/spatial	semantic
+E080	1	random	mixed
+E081	6	pronoun/verb	syntactic
+E082	4	prepositions/verbs	syntactic
+E083	10	punctuation	syntactic
+E084	7	prepositions/conjunctions	syntactic
+E085	6	prepositions/verbs	syntactic
+E086	2	weakly related	mixed
+E087	1	single token	mixed
+E088	3	mixed/unclear	mixed
+E089	10	composition/production	semantic
+E090	8	single characters	syntactic
+E091	1	random	mixed
+E092	9	pronouns	syntactic
+E093	10	adverbs	syntactic
+E094	5	without/determiners	syntactic
+E095	1	random	mixed
+E096	8	direction prepositions	syntactic
+E097	4	mixed/unclear	mixed
+E098	4	articles/determiners	syntactic
+E099	10	aviation/air force	semantic

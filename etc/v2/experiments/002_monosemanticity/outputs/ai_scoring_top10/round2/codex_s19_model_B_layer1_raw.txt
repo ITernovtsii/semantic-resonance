@@ -1,0 +1,100 @@
+E000	8	verb forms	syntactic
+E001	7	discourse adverbs	syntactic
+E002	8	punctuation	syntactic
+E003	7	nonlatin chars	syntactic
+E004	5	materials	mixed
+E005	9	quotation marks	syntactic
+E006	7	punctuation	syntactic
+E007	6	temporal markers	mixed
+E008	4	mixed adjectives	mixed
+E009	7	pronouns	syntactic
+E010	9	definite article	syntactic
+E011	10	prepositions	syntactic
+E012	4	name fragments	mixed
+E013	7	prepositions	syntactic
+E014	9	articles/determiners	syntactic
+E015	9	pronouns	syntactic
+E016	8	institutions	semantic
+E017	5	punctuation mixed	mixed
+E018	4	mixed fragments	mixed
+E019	9	auxiliary have	syntactic
+E020	10	first names	semantic
+E021	9	possessives	syntactic
+E022	8	determiners	syntactic
+E023	9	prepositions	syntactic
+E024	10	prepositions	syntactic
+E025	10	directional preps	syntactic
+E026	10	numbers	syntactic
+E027	9	subword suffixes	syntactic
+E028	4	mixed function	mixed
+E029	8	auxiliaries	syntactic
+E030	2	random fragments	mixed
+E031	8	hedge adverbs	syntactic
+E032	9	prepositions	syntactic
+E033	6	proper names	mixed
+E034	6	punctuation mixed	mixed
+E035	4	word fragments	mixed
+E036	10	articles	syntactic
+E037	9	time preps	syntactic
+E038	9	conjunctions	syntactic
+E039	5	abstract terms	mixed
+E040	7	concrete nouns	semantic
+E041	9	indefinite articles	syntactic
+E042	2	random fragments	mixed
+E043	3	random mix	mixed
+E044	7	determiners	syntactic
+E045	5	mixed nouns	mixed
+E046	8	verb forms	syntactic
+E047	8	prepositions	syntactic
+E048	6	natural terms	mixed
+E049	10	numbers	syntactic
+E050	9	social roles	semantic
+E051	8	quotes punctuation	syntactic
+E052	8	events	semantic
+E053	2	random fragments	mixed
+E054	7	descriptors	semantic
+E055	9	conjunctions	syntactic
+E056	8	media terms	semantic
+E057	9	determiners	syntactic
+E058	4	verbs punctuation	mixed
+E059	10	nationalities	semantic
+E060	10	geography terms	semantic
+E061	10	connectives	syntactic
+E062	8	quantifiers	syntactic
+E063	7	articles/pronouns	syntactic
+E064	7	deictic adverbs	mixed
+E065	7	action verbs	syntactic
+E066	6	determiners mixed	mixed
+E067	5	sports mixed	mixed
+E068	6	military geography	mixed
+E069	7	transport geography	semantic
+E070	4	generic words	mixed
+E071	10	directional preps	syntactic
+E072	8	relational preps	syntactic
+E073	8	determiners/include	syntactic
+E074	10	punctuation	syntactic
+E075	3	random nouns	mixed
+E076	3	random mix	mixed
+E077	10	first names	semantic
+E078	6	weather mixed	mixed
+E079	9	relative pronouns	syntactic
+E080	4	abstract mix	mixed
+E081	8	wh words	syntactic
+E082	10	terminal punctuation	syntactic
+E083	7	punctuation mix	syntactic
+E084	9	numbers	syntactic
+E085	7	punctuation mixed	syntactic
+E086	4	names mixed	mixed
+E087	10	correlative quantifiers	syntactic
+E088	4	proper fragments	mixed
+E089	9	military history	semantic
+E090	8	contraction pieces	syntactic
+E091	9	hyphen tokens	syntactic
+E092	10	past suffixes	syntactic
+E093	10	indefinite articles	syntactic
+E094	10	prepositions	syntactic
+E095	10	punctuation	syntactic
+E096	8	articles	syntactic
+E097	9	american football	semantic
+E098	8	motion verbs	semantic
+E099	4	mixed descriptors	mixed
